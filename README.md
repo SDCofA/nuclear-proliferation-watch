@@ -1,10 +1,10 @@
 # Nuclear Proliferation Watch
 
-[![Pages](https://github.com/MonarchCastleTech/nuclear-proliferation-watch/actions/workflows/pipeline.yml/badge.svg)](https://github.com/MonarchCastleTech/nuclear-proliferation-watch/actions/workflows/pipeline.yml)
+[![Pages](https://github.com/SDCofA/nuclear-proliferation-watch/actions/workflows/pipeline.yml/badge.svg)](https://github.com/SDCofA/nuclear-proliferation-watch/actions/workflows/pipeline.yml)
 
 Open-source monitoring signals for nuclear facilities and proliferation risk.
 
-**Live dashboard:** https://monarchcastletech.github.io/nuclear-proliferation-watch/
+**Live dashboard:** https://sdcofa.github.io/nuclear-proliferation-watch/
 
 ## Run locally
 
@@ -26,4 +26,4 @@ Source availability varies. The dashboard identifies its generation time and ope
 
 ## Brand
 
-Part of Monarch Castle Technologies. See [BRAND.md](BRAND.md) for approved asset use.
+Published by SDCofA, the endorsed analytical unit of Monarch Castle Technologies. See [BRAND.md](BRAND.md) for approved asset use.
