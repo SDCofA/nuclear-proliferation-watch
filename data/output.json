@@ -1,38 +1,490 @@
 {
   "meta": {
     "project": "nuclear-proliferation-watch",
-    "generated": "2026-08-22T15:03:16.701941+00:00",
+    "generated": "2026-08-22T16:37:13.275583+00:00",
     "mode": "live",
     "sources": [
       "gdelt_articles",
       "exchange_rates"
     ],
-    "version": "1.0.0"
+    "source_notes": [],
+    "version": "1.1.0"
   },
   "stats": [
     {
-      "label": "Facilities",
-      "value": "47",
+      "label": "Articles Tracked",
+      "value": "50",
       "delta": "live"
     },
     {
-      "label": "Active Alerts",
-      "value": "12",
-      "delta": "live"
+      "label": "News Domains",
+      "value": "42",
+      "delta": "deduplicated"
     },
     {
-      "label": "Shipments",
-      "value": "89",
-      "delta": "live"
+      "label": "Tone Index",
+      "value": "50/100 (neutral)",
+      "delta": "GDELT scale"
     },
     {
-      "label": "Countries",
-      "value": "18",
-      "delta": "live"
+      "label": "Geo Points",
+      "value": "0",
+      "delta": "geolocated"
     }
   ],
   "live_data": {
-    "gdelt_articles": [],
+    "gdelt_articles": [
+      {
+        "title": "Sprott : Европа нарастила закупки российского урана на 7 % за год",
+        "url": "https://life.ru/p/1914891",
+        "domain": "life.ru",
+        "language": "Russian",
+        "tone": 0,
+        "seendate": "20260822T124500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Лихачев заявил о срыве Киевом ротации экспертов МАГАТЭ на ЗАЭС",
+        "url": "https://iz.ru/2153241/2026-08-22/likhachev-zaiavil-o-sryve-kievom-rotatcii-ekspertov-magate-na-zaes",
+        "domain": "iz.ru",
+        "language": "Russian",
+        "tone": 0,
+        "seendate": "20260822T123000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Lurer . com | « Մեծամորի ատոմակայանի դեմ արշավը պառակտիչ նպատակ ունի »․ Զախարովա",
+        "url": "https://lurer.com/article/748663/am",
+        "domain": "lurer.com",
+        "language": "Armenian",
+        "tone": 0,
+        "seendate": "20260822T141500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Насколько Европа зависит от российского урана : данные аналитиков",
+        "url": "https://iz.ru/2153235/zavisimost-evropy-ot-rossiiskogo-urana-vyrosla-na-7-v-2025-godu-izi",
+        "domain": "iz.ru",
+        "language": "Russian",
+        "tone": 0,
+        "seendate": "20260822T114500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Европа увеличила закупки российского ядерного топлива | Северная Америка",
+        "url": "https://fedpress.ru/news/northern-america/economy/3448843",
+        "domain": "fedpress.ru",
+        "language": "Russian",
+        "tone": 0,
+        "seendate": "20260822T140000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Визит Гросси на ЗАЭС не снят с повестки , РФ гарантирует безопасность",
+        "url": "https://www.vesti.ru/ns/likhachev-vizit-grossi-na-zaehs-ne-snyat-s-povestki-rf-garantiruet-bezopasnost",
+        "domain": "vesti.ru",
+        "language": "Russian",
+        "tone": 0,
+        "seendate": "20260822T131500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "ՄԱԿ - ի գլխավոր քարտուղարի ընտրություններ . նոր առաջատարը հայտնի է",
+        "url": "https://www.1in.am/3750522.html",
+        "domain": "1in.am",
+        "language": "Armenian",
+        "tone": 0,
+        "seendate": "20260822T101500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "أستاذ علوم سياسية : إيران تسعى للحفاظ على مكاسبها الاستراتيجية عبر التفاوض مع واشنطن",
+        "url": "https://www.elwatannews.com/news/details/8343940",
+        "domain": "elwatannews.com",
+        "language": "Arabic",
+        "tone": 0,
+        "seendate": "20260822T084500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Diferentemente do Ocidente , Rússia oferece parcerias nucleares sem contrapartidas , diz analista",
+        "url": "https://noticiabrasil.net.br/20260822/diferentemente-do-ocidente-russia-oferece-parcerias-nucleares-sem-contrapartidas-diz-analista-53411351.html",
+        "domain": "noticiabrasil.net.br",
+        "language": "Portuguese",
+        "tone": 0,
+        "seendate": "20260822T100000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Каролин Родригес - Биркетт вышла в лидеры на голосовании за пост генсека ООН",
+        "url": "https://www.vedomosti.ru/politics/news/2026/08/22/1222952-rodriges-birkett-vishla-v-lideri",
+        "domain": "vedomosti.ru",
+        "language": "Russian",
+        "tone": 0,
+        "seendate": "20260821T223000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "IAEA project focuses on research reactor testing of fuels and materials",
+        "url": "https://www.world-nuclear-news.org/articles/iaea-project-focuses-on-testing-of-nuclear-fuels-in-research-reactors",
+        "domain": "world-nuclear-news.org",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260821T170000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "На иранскую АЭС  Бушер  вернулись 42 российских специалиста",
+        "url": "https://profile.ru/news/politics/na-iranskuju-aes-busher-vernulis-42-rossijskih-specialista-1893670/",
+        "domain": "profile.ru",
+        "language": "Russian",
+        "tone": 0,
+        "seendate": "20260822T160000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Голосование на пост генсека ООН : кто лидер ? ",
+        "url": "https://haqqin.az/newsarchive/391430",
+        "domain": "haqqin.az",
+        "language": "Russian",
+        "tone": 0,
+        "seendate": "20260821T223000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Europe Russian uranium reliance grows , Sprott says",
+        "url": "https://www.northernminer.com/news/europes-russian-uranium-reliance-grows-sprott-says/1003894178/",
+        "domain": "northernminer.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260821T173000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Стал известен лидер предварительного голосования за пост генсека ООН",
+        "url": "https://www.vesti.ru/ns/stal-izvesten-lider-predvaritelnogo-golosovaniya-za-post-genseka-oon",
+        "domain": "vesti.ru",
+        "language": "Russian",
+        "tone": 0,
+        "seendate": "20260822T000000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Родригес - Биркетт стала лидером в голосовании за пост генсека ООН :: Новости дня / ВЗГЛЯД",
+        "url": "https://vz.ru/news/2026/8/21/1444812.html",
+        "domain": "vz.ru",
+        "language": "Russian",
+        "tone": 0,
+        "seendate": "20260821T203000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Exfiscal del caso Nicolás Petro reveló que tuvo problemas con Luz Adriana Camargo por no retirar un cargo",
+        "url": "https://www.elpais.com.co/politica/exfiscal-del-caso-nicolas-petro-revelo-fue-castigada-por-luz-adriana-camargo-tras-no-retirar-un-cargo-de-este-proceso-judicial-2219.html",
+        "domain": "elpais.com.co",
+        "language": "Spanish",
+        "tone": 0,
+        "seendate": "20260822T140000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Onu : Rodrigues - Birkett , Grynspan e Grossi in testa per il dopo Guterres - Notizie",
+        "url": "https://www.ansa.it/sito/notizie/mondo/2026/08/22/onu-rodrigues-birkett-grynspan-e-grossi-in-testa-per-il-dopo-guterres_9fe9813b-7af5-499d-9770-99550847d153.html",
+        "domain": "ansa.it",
+        "language": "Italian",
+        "tone": 0,
+        "seendate": "20260822T023000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Onu : Rodrigues - Birkett , Grynspan e Grossi in testa per il dopo Guterres - America Latina",
+        "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/22/onu-rodrigues-birkett-grynspan-e-grossi-in-testa-per-il-dopo-guterres_ea399bba-7ae7-4073-9a78-32da0945c289.html",
+        "domain": "ansa.it",
+        "language": "Italian",
+        "tone": 0,
+        "seendate": "20260822T051500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Onu : Rodrigues - Birkett , Grynspan e Grossi in testa per il dopo Guterres",
+        "url": "https://www.gazzettadiparma.it/italia-mondo/2026/08/22/news/onu-rodrigues-birkett-grynspan-e-grossi-in-testa-per-il-dopo-guterres-963049/",
+        "domain": "gazzettadiparma.it",
+        "language": "Italian",
+        "tone": 0,
+        "seendate": "20260822T053000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "OSN vybírá nového šéfa . Ve hře je Guyanka i Bacheletová",
+        "url": "https://www.idnes.cz/zpravy/zahranicni/osn-guyana-hlasovani-organizace.A260821_200838_zahranicni_votr",
+        "domain": "idnes.cz",
+        "language": "Czech",
+        "tone": 0,
+        "seendate": "20260821T211500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Children Education Franchise COMPUCHILD Expands to Livermore , California",
+        "url": "http://www.prnewswire.com/news-releases/childrens-education-franchise-compuchild-expands-to-livermore-california-302857386.html",
+        "domain": "prnewswire.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260821T173000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Гайанский дипломат вырвалась вперед во втором раунде неофициального голосования в Совбезе ООН",
+        "url": "https://runews24.ru/politics/22/08/2026/gajanskij-diplomat-vyirvalas-vpered-vo-vtorom-raunde-neoficzialnogo-golosovaniya-v-sovbeze-oon",
+        "domain": "runews24.ru",
+        "language": "Russian",
+        "tone": 0,
+        "seendate": "20260822T104500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Ukraine at 35 : Winter is coming to Zelenskys state of corruption",
+        "url": "http://www.bignewsnetwork.com/news/279257984/ukraine-at-35-winter-is-coming-to-zelenskys-state-of-corruption",
+        "domain": "bignewsnetwork.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260822T123000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Ukraine at 35 : Winter is coming to Zelenskys state of corruption",
+        "url": "http://www.calcuttanews.net/news/279257984/ukraine-at-35-winter-is-coming-to-zelenskys-state-of-corruption",
+        "domain": "calcuttanews.net",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260822T144500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Ukraine at 35 : Winter is coming to Zelenskys state of corruption",
+        "url": "http://www.mexicostar.com/news/279257984/ukraine-at-35-winter-is-coming-to-zelenskys-state-of-corruption",
+        "domain": "mexicostar.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260822T141500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Ukraine at 35 : Winter is coming to Zelenskys state of corruption",
+        "url": "http://www.middleeaststar.com/news/279257984/ukraine-at-35-winter-is-coming-to-zelenskys-state-of-corruption",
+        "domain": "middleeaststar.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260822T141500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Ukraine at 35 : Winter is coming to Zelenskys state of corruption",
+        "url": "http://www.europesun.com/news/279257984/ukraine-at-35-winter-is-coming-to-zelenskys-state-of-corruption",
+        "domain": "europesun.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260822T143000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Ukraine at 35 : Winter is coming to Zelensky state of corruption",
+        "url": "http://www.europesun.com/news/279257998/ukraine-at-35-winter-is-coming-to-zelensky-state-of-corruption",
+        "domain": "europesun.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260822T143000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Ukraine at 35 : Winter is coming to Zelenskys state of corruption",
+        "url": "http://www.russiaherald.com/news/279257984/ukraine-at-35-winter-is-coming-to-zelenskys-state-of-corruption",
+        "domain": "russiaherald.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260822T150000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Ukraine at 35 : Winter is coming to Zelenskys state of corruption",
+        "url": "http://www.israelherald.com/news/279257984/ukraine-at-35-winter-is-coming-to-zelenskys-state-of-corruption",
+        "domain": "israelherald.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260822T153000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Ukraine at 35 : Winter is coming to Zelenskys state of corruption",
+        "url": "http://www.greekherald.com/news/279257984/ukraine-at-35-winter-is-coming-to-zelenskys-state-of-corruption",
+        "domain": "greekherald.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260822T160000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Представитель Гайаны Родригес - Биркетт лидирует в голосовании на пост главы ООН",
+        "url": "https://life.ru/p/1914763",
+        "domain": "life.ru",
+        "language": "Russian",
+        "tone": 0,
+        "seendate": "20260821T234500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Захарова ответила на призывы закрыть Мецаморскую АЭС : безопасность станции , срок службы до 2036 года",
+        "url": "https://news.mail.ru/politics/72082462/",
+        "domain": "news.mail.ru",
+        "language": "Russian",
+        "tone": 0,
+        "seendate": "20260822T161500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Đồng minh Mỹ trước sự  phập phù  của Tổng thống Trump",
+        "url": "https://thanhnien.vn/dong-minh-my-truoc-su-phap-phu-cua-tong-thong-trump-18526082122040706.htm",
+        "domain": "thanhnien.vn",
+        "language": "Vietnamese",
+        "tone": 0,
+        "seendate": "20260821T234500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Quinto allanamiento en La Paz : alquilaban por Bs 25 . 000 un ambiente para la oficina de Cerimedo",
+        "url": "https://eldeber.com.bo/pais/quinto-allanamiento-paz-alquilaban-bs-25-000-ambiente-oficina-cerimedo-fiscalia_1787334129",
+        "domain": "eldeber.com.bo",
+        "language": "Spanish",
+        "tone": 0,
+        "seendate": "20260821T203000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Kreise : Birkett liegt bei Abstimmung über Guterres - Nachfolge vorn",
+        "url": "https://www.finanzen.net/nachricht/aktien/kreise-birkett-liegt-bei-abstimmung-ueber-guterres-nachfolge-vorn-15894260",
+        "domain": "finanzen.net",
+        "language": "German",
+        "tone": 0,
+        "seendate": "20260822T064500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Kreise : Birkett liegt bei Abstimmung über Guterres - Nachfolge vorn",
+        "url": "https://www.finanznachrichten.de/nachrichten-2026-08/69379868-kreise-birkett-liegt-bei-abstimmung-ueber-guterres-nachfolge-vorn-016.htm",
+        "domain": "finanznachrichten.de",
+        "language": "German",
+        "tone": 0,
+        "seendate": "20260822T064500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "El ministro Aramayo califica de marginales y ocasionales los contactos de Cerimedo con el gobierno de Paz",
+        "url": "https://eju.tv/2026/08/el-ministro-aramayo-califica-de-marginales-y-ocasionales-los-contactos-de-cerimedo-con-el-gobierno-de-paz/",
+        "domain": "eju.tv",
+        "language": "Spanish",
+        "tone": 0,
+        "seendate": "20260822T010000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Kubisková ( Výzva ): Nikdo si nesmí ze státu dělat kasičku pro vlastní obohacení | ParlamentniListy . cz – politika ze všech stran",
+        "url": "https://www.parlamentnilisty.cz/politika/politici-volicum/Kubiskova-Vyzva-Nikdo-si-nesmi-ze-statu-delat-kasicku-pro-vlastni-obohaceni-795782",
+        "domain": "parlamentnilisty.cz",
+        "language": "Czech",
+        "tone": 0,
+        "seendate": "20260821T164500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Nikdo si nesmí ze státu dělat kasičku pro vlastní obohacení | ParlamentniListy . cz – politika ze všech stran",
+        "url": "https://www.parlamentnilisty.cz/profily/Ing-Karolina-Kubiskova-156708/clanek/Nikdo-si-nesmi-ze-statu-delat-kasicku-pro-vlastni-obohaceni-146834",
+        "domain": "parlamentnilisty.cz",
+        "language": "Czech",
+        "tone": 0,
+        "seendate": "20260821T164500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Max Verstappen kan niet verrassen , George Russell soeverein naar de zege in sprintrace Zandvoort",
+        "url": "https://drimble.nl/regio/noord-holland/haarlem/107772576/max-verstappen-kan-niet-verrassen-george-russell-soeverein-naar-de-zege-in-sprintrace-zandvoort.html",
+        "domain": "drimble.nl",
+        "language": "Dutch",
+        "tone": 0,
+        "seendate": "20260822T110000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Regen komt nét te laat voor spektakel in Zandvoort : Verstappen kan niet verrassen , Russell wint sprintrace",
+        "url": "https://drimble.nl/regio/noord-holland/haarlem/107772721/regen-komt-net-te-laat-voor-spektakel-in-zandvoort-verstappen-kan-niet-verrassen-russell-wint-sprintrace.html",
+        "domain": "drimble.nl",
+        "language": "Dutch",
+        "tone": 0,
+        "seendate": "20260822T113000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Abogado de Gaby Carrizo retira solicitud de cambio de medida cautelar ; seguirá en detención domiciliaria",
+        "url": "https://www.prensa.com/judiciales/abogado-de-gaby-carrizo-retira-solicitud-de-cambio-de-medida-cautelar-seguira-en-detencion-domiciliaria/",
+        "domain": "prensa.com",
+        "language": "Spanish",
+        "tone": 0,
+        "seendate": "20260821T211500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Regen komt nét te laat voor spektakel in Zandvoort : Verstappen kan niet verrassen , Russell wint sprintrace",
+        "url": "https://drimble.nl/regio/noord-holland/haarlem/107772663/regen-komt-net-te-laat-voor-spektakel-in-zandvoort-verstappen-kan-niet-verrassen-russell-wint-sprintrace.html",
+        "domain": "drimble.nl",
+        "language": "Dutch",
+        "tone": 0,
+        "seendate": "20260822T111500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Faux pilote , faux médecin , vraie prison  : Frank Abagnale , limposteur qui a bluffé lAmérique",
+        "url": "https://www.leparisien.fr/faits-divers/faux-pilote-faux-medecin-vraie-prison-frank-abagnale-limposteur-qui-a-bluffe-lamerique-21-08-2026-A4OQ2SKXFNBBJEIGJZ3KVVGUDQ.php",
+        "domain": "leparisien.fr",
+        "language": "French",
+        "tone": 0,
+        "seendate": "20260821T170000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Soldaten und Krypto : Putins Krieg und Trumps Bereicherung",
+        "url": "https://www.deutschlandfunk.de/putin-trump-bitcoin-krypto-100.html",
+        "domain": "deutschlandfunk.de",
+        "language": "German",
+        "tone": 0,
+        "seendate": "20260821T164500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Pforzheimer Sedanquartier strotzt vor Potenzial : Geheime Aktion soll markantes Zeichen setzen - Pforzheim",
+        "url": "https://www.pz-news.de/pforzheim_artikel,-Pforzheimer-Sedanquartier-strotzt-vor-Potenzial-Geheime-Aktion-soll-markantes-Zeichen-setzen-_arid,2365189.html",
+        "domain": "pz-news.de",
+        "language": "German",
+        "tone": 0,
+        "seendate": "20260822T110000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Fiscal del caso Nicolás Petro lanzó fuerte denuncia contra Luz Adriana Camargo",
+        "url": "https://www.pulzo.com/nacion/fiscal-caso-nicolas-petro-lanzo-fuerte-denuncia-contra-luz-adriana-camargo-PP5281438",
+        "domain": "pulzo.com",
+        "language": "Spanish",
+        "tone": 0,
+        "seendate": "20260822T131500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Cine este noua favorită pentru funcția de secretar general al ONU . A primit cele mai multe voturi în Consiliul de Securitate",
+        "url": "https://www.digi24.ro/stiri/externe/cine-este-favorita-pentru-functia-de-secretar-general-al-onu-a-primit-cele-mai-multe-voturi-in-consiliul-de-securitate-3917119",
+        "domain": "digi24.ro",
+        "language": "Romanian",
+        "tone": 0,
+        "seendate": "20260822T160000Z",
+        "source": "GDELT"
+      }
+    ],
     "exchange_rates": [
       {
         "currency": "USD",
@@ -117,7 +569,143 @@
     ]
   },
   "entities": [],
-  "events": [],
+  "events": [
+    {
+      "title": "Sprott : Европа нарастила закупки российского урана на 7 % за год",
+      "url": "https://life.ru/p/1914891",
+      "domain": "life.ru",
+      "language": "Russian",
+      "tone": 0,
+      "seendate": "20260822T124500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Лихачев заявил о срыве Киевом ротации экспертов МАГАТЭ на ЗАЭС",
+      "url": "https://iz.ru/2153241/2026-08-22/likhachev-zaiavil-o-sryve-kievom-rotatcii-ekspertov-magate-na-zaes",
+      "domain": "iz.ru",
+      "language": "Russian",
+      "tone": 0,
+      "seendate": "20260822T123000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Lurer . com | « Մեծամորի ատոմակայանի դեմ արշավը պառակտիչ նպատակ ունի »․ Զախարովա",
+      "url": "https://lurer.com/article/748663/am",
+      "domain": "lurer.com",
+      "language": "Armenian",
+      "tone": 0,
+      "seendate": "20260822T141500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Насколько Европа зависит от российского урана : данные аналитиков",
+      "url": "https://iz.ru/2153235/zavisimost-evropy-ot-rossiiskogo-urana-vyrosla-na-7-v-2025-godu-izi",
+      "domain": "iz.ru",
+      "language": "Russian",
+      "tone": 0,
+      "seendate": "20260822T114500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Европа увеличила закупки российского ядерного топлива | Северная Америка",
+      "url": "https://fedpress.ru/news/northern-america/economy/3448843",
+      "domain": "fedpress.ru",
+      "language": "Russian",
+      "tone": 0,
+      "seendate": "20260822T140000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Визит Гросси на ЗАЭС не снят с повестки , РФ гарантирует безопасность",
+      "url": "https://www.vesti.ru/ns/likhachev-vizit-grossi-na-zaehs-ne-snyat-s-povestki-rf-garantiruet-bezopasnost",
+      "domain": "vesti.ru",
+      "language": "Russian",
+      "tone": 0,
+      "seendate": "20260822T131500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "ՄԱԿ - ի գլխավոր քարտուղարի ընտրություններ . նոր առաջատարը հայտնի է",
+      "url": "https://www.1in.am/3750522.html",
+      "domain": "1in.am",
+      "language": "Armenian",
+      "tone": 0,
+      "seendate": "20260822T101500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "أستاذ علوم سياسية : إيران تسعى للحفاظ على مكاسبها الاستراتيجية عبر التفاوض مع واشنطن",
+      "url": "https://www.elwatannews.com/news/details/8343940",
+      "domain": "elwatannews.com",
+      "language": "Arabic",
+      "tone": 0,
+      "seendate": "20260822T084500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Diferentemente do Ocidente , Rússia oferece parcerias nucleares sem contrapartidas , diz analista",
+      "url": "https://noticiabrasil.net.br/20260822/diferentemente-do-ocidente-russia-oferece-parcerias-nucleares-sem-contrapartidas-diz-analista-53411351.html",
+      "domain": "noticiabrasil.net.br",
+      "language": "Portuguese",
+      "tone": 0,
+      "seendate": "20260822T100000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Каролин Родригес - Биркетт вышла в лидеры на голосовании за пост генсека ООН",
+      "url": "https://www.vedomosti.ru/politics/news/2026/08/22/1222952-rodriges-birkett-vishla-v-lideri",
+      "domain": "vedomosti.ru",
+      "language": "Russian",
+      "tone": 0,
+      "seendate": "20260821T223000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "IAEA project focuses on research reactor testing of fuels and materials",
+      "url": "https://www.world-nuclear-news.org/articles/iaea-project-focuses-on-testing-of-nuclear-fuels-in-research-reactors",
+      "domain": "world-nuclear-news.org",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260821T170000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "На иранскую АЭС  Бушер  вернулись 42 российских специалиста",
+      "url": "https://profile.ru/news/politics/na-iranskuju-aes-busher-vernulis-42-rossijskih-specialista-1893670/",
+      "domain": "profile.ru",
+      "language": "Russian",
+      "tone": 0,
+      "seendate": "20260822T160000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Голосование на пост генсека ООН : кто лидер ? ",
+      "url": "https://haqqin.az/newsarchive/391430",
+      "domain": "haqqin.az",
+      "language": "Russian",
+      "tone": 0,
+      "seendate": "20260821T223000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Europe Russian uranium reliance grows , Sprott says",
+      "url": "https://www.northernminer.com/news/europes-russian-uranium-reliance-grows-sprott-says/1003894178/",
+      "domain": "northernminer.com",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260821T173000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Стал известен лидер предварительного голосования за пост генсека ООН",
+      "url": "https://www.vesti.ru/ns/stal-izvesten-lider-predvaritelnogo-golosovaniya-za-post-genseka-oon",
+      "domain": "vesti.ru",
+      "language": "Russian",
+      "tone": 0,
+      "seendate": "20260822T000000Z",
+      "source": "GDELT"
+    }
+  ],
   "timeseries": [],
   "llm_summary": ""
 }
