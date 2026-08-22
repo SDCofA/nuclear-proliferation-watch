@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "nuclear-proliferation-watch",
-    "generated": "2026-08-22T16:37:13.275583+00:00",
+    "generated": "2026-08-22T19:04:58.292601+00:00",
     "mode": "live",
     "sources": [
       "gdelt_articles",
@@ -18,7 +18,7 @@
     },
     {
       "label": "News Domains",
-      "value": "42",
+      "value": "41",
       "delta": "deduplicated"
     },
     {
@@ -62,12 +62,39 @@
         "source": "GDELT"
       },
       {
+        "title": "Մոսկվան արձագանքել է Մեծամորի ԱԷԿ - ը փակելու վերաբերյալ կոչերին",
+        "url": "https://www.1in.am/3750752.html",
+        "domain": "1in.am",
+        "language": "Armenian",
+        "tone": 0,
+        "seendate": "20260822T171500Z",
+        "source": "GDELT"
+      },
+      {
         "title": "Насколько Европа зависит от российского урана : данные аналитиков",
         "url": "https://iz.ru/2153235/zavisimost-evropy-ot-rossiiskogo-urana-vyrosla-na-7-v-2025-godu-izi",
         "domain": "iz.ru",
         "language": "Russian",
         "tone": 0,
         "seendate": "20260822T114500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Захарова : закрытие Мецаморской АЭС вброс против РФ и Армении",
+        "url": "https://www.mk.ru/politics/2026/08/22/zakharova-zakrytie-mecamorskoy-aes-vbros-protiv-rf-i-armenii.html",
+        "domain": "mk.ru",
+        "language": "Russian",
+        "tone": 0,
+        "seendate": "20260822T163000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "МИД РФ : вбросы о Мецаморской АЭС попытка раскола с Арменией",
+        "url": "https://runews24.ru/politics/22/08/2026/mid-rf-vbrosyi-o-meczamorskoj-aes-popyitka-raskola-s-armeniej",
+        "domain": "runews24.ru",
+        "language": "Russian",
+        "tone": 0,
+        "seendate": "20260822T180000Z",
         "source": "GDELT"
       },
       {
@@ -99,6 +126,15 @@
       },
       {
         "title": "أستاذ علوم سياسية : إيران تسعى للحفاظ على مكاسبها الاستراتيجية عبر التفاوض مع واشنطن",
+        "url": "https://www.shorouknews.com/news/view.aspx?cdate=22082026&id=319171a8-6779-4413-8b2a-ba28e5b770cf",
+        "domain": "shorouknews.com",
+        "language": "Arabic",
+        "tone": 0,
+        "seendate": "20260822T161500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "أستاذ علوم سياسية : إيران تسعى للحفاظ على مكاسبها الاستراتيجية عبر التفاوض مع واشنطن",
         "url": "https://www.elwatannews.com/news/details/8343940",
         "domain": "elwatannews.com",
         "language": "Arabic",
@@ -125,15 +161,6 @@
         "source": "GDELT"
       },
       {
-        "title": "IAEA project focuses on research reactor testing of fuels and materials",
-        "url": "https://www.world-nuclear-news.org/articles/iaea-project-focuses-on-testing-of-nuclear-fuels-in-research-reactors",
-        "domain": "world-nuclear-news.org",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260821T170000Z",
-        "source": "GDELT"
-      },
-      {
         "title": "На иранскую АЭС  Бушер  вернулись 42 российских специалиста",
         "url": "https://profile.ru/news/politics/na-iranskuju-aes-busher-vernulis-42-rossijskih-specialista-1893670/",
         "domain": "profile.ru",
@@ -149,15 +176,6 @@
         "language": "Russian",
         "tone": 0,
         "seendate": "20260821T223000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Europe Russian uranium reliance grows , Sprott says",
-        "url": "https://www.northernminer.com/news/europes-russian-uranium-reliance-grows-sprott-says/1003894178/",
-        "domain": "northernminer.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260821T173000Z",
         "source": "GDELT"
       },
       {
@@ -224,15 +242,6 @@
         "source": "GDELT"
       },
       {
-        "title": "Children Education Franchise COMPUCHILD Expands to Livermore , California",
-        "url": "http://www.prnewswire.com/news-releases/childrens-education-franchise-compuchild-expands-to-livermore-california-302857386.html",
-        "domain": "prnewswire.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260821T173000Z",
-        "source": "GDELT"
-      },
-      {
         "title": "Гайанский дипломат вырвалась вперед во втором раунде неофициального голосования в Совбезе ООН",
         "url": "https://runews24.ru/politics/22/08/2026/gajanskij-diplomat-vyirvalas-vpered-vo-vtorom-raunde-neoficzialnogo-golosovaniya-v-sovbeze-oon",
         "domain": "runews24.ru",
@@ -252,11 +261,47 @@
       },
       {
         "title": "Ukraine at 35 : Winter is coming to Zelenskys state of corruption",
+        "url": "http://www.israelherald.com/news/279257984/ukraine-at-35-winter-is-coming-to-zelenskys-state-of-corruption",
+        "domain": "israelherald.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260822T153000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Ukraine at 35 : Winter is coming to Zelenskys state of corruption",
+        "url": "http://www.middleeaststar.com/news/279257984/ukraine-at-35-winter-is-coming-to-zelenskys-state-of-corruption",
+        "domain": "middleeaststar.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260822T141500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Ukraine at 35 : Winter is coming to Zelenskys state of corruption",
+        "url": "http://www.greekherald.com/news/279257984/ukraine-at-35-winter-is-coming-to-zelenskys-state-of-corruption",
+        "domain": "greekherald.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260822T160000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Ukraine at 35 : Winter is coming to Zelenskys state of corruption",
         "url": "http://www.calcuttanews.net/news/279257984/ukraine-at-35-winter-is-coming-to-zelenskys-state-of-corruption",
         "domain": "calcuttanews.net",
         "language": "English",
         "tone": 0,
         "seendate": "20260822T144500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Ukraine at 35 : Winter is coming to Zelenskys state of corruption",
+        "url": "http://www.milwaukeesun.com/news/279257984/ukraine-at-35-winter-is-coming-to-zelenskys-state-of-corruption",
+        "domain": "milwaukeesun.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260822T171500Z",
         "source": "GDELT"
       },
       {
@@ -270,11 +315,20 @@
       },
       {
         "title": "Ukraine at 35 : Winter is coming to Zelenskys state of corruption",
-        "url": "http://www.middleeaststar.com/news/279257984/ukraine-at-35-winter-is-coming-to-zelenskys-state-of-corruption",
-        "domain": "middleeaststar.com",
+        "url": "http://www.sanantoniopost.com/news/279257984/ukraine-at-35-winter-is-coming-to-zelenskys-state-of-corruption",
+        "domain": "sanantoniopost.com",
         "language": "English",
         "tone": 0,
-        "seendate": "20260822T141500Z",
+        "seendate": "20260822T163000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Ukraine at 35 : Winter is coming to Zelenskys state of corruption",
+        "url": "http://www.iraqsun.com/news/279257984/ukraine-at-35-winter-is-coming-to-zelenskys-state-of-corruption",
+        "domain": "iraqsun.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260822T164500Z",
         "source": "GDELT"
       },
       {
@@ -302,24 +356,6 @@
         "language": "English",
         "tone": 0,
         "seendate": "20260822T150000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Ukraine at 35 : Winter is coming to Zelenskys state of corruption",
-        "url": "http://www.israelherald.com/news/279257984/ukraine-at-35-winter-is-coming-to-zelenskys-state-of-corruption",
-        "domain": "israelherald.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260822T153000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Ukraine at 35 : Winter is coming to Zelenskys state of corruption",
-        "url": "http://www.greekherald.com/news/279257984/ukraine-at-35-winter-is-coming-to-zelenskys-state-of-corruption",
-        "domain": "greekherald.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260822T160000Z",
         "source": "GDELT"
       },
       {
@@ -386,24 +422,6 @@
         "source": "GDELT"
       },
       {
-        "title": "Kubisková ( Výzva ): Nikdo si nesmí ze státu dělat kasičku pro vlastní obohacení | ParlamentniListy . cz – politika ze všech stran",
-        "url": "https://www.parlamentnilisty.cz/politika/politici-volicum/Kubiskova-Vyzva-Nikdo-si-nesmi-ze-statu-delat-kasicku-pro-vlastni-obohaceni-795782",
-        "domain": "parlamentnilisty.cz",
-        "language": "Czech",
-        "tone": 0,
-        "seendate": "20260821T164500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Nikdo si nesmí ze státu dělat kasičku pro vlastní obohacení | ParlamentniListy . cz – politika ze všech stran",
-        "url": "https://www.parlamentnilisty.cz/profily/Ing-Karolina-Kubiskova-156708/clanek/Nikdo-si-nesmi-ze-statu-delat-kasicku-pro-vlastni-obohaceni-146834",
-        "domain": "parlamentnilisty.cz",
-        "language": "Czech",
-        "tone": 0,
-        "seendate": "20260821T164500Z",
-        "source": "GDELT"
-      },
-      {
         "title": "Max Verstappen kan niet verrassen , George Russell soeverein naar de zege in sprintrace Zandvoort",
         "url": "https://drimble.nl/regio/noord-holland/haarlem/107772576/max-verstappen-kan-niet-verrassen-george-russell-soeverein-naar-de-zege-in-sprintrace-zandvoort.html",
         "domain": "drimble.nl",
@@ -437,24 +455,6 @@
         "language": "Dutch",
         "tone": 0,
         "seendate": "20260822T111500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Faux pilote , faux médecin , vraie prison  : Frank Abagnale , limposteur qui a bluffé lAmérique",
-        "url": "https://www.leparisien.fr/faits-divers/faux-pilote-faux-medecin-vraie-prison-frank-abagnale-limposteur-qui-a-bluffe-lamerique-21-08-2026-A4OQ2SKXFNBBJEIGJZ3KVVGUDQ.php",
-        "domain": "leparisien.fr",
-        "language": "French",
-        "tone": 0,
-        "seendate": "20260821T170000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Soldaten und Krypto : Putins Krieg und Trumps Bereicherung",
-        "url": "https://www.deutschlandfunk.de/putin-trump-bitcoin-krypto-100.html",
-        "domain": "deutschlandfunk.de",
-        "language": "German",
-        "tone": 0,
-        "seendate": "20260821T164500Z",
         "source": "GDELT"
       },
       {
@@ -598,12 +598,39 @@
       "source": "GDELT"
     },
     {
+      "title": "Մոսկվան արձագանքել է Մեծամորի ԱԷԿ - ը փակելու վերաբերյալ կոչերին",
+      "url": "https://www.1in.am/3750752.html",
+      "domain": "1in.am",
+      "language": "Armenian",
+      "tone": 0,
+      "seendate": "20260822T171500Z",
+      "source": "GDELT"
+    },
+    {
       "title": "Насколько Европа зависит от российского урана : данные аналитиков",
       "url": "https://iz.ru/2153235/zavisimost-evropy-ot-rossiiskogo-urana-vyrosla-na-7-v-2025-godu-izi",
       "domain": "iz.ru",
       "language": "Russian",
       "tone": 0,
       "seendate": "20260822T114500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Захарова : закрытие Мецаморской АЭС вброс против РФ и Армении",
+      "url": "https://www.mk.ru/politics/2026/08/22/zakharova-zakrytie-mecamorskoy-aes-vbros-protiv-rf-i-armenii.html",
+      "domain": "mk.ru",
+      "language": "Russian",
+      "tone": 0,
+      "seendate": "20260822T163000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "МИД РФ : вбросы о Мецаморской АЭС попытка раскола с Арменией",
+      "url": "https://runews24.ru/politics/22/08/2026/mid-rf-vbrosyi-o-meczamorskoj-aes-popyitka-raskola-s-armeniej",
+      "domain": "runews24.ru",
+      "language": "Russian",
+      "tone": 0,
+      "seendate": "20260822T180000Z",
       "source": "GDELT"
     },
     {
@@ -635,6 +662,15 @@
     },
     {
       "title": "أستاذ علوم سياسية : إيران تسعى للحفاظ على مكاسبها الاستراتيجية عبر التفاوض مع واشنطن",
+      "url": "https://www.shorouknews.com/news/view.aspx?cdate=22082026&id=319171a8-6779-4413-8b2a-ba28e5b770cf",
+      "domain": "shorouknews.com",
+      "language": "Arabic",
+      "tone": 0,
+      "seendate": "20260822T161500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "أستاذ علوم سياسية : إيران تسعى للحفاظ على مكاسبها الاستراتيجية عبر التفاوض مع واشنطن",
       "url": "https://www.elwatannews.com/news/details/8343940",
       "domain": "elwatannews.com",
       "language": "Arabic",
@@ -661,48 +697,12 @@
       "source": "GDELT"
     },
     {
-      "title": "IAEA project focuses on research reactor testing of fuels and materials",
-      "url": "https://www.world-nuclear-news.org/articles/iaea-project-focuses-on-testing-of-nuclear-fuels-in-research-reactors",
-      "domain": "world-nuclear-news.org",
-      "language": "English",
-      "tone": 0,
-      "seendate": "20260821T170000Z",
-      "source": "GDELT"
-    },
-    {
       "title": "На иранскую АЭС  Бушер  вернулись 42 российских специалиста",
       "url": "https://profile.ru/news/politics/na-iranskuju-aes-busher-vernulis-42-rossijskih-specialista-1893670/",
       "domain": "profile.ru",
       "language": "Russian",
       "tone": 0,
       "seendate": "20260822T160000Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "Голосование на пост генсека ООН : кто лидер ? ",
-      "url": "https://haqqin.az/newsarchive/391430",
-      "domain": "haqqin.az",
-      "language": "Russian",
-      "tone": 0,
-      "seendate": "20260821T223000Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "Europe Russian uranium reliance grows , Sprott says",
-      "url": "https://www.northernminer.com/news/europes-russian-uranium-reliance-grows-sprott-says/1003894178/",
-      "domain": "northernminer.com",
-      "language": "English",
-      "tone": 0,
-      "seendate": "20260821T173000Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "Стал известен лидер предварительного голосования за пост генсека ООН",
-      "url": "https://www.vesti.ru/ns/stal-izvesten-lider-predvaritelnogo-golosovaniya-za-post-genseka-oon",
-      "domain": "vesti.ru",
-      "language": "Russian",
-      "tone": 0,
-      "seendate": "20260822T000000Z",
       "source": "GDELT"
     }
   ],
