@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "nuclear-proliferation-watch",
-    "generated": "2026-08-23T07:22:14.565971+00:00",
+    "generated": "2026-08-23T13:20:43.507471+00:00",
     "mode": "live",
     "sources": [
       "gdelt_articles",
@@ -18,7 +18,7 @@
     },
     {
       "label": "News Domains",
-      "value": "44",
+      "value": "46",
       "delta": "deduplicated"
     },
     {
@@ -35,15 +35,6 @@
   "live_data": {
     "gdelt_articles": [
       {
-        "title": "Sprott : Европа нарастила закупки российского урана на 7 % за год",
-        "url": "https://life.ru/p/1914891",
-        "domain": "life.ru",
-        "language": "Russian",
-        "tone": 0,
-        "seendate": "20260822T124500Z",
-        "source": "GDELT"
-      },
-      {
         "title": "Сибіга обговорив з главою МАГАТЕ ситуацію на ЗАЕС",
         "url": "https://news.bigmir.net/ua/ukraine/10416493-sibiga-obgovoriv-z-glavoyu-magate-situatsiyu-na-zaes",
         "domain": "news.bigmir.net",
@@ -53,21 +44,21 @@
         "source": "GDELT"
       },
       {
+        "title": "Andrii Sybiha held phone talks with IAEA Director General Rafael Grossi",
+        "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/08/ukraine-260822-ukraine-mfa01.htm",
+        "domain": "globalsecurity.org",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260823T103000Z",
+        "source": "GDELT"
+      },
+      {
         "title": "Iran security chief says Trump  recklessnes sparked fresh race to acquire nukes",
         "url": "https://aninews.in/news/world/middle-east/iran-security-chief-says-trumps-recklessness-sparked-fresh-race-to-acquire-nukes20260823101112/",
         "domain": "aninews.in",
         "language": "English",
         "tone": 0,
         "seendate": "20260823T061500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Лихачев заявил о срыве Киевом ротации экспертов МАГАТЭ на ЗАЭС",
-        "url": "https://iz.ru/2153241/2026-08-22/likhachev-zaiavil-o-sryve-kievom-rotatcii-ekspertov-magate-na-zaes",
-        "domain": "iz.ru",
-        "language": "Russian",
-        "tone": 0,
-        "seendate": "20260822T123000Z",
         "source": "GDELT"
       },
       {
@@ -116,6 +107,15 @@
         "source": "GDELT"
       },
       {
+        "title": "Angebot Meinl - Reisingers – Neue Iran - Verhandlungen könnten in Wien stattfinden",
+        "url": "https://www.heute.at/s/neue-iran-verhandlungen-koennten-in-wien-stattfinden-120241924",
+        "domain": "heute.at",
+        "language": "German",
+        "tone": 0,
+        "seendate": "20260823T111500Z",
+        "source": "GDELT"
+      },
+      {
         "title": "Մոսկվան արձագանքել է Մեծամորի ԱԷԿ - ը փակելու վերաբերյալ կոչերին",
         "url": "https://www.1in.am/3750752.html",
         "domain": "1in.am",
@@ -125,12 +125,30 @@
         "source": "GDELT"
       },
       {
-        "title": "Насколько Европа зависит от российского урана : данные аналитиков",
-        "url": "https://iz.ru/2153235/zavisimost-evropy-ot-rossiiskogo-urana-vyrosla-na-7-v-2025-godu-izi",
-        "domain": "iz.ru",
-        "language": "Russian",
+        "title": "Iran security chief says Trump  recklessnes sparked fresh race to acquire nukes",
+        "url": "http://www.iranherald.com/news/279259308/iran-security-chief-says-trump-recklessness-sparked-fresh-race-to-acquire-nukes",
+        "domain": "iranherald.com",
+        "language": "English",
         "tone": 0,
-        "seendate": "20260822T114500Z",
+        "seendate": "20260823T074500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Iran security chief says Trump  recklessnes sparked fresh race to acquire nukes",
+        "url": "http://www.kenyastar.com/news/279259308/iran-security-chief-says-trump-recklessness-sparked-fresh-race-to-acquire-nukes",
+        "domain": "kenyastar.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260823T074500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Iran security chief says Trump  recklessnes sparked fresh race to acquire nukes",
+        "url": "http://www.iraqsun.com/news/279259308/iran-security-chief-says-trump-recklessness-sparked-fresh-race-to-acquire-nukes",
+        "domain": "iraqsun.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260823T111500Z",
         "source": "GDELT"
       },
       {
@@ -161,12 +179,12 @@
         "source": "GDELT"
       },
       {
-        "title": "Визит Гросси на ЗАЭС не снят с повестки , РФ гарантирует безопасность",
-        "url": "https://www.vesti.ru/ns/likhachev-vizit-grossi-na-zaehs-ne-snyat-s-povestki-rf-garantiruet-bezopasnost",
-        "domain": "vesti.ru",
-        "language": "Russian",
+        "title": "Pakistan nuclear programme prioritises warhead over energy needs : Report",
+        "url": "https://www.prokerala.com/news/articles/a1803740.html",
+        "domain": "prokerala.com",
+        "language": "English",
         "tone": 0,
-        "seendate": "20260822T131500Z",
+        "seendate": "20260823T121500Z",
         "source": "GDELT"
       },
       {
@@ -179,12 +197,12 @@
         "source": "GDELT"
       },
       {
-        "title": "ՄԱԿ - ի գլխավոր քարտուղարի ընտրություններ . նոր առաջատարը հայտնի է",
-        "url": "https://www.1in.am/3750522.html",
-        "domain": "1in.am",
-        "language": "Armenian",
+        "title": "Мирошник заявил о тяжелой ситуации на ЗАЭС - Новости на Вести . ru",
+        "url": "https://www.vesti.ru/ns/miroshnik-zayavil-o-tyazheloj-situacii-na-zaehs",
+        "domain": "vesti.ru",
+        "language": "Russian",
         "tone": 0,
-        "seendate": "20260822T101500Z",
+        "seendate": "20260823T084500Z",
         "source": "GDELT"
       },
       {
@@ -197,21 +215,21 @@
         "source": "GDELT"
       },
       {
-        "title": "أستاذ علوم سياسية : إيران تسعى للحفاظ على مكاسبها الاستراتيجية عبر التفاوض مع واشنطن",
-        "url": "https://www.elwatannews.com/news/details/8343940",
-        "domain": "elwatannews.com",
-        "language": "Arabic",
+        "title": "Турция между газом и атомом : кому мешает союз Анкары и Москвы",
+        "url": "https://www.mk.ru/politics/2026/08/23/turciya-mezhdu-gazom-i-atomom-komu-meshaet-soyuz-ankary-i-moskvy.html",
+        "domain": "mk.ru",
+        "language": "Russian",
         "tone": 0,
-        "seendate": "20260822T084500Z",
+        "seendate": "20260823T074500Z",
         "source": "GDELT"
       },
       {
-        "title": "Diferentemente do Ocidente , Rússia oferece parcerias nucleares sem contrapartidas , diz analista",
-        "url": "https://noticiabrasil.net.br/20260822/diferentemente-do-ocidente-russia-oferece-parcerias-nucleares-sem-contrapartidas-diz-analista-53411351.html",
-        "domain": "noticiabrasil.net.br",
-        "language": "Portuguese",
+        "title": "Iranian council head Mohsen Rezaee claims billions of dollars made amid blockade",
+        "url": "http://www.jpost.com/middle-east/iran-news/article-906287",
+        "domain": "jpost.com",
+        "language": "English",
         "tone": 0,
-        "seendate": "20260822T100000Z",
+        "seendate": "20260823T110000Z",
         "source": "GDELT"
       },
       {
@@ -224,12 +242,30 @@
         "source": "GDELT"
       },
       {
+        "title": "Trump ponovno pokušava izvršiti gospodarski pritisak na Iran",
+        "url": "https://www.telegram.hr/politika-kriminal/donald-trump-misli-da-pobjeduje-ali-iran-sprema-brutalni-odgovor-koji-ce-uzdrmati-bijelu-kucu/",
+        "domain": "telegram.hr",
+        "language": "Croatian",
+        "tone": 0,
+        "seendate": "20260823T074500Z",
+        "source": "GDELT"
+      },
+      {
         "title": "Caso Cerimedo : exmilitar Fritz y su esposa son imputados por enriquecimiento ilícito",
         "url": "https://eju.tv/2026/08/caso-cerimedo-exmilitar-fritz-y-su-esposa-son-imputados-por-enriquecimiento-ilicito/",
         "domain": "eju.tv",
         "language": "Spanish",
         "tone": 0,
         "seendate": "20260822T231500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Pakistan nuclear programme prioritises warhead over energy needs : Report",
+        "url": "https://ianslive.in/pakistans-nuclear-programme-prioritises-warhead-over-energy-needs-report--20260823161240",
+        "domain": "ianslive.in",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260823T113000Z",
         "source": "GDELT"
       },
       {
@@ -242,21 +278,12 @@
         "source": "GDELT"
       },
       {
-        "title": "Гайанский дипломат вырвалась вперед во втором раунде неофициального голосования в Совбезе ООН",
-        "url": "https://runews24.ru/politics/22/08/2026/gajanskij-diplomat-vyirvalas-vpered-vo-vtorom-raunde-neoficzialnogo-golosovaniya-v-sovbeze-oon",
-        "domain": "runews24.ru",
-        "language": "Russian",
+        "title": "Exclusivo :  Presidencia aprobaba acuerdos , la escandalosa revelación de la fiscal Lucy Laborde , quien investigó a Nicolás Petro",
+        "url": "https://www.semana.com/nacion/articulo/exclusivo-presidencia-aprobaba-acuerdos-la-escandalosa-revelacion-de-la-fiscal-lucy-laborde-quien-investigo-a-nicolas-petro/202617/",
+        "domain": "semana.com",
+        "language": "Spanish",
         "tone": 0,
-        "seendate": "20260822T104500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Ukraine at 35 : Winter is coming to Zelenskys state of corruption",
-        "url": "http://www.bignewsnetwork.com/news/279257984/ukraine-at-35-winter-is-coming-to-zelenskys-state-of-corruption",
-        "domain": "bignewsnetwork.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260822T123000Z",
+        "seendate": "20260823T121500Z",
         "source": "GDELT"
       },
       {
@@ -368,39 +395,21 @@
         "source": "GDELT"
       },
       {
-        "title": "Hội Nông dân xã Vạn Thắng ra mắt câu lạc bộ nông dân sản xuất kinh doanh giỏi gắn với làng nghề xoi trầm hương",
-        "url": "https://danviet.vn/hoi-nong-dan-xa-van-thang-ra-mat-cau-lac-bo-nong-dan-san-xuat-kinh-doanh-gioi-gan-voi-lang-nghe-xoi-tram-huong-d1452445.html",
-        "domain": "danviet.vn",
-        "language": "Vietnamese",
+        "title": "Iran threatens US Navy in Hormuz as Pakistan chief visits",
+        "url": "https://www.bankingnews.gr/diethni/articles/895136/iran-threatens-us-navy-in-hormuz-as-pakistan-chief-visits%20title=",
+        "domain": "bankingnews.gr",
+        "language": "English",
         "tone": 0,
-        "seendate": "20260823T014500Z",
+        "seendate": "20260823T083000Z",
         "source": "GDELT"
       },
       {
-        "title": "Max Verstappen kan niet verrassen , George Russell soeverein naar de zege in sprintrace Zandvoort",
-        "url": "https://drimble.nl/regio/noord-holland/haarlem/107772576/max-verstappen-kan-niet-verrassen-george-russell-soeverein-naar-de-zege-in-sprintrace-zandvoort.html",
-        "domain": "drimble.nl",
-        "language": "Dutch",
+        "title": "Iran threatens US Navy in Hormuz as Pakistan chief visits",
+        "url": "https://www.bankingnews.gr/diethni/articles/895136/iran-threatens-us-navy-in-hormuz-as-pakistan-chief-visits",
+        "domain": "bankingnews.gr",
+        "language": "English",
         "tone": 0,
-        "seendate": "20260822T110000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Regen komt nét te laat voor spektakel in Zandvoort : Verstappen kan niet verrassen , Russell wint sprintrace",
-        "url": "https://drimble.nl/regio/noord-holland/haarlem/107772721/regen-komt-net-te-laat-voor-spektakel-in-zandvoort-verstappen-kan-niet-verrassen-russell-wint-sprintrace.html",
-        "domain": "drimble.nl",
-        "language": "Dutch",
-        "tone": 0,
-        "seendate": "20260822T113000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Regen komt nét te laat voor spektakel in Zandvoort : Verstappen kan niet verrassen , Russell wint sprintrace",
-        "url": "https://drimble.nl/regio/noord-holland/haarlem/107772663/regen-komt-net-te-laat-voor-spektakel-in-zandvoort-verstappen-kan-niet-verrassen-russell-wint-sprintrace.html",
-        "domain": "drimble.nl",
-        "language": "Dutch",
-        "tone": 0,
-        "seendate": "20260822T111500Z",
+        "seendate": "20260823T083000Z",
         "source": "GDELT"
       },
       {
@@ -413,21 +422,21 @@
         "source": "GDELT"
       },
       {
-        "title": "Pforzheimer Sedanquartier strotzt vor Potenzial : Geheime Aktion soll markantes Zeichen setzen - Pforzheim",
-        "url": "https://www.pz-news.de/pforzheim_artikel,-Pforzheimer-Sedanquartier-strotzt-vor-Potenzial-Geheime-Aktion-soll-markantes-Zeichen-setzen-_arid,2365189.html",
-        "domain": "pz-news.de",
-        "language": "German",
+        "title": "Hội Nông dân xã Vạn Thắng ra mắt câu lạc bộ nông dân sản xuất kinh doanh giỏi gắn với làng nghề xoi trầm hương",
+        "url": "https://danviet.vn/hoi-nong-dan-xa-van-thang-ra-mat-cau-lac-bo-nong-dan-san-xuat-kinh-doanh-gioi-gan-voi-lang-nghe-xoi-tram-huong-d1452445.html",
+        "domain": "danviet.vn",
+        "language": "Vietnamese",
         "tone": 0,
-        "seendate": "20260822T110000Z",
+        "seendate": "20260823T014500Z",
         "source": "GDELT"
       },
       {
-        "title": "Fiscal del caso Nicolás Petro lanzó fuerte denuncia contra Luz Adriana Camargo",
-        "url": "https://www.pulzo.com/nacion/fiscal-caso-nicolas-petro-lanzo-fuerte-denuncia-contra-luz-adriana-camargo-PP5281438",
-        "domain": "pulzo.com",
-        "language": "Spanish",
+        "title": "جريدة البلاد | نور حميد : أفضل عمل متكامل لم يعتمد على الحوارات المملة بل تقليلها",
+        "url": "https://www.albiladpress.com/news/2026/6523/spaces/1015550.html",
+        "domain": "albiladpress.com",
+        "language": "Arabic",
         "tone": 0,
-        "seendate": "20260822T131500Z",
+        "seendate": "20260823T081500Z",
         "source": "GDELT"
       },
       {
@@ -458,15 +467,6 @@
         "source": "GDELT"
       },
       {
-        "title": "У Київському зоопарку тигри Рена та Малюк святкують 18 - річчя",
-        "url": "https://kp.ua/ua/life/a734945-u-kijivskomu-zooparku-tihri-rena-ta-maljuk-svjatkujut-18-richchja",
-        "domain": "kp.ua",
-        "language": "Ukrainian",
-        "tone": 0,
-        "seendate": "20260822T124500Z",
-        "source": "GDELT"
-      },
-      {
         "title": "Time to end Russia  Game of Chicken  war against Ukraine – Ya Libnan",
         "url": "https://yalibnan.com/2026/08/22/time-to-end-russias-game-of-chicken-war-against-ukraine/",
         "domain": "yalibnan.com",
@@ -476,12 +476,12 @@
         "source": "GDELT"
       },
       {
-        "title": "దేశంలోనే నంబర్‌ వన్‌ ఇండస్ట్రియల్‌ ఏరియాగా అనకాపల్లి : సిఎం చంద్రబాబు",
-        "url": "https://www.prajasakti.com/latest-news/state-latest-news/anakapalli-to-become-the-country-one-industrial-area-cm-chandrababu",
-        "domain": "prajasakti.com",
-        "language": "Telugu",
+        "title": "Exfiscal del caso de Nicolás Petro denuncia presiones de fiscal Camargo para retirar el delito de lavado de activos del proceso",
+        "url": "https://www.elheraldo.co/colombia/2026/08/22/exfiscal-del-caso-de-nicolas-petro-denuncia-presiones-de-fiscal-camargo-para-retirar-el-delito-de-lavado-de-activos-del-proceso/",
+        "domain": "elheraldo.co",
+        "language": "Spanish",
         "tone": 0,
-        "seendate": "20260822T084500Z",
+        "seendate": "20260822T183000Z",
         "source": "GDELT"
       }
     ],
@@ -571,15 +571,6 @@
   "entities": [],
   "events": [
     {
-      "title": "Sprott : Европа нарастила закупки российского урана на 7 % за год",
-      "url": "https://life.ru/p/1914891",
-      "domain": "life.ru",
-      "language": "Russian",
-      "tone": 0,
-      "seendate": "20260822T124500Z",
-      "source": "GDELT"
-    },
-    {
       "title": "Сибіга обговорив з главою МАГАТЕ ситуацію на ЗАЕС",
       "url": "https://news.bigmir.net/ua/ukraine/10416493-sibiga-obgovoriv-z-glavoyu-magate-situatsiyu-na-zaes",
       "domain": "news.bigmir.net",
@@ -589,21 +580,21 @@
       "source": "GDELT"
     },
     {
+      "title": "Andrii Sybiha held phone talks with IAEA Director General Rafael Grossi",
+      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/08/ukraine-260822-ukraine-mfa01.htm",
+      "domain": "globalsecurity.org",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260823T103000Z",
+      "source": "GDELT"
+    },
+    {
       "title": "Iran security chief says Trump  recklessnes sparked fresh race to acquire nukes",
       "url": "https://aninews.in/news/world/middle-east/iran-security-chief-says-trumps-recklessness-sparked-fresh-race-to-acquire-nukes20260823101112/",
       "domain": "aninews.in",
       "language": "English",
       "tone": 0,
       "seendate": "20260823T061500Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "Лихачев заявил о срыве Киевом ротации экспертов МАГАТЭ на ЗАЭС",
-      "url": "https://iz.ru/2153241/2026-08-22/likhachev-zaiavil-o-sryve-kievom-rotatcii-ekspertov-magate-na-zaes",
-      "domain": "iz.ru",
-      "language": "Russian",
-      "tone": 0,
-      "seendate": "20260822T123000Z",
       "source": "GDELT"
     },
     {
@@ -652,6 +643,15 @@
       "source": "GDELT"
     },
     {
+      "title": "Angebot Meinl - Reisingers – Neue Iran - Verhandlungen könnten in Wien stattfinden",
+      "url": "https://www.heute.at/s/neue-iran-verhandlungen-koennten-in-wien-stattfinden-120241924",
+      "domain": "heute.at",
+      "language": "German",
+      "tone": 0,
+      "seendate": "20260823T111500Z",
+      "source": "GDELT"
+    },
+    {
       "title": "Մոսկվան արձագանքել է Մեծամորի ԱԷԿ - ը փակելու վերաբերյալ կոչերին",
       "url": "https://www.1in.am/3750752.html",
       "domain": "1in.am",
@@ -661,12 +661,30 @@
       "source": "GDELT"
     },
     {
-      "title": "Насколько Европа зависит от российского урана : данные аналитиков",
-      "url": "https://iz.ru/2153235/zavisimost-evropy-ot-rossiiskogo-urana-vyrosla-na-7-v-2025-godu-izi",
-      "domain": "iz.ru",
-      "language": "Russian",
+      "title": "Iran security chief says Trump  recklessnes sparked fresh race to acquire nukes",
+      "url": "http://www.iranherald.com/news/279259308/iran-security-chief-says-trump-recklessness-sparked-fresh-race-to-acquire-nukes",
+      "domain": "iranherald.com",
+      "language": "English",
       "tone": 0,
-      "seendate": "20260822T114500Z",
+      "seendate": "20260823T074500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Iran security chief says Trump  recklessnes sparked fresh race to acquire nukes",
+      "url": "http://www.kenyastar.com/news/279259308/iran-security-chief-says-trump-recklessness-sparked-fresh-race-to-acquire-nukes",
+      "domain": "kenyastar.com",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260823T074500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Iran security chief says Trump  recklessnes sparked fresh race to acquire nukes",
+      "url": "http://www.iraqsun.com/news/279259308/iran-security-chief-says-trump-recklessness-sparked-fresh-race-to-acquire-nukes",
+      "domain": "iraqsun.com",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260823T111500Z",
       "source": "GDELT"
     },
     {
@@ -685,24 +703,6 @@
       "language": "Russian",
       "tone": 0,
       "seendate": "20260822T180000Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "Европа увеличила закупки российского ядерного топлива | Северная Америка",
-      "url": "https://fedpress.ru/news/northern-america/economy/3448843",
-      "domain": "fedpress.ru",
-      "language": "Russian",
-      "tone": 0,
-      "seendate": "20260822T140000Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "Визит Гросси на ЗАЭС не снят с повестки , РФ гарантирует безопасность",
-      "url": "https://www.vesti.ru/ns/likhachev-vizit-grossi-na-zaehs-ne-snyat-s-povestki-rf-garantiruet-bezopasnost",
-      "domain": "vesti.ru",
-      "language": "Russian",
-      "tone": 0,
-      "seendate": "20260822T131500Z",
       "source": "GDELT"
     }
   ],
