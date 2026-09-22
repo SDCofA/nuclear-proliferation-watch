@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "nuclear-proliferation-watch",
-    "generated": "2026-09-22T05:22:30.242162+00:00",
+    "generated": "2026-09-22T12:03:11.782297+00:00",
     "mode": "live",
     "sources": [
       "news_articles",
@@ -18,7 +18,7 @@
     },
     {
       "label": "News Domains",
-      "value": "41",
+      "value": "43",
       "delta": "deduplicated"
     },
     {
@@ -35,6 +35,15 @@
   "live_data": {
     "news_articles": [
       {
+        "title": "TerraPower, Bechtel part ways on Natrium project",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZGdhQ1FVb1dWZTVrQ2lKSzk1SE1VX2tfdDRtR3liRzF4UjBuY1RSTmJXS05JLXJNOWZXTnBOWGNwMGJHWi1xZkwtbEtlNVRTbFFXQzluNTFQbW1NQ2l1dEFQM0d2QmR1Zm9aOWdDOVJkNEhmX3pUMFJiNjVzd3VRQnpOblVHNUZEWjdwdDhGQQ?oc=5",
+        "domain": "americannuclearsociety",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260922T054842Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "What Is Criticality? (And 7 Other Misunderstood Nuclear Energy Terms)",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPLUYwTUlRY1FpYkNCNUJmb2RWbWZUaFFKa1BkZGF4a1lWWlE4ODh5STIzMlVVaE9pcDdfM1JIcy04OHNkX29hU3NPcVhXS2dMMDRocnc0T0N2LWU1eUZaZzZpVjRjTHpzVzBLUTRwMDR1bmtaVVhGVVg4S25ES1JtSVFCbVF6eGpJZWVzOFVPOW1CQ3R4bDVkT3JKRWExRUE?oc=5",
         "domain": "departmentofenergy.gov",
@@ -44,12 +53,12 @@
         "source": "GoogleNews"
       },
       {
-        "title": "An Unused and Divisive Philippine Nuclear Plant Awaits Its Fate",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcnZIQUFld1Z6anhYOEF0MGRuMHFEeThvai15MEUxUEdaUGNEZzRyZE9UcGtHb0FYOUVIU2FtV0FxcmFfcDY3Z25WQWJxaUNHY1ZGR25GSl9md2phNXdZaDRMWW9UYXhuQjc2YjY2Wnd4Rjd3WFA0Sk5vQVJLSV83SFB3OTlkdlRLdG9reU5TREZ0Y0U?oc=5",
-        "domain": "thenewyorktimes",
+        "title": "Nicaragua Signs a Country Programme Framework (CPF) for 2026–2031",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNX0xfS0s2SEIzN1NwZ1VQdElrb2t2STRNZ1ZwcGdwTXNjRV9TY09YVlVBQzZZT2ZRaGY0U3NrMGFDRmloWk43cDBYR1ZfYnhwc203Nmx2QXZQVlhUbThpdEpnZHhGTm1aMmxwZW5TREE4dEk2M3Vyc3QyQjVaaV9UZ2pvRERmak03LWVmUnNxQjBxWnBGN3JSQzFEeFc4a1NYRVE?oc=5",
+        "domain": "internationalatomicenergyagency",
         "language": "",
         "tone": 0,
-        "seendate": "20260922T045013Z",
+        "seendate": "20260922T080129Z",
         "source": "GoogleNews"
       },
       {
@@ -62,21 +71,21 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Nuclear Regulatory Policy and Presidential Power",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNN1BtTEk1dXpoVDNkaG1wNURDeUkxeE9SQzhybjVOSjJLX25FTHdmamk3VU5BX3A5MmYtQ3RZdUUxM2N5TFl1UTNYaGdJMFhoYzZQRTZqaW00c1dpWVE4RG1mUHV1YVpYOENFOUlaQ2lpS0d0anNUUEJFVUsxcExIVWxqQW1mYnZrSlZFT2dqSVAwTU5xRVFPUnZLTDB3RDQ?oc=5",
-        "domain": "theregulatoryreview",
+        "title": "An Unused and Divisive Philippine Nuclear Plant Awaits Its Fate",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcnZIQUFld1Z6anhYOEF0MGRuMHFEeThvai15MEUxUEdaUGNEZzRyZE9UcGtHb0FYOUVIU2FtV0FxcmFfcDY3Z25WQWJxaUNHY1ZGR25GSl9md2phNXdZaDRMWW9UYXhuQjc2YjY2Wnd4Rjd3WFA0Sk5vQVJLSV83SFB3OTlkdlRLdG9reU5TREZ0Y0U?oc=5",
+        "domain": "thenewyorktimes",
         "language": "",
         "tone": 0,
-        "seendate": "20260922T041241Z",
+        "seendate": "20260922T092013Z",
         "source": "GoogleNews"
       },
       {
-        "title": "A Safer Way to Bet on Nuclear",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOelIwVHJTT0VkWjFuSUNDbHlzVnNjOFBwLU5ILWxKd1Z2RTRfNnBQeUlaQkRlZVp0cnpieEVBcmptWm1mel85OEV5UFhtNmNnSDVQeWx6Tm9lM1BUczFGc3RJWk5qX1JmbzhOOEliUGx1bVZiZ3VaVTgzcEVmc28xM25n?oc=5",
-        "domain": "wsj",
+        "title": "A $50 Billion IPO Is Good News for America’s Nuclear Rebirth",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX1I3REI2Y1QtbUhuTUlab0FqRXVjZmR3NzVLQVlXSno1WVUycUNhMXlNNE9ia1VHTVA0aWVybG5GZWlaekhxSWdLdGtxWTFMdWczbi1BOVJGUnNxTTc5dzdISEZMWVJUYVhjLUFGeUxzRGVlYjlqLWFya3FiUVpTeE1jc3JpVHlMelMxX2NFVktRMUloM3ZyV29icDZoaTdQTGE0bmtRUWpBdENtdUoxNWhQd1JaRXh2?oc=5",
+        "domain": "bloomberg.com",
         "language": "",
         "tone": 0,
-        "seendate": "20260921T093000Z",
+        "seendate": "20260922T093004Z",
         "source": "GoogleNews"
       },
       {
@@ -89,48 +98,21 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Finding a nuclear niche",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORnlMZm0wZW0xZGplU1c4UGVBblRoUTVKanZZU3NKWHJjcVZTdUhsZ3kxdmpLTXBldzN3TFZMM0M1WktzMVBPRzdyWE43NElKWGdldU84YmlCcWJUcTJ6bVZMUlE3Y2lHcDlEWHMza1RVZnNXM0N5WVgyZkQ0cmlZMC15N1ZMNEZjMFJ3ckRpSjhUWUJDN29GczNKcFg3TXJUMG1j?oc=5",
-        "domain": "universityofsouthcarolina",
+        "title": "Nuclear Regulatory Policy and Presidential Power",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNN1BtTEk1dXpoVDNkaG1wNURDeUkxeE9SQzhybjVOSjJLX25FTHdmamk3VU5BX3A5MmYtQ3RZdUUxM2N5TFl1UTNYaGdJMFhoYzZQRTZqaW00c1dpWVE4RG1mUHV1YVpYOENFOUlaQ2lpS0d0anNUUEJFVUsxcExIVWxqQW1mYnZrSlZFT2dqSVAwTU5xRVFPUnZLTDB3RDQ?oc=5",
+        "domain": "theregulatoryreview",
         "language": "",
         "tone": 0,
-        "seendate": "20260921T162855Z",
+        "seendate": "20260922T042704Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Google to Fund Power-Capacity Increases at Two Georgia Nuclear Plants",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOXzhDYmJrTHRmWGNFaG1VRVhtV0NBUEhRdlhia1ljcWxUdFhiWGZGQm9mYjI2Q0hwQUswcEFORnp6TVdoMlk4NlhkRmN2TlIweUZHUHBtWGpOZ192NHc0TjBQWlRnRUNMSzNuNXFiRGc1eGdjek1UbUJ1R3Z0VTAtN2YySmFLUkwxWnNnS0ZtV1BFbGx2b05UaG92R21oSThfQk5UdDF3ajdMX2JyWWc?oc=5",
-        "domain": "bloomberg.com",
+        "title": "Nuclear power is back on Southeast Asia's energy agenda",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONXUzMXZOVlJnbm4tcnpKZ0laZF93LU1xcjdlck42UHpnZ1YyWlYwbjVMUnBwZXlFNGpfZm9DMkVBQm80QlJMSXBzb3hGeDZEOW1fQy1UUWxqSzY3XzdnTGhpSzZUSHVZMU94TW45NUFQeUVHNURoWl9tbnpFMEgtSVQ1bDI0aHFXLUJPZFk1ZFDSAZABQVVfeXFMTTcxOU56QzVIVGw5dGNQMW5RbXhXY2RscEFLZjlqTjNMS0tYOE5RcncyekgtWTFMMUJOTS1VV0ZTY05VeUFMZG96dFlJUkhRNGFrbzdETE1OakE5M2FyYy1wWF9HSi1kbTZzN19fRko4dUg3a3VsXzNCTnZRNUhtVFRQUWpZeGhsdXBWanZ5dHdN?oc=5",
+        "domain": "dw.com",
         "language": "",
         "tone": 0,
-        "seendate": "20260921T234016Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "South Korea's Lee tells AP he advocates step-by-step approach to North's nuclear disarmament",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTnFZcDQ0VXZKZzZOV0VSekNRaUNsRUJOSkJGak9PUTBydWwtWHBlbUUxMnJKcGNSOXVYd1BQek14TndKR0Rhb3RWMVEyTDZoQmE4QkJVUlk0REl1d3RqdXpOSU5NOFA3cVdhNUNmSHRuaWNzQ0diczNydzRWclVEbHJoSXh2dHU0UXVLMHpLcmIwUlJHV1E?oc=5",
-        "domain": "apnews",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260922T032800Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Lead contractor pulls out of Gates’ Natrium nuclear power plant project in Wyoming",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUi1MXzRWUW9pOXJtOG0wV0VTaWpnRXEtQy1zWVVIWFBDLUh1a3hOc0RuVnhiY2dCOXFZNkNWRGhPUmk4YllYb1RYWVEwcnZFejVQd0gzTjhES2pILWVSd2ljdzNYb1ZtUEZUUHMzNGp0VTM1dEZFalBsVmg4T3l6ekVmaHBlYjh5eHFiX3Y0ZHNWMlptYnk3dEVKOFl3TWY2QW1hQw?oc=5",
-        "domain": "wyofile",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260921T205550Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "390 MW molten salt nuclear reactor to power US Army's Maryland base",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVXNDZjNJQ01HbFJHWHIxUzNUZjZ1VHB2Zkg4RktsSFBjQ2lSWjhSZ21udTdsRXFlV1ZqelQ3NjVKcUpueG1VUjllcTJMZ3NIa0RwNV9jTDJJdXUzT3E5WnpfTmZEVEFtTmNJQkJuM0pjYnUwazNHQ3NrQTZldlVWN0xqb2RiUkZVZER6a0hfZF9BbWlIWHVta054TXpyNlBSOWtEUWxGYzk4b3N3NHdqcGQ1akw0Tlp1d0U1YnluVQ?oc=5",
-        "domain": "interestingengineering",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260921T174900Z",
+        "seendate": "20260921T231050Z",
         "source": "GoogleNews"
       },
       {
@@ -143,30 +125,57 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Kairos Power gets up to $100M from Samsung group to build nuclear reactor for Google",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRm1uRnFISWR5YXduZHUzbjFsdlFNdU9SdldEQjl6ZHZRUTctMXJNalZxSFV2OFk3STZkVkxZaXEzcWxfVkNoazVKbE9vRXR6N3VUVnhtODZneEQwT2VubVZya3lRTFdTZXZxVDZYM1NhSllGNXFnaWJLbEpLcVBZUnZnVmRhTlZTakp4T0w3el9MZjlPRTBtQlRNbllzZ1RJWFRGWEVOYVlGR2RQZXZfdlpBbm5FSnEzNVE?oc=5",
-        "domain": "techcrunch",
+        "title": "Exclusive | Energy groups warn Hochul to restart Indian Point nuclear plant or 'the lights go out'",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSTZqVzhyTE5kc0RFMkZ4LVBaaXBHakZPejNtZUcyNGtqREwtdUF5MzNHcnkwYzBHUzYtY2FvUWZkSWpRdzJTY1VJTzZWNmdFbHJwODFIbjdxU1NaalBiOXc0eG9LU2tLUWpwOFR3WE9oalBzUG41SXU5X2k3REdfWWFoSlJFOW1vdzNsWWtWZnJVbEZnb0pEcHBOcktpNGZobzdhV1RPX0tjMWxtSzZ1NVVWTjBVa3pQRXV6aTlObUc?oc=5",
+        "domain": "newyorkpost",
         "language": "",
         "tone": 0,
-        "seendate": "20260921T182305Z",
+        "seendate": "20260922T100000Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Army plans small nuclear reactor at Aberdeen Proving Ground",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQX3ZEMGU0a1BnajYzczBzb3lkRm51aWRFUDBkcTFyR3BKbHRYSlZ2cnEyMnFaZXNEeXMwd2g3Ti1FeHZrOGNWajlsSkVaNjU3WlVRZUZKd0lrLTFJSVpjTlQ4dTVualM4YlVuNFVWcVJoTWVMVlJPX0VUUkpRRmV5RENyQzdNSlphVTJCN09lV3BfWlExeWthTDlzRDNObFJ6VWJjeA?oc=5",
-        "domain": "stripes.com",
+        "title": "Georgia Power nuclear reactors to get huge face-lift, paid partly by Google",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTHU5OXV3Vl8zV0FjR1hnWXpqV0NIZXpHLU5ZRjloZFZzNmhjbjRPcXZ6RzNsSy0zUUNMYUVFVVdpd3J0dzQwYmV5UFE5cEE0V0M2N2IzSExPX29vdFh1cEM3UnN0aWhialphLWVtOE4wRWI2RHZqM29PUzRkdlVkQzB2TkhfUElObVZ4Tk5CNFZ2MThETUx2elBtRnpaT1RrdE5vUWJQS3o4czVwdmZQZ1pETWpTbGJSWk5UMXpRdw?oc=5",
+        "domain": "theatlantajournal-constitution",
         "language": "",
         "tone": 0,
-        "seendate": "20260922T031914Z",
+        "seendate": "20260922T103229Z",
         "source": "GoogleNews"
       },
       {
-        "title": "TerraPower, Bechtel part ways on Natrium project",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZGdhQ1FVb1dWZTVrQ2lKSzk1SE1VX2tfdDRtR3liRzF4UjBuY1RSTmJXS05JLXJNOWZXTnBOWGNwMGJHWi1xZkwtbEtlNVRTbFFXQzluNTFQbW1NQ2l1dEFQM0d2QmR1Zm9aOWdDOVJkNEhmX3pUMFJiNjVzd3VRQnpOblVHNUZEWjdwdDhGQQ?oc=5",
-        "domain": "americannuclearsociety",
+        "title": "South Korea's Lee tells AP he wants step-by-step approach to North Korea's nuclear dismantlement",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTnFZcDQ0VXZKZzZOV0VSekNRaUNsRUJOSkJGak9PUTBydWwtWHBlbUUxMnJKcGNSOXVYd1BQek14TndKR0Rhb3RWMVEyTDZoQmE4QkJVUlk0REl1d3RqdXpOSU5NOFA3cVdhNUNmSHRuaWNzQ0diczNydzRWclVEbHJoSXh2dHU0UXVLMHpLcmIwUlJHV1E?oc=5",
+        "domain": "apnews",
         "language": "",
         "tone": 0,
-        "seendate": "20260921T213846Z",
+        "seendate": "20260922T065200Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "390 MW molten salt nuclear reactor to power US Army's Maryland base",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVXNDZjNJQ01HbFJHWHIxUzNUZjZ1VHB2Zkg4RktsSFBjQ2lSWjhSZ21udTdsRXFlV1ZqelQ3NjVKcUpueG1VUjllcTJMZ3NIa0RwNV9jTDJJdXUzT3E5WnpfTmZEVEFtTmNJQkJuM0pjYnUwazNHQ3NrQTZldlVWN0xqb2RiUkZVZER6a0hfZF9BbWlIWHVta054TXpyNlBSOWtEUWxGYzk4b3N3NHdqcGQ1akw0Tlp1d0U1YnluVQ?oc=5",
+        "domain": "interestingengineering",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260921T174900Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Idaho is built to lead our country’s next big energy transition",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaTBoWF9lQ0hSZ2NnMmpWWkNNWUFVTkFsZU1ncHZZQTFPX2JwdG8zUEdORTJabDBSdHJZYVJKVW9GQ1dzNHF2VVdTcUN6VzRqSzVrYXd0RmtDZ2VnbFlKMkVqV3Vjd3REQ3IxMERVcXA5S29mYlJjbW4tRE11SVQ3c0RsWFU4YmpFelQzalBkS0dReFFLMGFmTmROTnM1QUt0MVpQUW1EV1QtdG5PVUJqdGRTckpIX1Ro?oc=5",
+        "domain": "idahocapitalsun",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260922T100613Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "A Safer Way to Bet on Nuclear",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOelIwVHJTT0VkWjFuSUNDbHlzVnNjOFBwLU5ILWxKd1Z2RTRfNnBQeUlaQkRlZVp0cnpieEVBcmptWm1mel85OEV5UFhtNmNnSDVQeWx6Tm9lM1BUczFGc3RJWk5qX1JmbzhOOEliUGx1bVZiZ3VaVTgzcEVmc28xM25n?oc=5",
+        "domain": "wsj",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260921T093000Z",
         "source": "GoogleNews"
       },
       {
@@ -179,12 +188,12 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Company to invest up to $100 million in Oak Ridge nuclear plant",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaXc1YWhoVTRoc3M1NmViVXFabXVnR3VVNHpxSUloT0VXT1hrelkxOU9oSng3a1JlUVNjaXdtR1k1WFhiSmJJbURXQnVjbzBnSk9rT0VzMlltTkM5OVVTY3dxVGUwVzRPSU9sai1ZZU9JVnBPSWZlSG1uc0huckJDSlk5S3Z2VnFMMnotSEV2eEtGWXJWY1VINUZLOGU4U2RVOG4zMmtkcTdpTmxmZkVr0gG0AUFVX3lxTE1UM0w0S2NURHpvQmJMeG1yRXI5QUFBWGs0cnMzYnBmdWRRX3NObkk0dnFHS3dFNWdpZlJKU0lvMUFaZlgybUhMVzRGY1Z6TTZ5WkpWZkw2SmdUUUFhMUpKZ0JGcFdNbTJsSmdaUTcyT09CRUJFbHpCSGQwNzlPYUJkQ3hycGszcHQ4bFM4dG1wMFEwTmpMLTFHb3F6aVB1bUQ0eGEtNHBxVC1KTDA2TEh3VEU3RA?oc=5",
-        "domain": "wate6onyourside",
+        "title": "AI energy demand accelerates China’s quest for nuclear fusion",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQk43XzV0eWdQSkhpMjBBZEtodjUyQks5TlJvOHJRQXJuLXp4RklackhXWUlmbmpwUlVFVDVGeHlkclJtVWJZd283Vml2ZzNGamRCcG44WUFNeS1IRlllaGtnVHpxR29LRlB3ek9JTTBvbkJsZ0FYSkdfWk1MREhnSWJLYVk?oc=5",
+        "domain": "financialtimes",
         "language": "",
         "tone": 0,
-        "seendate": "20260921T175758Z",
+        "seendate": "20260922T022403Z",
         "source": "GoogleNews"
       },
       {
@@ -197,15 +206,6 @@
         "source": "GoogleNews"
       },
       {
-        "title": "South Korea picks Texas power plant, weighs nuclear investments under US deal",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOa3paUTZVYm9BWEp0aE1sUmdtUkJPd3pHOUxGaWdMdldGeU50VTdSam1UNk16ZGN2N3MtWXUtTEtCTTg0dXhYZ01aN042Zkg1NF9DYW9QbnA3aFZBYUVOTGJlWUxPM2p4eEVYOFExd2htYUR0d25JVFByMWF4VmF1Qkxuek42azJFUlZtYWRFWUtyRG9QakJ4UVl5bXIzMUhGQTNGZk5rN1psQ3ZxWGJ0M0xBRzd6NE5VQmdHcWlaX3FsODNlNmJDeHBlZFQ?oc=5",
-        "domain": "reuters",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260921T235700Z",
-        "source": "GoogleNews"
-      },
-      {
         "title": "South Korea's Lee urges US to ease North Korea sanctions to freeze nuclear programs, NYT says",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWnQtNV93S3VlR0QyOWR2akZfM3o3OVVxaFdkSEdYMzFGMnZHYXQtRWNsLWNoY0x6c2cxOVdkdC00cElETGRNSUhUNmNRbGVVMENsS2pwUk42UGpWYmxFaHNic3RxVENNaFRScFlqNF9KT3lmU0tKdXZfSUhhemtFUHdDb01Mc3ZDcDBGeTFRQ0E2MlppSU82QXRWREtLUTJBanlPeERVcGhGeUU4MEJiNVVHLURSS25WTTFDaDBSakJsZkZDa0VScWhNOERsRm8y?oc=5",
         "domain": "reuters",
@@ -215,102 +215,183 @@
         "source": "GoogleNews"
       },
       {
-        "title": "NEA/EPRI report sheds light on levelized cost of electricity",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSFRyMlRFSlhtVlh1XzV5MlkwUlNZSnRZOEdOV2IyWTgyeW1oSTRUMDdUWWdRRzdjRGlfWGhHLW5YLXFrb0NrNnpFR24zeWhGSFU4QV9vQTJMSzRYUWFwX0ZFd1htQ2Jkc1djbVlTdmljQ1NBNzd6Sjh4SUpscGVZczgtLXF1ZklHMHA2UlVqd2Y4dXYtRGF3QTFTMERZZVU?oc=5",
-        "domain": "americannuclearsociety",
+        "title": "Google to Fund Power-Capacity Increases at Two Georgia Nuclear Plants",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOXzhDYmJrTHRmWGNFaG1VRVhtV0NBUEhRdlhia1ljcWxUdFhiWGZGQm9mYjI2Q0hwQUswcEFORnp6TVdoMlk4NlhkRmN2TlIweUZHUHBtWGpOZ192NHc0TjBQWlRnRUNMSzNuNXFiRGc1eGdjek1UbUJ1R3Z0VTAtN2YySmFLUkwxWnNnS0ZtV1BFbGx2b05UaG92R21oSThfQk5UdDF3ajdMX2JyWWc?oc=5",
+        "domain": "bloomberg.com",
         "language": "",
         "tone": 0,
-        "seendate": "20260921T182329Z",
+        "seendate": "20260921T234016Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Nuward targets 10 SMRs in five EU countries",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRHRDd0N6a3hNV3M1SGd3TkdDdU0wdWlNWmNNRnBCNmZaUk5CNERzX0NzNVgwdFY5Z3BiWjZ5QlEzMGJWZVpCRWpiMmFyd25ZTV96MWk1OG01aXNhLU5qMWV1NnQ2TjR2eVJadU1pYUxrdjZaTk9MV2VkMHhZZnZJZHF6a3A0UkFVbm9jZm5tZmhfX0pqamNYMXZn?oc=5",
-        "domain": "worldnuclearnews",
+        "title": "JD Vance Says US Strikes Will Keep Iran From Rebuilding Its Nuclear Program",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9NTldaTG44ZHQydEZvcE5WZFh5Vkd5RE1WU0RZSTdJaTBaUExidFp5YUdzcXpTbTczaWk0OVhaMVBpU19nX2dEQVV0ODdrVnJ3QWMxckdZSHhRUW5idUNB?oc=5",
+        "domain": "..",
         "language": "",
         "tone": 0,
-        "seendate": "20260921T150555Z",
+        "seendate": "20260922T111037Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Is New England Ready for New Nuclear?",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBVTUM1OExiMFA5RUlRZXNRYzlaLWhkdFBlRlVRMG5rWklFZkZxNEZ6SUZMMTN2QlVERkNaTFZGaHg2OTB0SU9JMG15QXJVVjFKN0NuNUNfazVKSDlZaE1kbFpPR0FiUkVBbFl5QzV2RTZQc1JwVzlieDczMA?oc=5",
-        "domain": "rtoinsider.com",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260921T224632Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "AI energy demand accelerates China’s quest for nuclear fusion",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQk43XzV0eWdQSkhpMjBBZEtodjUyQks5TlJvOHJRQXJuLXp4RklackhXWUlmbmpwUlVFVDVGeHlkclJtVWJZd283Vml2ZzNGamRCcG44WUFNeS1IRlllaGtnVHpxR29LRlB3ek9JTTBvbkJsZ0FYSkdfWk1MREhnSWJLYVk?oc=5",
+        "title": "Letter: Why nuclear is an imperfect analogy for artificial intelligence",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1FMnlvd1U3V3F6TXVfX1NJM2N3NWdrYmwySDBnMmM4OTltM2xuUllLdnNwbGZKMEhFVzcxQVp3TEpHUzlKZjdLRVVsZG1vNWFSMzVRQnpKRDExa2dQOU5EdTROVmZIc0JYUTByZUkteEM?oc=5",
         "domain": "financialtimes",
         "language": "",
         "tone": 0,
-        "seendate": "20260922T022417Z",
+        "seendate": "20260922T012941Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Lead contractor pulls out of Gates’ Natrium nuclear power plant project in Wyoming",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUi1MXzRWUW9pOXJtOG0wV0VTaWpnRXEtQy1zWVVIWFBDLUh1a3hOc0RuVnhiY2dCOXFZNkNWRGhPUmk4YllYb1RYWVEwcnZFejVQd0gzTjhES2pILWVSd2ljdzNYb1ZtUEZUUHMzNGp0VTM1dEZFalBsVmg4T3l6ekVmaHBlYjh5eHFiX3Y0ZHNWMlptYnk3dEVKOFl3TWY2QW1hQw?oc=5",
+        "domain": "wyofile",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260921T205550Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Small modular reactor potential lies in industry, not grid power",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ1ZWWXZEaEdHQlYxMF9nQXpVTXJvdnEtSF9Kc2x1WldBcDdVaVJKRllERzZNY3FYOWZYWnVOWDlfRmJWeUplZEYyb2xEMWl6cjJZaXN0azBoV0VyNHlNTkc3cTZUYXhVMTZrVDdWY3p4UmRpM3p5V19VZHUzTkJVVVpPZEdyUXVScmpqeDQyS1pGV2JTOXR2bEI0ZFlzckdYd3VF?oc=5",
+        "domain": "michiganengineeringnews",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260922T113000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Holtec pulls the plug on planned IPO for Camden nuclear energy firm",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMmNpNk1ucGQySnhkZ28xY1JJVHhlYS1oMkpIQVVpQy05LXRSR1FwNVVRcTVBSU1YRnY2VkIwUjM3cGVLODBpSzB3X2ZXTkctR3NtMzhIbk5yUy1yVFkxbmdoZEZhYTdLczB2X3U3QkEyZV9mRVAyeHR1UFE1dURvV0preVZGc3JyOEVfckJydHVWeUV1RWUtTVg2dkpzSE5HaTAwY3ZBV2FxdVpEemtKSWZlaVRERTQ2bWttMzVUTzBXci05dUJuakxPR1djQ2dWanlZZ0tB?oc=5",
+        "domain": "courier-post",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260922T085500Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Türkiye, US sign new SMRs, nuclear cooperation deal",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYWJVeTViX2ZfQUxmTk56RHlBczd2Q2k2cWlmOXdPTkJHVXItSnpmMXpTNlo4ZlhLcDRYcjVQZ0oxaUxfUW94emJnQUpUUmNTM1U2a0dGbE5HZnNuaUFJZjhvcXh2M1lCV3k3ODZENWZNdUNhTzJ4c3Ryb2NCd2syb094M3BlWnJySVRTellwTlY2Wmd3ZGpB?oc=5",
+        "domain": "dailysabah",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260922T075000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Army plans small nuclear reactor at Aberdeen Proving Ground",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQX3ZEMGU0a1BnajYzczBzb3lkRm51aWRFUDBkcTFyR3BKbHRYSlZ2cnEyMnFaZXNEeXMwd2g3Ti1FeHZrOGNWajlsSkVaNjU3WlVRZUZKd0lrLTFJSVpjTlQ4dTVualM4YlVuNFVWcVJoTWVMVlJPX0VUUkpRRmV5RENyQzdNSlphVTJCN09lV3BfWlExeWthTDlzRDNObFJ6VWJjeA?oc=5",
+        "domain": "stripes.com",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260921T225130Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Google inks deal to support nuclear uprates at Georgia Power's Vogtle and Hatch plants",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZWpJMEFNUWp0S2cxYmJvYTZnRFJpVHdaeVRWdlE3UEQzZG1LVmw3WWlHeU9VVi1EU3RtQkROTXJBdTFqd2lvQWlyNkZ0ZkJYaHBSckxGYUExY201bGtuUFNTSUloNzk3eHVaRG5qbzdDa1Rad0RZdGhZeUtSaFNhVHFtS3ZMalZEVUo5WHBrM3NKWjU5Mks4YjhDSnotWDhJc3RWR3p0QW1RVjlfRElXUFlsLUROMXZJNGVSanNLeXBoZEwwYU8weA?oc=5",
+        "domain": "datacenterdynamics",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260922T105857Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Southern Co unit signs deal with Google to add nuclear capacity",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNFhDTkpOQ3JLbk5QVXJoeTRKeHJMNGhtUlRvN3NuNW5pUF9YNTM3STlwWjJFMEYtRVg2OTIxdzNJYXU2WWRoWjRrd2NSWFZScDFaenFoQlBmbGxsNU5vZVdzSjVPR2FWOHFhWFVCWFFGOHFrdjlqMkZ3aTVFa0NaMnY3eXRILXJrMkdqb3Vsc2JJYWdURlJv?oc=5",
+        "domain": "themighty790kfgo",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260922T034651Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "South Korea confirms first project under $350 billion US investment pact despite viability concerns",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOa3paUTZVYm9BWEp0aE1sUmdtUkJPd3pHOUxGaWdMdldGeU50VTdSam1UNk16ZGN2N3MtWXUtTEtCTTg0dXhYZ01aN042Zkg1NF9DYW9QbnA3aFZBYUVOTGJlWUxPM2p4eEVYOFExd2htYUR0d25JVFByMWF4VmF1Qkxuek42azJFUlZtYWRFWUtyRG9QakJ4UVl5bXIzMUhGQTNGZk5rN1psQ3ZxWGJ0M0xBRzd6NE5VQmdHcWlaX3FsODNlNmJDeHBlZFQ?oc=5",
+        "domain": "reuters",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260921T235700Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Kairos Power gets up to $100M from Samsung group to build nuclear reactor for Google",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRm1uRnFISWR5YXduZHUzbjFsdlFNdU9SdldEQjl6ZHZRUTctMXJNalZxSFV2OFk3STZkVkxZaXEzcWxfVkNoazVKbE9vRXR6N3VUVnhtODZneEQwT2VubVZya3lRTFdTZXZxVDZYM1NhSllGNXFnaWJLbEpLcVBZUnZnVmRhTlZTakp4T0w3el9MZjlPRTBtQlRNbllzZ1RJWFRGWEVOYVlGR2RQZXZfdlpBbm5FSnEzNVE?oc=5",
+        "domain": "techcrunch",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260921T182305Z",
         "source": "GoogleNews"
       },
       {
         "title": "Army announces new power projects for installations",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxON0wwS0paQ0gzTXJuWVVvREg3WEdDUHg1UnlaV0R6XzJlNnFTcXRVZV9kbkYxVm1qbmFiOTMtYVJvQ2RqU2l5UHM1ZXYyUzVQakRTQzE0LW1rTk1sWUFvRDc1V1A2a1pyQjRGWEtfcm83bV9GZlM0Y0Y3QW81OElxNG80MklCSjRQREVFdUN4YzF1a0VMRGl6emJZdU82a3NBQk1r?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOGt6aHU5LTFVLTFicGF4UEJtcXV2R0ZwWThTdTg1bjgySVRVNTJhQ1ZBX1pqX1g2RmdnSmxFb2xDc1VWV1NVV0dyNHpPQTJRZXBzMjlmMlZ3ZHBVanVKNGZ2a3lIaVo3cFhHR0U4QlZIWFN4NC0tTXhPYURpclEyLUE4eGxwNHJieldWSHE2aGlUYnZx?oc=5",
         "domain": "americannuclearsociety",
         "language": "",
         "tone": 0,
-        "seendate": "20260921T193627Z",
+        "seendate": "20260921T203627Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Newsom to consider bill on nuclear power plant expansion",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcUdwcHE4c0h6WlMzTVpfVDZVRE5yUE5aMzM2OWNOSzdrM1NKZW02aTQ0OTZwWTY2Rlp0WW5RZy1mLWd1RVMyVXVsbjlEUl9sRzJTdWtnR3NwQ1ZYMVJxVDd1NlFkR0hOODFNbHhCUVNpOVNNcE83LXZuaW5LalJUYXNtdmNFS2tLd1VMTDB4WTFkVUpLMW1V0gGcAUFVX3lxTE9ROWxtM21jVzFHTE1zMVpYa3ljaDlDeXdkMTlyRlFlakg3bHRHeVJuYkNaYWNYUnh6Nms5TTgwMEE5dXFoNHNuMXlaZU5EdzcwVFBZcHg4WjdVWGU0WGd2aGs3bUp0ZjdQOEtaN3FqcXd2LXJ6cHQ0cjBMWVQyUEc2Z3NrM1JodlNtSnNNdEFMVVNhSk9TTElSTVA3WA?oc=5",
-        "domain": "thecentersquare",
+        "title": "Is Israel’s policy on stopping the development of nuclear weapons rational?.",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcXFTeGw1X3NpeWFlVzdJM0pmd2NCZ24xdTFsYU1oSVJqVkdLRDJZWHp0MVN5aTh6Q0d0N2RqaVozdmsyRkdxRmlRSEdWSXBzY01ZakFmMUZWNmt1cXNCaV9JUkkxZVRQUUUtUjhFdldaM2FZT2xfcWx1bXVXaHpVdmxuOFJfRFBZeV9sVFpYS3BfWF9YRUJPNUdQcHZUbDZuUTV2aEtwT3Iwdw?oc=5",
+        "domain": "thetimesofisrael",
         "language": "",
         "tone": 0,
-        "seendate": "20260921T214000Z",
+        "seendate": "20260922T111200Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Incident at Palisades nuclear reactor under review by NRC",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOV1RMRy0yUWZhYlZobEhrNjlwTHpCQW9pNkVRSzh1VVpLQm1wc1V4T0VDc2QzeWQzcU1wQ0VhenhtWHRSLUxzR1pDQU94bnJlTGNMU0JZWVlEc0JHTU5zR0t0VXRqNlRhWWFzaTVVWTF0QkRGV2NpNmZ0bEt6RlNpeUZWNEc1U3pZTG15SjZzUFBXZmplNVhMS0lFUzhpM0ZHOFE?oc=5",
-        "domain": "thenationalnews.com",
+        "title": "Immunohistochemical Expression of Proliferating Cell Nuclear Antigen in Invasive Breast Carcinoma: Associations With Histological Grade and Ki-67 Expression",
+        "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPa3FyMFJYZFZpRVBwal9aSXJPcGJhSVlTS29DdmFKdjNqOWduRnctQmV4U1RzSEZKSVZ4VlhFbzlBQmpsZ1o3RDVCVXhhUF91MkpRaFotTUt4N2xBYkltSm1kWE1POEd1bWFWa0F4UUkwZFk1NjE5emduNDQ1UWF6bmZ5S2xDTWlIQ3ZYeE1OTkx5TEU2amw2WWJpekVReHBQUWJrQWNTOS0xb0J4TDhhTENaMU9sd2NmcVFzUEltMHZaSk5rUTVCQV9KVTVrSEFwazdjb0JtZUxvMTgzU3dnSDFvYXoxTEtqTFg5aGxFWXlqZnlHTlNVRkJ5R1hSTi00bHdsTDBLX3d6X1VlcHQ2Z3dyRlNFTjBLcmwyd1NCTQ?oc=5",
+        "domain": "cureus",
         "language": "",
         "tone": 0,
-        "seendate": "20260922T000437Z",
+        "seendate": "20260922T091006Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Brunswick Nuclear Plant to test warning sirens",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNckpJVkhEM1BGb3RpQVVaSkhEdkNQeFNWNlkwTjF0X1hKQlJfNzVYano2NUhSQWxPZURaYzE2TmFQVE1IQThiWVdQUVdZQjk0NlBFZUpQeThQTU4zR2N4cUJrVzR2SjMwWGJJT3V6U2syNXBMZ0RrUXcxQi14VUl4NEpn0gGWAUFVX3lxTE0wblFuamZ1b3ZWSGRNanZNQlIwSlU2THhoNWxIN1Z6d0NMNkxTaXp1UlVQYnJwMUVKT3NLcFFEUEZRYlFBSHdVZUZkZ1JBZDZ2M3ExaGRkekRIUU0yc2NPWHZrMUhUeENHdmNjbHZzckpoaHJnOEFaMXFqYk9nQTRrZ2R3M0F4QlFIbzB2UkpPOEt3RlhKZw?oc=5",
-        "domain": "wect",
+        "title": "In Lithuania, parliament moved toward lifting the constitutional ban on nuclear weapons",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNckZ1OHR5ZUxIVHlscTdfMkN2cVFVRkFjQmYyTEd6TVd3UUl3dTh2RUhPVnZUSHh4cldsNy1ESzlHNTF5TVIzRU5wZjB0ck4wSlUyeDNrYXJydnJoVW5mRXlPQmlRUGduRDl5ZE1SWmZja0VsMXdleW03OEdKZ0pKTEhfcEk4b0FmQzcycGF0VFU0LXBCMFMzLTd0MnMzc2lDM2RWeUhYX2xDSUpYSXfSAawBQVVfeXFMTjNtY21QdVFTajlGM1JKMk1XQUlPS2RkNGZRclhyN0tTemZ2Mko2bzJvQzV3Z24tVUtMWkdxZUlDWWg5SzM5VnUxcVozVW1SeUlRNXZfX0tBbWhvMzNnY0ZBMmJEb3JXYVU3X09HbnFIbUFQMU12S2pNU21tb3JiNGhVM2h6M2VIanVxZk16YzR1dTJsLTJoRlZIVDJlbEdHX0l2QUM2a3dqNDIzMg?oc=5",
+        "domain": "news.google.com",
         "language": "",
         "tone": 0,
-        "seendate": "20260921T172000Z",
+        "seendate": "20260922T113227Z",
         "source": "GoogleNews"
       },
       {
-        "title": "In the Age of AI, Nuclear Weapons Abolition Is a Renewed Imperative",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUmtEaVhNVXBTYkRvWlE0TmVSenY3N2dqNjJpeWxwajdKSmxva1RQMXBTdzBJMEJDZjByeFpMQUNUOXhWc0d2S29xc19HUHZ4WkEtSVVmZE5CTjlwZXUyTDI5VUFsMVRxZ2ZRR1ByR24xd3ZDSXRGWThXN01wLWVOTDZDQUo4djY2U0dMaU1iWXJrd9IBmgFBVV95cUxOMUFuVFpqQ0JuRERvWWNyTFBQZXdKZll1NUQxN3QyZHlWZHlhcTVxYnhGWmhvUDlQX2lrTk9SSEZxQllOcHU0eWxfSkswR09OZkdsX1pkcFV5TUFZNDNQUVJUMU53bkxQNVVlSHlEWFc0NjZNRWJwQmlGYVNyaW50SGY4anJrYXZJLVNTTlhmbm1lb2o0OEdMZW1n?oc=5",
-        "domain": "thenation",
+        "title": "Trump Returns to the U.N. Today. His Past Speeches Tell a Story of Constant Revision",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFByRGJFOThmV25fQlktTkFwRkt5UDlwUWE5VmF0cV9vQnJLWmZGSXpkcDdXNU9fX2l4clRxLWpmV2ZzeU5mTk1UVmhNRDlYdFduSmxZZ05KakZpbHVFcWhGRzdaVDVTTm9FZXNDS3ZSNHNBYU1IR1V1SQ?oc=5",
+        "domain": "glennkessler.substack.com",
         "language": "",
         "tone": 0,
-        "seendate": "20260921T100042Z",
+        "seendate": "20260922T103235Z",
         "source": "GoogleNews"
       },
       {
-        "title": "How Much of a Threat Do Heat Waves Pose to Nuclear Plants?",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTmZmTDM4Y08wbGdVcmZ6T0hrMnNVODdYOU1QOVIxY1hlbmhKemFDeVg0R0RPZ2JPMjREWXV1ajFTRXc4d0NSbHhWYzNjSTcyMk9nNmpkSTVkYnFadkdoZzc2MHpBTGlSSUR3TlRGbmRXZ2NJUzdvSkJUSnA1YURXSGt5QzAyaWpKeVJrNHZ1NzU?oc=5",
-        "domain": "theenergymix",
+        "title": "Samsung will invest up to $100M in an Oak Ridge nuclear reactor",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTXEtby1Ob25NMVNjLUdXZGhONUM0aUZfVG5qOVNmMDNPcXg4Q3ZCaDNGaDd3MEtBUEhJWFJMZGc0YVQ4S1JMNXFuN3cya3Z3NFMzVUtvNUhfaEJTRmpjM0d4OVRINVZzV0p0YTNFYlpOeHFfVzdCekxTMElNeno3d3M1bFhuOG5sM21FbzhQQl81VklFTkpaVEpPOURlSDUxNmlLNmtLR082SWViUDRJcUNlNXlyZEUtVy1oNmUtelVmaVpDVm1DeURSa2o1T2s?oc=5",
+        "domain": "knoxvillenewssentinel",
         "language": "",
         "tone": 0,
-        "seendate": "20260922T013611Z",
+        "seendate": "20260922T090600Z",
         "source": "GoogleNews"
       },
       {
         "title": "Next-generation nuclear power plant proposed for Aberdeen Proving Ground",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeG1wQ0lIdjZPanptMnl5VFdxWWZpNlgtclJXS05xdFlLTTlFUEdaeGdmZlZLdjExVjdfZTVHeTVQV3ljWU9KOXFMcXlscllrM3VjLWxTRC1Da2x2WHdNU2xCcDU4aHdJQ2dOR1lSSXNkRF9WODNPMkRGckRYdnhlM2htZTR1ZnQxRTRuMkFEZUo1TmZLRHFwOXY5Z2kxNkpBR1E?oc=5",
-        "domain": "baltimoresun",
+        "domain": "baltimoresun.com",
         "language": "",
         "tone": 0,
-        "seendate": "20260921T212935Z",
+        "seendate": "20260922T032749Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Is New England Ready for New Nuclear?",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBVTUM1OExiMFA5RUlRZXNRYzlaLWhkdFBlRlVRMG5rWklFZkZxNEZ6SUZMMTN2QlVERkNaTFZGaHg2OTB0SU9JMG15QXJVVjFKN0NuNUNfazVKSDlZaE1kbFpPR0FiUkVBbFl5QzV2RTZQc1JwVzlieDczMA?oc=5",
+        "domain": "rtoinsider",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260921T224632Z",
         "source": "GoogleNews"
       },
       {
@@ -332,120 +413,39 @@
         "source": "GoogleNews"
       },
       {
-        "title": "EXCLUSIVE: Google Is Racing to Secure Nuclear Power for AI—The Fuel Problem Comes Next",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWnphZ3ZnQXo4MFdMMDRLS0YtOEl4dGRlWHJIcnVXc3JhZUpoRE8wSjVFb3dCQ3VRc3NpUy1feGZUQXBNSk1yRTZmSzl0RUxhVGVYenV5Q0pZc25YeWQzRmJGclVpZVNBdlgwNXlJOFY1X3k2WnhTdmJmaHNLZExoODZzZHludlRmZW1LVG5nODNQY3BsZEY2U2Y0alRvTDdyUEVhYg?oc=5",
-        "domain": "yahoofinance",
+        "title": "Newsom to consider bill on nuclear power plant expansion",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcUdwcHE4c0h6WlMzTVpfVDZVRE5yUE5aMzM2OWNOSzdrM1NKZW02aTQ0OTZwWTY2Rlp0WW5RZy1mLWd1RVMyVXVsbjlEUl9sRzJTdWtnR3NwQ1ZYMVJxVDd1NlFkR0hOODFNbHhCUVNpOVNNcE83LXZuaW5LalJUYXNtdmNFS2tLd1VMTDB4WTFkVUpLMW1V0gGcAUFVX3lxTE9ROWxtM21jVzFHTE1zMVpYa3ljaDlDeXdkMTlyRlFlakg3bHRHeVJuYkNaYWNYUnh6Nms5TTgwMEE5dXFoNHNuMXlaZU5EdzcwVFBZcHg4WjdVWGU0WGd2aGs3bUp0ZjdQOEtaN3FqcXd2LXJ6cHQ0cjBMWVQyUEc2Z3NrM1JodlNtSnNNdEFMVVNhSk9TTElSTVA3WA?oc=5",
+        "domain": "thecentersquare",
         "language": "",
         "tone": 0,
-        "seendate": "20260921T183028Z",
+        "seendate": "20260921T214000Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Mon County lawmaker expresses caution in pursuit of nuclear power",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbjhtYlh1VWotRHlkeGlraXVoWEs3Nm9hWWd6akFXdVluSFpEbWppU3hicm9wSTh6bC1oZTNHeUhHcnl0VGVIZW5mZFFna09VdGRPQ25sbndYWE9yRFhISjlCU3FCSmNNYTN4Yy11QnlTd01OazFhVktCU19nbU5td1poNHVlcG9NRy1YU1E4dnoyVlR1dFZETy13?oc=5",
-        "domain": "wajr",
+        "title": "Company to invest up to $100 million in Oak Ridge nuclear plant",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaXc1YWhoVTRoc3M1NmViVXFabXVnR3VVNHpxSUloT0VXT1hrelkxOU9oSng3a1JlUVNjaXdtR1k1WFhiSmJJbURXQnVjbzBnSk9rT0VzMlltTkM5OVVTY3dxVGUwVzRPSU9sai1ZZU9JVnBPSWZlSG1uc0huckJDSlk5S3Z2VnFMMnotSEV2eEtGWXJWY1VINUZLOGU4U2RVOG4zMmtkcTdpTmxmZkVr0gG0AUFVX3lxTE1UM0w0S2NURHpvQmJMeG1yRXI5QUFBWGs0cnMzYnBmdWRRX3NObkk0dnFHS3dFNWdpZlJKU0lvMUFaZlgybUhMVzRGY1Z6TTZ5WkpWZkw2SmdUUUFhMUpKZ0JGcFdNbTJsSmdaUTcyT09CRUJFbHpCSGQwNzlPYUJkQ3hycGszcHQ4bFM4dG1wMFEwTmpMLTFHb3F6aVB1bUQ0eGEtNHBxVC1KTDA2TEh3VEU3RA?oc=5",
+        "domain": "wate.com",
         "language": "",
         "tone": 0,
-        "seendate": "20260921T191054Z",
+        "seendate": "20260921T175758Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Nuclear-spin swap extends room-temperature entanglement lifetime up to 240-fold",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMUVCZkhQYXBuSnBueVVJbTBrT0Z5UkhLZ3JDMHpkVVRtMk15N0RJVUtjVnFVcG53dGVyeGJCaVZJQ1QzN3poMks3M2l5SmpXVVVtNi1Eei1EOEY5cFZEZGd6QUNqRml3dVVaUk1SSWg2bmhEWlR0SDhIQWpCaFAzVHVkSQ?oc=5",
-        "domain": "phys.org",
+        "title": "Letter: Choose renewables over nuclear energy",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLXJqZ3UwVWRkanFibzBEYk5LV3h6VkpOdERfM2QtcE81eWV4QVhjaTV0SElVa05LTk8xZWZBQ0VjWXNsYmFNQ3pFSFI2OTF6eEpmRVpkdVpuRWVhWmZDZnBhV0pmaGVPVVZ2SUNOeng5dFBseXRfZDBwRjVTaVROLUtIUE5nbzJ2SF84aUdqOEduZjJWWkotX0owYUlCemRISTRTM2dIcUVaYkI5ZXZUb2ZVU0tUQzEyQXNqbVZfZGdyRWVBVEY5RDJJdnVOVUdzNjFr?oc=5",
+        "domain": "thedailynewsonline.com",
         "language": "",
         "tone": 0,
-        "seendate": "20260921T164008Z",
+        "seendate": "20260922T060000Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Why Nano Nuclear Energy Stock Is Powering Higher Today",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbnFnZU5lVHEwam9nZGhhaEtOVFZzbTVxRFV6X0lFSVNfSmVhMHFMRGx6SGNteXBKTVIxRnk1ZGtDVmpBRTF3LVdRLTkzWHJITTRHcTZmd0hZMm9FOTJHTk16bHc2aE9GaU9hdnUxVlZEdEdqREc5b1lxRGlya25VRk9oTFNKdktDSzlaUkpDYw?oc=5",
-        "domain": "yahoofinance",
+        "title": "Onslow County to celebrate opening of Enrichment Center with public open house",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVk9wTHhxWGRheUNlcVJQRzRFZENZeHp4M1hQNDJvczA5MlMyWkgzZXdaR0d2cE1Bemk5QzB2VTBrSXJ6SlA3eDNpSFc5Y0d0SG5TbkNWZWNFNV95TUx6cXhOTElUVFRPNEU4LS16Rm1uRWlQakpSQ0RIMGNicnRLd0FaSm9SUjBvT2FaNnR5QTFoR2dfS1RRanJ0bUVkby00a244VmYyYXc1ZVVm?oc=5",
+        "domain": "wcti",
         "language": "",
         "tone": 0,
-        "seendate": "20260921T185059Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "United States Opens a New Chapter in Civil Nuclear Cooperation With the Kingdom of Saudi Arabia",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNODRwRnY0U2x4Z1pfVUowS3ZnQm55Wk91LWJHNHAyc3Bya1VkQk5XOHdTNUhpNThzMG5tcGZ6RW5kNDh3MXNqTkczMFNjVnpyQ2ZBTHNLLWQ1Uy1aSmZlTl9rR0R2WDQ1ZjQ3eFdHNXV1VTRmQThZSE9XVjBzYkdESUlSYzBWaG1GTDNzTHVfWDV1QjBsYkttMHFWYXczS3ozNC1KZ1oxdjU1dnlwejh5TtIBtgFBVV95cUxQdDFMYVlZS2ZsQk4xeWhnR09WT2o1TDF5UXBNX3lvejg4RWJ2RXg1eVM0THlfNUx3NnBOTWwxZ2NXQ3J4RlVNNTR3REoxRU9BOEdWV2wtaWlGNENkeHJ2Q1FKYjRQaEJnekRHM2wwVVFEc2hyOEpNT1EtSkE0eFpMTURRV2dIOXNnY0lfbC1uVjlDcjJMVEZTUkVoNF9QMWpMenRRNzFCQnJDRjVIaURQSzVYMVhPdw?oc=5",
-        "domain": "thenationallawreview",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260921T211425Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Lawmaker sees cancer-fighting potential in Kentucky’s nuclear future",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTElBWGg5dmpSSGl5X2VLd3ZqRlVKUjlrQTlpUzBicUFNTHBFQ2tsY3p4U2RDMHIxY2doM2NJaW1DVzY0TzFWMjdGYmNmeGVGdWNjWmdxa2dmdUsyck5takpJQ0pTbE9wRlNsYkljU3A3RjVQWnZEb0szVC14SENSU2llYl9KbWhEWGNRSFJjaENodFBnc0REZlZtTFh0YXllWThfS2ZxWdIBrAFBVV95cUxOcVZjclBwNEM1SkM5V19udHppbTJLWmJnVXotSHVqM2J4QUIza2YzTlJRNkVWLTAySmQyN2dYR1c5T2JmQWYzeUtYT216RHFoazROZ3lCYVQ3dHVaSHdTNFBuRXNsMGRIRFREcUk2WUpmcG9WSkEwVjZ5T1h3ZldsZ2plWDZPOFowWTdTcnVHSjA0WVdwM3BMNFdVTTVGVXZwM2FHbjNJNjE4b3Ut?oc=5",
-        "domain": "fox56news",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260922T000829Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "​Urging Pivot on North Korea, South’s Leader Calls for Easing Sanctions",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTjU4UFd6TXlIOGl3TzNMM1dpWnM1cjdYMVRucWZLUV9yendTUXJlOHdFSkdhX2JyZE5OaW1oc1d3a0NtZ282aF9tbDFpT2VvTm1hZGg4NFJWaU5tX1NiSWhkUzUzQTE0d2NwVFhvN0J5S0tzc3BNMDR1dmxWME11by1JaFJkeE9Ea3ZLX2pqYzZpT2hockRDdHdCVXVORFI2TVMtTHFReXlXRVUtemJV?oc=5",
-        "domain": "thenewyorktimes",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260922T013934Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Google Backs Nuclear Expansion at Georgia Power Plants",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQUdxd1lRNU1UOUlQT05jbFpROXFZMS1OcEdHTE9rbHFKdnBRSUF6Nkw3ZlNlN3pzanhCN1VpSVpfd3hUMktTcTlYSWV2V09TSmNlY3MzYzlDM0xIa1FZVERxc0JTU2JWLTdnMVYwSDE4R2NWM0hSSi0yc1hPVERYcnpEVVJ1ckcwY0JPand1R2xoUXdxb2lFb9IBngFBVV95cUxOMkdkUVVIdWNJalQzNVZDSEx0NnpSWW1IeWx1YkFpaGNIYmdibC1CQnBubUJaMUVIcVVFTGRBTVVjT2xzTmVMTjhmOVBQVTBmT3g4aXd4Y0RXV25Wd0EwOThDYmlJYVUxTlg1dmRnQ05HTWp4RVpPY1RKSnN5VzJrNkY2cU0tUTExWmpFbDB6bG9FQTg0SFFRUm5ZbGxmUQ?oc=5",
-        "domain": "crudeoilpricestodayoilprice.com",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260922T023155Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Military approves almost $1 billion for F-35 and nuclear missile programs",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYnRaaVgxUHRvczVEcUc2T2RobXBPYW9lbFdJTlRqNkNnNUFya3F4QnB2VWlNZE1fbVZLbXA5aGJoTlVabkRERXVFSW8xWmkzaHpYbE5IOGNHUG5qZFN3NXM4QURROFY2d01RX2wzVTZRTDBfWTVRNVVrbTlacHZpeXE4NmtDNzVYOWFaVFRDdXVBTU10cERJQ1Mxa0xkVmdjbG1CaHlFdVhfZlVqUnfSAcIBQVVfeXFMUE1aV1FuQ1Nhb21rWW5HeDJvT3ljRWpRZmNrdm5uMzlVV0VrU2NyS0pTRE80SkxVajJoRmZWRlRQdXFBVFpVQzlKeWZXaFNpb1Fuc0Y5Q292VHJoLTgzRDRoRXF3T2JzNTZvLWhSei1pOE13SDR0QnlMbWhpOFI4VnpRMGFhOGpkaHY5WEpOYXAwXzFYUms3enl3bXJkQXVtZkFaeTVsMDhfbnVIZGdaczlWQVY5cG9ONjhlSmZzWllTZWc?oc=5",
-        "domain": "al.com",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260921T161700Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Nuclear sirens in Brunswick County to be tested next month",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRW94X0lnTlhGelRsWjBveXBhV0RJVDMtb2pVYm1kSFhRclZ0YlhJQkttbFNERHlSU3BiQ09zRS1iejh1cTJuZlhCa0laUzQ1ZHo2djJHcUxzTWV6aVNYLWpfbmVHbVdkUFVySWdtcnpoNEE2SUhpRDBiZ3p5ZUNKc29RakROc3VoSnlna1V4ZmU0VW5lT0pWdkQ1eWxvemVTNnNZbVBEcFpSWms?oc=5",
-        "domain": "portcitydaily",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260921T204349Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Uranium Stocks Are Rallying. Why NXE Got Initiated At Overweight.",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPenFPN3RuQ3g5ZHl1V1N3YzVrQ0g0VXZnN1ZTRFBhZUtKSzZjclNCR1lFTjREY3MxVVRyT3d4a1ZVMWhETzRwVDBVUmRVTUJmQkdxUXBYbkZJQU1UNHVGZlNDcmZSdmxocGdUeGpOcHJ0MWRiclBYb05YQkFYeXlxbzJaSG9Qamo1aGtsUGtSYnFTbE42Q3czZWZGNA?oc=5",
-        "domain": "investorsbusinessdaily",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260921T174400Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Brunswick Nuclear Plant to test warning sirens",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPU1dLQVhTZVRXOGUxU1ZodThoYVlzTlhpMnN0bmtJMnd3djJFbGxkUlV0a1VGaGVlck93N2RjSHQydjhPREhuUm1DTmJjWGtDTlZDTm12YWJyai1OY2FQanExNkZCLUM4dVBDdE5mbGN3emsyNy1FNjdLMHRiRFNXWHA5LTBzV2hSOHc?oc=5",
-        "domain": "wect",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260921T173300Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "TerraPower Is Replacing Lead Contractor On Its Kemmerer Nuclear Plant",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUl8zSVNwV1J5ZjEzVGlNU3lzSTBqOUczak5vRjJDZWtwS0V6Q2toTzQzdkpfYkhHTjFUNlJHMjhnT3BZRjZETjg4aHBFeV9sNThXT3lJbEh0VnFRMUdrdWJWN3FVTHhkazhwOHQ4VjRPU0t1eklNX0ZKbEVMaElPQU0zZjNJNnNRTDQxeXNBSkQzelNraFhwcnE1R1ZQMlFPUERGbDhLcm1NZkI1eHQzYTROa0xJTVAzbUE?oc=5",
-        "domain": "cowboystatedaily",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260921T190100Z",
+        "seendate": "20260922T062908Z",
         "source": "GoogleNews"
       },
       {
@@ -458,30 +458,30 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Rapid expansion of China's enrichment capacity at Emeishan",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1XQTZPdDFDdUtMb0c5QWViSXd6YzBWNmhURjlWaElxXzlZVGlrZ25ISVRuODlLNWhZSWdSamluTTNZZWREekk4UF9DcHlDeHhkeGl3aFA0RzB0WkNyeG8zbzdScDV3ZHlTV3NveXFmX3RRbHNaQUt6dDNPbjk?oc=5",
-        "domain": "internationalpanelonfissilematerials",
+        "title": "Nuward targets 10 SMRs in five EU countries",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRHRDd0N6a3hNV3M1SGd3TkdDdU0wdWlNWmNNRnBCNmZaUk5CNERzX0NzNVgwdFY5Z3BiWjZ5QlEzMGJWZVpCRWpiMmFyd25ZTV96MWk1OG01aXNhLU5qMWV1NnQ2TjR2eVJadU1pYUxrdjZaTk9MV2VkMHhZZnZJZHF6a3A0UkFVbm9jZm5tZmhfX0pqamNYMXZn?oc=5",
+        "domain": "worldnuclearnews",
         "language": "",
         "tone": 0,
-        "seendate": "20260921T143747Z",
+        "seendate": "20260921T150555Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Officials are meeting in south Louisiana on bid to develop new nuclear industry. See the latest.",
-        "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNay1KdnA3eVF2MGt4bXZjeWtKcGdMVVhqQVBwSk9QdHJOMUdWVk5UQi03NVc2LTd5cVo1RTVaVE1sMnc1QWtiSUdsQzBkVzBJcF9JcUJreGw5b29zaFZjdTQ3TTFBMjJJemNlZnVhb1dhYjZkY1JQX0J6V2p4LTBsUkRNLVptdVJVLVc1Tkp3YnJQUENEYTQzYUZfUXhlRFBoWEJjRFBFMXY4SWtseWFFSmVOUzVzNUR1cDdtZ094M29XUVhwUUpyUHVObkNITlhvdU9tN1NqWmM1RG5scWhCZEo4UmQ2SnR3YWItRVpDb3NKNnkyYlAxSmdVVWRqbnA2ZkdBNWEzU1Y3YmJ0ZHVSd1JQLUx6c2ZZTHlz?oc=5",
-        "domain": "theadvocate.com",
+        "title": "How Much of a Threat Do Heat Waves Pose to Nuclear Plants?",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTmZmTDM4Y08wbGdVcmZ6T0hrMnNVODdYOU1QOVIxY1hlbmhKemFDeVg0R0RPZ2JPMjREWXV1ajFTRXc4d0NSbHhWYzNjSTcyMk9nNmpkSTVkYnFadkdoZzc2MHpBTGlSSUR3TlRGbmRXZ2NJUzdvSkJUSnA1YURXSGt5QzAyaWpKeVJrNHZ1NzU?oc=5",
+        "domain": "theenergymix",
         "language": "",
         "tone": 0,
-        "seendate": "20260921T183619Z",
+        "seendate": "20260922T013611Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Why Nano Nuclear Energy Stock Is Powering Higher Today",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPM0ZKRElub0lCQ0JGYlRSczFaeGJ0SkhrWXlZcXBHdi1maTB0R0g4Y09OZHNrM09pNzJUNFFlUzhvVmZCbFliaGJ3WUdiOC1YV2FmVGNGakI5djlvUF80SVczOGZzdWRDT3pEVTc1VXBnUGg3aVVRcUwxSlZXanRmcVNTNEdDMmQwUFFBLTRscE5OS1ZzWkcwRw?oc=5",
-        "domain": "themotleyfool",
+        "title": "Incident at Palisades nuclear reactor under review by regulator",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOV1RMRy0yUWZhYlZobEhrNjlwTHpCQW9pNkVRSzh1VVpLQm1wc1V4T0VDc2QzeWQzcU1wQ0VhenhtWHRSLUxzR1pDQU94bnJlTGNMU0JZWVlEc0JHTU5zR0t0VXRqNlRhWWFzaTVVWTF0QkRGV2NpNmZ0bEt6RlNpeUZWNEc1U3pZTG15SjZzUFBXZmplNVhMS0lFUzhpM0ZHOFE?oc=5",
+        "domain": "thenationalnews.com",
         "language": "",
         "tone": 0,
-        "seendate": "20260921T193000Z",
+        "seendate": "20260922T000437Z",
         "source": "GoogleNews"
       }
     ],
@@ -571,6 +571,15 @@
   "entities": [],
   "events": [
     {
+      "title": "TerraPower, Bechtel part ways on Natrium project",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZGdhQ1FVb1dWZTVrQ2lKSzk1SE1VX2tfdDRtR3liRzF4UjBuY1RSTmJXS05JLXJNOWZXTnBOWGNwMGJHWi1xZkwtbEtlNVRTbFFXQzluNTFQbW1NQ2l1dEFQM0d2QmR1Zm9aOWdDOVJkNEhmX3pUMFJiNjVzd3VRQnpOblVHNUZEWjdwdDhGQQ?oc=5",
+      "domain": "americannuclearsociety",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260922T054842Z",
+      "source": "GoogleNews"
+    },
+    {
       "title": "What Is Criticality? (And 7 Other Misunderstood Nuclear Energy Terms)",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPLUYwTUlRY1FpYkNCNUJmb2RWbWZUaFFKa1BkZGF4a1lWWlE4ODh5STIzMlVVaE9pcDdfM1JIcy04OHNkX29hU3NPcVhXS2dMMDRocnc0T0N2LWU1eUZaZzZpVjRjTHpzVzBLUTRwMDR1bmtaVVhGVVg4S25ES1JtSVFCbVF6eGpJZWVzOFVPOW1CQ3R4bDVkT3JKRWExRUE?oc=5",
       "domain": "departmentofenergy.gov",
@@ -580,12 +589,12 @@
       "source": "GoogleNews"
     },
     {
-      "title": "An Unused and Divisive Philippine Nuclear Plant Awaits Its Fate",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcnZIQUFld1Z6anhYOEF0MGRuMHFEeThvai15MEUxUEdaUGNEZzRyZE9UcGtHb0FYOUVIU2FtV0FxcmFfcDY3Z25WQWJxaUNHY1ZGR25GSl9md2phNXdZaDRMWW9UYXhuQjc2YjY2Wnd4Rjd3WFA0Sk5vQVJLSV83SFB3OTlkdlRLdG9reU5TREZ0Y0U?oc=5",
-      "domain": "thenewyorktimes",
+      "title": "Nicaragua Signs a Country Programme Framework (CPF) for 2026–2031",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNX0xfS0s2SEIzN1NwZ1VQdElrb2t2STRNZ1ZwcGdwTXNjRV9TY09YVlVBQzZZT2ZRaGY0U3NrMGFDRmloWk43cDBYR1ZfYnhwc203Nmx2QXZQVlhUbThpdEpnZHhGTm1aMmxwZW5TREE4dEk2M3Vyc3QyQjVaaV9UZ2pvRERmak03LWVmUnNxQjBxWnBGN3JSQzFEeFc4a1NYRVE?oc=5",
+      "domain": "internationalatomicenergyagency",
       "language": "",
       "tone": 0,
-      "seendate": "20260922T045013Z",
+      "seendate": "20260922T080129Z",
       "source": "GoogleNews"
     },
     {
@@ -598,21 +607,21 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Nuclear Regulatory Policy and Presidential Power",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNN1BtTEk1dXpoVDNkaG1wNURDeUkxeE9SQzhybjVOSjJLX25FTHdmamk3VU5BX3A5MmYtQ3RZdUUxM2N5TFl1UTNYaGdJMFhoYzZQRTZqaW00c1dpWVE4RG1mUHV1YVpYOENFOUlaQ2lpS0d0anNUUEJFVUsxcExIVWxqQW1mYnZrSlZFT2dqSVAwTU5xRVFPUnZLTDB3RDQ?oc=5",
-      "domain": "theregulatoryreview",
+      "title": "An Unused and Divisive Philippine Nuclear Plant Awaits Its Fate",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcnZIQUFld1Z6anhYOEF0MGRuMHFEeThvai15MEUxUEdaUGNEZzRyZE9UcGtHb0FYOUVIU2FtV0FxcmFfcDY3Z25WQWJxaUNHY1ZGR25GSl9md2phNXdZaDRMWW9UYXhuQjc2YjY2Wnd4Rjd3WFA0Sk5vQVJLSV83SFB3OTlkdlRLdG9reU5TREZ0Y0U?oc=5",
+      "domain": "thenewyorktimes",
       "language": "",
       "tone": 0,
-      "seendate": "20260922T041241Z",
+      "seendate": "20260922T092013Z",
       "source": "GoogleNews"
     },
     {
-      "title": "A Safer Way to Bet on Nuclear",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOelIwVHJTT0VkWjFuSUNDbHlzVnNjOFBwLU5ILWxKd1Z2RTRfNnBQeUlaQkRlZVp0cnpieEVBcmptWm1mel85OEV5UFhtNmNnSDVQeWx6Tm9lM1BUczFGc3RJWk5qX1JmbzhOOEliUGx1bVZiZ3VaVTgzcEVmc28xM25n?oc=5",
-      "domain": "wsj",
+      "title": "A $50 Billion IPO Is Good News for America’s Nuclear Rebirth",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX1I3REI2Y1QtbUhuTUlab0FqRXVjZmR3NzVLQVlXSno1WVUycUNhMXlNNE9ia1VHTVA0aWVybG5GZWlaekhxSWdLdGtxWTFMdWczbi1BOVJGUnNxTTc5dzdISEZMWVJUYVhjLUFGeUxzRGVlYjlqLWFya3FiUVpTeE1jc3JpVHlMelMxX2NFVktRMUloM3ZyV29icDZoaTdQTGE0bmtRUWpBdENtdUoxNWhQd1JaRXh2?oc=5",
+      "domain": "bloomberg.com",
       "language": "",
       "tone": 0,
-      "seendate": "20260921T093000Z",
+      "seendate": "20260922T093004Z",
       "source": "GoogleNews"
     },
     {
@@ -625,48 +634,21 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Finding a nuclear niche",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORnlMZm0wZW0xZGplU1c4UGVBblRoUTVKanZZU3NKWHJjcVZTdUhsZ3kxdmpLTXBldzN3TFZMM0M1WktzMVBPRzdyWE43NElKWGdldU84YmlCcWJUcTJ6bVZMUlE3Y2lHcDlEWHMza1RVZnNXM0N5WVgyZkQ0cmlZMC15N1ZMNEZjMFJ3ckRpSjhUWUJDN29GczNKcFg3TXJUMG1j?oc=5",
-      "domain": "universityofsouthcarolina",
+      "title": "Nuclear Regulatory Policy and Presidential Power",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNN1BtTEk1dXpoVDNkaG1wNURDeUkxeE9SQzhybjVOSjJLX25FTHdmamk3VU5BX3A5MmYtQ3RZdUUxM2N5TFl1UTNYaGdJMFhoYzZQRTZqaW00c1dpWVE4RG1mUHV1YVpYOENFOUlaQ2lpS0d0anNUUEJFVUsxcExIVWxqQW1mYnZrSlZFT2dqSVAwTU5xRVFPUnZLTDB3RDQ?oc=5",
+      "domain": "theregulatoryreview",
       "language": "",
       "tone": 0,
-      "seendate": "20260921T162855Z",
+      "seendate": "20260922T042704Z",
       "source": "GoogleNews"
     },
     {
-      "title": "Google to Fund Power-Capacity Increases at Two Georgia Nuclear Plants",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOXzhDYmJrTHRmWGNFaG1VRVhtV0NBUEhRdlhia1ljcWxUdFhiWGZGQm9mYjI2Q0hwQUswcEFORnp6TVdoMlk4NlhkRmN2TlIweUZHUHBtWGpOZ192NHc0TjBQWlRnRUNMSzNuNXFiRGc1eGdjek1UbUJ1R3Z0VTAtN2YySmFLUkwxWnNnS0ZtV1BFbGx2b05UaG92R21oSThfQk5UdDF3ajdMX2JyWWc?oc=5",
-      "domain": "bloomberg.com",
+      "title": "Nuclear power is back on Southeast Asia's energy agenda",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONXUzMXZOVlJnbm4tcnpKZ0laZF93LU1xcjdlck42UHpnZ1YyWlYwbjVMUnBwZXlFNGpfZm9DMkVBQm80QlJMSXBzb3hGeDZEOW1fQy1UUWxqSzY3XzdnTGhpSzZUSHVZMU94TW45NUFQeUVHNURoWl9tbnpFMEgtSVQ1bDI0aHFXLUJPZFk1ZFDSAZABQVVfeXFMTTcxOU56QzVIVGw5dGNQMW5RbXhXY2RscEFLZjlqTjNMS0tYOE5RcncyekgtWTFMMUJOTS1VV0ZTY05VeUFMZG96dFlJUkhRNGFrbzdETE1OakE5M2FyYy1wWF9HSi1kbTZzN19fRko4dUg3a3VsXzNCTnZRNUhtVFRQUWpZeGhsdXBWanZ5dHdN?oc=5",
+      "domain": "dw.com",
       "language": "",
       "tone": 0,
-      "seendate": "20260921T234016Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "South Korea's Lee tells AP he advocates step-by-step approach to North's nuclear disarmament",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTnFZcDQ0VXZKZzZOV0VSekNRaUNsRUJOSkJGak9PUTBydWwtWHBlbUUxMnJKcGNSOXVYd1BQek14TndKR0Rhb3RWMVEyTDZoQmE4QkJVUlk0REl1d3RqdXpOSU5NOFA3cVdhNUNmSHRuaWNzQ0diczNydzRWclVEbHJoSXh2dHU0UXVLMHpLcmIwUlJHV1E?oc=5",
-      "domain": "apnews",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260922T032800Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Lead contractor pulls out of Gates’ Natrium nuclear power plant project in Wyoming",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUi1MXzRWUW9pOXJtOG0wV0VTaWpnRXEtQy1zWVVIWFBDLUh1a3hOc0RuVnhiY2dCOXFZNkNWRGhPUmk4YllYb1RYWVEwcnZFejVQd0gzTjhES2pILWVSd2ljdzNYb1ZtUEZUUHMzNGp0VTM1dEZFalBsVmg4T3l6ekVmaHBlYjh5eHFiX3Y0ZHNWMlptYnk3dEVKOFl3TWY2QW1hQw?oc=5",
-      "domain": "wyofile",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260921T205550Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "390 MW molten salt nuclear reactor to power US Army's Maryland base",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVXNDZjNJQ01HbFJHWHIxUzNUZjZ1VHB2Zkg4RktsSFBjQ2lSWjhSZ21udTdsRXFlV1ZqelQ3NjVKcUpueG1VUjllcTJMZ3NIa0RwNV9jTDJJdXUzT3E5WnpfTmZEVEFtTmNJQkJuM0pjYnUwazNHQ3NrQTZldlVWN0xqb2RiUkZVZER6a0hfZF9BbWlIWHVta054TXpyNlBSOWtEUWxGYzk4b3N3NHdqcGQ1akw0Tlp1d0U1YnluVQ?oc=5",
-      "domain": "interestingengineering",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260921T174900Z",
+      "seendate": "20260921T231050Z",
       "source": "GoogleNews"
     },
     {
@@ -679,30 +661,48 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Kairos Power gets up to $100M from Samsung group to build nuclear reactor for Google",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRm1uRnFISWR5YXduZHUzbjFsdlFNdU9SdldEQjl6ZHZRUTctMXJNalZxSFV2OFk3STZkVkxZaXEzcWxfVkNoazVKbE9vRXR6N3VUVnhtODZneEQwT2VubVZya3lRTFdTZXZxVDZYM1NhSllGNXFnaWJLbEpLcVBZUnZnVmRhTlZTakp4T0w3el9MZjlPRTBtQlRNbllzZ1RJWFRGWEVOYVlGR2RQZXZfdlpBbm5FSnEzNVE?oc=5",
-      "domain": "techcrunch",
+      "title": "Exclusive | Energy groups warn Hochul to restart Indian Point nuclear plant or 'the lights go out'",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSTZqVzhyTE5kc0RFMkZ4LVBaaXBHakZPejNtZUcyNGtqREwtdUF5MzNHcnkwYzBHUzYtY2FvUWZkSWpRdzJTY1VJTzZWNmdFbHJwODFIbjdxU1NaalBiOXc0eG9LU2tLUWpwOFR3WE9oalBzUG41SXU5X2k3REdfWWFoSlJFOW1vdzNsWWtWZnJVbEZnb0pEcHBOcktpNGZobzdhV1RPX0tjMWxtSzZ1NVVWTjBVa3pQRXV6aTlObUc?oc=5",
+      "domain": "newyorkpost",
       "language": "",
       "tone": 0,
-      "seendate": "20260921T182305Z",
+      "seendate": "20260922T100000Z",
       "source": "GoogleNews"
     },
     {
-      "title": "Army plans small nuclear reactor at Aberdeen Proving Ground",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQX3ZEMGU0a1BnajYzczBzb3lkRm51aWRFUDBkcTFyR3BKbHRYSlZ2cnEyMnFaZXNEeXMwd2g3Ti1FeHZrOGNWajlsSkVaNjU3WlVRZUZKd0lrLTFJSVpjTlQ4dTVualM4YlVuNFVWcVJoTWVMVlJPX0VUUkpRRmV5RENyQzdNSlphVTJCN09lV3BfWlExeWthTDlzRDNObFJ6VWJjeA?oc=5",
-      "domain": "stripes.com",
+      "title": "Georgia Power nuclear reactors to get huge face-lift, paid partly by Google",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTHU5OXV3Vl8zV0FjR1hnWXpqV0NIZXpHLU5ZRjloZFZzNmhjbjRPcXZ6RzNsSy0zUUNMYUVFVVdpd3J0dzQwYmV5UFE5cEE0V0M2N2IzSExPX29vdFh1cEM3UnN0aWhialphLWVtOE4wRWI2RHZqM29PUzRkdlVkQzB2TkhfUElObVZ4Tk5CNFZ2MThETUx2elBtRnpaT1RrdE5vUWJQS3o4czVwdmZQZ1pETWpTbGJSWk5UMXpRdw?oc=5",
+      "domain": "theatlantajournal-constitution",
       "language": "",
       "tone": 0,
-      "seendate": "20260922T031914Z",
+      "seendate": "20260922T103229Z",
       "source": "GoogleNews"
     },
     {
-      "title": "TerraPower, Bechtel part ways on Natrium project",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZGdhQ1FVb1dWZTVrQ2lKSzk1SE1VX2tfdDRtR3liRzF4UjBuY1RSTmJXS05JLXJNOWZXTnBOWGNwMGJHWi1xZkwtbEtlNVRTbFFXQzluNTFQbW1NQ2l1dEFQM0d2QmR1Zm9aOWdDOVJkNEhmX3pUMFJiNjVzd3VRQnpOblVHNUZEWjdwdDhGQQ?oc=5",
-      "domain": "americannuclearsociety",
+      "title": "South Korea's Lee tells AP he wants step-by-step approach to North Korea's nuclear dismantlement",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTnFZcDQ0VXZKZzZOV0VSekNRaUNsRUJOSkJGak9PUTBydWwtWHBlbUUxMnJKcGNSOXVYd1BQek14TndKR0Rhb3RWMVEyTDZoQmE4QkJVUlk0REl1d3RqdXpOSU5NOFA3cVdhNUNmSHRuaWNzQ0diczNydzRWclVEbHJoSXh2dHU0UXVLMHpLcmIwUlJHV1E?oc=5",
+      "domain": "apnews",
       "language": "",
       "tone": 0,
-      "seendate": "20260921T213846Z",
+      "seendate": "20260922T065200Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "390 MW molten salt nuclear reactor to power US Army's Maryland base",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVXNDZjNJQ01HbFJHWHIxUzNUZjZ1VHB2Zkg4RktsSFBjQ2lSWjhSZ21udTdsRXFlV1ZqelQ3NjVKcUpueG1VUjllcTJMZ3NIa0RwNV9jTDJJdXUzT3E5WnpfTmZEVEFtTmNJQkJuM0pjYnUwazNHQ3NrQTZldlVWN0xqb2RiUkZVZER6a0hfZF9BbWlIWHVta054TXpyNlBSOWtEUWxGYzk4b3N3NHdqcGQ1akw0Tlp1d0U1YnluVQ?oc=5",
+      "domain": "interestingengineering",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260921T174900Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Idaho is built to lead our country’s next big energy transition",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaTBoWF9lQ0hSZ2NnMmpWWkNNWUFVTkFsZU1ncHZZQTFPX2JwdG8zUEdORTJabDBSdHJZYVJKVW9GQ1dzNHF2VVdTcUN6VzRqSzVrYXd0RmtDZ2VnbFlKMkVqV3Vjd3REQ3IxMERVcXA5S29mYlJjbW4tRE11SVQ3c0RsWFU4YmpFelQzalBkS0dReFFLMGFmTmROTnM1QUt0MVpQUW1EV1QtdG5PVUJqdGRTckpIX1Ro?oc=5",
+      "domain": "idahocapitalsun",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260922T100613Z",
       "source": "GoogleNews"
     }
   ],
