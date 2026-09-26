@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "nuclear-proliferation-watch",
-    "generated": "2026-09-26T11:45:44.380683+00:00",
+    "generated": "2026-09-26T16:44:42.620438+00:00",
     "mode": "live",
     "sources": [
       "news_articles"
@@ -23,7 +23,7 @@
     },
     {
       "label": "Distinct news domains",
-      "value": "42"
+      "value": "43"
     }
   ],
   "live_data": {
@@ -39,23 +39,33 @@
         "source": "GoogleNews"
       },
       {
+        "title": "Saudi Arabia Open to Possibly Developing Nuclear Weapons",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObkxiMDllRFo0cE01T2oxbmEya1Bra2hUcGJHcFEwLXFTTm9mQ3RmdjdOenJrT0tCdVVMcVcxZ0d5QmwzZkNxRWNsdkxJVTJDZW9vdEY0SllpMlNLS1JwRlFBSlZaSGFnTW9LWmpTZWJuNl9sQTlLVE5UbG1WTlUyNTZzek8yaU0?oc=5",
+        "domain": "www.nytimes.com",
+        "publisher": "nytimes.com",
+        "publisher_url": "https://www.nytimes.com",
+        "language": "",
+        "seendate": "20260925T225125Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "Iran will make no nuclear concessions, Iranian official says",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORVpYNWQxeFFCcXEzQTZQdkM1LTJpVWc2RHpwOWtxbzV0OHg2aE12UGV1Y2VOQUN4WHdvOVB4YzBGT0ltckk5d0hDZGZUVXk3YWs0WnA5R2xjNmNBbkhHRzNra2pIQVlLa1pNQ29OV1QxQVdSTWJnaWZEYkVaaXJXa3d4cHVvV1o5VGlpWFRjUG9HVTFoMWw4TFZwNlI4aHJwQjU0UVRuZzJISFp0ZU9YQUw4VQ?oc=5",
         "domain": "www.reuters.com",
         "publisher": "Reuters",
         "publisher_url": "https://www.reuters.com",
         "language": "",
-        "seendate": "20260925T203945Z",
+        "seendate": "20260925T163600Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Saudi Arabia Open to Possibly Developing Nuclear Weapons",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObkxiMDllRFo0cE01T2oxbmEya1Bra2hUcGJHcFEwLXFTTm9mQ3RmdjdOenJrT0tCdVVMcVcxZ0d5QmwzZkNxRWNsdkxJVTJDZW9vdEY0SllpMlNLS1JwRlFBSlZaSGFnTW9LWmpTZWJuNl9sQTlLVE5UbG1WTlUyNTZzek8yaU0?oc=5",
-        "domain": "www.nytimes.com",
-        "publisher": "The New York Times",
-        "publisher_url": "https://www.nytimes.com",
+        "title": "Iranian President Masoud Pezeshkian talks about proposal to reopen Strait of Hormuz, says Iran would allow nuclear inspectors",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVnoyWGZiclVjNDh5OTR4MmdXNGN2cDloOVpXSTdRYk9TMFFBN19BT2VsRWloQmpYNjdrNE5xUTFPcDVmajJKd2NMQzdpN2FuNUJzaWstQVRSMmlpeldWTnNfcXNBNkYzdGtkLUt2VTllUmUyeE5XX2ZGVkRuNTJIeDI5TWZJUkR0ZEtycVd0NnRBV1dybFlkalVXTWZJRGM?oc=5",
+        "domain": "www.cbsnews.com",
+        "publisher": "CBS News",
+        "publisher_url": "https://www.cbsnews.com",
         "language": "",
-        "seendate": "20260925T225125Z",
+        "seendate": "20260926T161312Z",
         "source": "GoogleNews"
       },
       {
@@ -69,30 +79,40 @@
         "source": "GoogleNews"
       },
       {
-        "title": "In Iran, Talk of Whether to Build a Nuclear Bomb Bursts Into the Open",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxON1hsQ2ZkLW5Xb056RmRrUDBKOWJKZjNVaHVzTllkQUJKNnZxSHBtd1NBWGsxNGlXT3V6WnBPRHdyQjAtSzBBeXNGSWJIeEM1NFQ1LTd6bllvRmtQd1pHZEhCSGx1V3ZNaXlFRm9Uckt4c3pLM2NfcWRzMS1TTlVVT21kV0N4TmxMUTFNRzlmejI3d2daWV9CZ1VGNjFKUDdwMjh3LWxqejhPSWFJOUJ4V3BSUnZ1Zw?oc=5",
+        "title": "Exclusive | Trump Administration Presses China on Suspected Nuclear Tests in Confidential Talks",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNOHp1cHpGMHY1M2dCcFlVVUtCcXl1a3l0dUd0MnBJcEIxWlIxZXlGWThyeTdPVFZhdUlCVmRnaTBuR1VRRFV5WHpoXzZXVkRiZVhJRFJ6Rmk3WFY5MndFZ1RtX08tUTl0N0tqN0VTT2l6UGdlSURpdFBRNWh3TERGYkgxbG54TFhhckFzVWJTblRIanA3Vjhhd3o1QzhvMm43TWYyTEhUOVMxNEhEcTJ0SjBzOEVpRVh5TkxqcWJKSmkyT3NuZHhDY2VfNnpwTm1oYVFfUWFn?oc=5",
         "domain": "www.wsj.com",
         "publisher": "WSJ",
         "publisher_url": "https://www.wsj.com",
         "language": "",
-        "seendate": "20260925T171300Z",
+        "seendate": "20260924T170000Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Iran rules out nuclear concessions even if US accepts Hormuz proposal",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xYzYyR0NpT0VDaGp4d1RDOTYydmhUQVJxa1NRVHZ1azRwdGtpQTYyRzlPcGVNRXNDM0JKQmdQSFNoR3dUMHAzUVQ0dmlOTF9VSmc?oc=5",
-        "domain": "www.iranintl.com",
-        "publisher": "Iran International",
-        "publisher_url": "https://www.iranintl.com",
+        "title": "40 years after Chernobyl, Italy greenlights a return to nuclear energy",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTFlhUHRPbFpmX1A1bDY2MmF5YXB3SnZmUkFrbjNNN3ZTeU91Ui03S1AzN002NlVOWUNCanBPLVNxek1RZklGSVk2bE56N1JhdmpQdFZRNUZXc08tNWJZeUhUTkJjUXJXRXE0eFdxVVRzVTdCYXM1OU5lN0dqNy1kRWh4TTltc0ItU0dZ?oc=5",
+        "domain": "apnews.com",
+        "publisher": "AP News",
+        "publisher_url": "https://apnews.com",
         "language": "",
-        "seendate": "20260925T175638Z",
+        "seendate": "20260923T164352Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Advanced nuclear power plant could be coming to Aberdeen Proving Ground in Maryland",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNb0dZOTY3M1NiQzJBajhnMFE1SFAwbjNaVnlDdlNNd05udUdhNHZPbHlVNTZKMWFkZ2lzZXYzZHAyQzhWeDYtNEpHNDIycERUazFJLVFFaDhhckZwQXd6TlZBaEZqQzhnbDF6a2Vib3BCR19pYTJfNUFSQlhfTXN3M3ROalB6Q3Y2UmFvNFB5SlNOU1h5a1NJSkl3eXVtQlNYN0RnMEZPV1pyOVlXX043ZzV1cHJqTHhVUDNnb0w1akFza3I0bVFCRTVzaHRLOHR1N3c?oc=5",
+        "domain": "www.wmar2news.com",
+        "publisher": "wmar2news.com",
+        "publisher_url": "https://www.wmar2news.com",
+        "language": "",
+        "seendate": "20260926T161310Z",
         "source": "GoogleNews"
       },
       {
         "title": "De­mo­c­ratic lawmakers oppose proposal to use state dollars for Hochul's nuclear expansion",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbUdKX29lSTU0Y1BMUWlYZjZaS29Zc2c2a1FpRUNPU3I3aTBuWWw2VERCeUNjSGFSY0xObXk0b2xFbklqOS1DTG5VLVgxS19NX2pjckRiNzZMc0xVNzNXVUlhS1FBVDZzTmZrMExhNFJ6dVVMdlNJUm85a0hNNFY3cm9ZQ21nRkdKRVhiM1dKdW90YS1wX0tCUlZCMU9ZRlBuLWNOQ1RLVQ?oc=5",
         "domain": "spectrumlocalnews.com",
-        "publisher": "spectrumlocalnews.com",
+        "publisher": "Spectrum News",
         "publisher_url": "https://spectrumlocalnews.com",
         "language": "",
         "seendate": "20260925T230000Z",
@@ -109,106 +129,6 @@
         "source": "GoogleNews"
       },
       {
-        "title": "IAEA and Inter-American Development Bank Sign Partnership Agreement on Nuclear Energy for Development",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYjVuMExBakliV09XQzEtVXcwYzN4NUxkeXlsbUt2XzBRTmVPa3JPaTNTcFV2TzBITmlOdW5kU0tlR2U5LVJlMWlJQUk4bHdadEFvRHhHWDd2bENsVU9xbmNoZVpVUnhqY2NXX1kzX0ZMY0VEUXVfWmRwM1lwb3gwVzA2bGxrMmxMQWwtaGRVOFl6Yk1YSElOVzhoSVlya3QxMzNaUEdnNE82SS1lUWZ0Z1JYTlE1Ri1NZThTUXJuTE1iVTVITGxuc3JRVldKOW42b2c5Mkgyd2hfWE1CNU1iVQ?oc=5",
-        "domain": "www.iaea.org",
-        "publisher": "International Atomic Energy Agency",
-        "publisher_url": "https://www.iaea.org",
-        "language": "",
-        "seendate": "20260925T120201Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "40 years after Chernobyl, Italy greenlights a return to nuclear energy",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTFlhUHRPbFpmX1A1bDY2MmF5YXB3SnZmUkFrbjNNN3ZTeU91Ui03S1AzN002NlVOWUNCanBPLVNxek1RZklGSVk2bE56N1JhdmpQdFZRNUZXc08tNWJZeUhUTkJjUXJXRXE0eFdxVVRzVTdCYXM1OU5lN0dqNy1kRWh4TTltc0ItU0dZ?oc=5",
-        "domain": "apnews.com",
-        "publisher": "AP News",
-        "publisher_url": "https://apnews.com",
-        "language": "",
-        "seendate": "20260923T175200Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "European new nuclear: Italian revival, Polish agreement, Parisian summit",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYmJ2N24zdXJEX0g5N2Z3WW01V1VaYjVndzN3THFyUVRyWExzQXpGajV6X0hvWEpxNFg0WTRHeVJnLURGOEtDTFVCelN2VTZkUHZRdl9Ec196b1VSaXpWeVE5ZlJZeVA4LXBsVTF4NXluLVBONW02bEhjUUhKeUFRVVpZa3FPN0JtdG9LeW1CZm9RcEpLWTEtdWJJV3lxZjk5YWN6LUxwaVBRUXRr?oc=5",
-        "domain": "www.ans.org",
-        "publisher": "American Nuclear Society -- ANS",
-        "publisher_url": "https://www.ans.org",
-        "language": "",
-        "seendate": "20260925T192001Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Senators Markey and Merkley Lead Colleagues to Demand Trump Administration Abandon Reckless Saudi Nuclear Deal",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdC1kOUtfUDIxb1RKWFNOWjY4b0szd3B4N2dvaUFmWW55d2VPZW1RNGFRMDZRMWt3UXktbFRjNmd0bm5wRUc2UGItQkZQLV9FZmUtbVBkWVExS0NnRGNKbVF4eEhGSzVRWFRFQ3FVZEtHNDloRVViQjl2MHhhU0hMVlNXd0hFZkZxSkNCZVBraXppZW1HRFJncm42WE5GajZBMk9jdnNzeU5jcnNySlJJd0puZW1tclZwdTl1N2hES09XSzNsSlFHSG1VU0hFNnl0U1lid2t2anpCZw?oc=5",
-        "domain": "www.merkley.senate.gov",
-        "publisher": "Merkley (.gov)",
-        "publisher_url": "https://www.merkley.senate.gov",
-        "language": "",
-        "seendate": "20260925T205251Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Iranian President Masoud Pezeshkian talks about proposal to reopen Strait of Hormuz, says Iran would allow nuclear inspectors",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVnoyWGZiclVjNDh5OTR4MmdXNGN2cDloOVpXSTdRYk9TMFFBN19BT2VsRWloQmpYNjdrNE5xUTFPcDVmajJKd2NMQzdpN2FuNUJzaWstQVRSMmlpeldWTnNfcXNBNkYzdGtkLUt2VTllUmUyeE5XX2ZGVkRuNTJIeDI5TWZJUkR0ZEtycVd0NnRBV1dybFlkalVXTWZJRGM?oc=5",
-        "domain": "www.cbsnews.com",
-        "publisher": "CBS News",
-        "publisher_url": "https://www.cbsnews.com",
-        "language": "",
-        "seendate": "20260926T011026Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Russian nuclear strike threat against Lithuania sparks alarm, then disappears",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QcElVemZjeWtsc3RFNkh6OUc3LVgzZ20xdXBXOEJLcll2bmhiRk1VV3ctMlUwSEZ2di1GNlItMTVxZEEwamFnSWxSRzg3M3N5QjYwLTN3?oc=5",
-        "domain": "www.ynetnews.com",
-        "publisher": "Ynetnews",
-        "publisher_url": "https://www.ynetnews.com",
-        "language": "",
-        "seendate": "20260926T071116Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Report: Saudi Arabia Mulls Developing Nuclear Weapon, U.S. Officials Say",
-        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNTXBXd2ZQRkhBVEMwd3FCZGh0QjdRa1pHa3IyajFuSlZDRmNVM3Bkek40VlptckRsV1lFR0hOaEYxYzNsTW82bUJZWkpvSEJ1NURDTWlQYVpDT0ctLWFRWENwenhwNEprTkw2VGdzblhkTU9FYUZnVU43WHNuQkxxV19aeENib2RJU2FBcG5PQlJRODJiLU1mYWQ5dVExbFUwUlpldVp4TDRuMDJ6NlNpcUo3akNiYUlnYnk2Y3BuWENNYUw5eWRJTksxUDJVOVo3TEhBQVhoRmxqTkJiekY0bVA0Qnd6RkhKV0NZZ2Z2aFZWLVZ3WkFMMzlxekZYSGt6?oc=5",
-        "domain": "www.haaretz.com",
-        "publisher": "Haaretz",
-        "publisher_url": "https://www.haaretz.com",
-        "language": "",
-        "seendate": "20260926T095100Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "US Congress received intel Saudis haven’t ruled out nuclear weapons program — report",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPai0ycHU5b3F0UUo4NW9ibHFvSllHZzlRUmw0bF9qdnp3bnNqVFltWDhiTm80N280X2s1VVdEYy05SE5wZW5nXzVhNXk3WjlqQUdvZE1ic0MzNzNKR2RPMk5IS0Y4YjdLdHcwaVFfNDJGV0xTdHh0S0R5ZU9RWUg2LUc1TnBTcnlBWEQ4aC1keVVweC1TNXlPeHVTdDdNUl9aaGpZSl9POFlEWW93YnJqRE1R0gG3AUFVX3lxTE03dzlBcHktd0xQT2NxeEdNRW9vTjBPNTMxS1NwZ21SNDFjbzJDaXFlc1dQN0NkenBWd2prdHVyQTNQYjR5UWRyenNFamhhUURpdmpoNlBjX21lNll6Zk9aUFZqNWZZRW9fdTNMV2JLR3hLWVBrb0FPZkxoSHRZRTdJQ29wQm9FMEItSFhaWm5ueHVmTlNtbUhpaG9saU12SGxGUC1iRkhLeUxTeTFFeVpYOXhPUnNGMA?oc=5",
-        "domain": "www.timesofisrael.com",
-        "publisher": "The Times of Israel",
-        "publisher_url": "https://www.timesofisrael.com",
-        "language": "",
-        "seendate": "20260926T013629Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Dems want Hochul to drop $23.9 billion nuclear subsidy plan",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvNS1seDdKM3pza2RiQVlwdGVnRWRLRENkczhtS012cTFnSGJCbTVreEFqb1ZHTTNqZWNtcTgyS0tvSURJLS1HeGlCQ3VUeU10VTBCdlBYV0p6aUVIcWliQ0VJalFBZ2xyTVowYdIBckFVX3lxTE5oVWNVTTFLZ2phTzdIb081SHBJLUlDMlRIRzZDcW5COE5ybl9CVHpXbVo2Y2xxTl9WdEs0Z0pVVk5ZbjZ3ZGsyd3EwQVRsV05VOWp6YXV2SjJXdmtvU3FuWTdvajlnbndtSE1Zb0ZvbERRZw?oc=5",
-        "domain": "www.news10.com",
-        "publisher": "NEWS10 ABC",
-        "publisher_url": "https://www.news10.com",
-        "language": "",
-        "seendate": "20260926T005006Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Exclusive | Trump Administration Presses China on Suspected Nuclear Tests in Confidential Talks",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNOHp1cHpGMHY1M2dCcFlVVUtCcXl1a3l0dUd0MnBJcEIxWlIxZXlGWThyeTdPVFZhdUlCVmRnaTBuR1VRRFV5WHpoXzZXVkRiZVhJRFJ6Rmk3WFY5MndFZ1RtX08tUTl0N0tqN0VTT2l6UGdlSURpdFBRNWh3TERGYkgxbG54TFhhckFzVWJTblRIanA3Vjhhd3o1QzhvMm43TWYyTEhUOVMxNEhEcTJ0SjBzOEVpRVh5TkxqcWJKSmkyT3NuZHhDY2VfNnpwTm1oYVFfUWFn?oc=5",
-        "domain": "www.wsj.com",
-        "publisher": "WSJ",
-        "publisher_url": "https://www.wsj.com",
-        "language": "",
-        "seendate": "20260924T170016Z",
-        "source": "GoogleNews"
-      },
-      {
         "title": "Update 368 – IAEA Director General Statement on Situation in Ukraine",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRU9kXy00dzBrR0xVM0dXdzBadWU4Und0ajlWLVlZdG92emRQRG1vQXlRVFpYREhhMWFPQkVHX3czRVVqTElmRXpnMUc2QmJqYTAtRVZ3OXQ2M29FaUx6dzlJVUN4VDFqNWJLTzVZUU0xNVFBTHVpekFKVGU4NU1WdGU0Rlh1VXExbjI4c1JOazhibzZudGhVR2VJN1lJRkwydi1wMm1PeV9weVNQRjlRbXN3?oc=5",
         "domain": "www.iaea.org",
@@ -219,73 +139,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Türkiye Protects its Citrus Harvests with Nuclear Science",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMktFSVJ4ZEQ3ZDdCR2h1THVOY0RnbzhfZmdRd1NPbUVsSndKbmEyc2xQZkFRQTFvdVl3TWxLNklNcDlRSWtRSzhLWDJEVy12d1dNT2dIbnhpT3lGcW1KX1IyeU5PRlRBUkljSVdoZzMwR2h3UHJIN1pqZ1lvZExSZURINWV2eXE2SGpqaGJmTm1HOGhWMDVEMVhR?oc=5",
-        "domain": "www.iaea.org",
-        "publisher": "International Atomic Energy Agency",
-        "publisher_url": "https://www.iaea.org",
+        "title": "Iran rules out nuclear concessions even if US accepts Hormuz proposal",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xYzYyR0NpT0VDaGp4d1RDOTYydmhUQVJxa1NRVHZ1azRwdGtpQTYyRzlPcGVNRXNDM0JKQmdQSFNoR3dUMHAzUVQ0dmlOTF9VSmc?oc=5",
+        "domain": "www.iranintl.com",
+        "publisher": "Iran International",
+        "publisher_url": "https://www.iranintl.com",
         "language": "",
-        "seendate": "20260925T060000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Iran will make no nuclear concessions, Iranian official says",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBiWC1wVkk3bUNHZTkwRUNTTUNsQ2FaS3dvT2xVcmN3aFllY0VBRmVfWUFOWXNEZW9tQW93ajlNd3duUzVtenFKZldRbzYyZE9fWXlwWDlPSnZaX1pQVjBhOXFseXlFeXVKX0E?oc=5",
-        "domain": "www.jpost.com",
-        "publisher": "The Jerusalem Post",
-        "publisher_url": "https://www.jpost.com",
-        "language": "",
-        "seendate": "20260925T214301Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "US intelligence warns Saudi Arabia has not ruled out nuclear weapons",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LTkRRMGZ6aFFLRnJvUVU5TTBaRGtJb2ExRDhZSVlmUXBMSERaN1NULVJXbzdJQjVlU1JIWkJOOW5KdTlrMFQ4VU8ySmdKaVJYN3ZUT1Nn?oc=5",
-        "domain": "www.ynetnews.com",
-        "publisher": "Ynetnews",
-        "publisher_url": "https://www.ynetnews.com",
-        "language": "",
-        "seendate": "20260926T051104Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Progress on the Syrian nuclear file, but questions remain",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcURvekdfRVVlUnpPQ183SDc3TUJWRWZad3dUSG43T0d6SzhUSnN1VzJwcF9QTUc5Q2tBdDlITHhCbkUwUFNPaVQ5N0hYWkRsaXVSbzdHdUtCVjVuR3VJSDVTQzUxdERlREhRTlU3bzZSemJHeHUzYUI3RTRqN1NnVUhaYWdtOG4ydWY4dFhHSG1jb3RiNnFURThNWDhkSWc3UmZtbDlVRzI1YWlJbUFxbFFtTWV3eS1sOFE?oc=5",
-        "domain": "www.iiss.org",
-        "publisher": "iiss.org",
-        "publisher_url": "https://www.iiss.org",
-        "language": "",
-        "seendate": "20260925T212245Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Iran offers to reopen Strait of Hormuz within 7 days and restart nuclear talks",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5aZ0hqeDJKZlFWZTE2eWwxei1Cd21MaFNkZFZPRWxzNllJdmUzUXVGMFZ6THlXempxQmo1NzhRV1FuNG1sd3hTSW9NT1hvSVdEMVhfVDI5bFBlYWk0T3pvTGd3ZXpjcDJIbEHSAW9BVV95cUxQbGRDUzktQ3JVU3VVcnpXSk5LN20tZEVPbEZ1d3NjSDJKa0xleWt4V054NFNtYU54WElPeWE5ZXk4VnlDVUg4TUIxaExtbGZBS2xkZEdXeVpPd0Z4VFk1cWo1QnRQSFBOUXNUUE5nbW8?oc=5",
-        "domain": "www.cnbc.com",
-        "publisher": "CNBC",
-        "publisher_url": "https://www.cnbc.com",
-        "language": "",
-        "seendate": "20260925T053721Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Coal Vs Nuclear Power Plants: Which Produces More Energy?",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSG5sRTNES1F3YnhYUC1JT3N6WG9tN0FuTF9YaFRFQ2hQall5WGROVGIwUGhuZGUxUTRQZE5US0k1OU9sRkowOWpFQmxOam54VGVoS0gxd3FxdlZfRWg5cl9zUUhzbHpoaUZLRmFyalRSQmFrUnN0OTBSSDVheFdSc0tjNnVacXc?oc=5",
-        "domain": "www.slashgear.com",
-        "publisher": "SlashGear",
-        "publisher_url": "https://www.slashgear.com",
-        "language": "",
-        "seendate": "20260926T034500Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Report: Saudi Arabia has not ruled out nuclear weapons program, US intelligence assesses",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSXgzYUdOOUN4bHdFMThEZTI0M1lGUERza0Y5M3hpNzFBWnZyNl9GeENqcUxmV1pXeUhSUGs0OE9pZWwycEVScVpabktoejZtbWUtT003UEFHX2FpMldjc2RYRmx6VVBVYVZJQnlENXZmTlVuM21velJHbGhKdHJoYUFmYmxsZU55VnVHM0lVZG9UMEF0STd6M09hVDAtSE1RQ1prdlY0Y29qRHBsdGdBbnViamZSQ0hNdW9iRTFJazFfZTN6NnJCVg?oc=5",
-        "domain": "www.i24news.tv",
-        "publisher": "i24news.tv",
-        "publisher_url": "https://www.i24news.tv",
-        "language": "",
-        "seendate": "20260925T211933Z",
+        "seendate": "20260925T175638Z",
         "source": "GoogleNews"
       },
       {
@@ -299,43 +159,133 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Saudi Arabia may still pursue nuclear arms, US assessment warns",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1RUV9OZFJMNkdTLWdiNWRzNzJRSkFJbzBCYWRCZExTT2lNNXpkdEF6RlprdVZtWGNVdmZzbmpNYUVVdVlvbk8tUFo0QkdqZTNvdGpISjJUR09HZ1RlaThN?oc=5",
-        "domain": "www.jpost.com",
-        "publisher": "The Jerusalem Post",
-        "publisher_url": "https://www.jpost.com",
+        "title": "Report: Saudi Arabia Mulls Developing Nuclear Weapon, U.S. Officials Say",
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNTXBXd2ZQRkhBVEMwd3FCZGh0QjdRa1pHa3IyajFuSlZDRmNVM3Bkek40VlptckRsV1lFR0hOaEYxYzNsTW82bUJZWkpvSEJ1NURDTWlQYVpDT0ctLWFRWENwenhwNEprTkw2VGdzblhkTU9FYUZnVU43WHNuQkxxV19aeENib2RJU2FBcG5PQlJRODJiLU1mYWQ5dVExbFUwUlpldVp4TDRuMDJ6NlNpcUo3akNiYUlnYnk2Y3BuWENNYUw5eWRJTksxUDJVOVo3TEhBQVhoRmxqTkJiekY0bVA0Qnd6RkhKV0NZZ2Z2aFZWLVZ3WkFMMzlxekZYSGt6?oc=5",
+        "domain": "www.haaretz.com",
+        "publisher": "Haaretz",
+        "publisher_url": "https://www.haaretz.com",
         "language": "",
-        "seendate": "20260925T205641Z",
+        "seendate": "20260926T095100Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Global Strike deputy commander, senior leaders discuss nuclear command and control during AFA conference",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdEROeHgxVDcyenpGaG9qVjBETkVxTE1NUXdYLTdGN09LZDRKaFduYmRQUVBCd2Z6RWVscG9wbVZscVl5ZnN4QUFQRnZadFp3R3FYZjZjRDY3b1BEbHlwYUl0TnZuUlQ2czRvek9pNkwtSE54QjZobk9PaUtDamtmSnZzbWw1dGEzTnNlUjlqMkd3SUgtU3p3YVJnWHZFaHVxODV6LUdPaElIbDNnRktQZjZqcVpSMWh2UkY3VzUxdEVMR0JiMjhsR2hRYnlrWjlWUm9LYml0cw?oc=5",
-        "domain": "www.dvidshub.net",
-        "publisher": "DVIDS",
-        "publisher_url": "https://www.dvidshub.net",
+        "title": "A promise without enforcement: reflecting on the International Day for the Total Elimination of Nuclear Weapons",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNWlA3QXhRTndqTXd4VS1US2gyNktGTEtHRlI2VHR3dDhLLWp0MVFTeG9ydzZhdHNlSDlRVTlNTkJUQXJwbkZHUkx1RS1MLVM1YWJGTTMxTXpUNmFwaWwxZkpuZzFTZGNybS1FWERMaVNHaVNTb3RZZU40QXdpb3pjTWRIZGw2bWVHeEZpaXRERi16Qk15Znl4bE1YRXNpZy0zYXdPOXZZSlA0UnJBOTFseXNYZzlIOEZUbEFwVjNPX2JoOWpWemc1NkwyTVpEV3N5TnR1d2NQVDZRcDhtaXNWMg?oc=5",
+        "domain": "www.jurist.org",
+        "publisher": "Jurist.org",
+        "publisher_url": "https://www.jurist.org",
         "language": "",
-        "seendate": "20260925T193000Z",
+        "seendate": "20260926T160718Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Saudi Arabia kept nuclear weapons option open, according to US intelligence assessment: US media",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWnMwelMtY3lnbXJuWlJyM0E4MXRpMnpCQ1oxRTU3SG1xVkN3LVhTTW5lekJUdkhTZUIwa1ludFlEb1VzdkdERm9Ta2lDdzRTcXJzamNrTWhMcGlNRV9QX1hUMFRGS2Z0b0taZWVEM2FJNWliWjBDRjZnbk5fdUdPdkVuVXlBc0FZTGRUOU1GQmViUlB3dWw1QUlsbldibzRxQm1rUmJ3OVpBa0x3ZFBSODJaTFRydGNlXzFXbjJYTXg1bnV6VjlmQm82NHZxNUNmU3p5UndR?oc=5",
-        "domain": "www.aa.com.tr",
-        "publisher": "Anadolu Ajansı",
-        "publisher_url": "https://www.aa.com.tr",
+        "title": "US Congress received intel Saudis haven’t ruled out nuclear weapons program — report",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPai0ycHU5b3F0UUo4NW9ibHFvSllHZzlRUmw0bF9qdnp3bnNqVFltWDhiTm80N280X2s1VVdEYy05SE5wZW5nXzVhNXk3WjlqQUdvZE1ic0MzNzNKR2RPMk5IS0Y4YjdLdHcwaVFfNDJGV0xTdHh0S0R5ZU9RWUg2LUc1TnBTcnlBWEQ4aC1keVVweC1TNXlPeHVTdDdNUl9aaGpZSl9POFlEWW93YnJqRE1R0gG3AUFVX3lxTE03dzlBcHktd0xQT2NxeEdNRW9vTjBPNTMxS1NwZ21SNDFjbzJDaXFlc1dQN0NkenBWd2prdHVyQTNQYjR5UWRyenNFamhhUURpdmpoNlBjX21lNll6Zk9aUFZqNWZZRW9fdTNMV2JLR3hLWVBrb0FPZkxoSHRZRTdJQ29wQm9FMEItSFhaWm5ueHVmTlNtbUhpaG9saU12SGxGUC1iRkhLeUxTeTFFeVpYOXhPUnNGMA?oc=5",
+        "domain": "www.timesofisrael.com",
+        "publisher": "The Times of Israel",
+        "publisher_url": "https://www.timesofisrael.com",
         "language": "",
-        "seendate": "20260925T182006Z",
+        "seendate": "20260926T013629Z",
         "source": "GoogleNews"
       },
       {
-        "title": "2 Green Flags and 2 Red Flags for Nuclear Stocks After This Year's Sell-Off",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObXZFb1BjanJSME1SR2plaTlFMUpoQkdQWTlNQWdfWXhXeWpRODVPWFd5b1FSY1FKZk8xdjBvT1N1eFhtbWZZczYxZW8zUUUzWkZmSEJram0zNk1DZU95OEFYdjVlUEdseHBqalpSdUFjTDVEX21jdmlVeVllSUlCN0Zn?oc=5",
-        "domain": "finance.yahoo.com",
-        "publisher": "finance.yahoo.com",
-        "publisher_url": "https://finance.yahoo.com",
+        "title": "Trump reiterates Iran can not have a nuclear weapon as prez rejects regime's seven-day ceasefire proposal",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPT3hWVE1IUjd5Y3RBQktKcGdEalFrNVZvcGRNOE9qR0RLQ0tIZlZOcDRJQ19pdmplTjctUnliMEoxR3NCazJPRDdNWWRCN3l2OERoUGdxbEFIY2RUXzdCakFxbS1MSlFKdTJ3TkFmM21TdlF2S0JXTzBwaTNqN1dFMXNDV0J1TkZpRl9HeS1qcWFBek13SWFUUUprNS1OajBEODFRUTdwRTJ3Z1lkRHVJbzVINnhfX0twcE9JSjIxVGplZHpFaloxYnZNVmF3MER5UW5RQUd0SjNtSDg?oc=5",
+        "domain": "nypost.com",
+        "publisher": "nypost.com",
+        "publisher_url": "https://nypost.com",
         "language": "",
-        "seendate": "20260926T003500Z",
+        "seendate": "20260926T152200Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Russian nuclear strike threat against Lithuania sparks alarm, then disappears",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QcElVemZjeWtsc3RFNkh6OUc3LVgzZ20xdXBXOEJLcll2bmhiRk1VV3ctMlUwSEZ2di1GNlItMTVxZEEwamFnSWxSRzg3M3N5QjYwLTN3?oc=5",
+        "domain": "www.ynetnews.com",
+        "publisher": "Ynetnews",
+        "publisher_url": "https://www.ynetnews.com",
+        "language": "",
+        "seendate": "20260926T071116Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "In Iran, Talk of Whether to Build a Nuclear Bomb Bursts Into the Open",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxON1hsQ2ZkLW5Xb056RmRrUDBKOWJKZjNVaHVzTllkQUJKNnZxSHBtd1NBWGsxNGlXT3V6WnBPRHdyQjAtSzBBeXNGSWJIeEM1NFQ1LTd6bllvRmtQd1pHZEhCSGx1V3ZNaXlFRm9Uckt4c3pLM2NfcWRzMS1TTlVVT21kV0N4TmxMUTFNRzlmejI3d2daWV9CZ1VGNjFKUDdwMjh3LWxqejhPSWFJOUJ4V3BSUnZ1Zw?oc=5",
+        "domain": "www.wsj.com",
+        "publisher": "WSJ",
+        "publisher_url": "https://www.wsj.com",
+        "language": "",
+        "seendate": "20260925T171300Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Türkiye Protects its Citrus Harvests with Nuclear Science",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMktFSVJ4ZEQ3ZDdCR2h1THVOY0RnbzhfZmdRd1NPbUVsSndKbmEyc2xQZkFRQTFvdVl3TWxLNklNcDlRSWtRSzhLWDJEVy12d1dNT2dIbnhpT3lGcW1KX1IyeU5PRlRBUkljSVdoZzMwR2h3UHJIN1pqZ1lvZExSZURINWV2eXE2SGpqaGJmTm1HOGhWMDVEMVhR?oc=5",
+        "domain": "www.iaea.org",
+        "publisher": "International Atomic Energy Agency",
+        "publisher_url": "https://www.iaea.org",
+        "language": "",
+        "seendate": "20260925T060000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Iran offers to reopen Strait of Hormuz within 7 days and restart nuclear talks",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5aZ0hqeDJKZlFWZTE2eWwxei1Cd21MaFNkZFZPRWxzNllJdmUzUXVGMFZ6THlXempxQmo1NzhRV1FuNG1sd3hTSW9NT1hvSVdEMVhfVDI5bFBlYWk0T3pvTGd3ZXpjcDJIbEHSAW9BVV95cUxQbGRDUzktQ3JVU3VVcnpXSk5LN20tZEVPbEZ1d3NjSDJKa0xleWt4V054NFNtYU54WElPeWE5ZXk4VnlDVUg4TUIxaExtbGZBS2xkZEdXeVpPd0Z4VFk1cWo1QnRQSFBOUXNUUE5nbW8?oc=5",
+        "domain": "www.cnbc.com",
+        "publisher": "CNBC",
+        "publisher_url": "https://www.cnbc.com",
+        "language": "",
+        "seendate": "20260925T053721Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Senators Markey and Merkley Lead Colleagues to Demand Trump Administration Abandon Reckless Saudi Nuclear Deal",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdC1kOUtfUDIxb1RKWFNOWjY4b0szd3B4N2dvaUFmWW55d2VPZW1RNGFRMDZRMWt3UXktbFRjNmd0bm5wRUc2UGItQkZQLV9FZmUtbVBkWVExS0NnRGNKbVF4eEhGSzVRWFRFQ3FVZEtHNDloRVViQjl2MHhhU0hMVlNXd0hFZkZxSkNCZVBraXppZW1HRFJncm42WE5GajZBMk9jdnNzeU5jcnNySlJJd0puZW1tclZwdTl1N2hES09XSzNsSlFHSG1VU0hFNnl0U1lid2t2anpCZw?oc=5",
+        "domain": "www.merkley.senate.gov",
+        "publisher": "merkley.senate.gov",
+        "publisher_url": "https://www.merkley.senate.gov",
+        "language": "",
+        "seendate": "20260925T205251Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "FM Outlines Iran’s Position on US Aggression, Nuclear Program, Hormuz",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcWZXTHZ5Yk9iQkMwN3oxaVlDZHNRZXphTnVQZVFrMGoxLUFYR1pQLTRBWlpCMDhDZmtrRE1sb2laY2liamMxTVZkZFhPdUFlZVpCSXVTcEF6YkJzX3Q3TE5QSXI3eERnWjk2anpTdTFlTzhfS2ZsNnpxdFQtcHNpalMya2lOc3l0ZVdiUUtWYXJtQW01MjZXRGFNTktIYXlzR01WR2puazBUamN3M2pTTXY3S3JSMk5DVUVONtIBwgFBVV95cUxQNTlpNkZCeGJDQTNHY1lsUFJBTWFLdXJnVnYtNUxVWnFwWG1QQlEtZHQ3Y3hyOEcyTmFxX0swSjllOW83M2ZaTjMyM2RJaFZBOTJpb3FXX0R5a2xVcE9XdWtHekhtcS1lNjBqVUlCZ29jeWVkLWhuMXFRYy1XSFVSMmpNbkpWZHd1bFNRVl91QWRfQk9xaGlkR3ZjbTZ3NThYeTJBTWxnVU4zcEtWTFZ1TW5GWDM1eHJiOTBXeVpwa0Z5dw?oc=5",
+        "domain": "www.tasnimnews.ir",
+        "publisher": "تسنیم",
+        "publisher_url": "https://www.tasnimnews.ir",
+        "language": "",
+        "seendate": "20260926T112724Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Dems want Hochul to drop $23.9 billion nuclear subsidy plan",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvNS1seDdKM3pza2RiQVlwdGVnRWRLRENkczhtS012cTFnSGJCbTVreEFqb1ZHTTNqZWNtcTgyS0tvSURJLS1HeGlCQ3VUeU10VTBCdlBYV0p6aUVIcWliQ0VJalFBZ2xyTVowYdIBckFVX3lxTE5oVWNVTTFLZ2phTzdIb081SHBJLUlDMlRIRzZDcW5COE5ybl9CVHpXbVo2Y2xxTl9WdEs0Z0pVVk5ZbjZ3ZGsyd3EwQVRsV05VOWp6YXV2SjJXdmtvU3FuWTdvajlnbndtSE1Zb0ZvbERRZw?oc=5",
+        "domain": "www.news10.com",
+        "publisher": "NEWS10 ABC",
+        "publisher_url": "https://www.news10.com",
+        "language": "",
+        "seendate": "20260926T005006Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "US intelligence warns Saudi Arabia has not ruled out nuclear weapons",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LTkRRMGZ6aFFLRnJvUVU5TTBaRGtJb2ExRDhZSVlmUXBMSERaN1NULVJXbzdJQjVlU1JIWkJOOW5KdTlrMFQ4VU8ySmdKaVJYN3ZUT1Nn?oc=5",
+        "domain": "www.ynetnews.com",
+        "publisher": "Ynetnews",
+        "publisher_url": "https://www.ynetnews.com",
+        "language": "",
+        "seendate": "20260926T051104Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Inside Sandia’s Z machine, where nuclear war meets clean energy",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVjRzNjVIMEVlb1dXTm9xVmthRTVjQUphUS01TmYzUlBNT3pPRjJvd1lZVEhCUlhhRU0wU0xPanY1azk5dUJYOFNROXZHYUw4NDJQSnEyQUFKNld3YnQ4emlEVVJTV0NSeEUxRXBlOEc2cXcxN3Y1S19NQjNjb0NZZ25teWphb1hOQ3FpVmRBMkpyYTREWkx1bGN5SjVWTjlvcm1hWURvb3k?oc=5",
+        "domain": "www.abqjournal.com",
+        "publisher": "Albuquerque Journal",
+        "publisher_url": "https://www.abqjournal.com",
+        "language": "",
+        "seendate": "20260926T123000Z",
         "source": "GoogleNews"
       },
       {
@@ -346,6 +296,116 @@
         "publisher_url": "https://theaugustapress.com",
         "language": "",
         "seendate": "20260926T101134Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Italy clears path for nuclear power revival",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdlNYdjN6QnZDNFBQWkZUa2hMN2tVX0JPZXJSN1d2QXd2UEQtNDc1WGt6MFVCNG5rQXNjbURZMmprNDRKRmktVDhsSWJWcEdoeDdGYy1MclZHbEY0UFlLWko1WUE4OVV4MEFBckVISUFsN2ZJWkRYNVpzNTF0dmlfWXNReEE?oc=5",
+        "domain": "www.ft.com",
+        "publisher": "Financial Times",
+        "publisher_url": "https://www.ft.com",
+        "language": "",
+        "seendate": "20260923T151730Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Iran will make no nuclear concessions, Iranian official says",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBiWC1wVkk3bUNHZTkwRUNTTUNsQ2FaS3dvT2xVcmN3aFllY0VBRmVfWUFOWXNEZW9tQW93ajlNd3duUzVtenFKZldRbzYyZE9fWXlwWDlPSnZaX1pQVjBhOXFseXlFeXVKX0E?oc=5",
+        "domain": "www.jpost.com",
+        "publisher": "The Jerusalem Post",
+        "publisher_url": "https://www.jpost.com",
+        "language": "",
+        "seendate": "20260925T214301Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Google strikes nuclear reactor power upgrade deal to add 96 megawatts to Georgia grid",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZmFmZHI4MVpVb0Y1UnVpV1ZFemRsRHN4YlVCMWpxNFFUOVN1bUtybEdwUm5nX09ZbUJhbmltcjZsTXVyUnhiWXZva01yN3JBZFVhOUctdU9aaGZiTmM5dzVUekUtaVFJQmkxMi1FMDNNdmFRdGNHbE5KT0UweDlaWTdjSjNNdHJqTmJlZGNHTENsTXZWRHc?oc=5",
+        "domain": "interestingengineering.com",
+        "publisher": "Interesting Engineering",
+        "publisher_url": "https://interestingengineering.com",
+        "language": "",
+        "seendate": "20260926T130000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Coal Vs Nuclear Power Plants: Which Produces More Energy?",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSG5sRTNES1F3YnhYUC1JT3N6WG9tN0FuTF9YaFRFQ2hQall5WGROVGIwUGhuZGUxUTRQZE5US0k1OU9sRkowOWpFQmxOam54VGVoS0gxd3FxdlZfRWg5cl9zUUhzbHpoaUZLRmFyalRSQmFrUnN0OTBSSDVheFdSc0tjNnVacXc?oc=5",
+        "domain": "www.slashgear.com",
+        "publisher": "SlashGear",
+        "publisher_url": "https://www.slashgear.com",
+        "language": "",
+        "seendate": "20260926T034500Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Iranian president blames US for Middle East conflict while denying nuclear ambitions, offers to dilute uranium",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOR2t4RDNNVGZxUHlRN2hyNTRNLUVFMkc4NXZaWWhEM0JLSG1PWEtQRUhPUkhBQ01aUktfZzNQcTlCTE1mNnprMHI4QXVQelBGZVNVVUh2cllKa25rT0lmYnFGemlSMVBiakRmQXhXNVk2T29CdTdYNlB2TWNFd0t6ZzlySGZhc0JpUmdqdHVCcjhjdTFqbkh1eDZYbnFqRmVNSzJBdl9obGdLTU5vWm0tcUlaSVV5WlJFXy0td2M5QjZBZWg00gHKAUFVX3lxTE9lRGtTajlFZXozV1ZyS29rbzQxQXhlVUFLc1RkZ2tUdlpuWUhOX0FuSmJyOTc4SURIaGVvZHVFaXkxaDhzazY4YUYtUG5QM2FkeE9qY2w4aVpGTGFjN09SbVdKUTFwYm9RakFQc3BhS2FkZ0RRSWZUY2FMbktPUnYyeHVUYVZfYk9HTFgtTGx2Mm9WQVNQRXZ5OXMzRVFuYlE1TGdCaktIbFdGN0dvaDBUZGVyMHVPeW9XSGRGVnUwM2wzQ3RMSDRVbnc?oc=5",
+        "domain": "www.foxnews.com",
+        "publisher": "Fox News",
+        "publisher_url": "https://www.foxnews.com",
+        "language": "",
+        "seendate": "20260925T002536Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "US Navy's W93/Mk7 nuclear warhead program enters new development phase",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYWwtMmFRWElYLUg0bFhIc2JVZnNsT29rS2pfRExFaTlTRjhzS3FrdnBEbWdxU054aGF3Y1lvY1V3ekRjMFlBQ0VFVDJucnBtTlBRdTJCb2o5U3h0QWtDbjJ5YWpaMVo3azRuVVZ1R2NXY0RaOVFqTFhQQTlJeDZQdVF4dGRSeC1zTmpv?oc=5",
+        "domain": "interestingengineering.com",
+        "publisher": "Interesting Engineering",
+        "publisher_url": "https://interestingengineering.com",
+        "language": "",
+        "seendate": "20260926T142100Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Eliminating Nuclear Weapons",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9JQWNpRnNFSmhIUlhzU0hMS0xqQzNTY3g1QkQtSHM4NWtkdHE3QkQxcnpGdzNTWk9wZE9GYWdRNlF6WDg4SlpNZ3VXOFlfc1p5bVBrYQ?oc=5",
+        "domain": "www.indcatholicnews.com",
+        "publisher": "Independent Catholic News",
+        "publisher_url": "https://www.indcatholicnews.com",
+        "language": "",
+        "seendate": "20260926T144814Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "An unused and divisive Philippine nuclear plant awaits its fate",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPalIyNkFOdU0zSnlud0JOTkUtWFBrVTFYeWVoTUVGWDVwM0pjVTUzR1dUNnhidEpDNXloU0RoQU9NSU00NmdUM3pGRWxfQkpRVy14QkpIWjluM0k1UU1VZHg3T0xWTXowN2dDdTB6NGRZZm1SUG5aNmsxME9mQ0RqZDFGczBZMW5WZHQtdFVuTWswOUNBQVBaVURzcUxhRmVmc0pRNWU2NTVVUQ?oc=5",
+        "domain": "www.seattletimes.com",
+        "publisher": "The Seattle Times",
+        "publisher_url": "https://www.seattletimes.com",
+        "language": "",
+        "seendate": "20260926T140002Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "European new nuclear: Italian revival, Polish agreement, Parisian summit",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWHQ3NE9qOVUteUFFbF92RVlVcUlMX2VFcVotMlotMTlTM0twcDktSm9BWjN6TjVYZG81bERqbkQ4VHFKWXlPc2ZfV2JyZlI5YkZuVDAxV0RTSnVpTndBbV9xZjdsakpxWEhLZmZCTFRRemNzTXlLLU52XzBBek5pOVVfWHFKbFlVcF9OdEk2TkVISHJRTUhOZC1qQy1jM25IODE5NlV2a0RzQUVNdWk2OThOSGk0VGN1dlg4?oc=5",
+        "domain": "www.ans.org",
+        "publisher": "ans.org",
+        "publisher_url": "https://www.ans.org",
+        "language": "",
+        "seendate": "20260925T182000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Report: Saudi Arabia has not ruled out nuclear weapons program, US intelligence assesses",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSXgzYUdOOUN4bHdFMThEZTI0M1lGUERza0Y5M3hpNzFBWnZyNl9GeENqcUxmV1pXeUhSUGs0OE9pZWwycEVScVpabktoejZtbWUtT003UEFHX2FpMldjc2RYRmx6VVBVYVZJQnlENXZmTlVuM21velJHbGhKdHJoYUFmYmxsZU55VnVHM0lVZG9UMEF0STd6M09hVDAtSE1RQ1prdlY0Y29qRHBsdGdBbnViamZSQ0hNdW9iRTFJazFfZTN6NnJCVg?oc=5",
+        "domain": "www.i24news.tv",
+        "publisher": "i24NEWS",
+        "publisher_url": "https://www.i24news.tv",
+        "language": "",
+        "seendate": "20260925T211933Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Bill Clinton Signs the Comprehensive Nuclear Test Ban Treaty",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUjA5VjhjaUdpZUw1WGZQeVVyeTJ2TUpjTTYwZFRXVFZ5bFZlSlhObVZrWXpLa1lFdV9QVndqdzcxT2U2a2RiLWxIdFhOcXVxZGpSTlFnT2c5WjBadjIwWTc2NkpxbDhSREhTLUs1MXdHdGFEeTJOMFNKbEhNdHJWWUJkRjkzNHJUVGpKSDN4aHpZU1U?oc=5",
+        "domain": "www.cfr.org",
+        "publisher": "Council on Foreign Relations",
+        "publisher_url": "https://www.cfr.org",
+        "language": "",
+        "seendate": "20260924T151611Z",
         "source": "GoogleNews"
       },
       {
@@ -369,153 +429,23 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Italy clears path for nuclear power revival",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdlNYdjN6QnZDNFBQWkZUa2hMN2tVX0JPZXJSN1d2QXd2UEQtNDc1WGt6MFVCNG5rQXNjbURZMmprNDRKRmktVDhsSWJWcEdoeDdGYy1MclZHbEY0UFlLWko1WUE4OVV4MEFBckVISUFsN2ZJWkRYNVpzNTF0dmlfWXNReEE?oc=5",
-        "domain": "www.ft.com",
-        "publisher": "Financial Times",
-        "publisher_url": "https://www.ft.com",
-        "language": "",
-        "seendate": "20260923T151730Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Senate considers establishing $50B nuclear energy campuses",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWEgwZlhNdGlRQXlqbnltUkR3a2Y4TjdkNFB1TU9OZnpPVmJkZmw2V2RSb3hUSzNwSDhzRV9fWXQ1OHh0NVNrNjNWaHd6aGR5MGV0UnhYdXJNS2JNb2VvRGw0emhBdHpfamJ4bEZxcExsMm9FR19IZ0doSjE0ZEkwdDFsN296a1FLUW9lTFRjTklKUC1wY2ZKSmhaQQ?oc=5",
-        "domain": "americanpress.com",
-        "publisher": "American Press",
-        "publisher_url": "https://americanpress.com",
-        "language": "",
-        "seendate": "20260925T181630Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Even with $9.2 million in recent funds, a Germantown housing and community center needs more help",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPS09IbUtabU1tdXVjNXBlQlVoT3c1RDRXMDh6R052ODBQZzViZEp2ajBidHdQRzFiZWNQWk9BT2NkOGhLd25pcmtqaWdPOWd6ZXgzU3VGY1VKb1pMOU90TFEwdE1hUVpEWGNFLVpROG1TLVN6allHZ3hxLUNSd3JHckxUMDZxcUJSNV9GU2RvempOYnhyeEltMUxDa3NjeTg?oc=5",
-        "domain": "www.inquirer.com",
-        "publisher": "Inquirer.com",
-        "publisher_url": "https://www.inquirer.com",
-        "language": "",
-        "seendate": "20260926T100100Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Nuclear Project in Tennessee Poised for US Regulatory Approval",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb3hCYnpqSkNLOFZoVGhDaHVLOWx4cFBtSzBJcU5mY2pqR243WnVfT0N3bFZPSWpMemp6ZHpJOHJFNUtLc1FNQWl1RWdhQU8wZVJoUkRLejZhVGlWeWJBRVd0QWU5QlZfalNzVzVzakNXMmtrNDVlcFBvTnh4TzVnd2VvdHdNUFNQZ1FkQkd3Q1phOS11cTNiSE9KZjZDMWhWN054bnpKVW4xTEQ5ZTN4UzFBcw?oc=5",
-        "domain": "www.bloomberg.com",
-        "publisher": "Bloomberg",
-        "publisher_url": "https://www.bloomberg.com",
-        "language": "",
-        "seendate": "20260925T171735Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Iranian President Says Tehran Could Negotiate IAEA Access in a US Conflict Deal",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RTEJWbEp3bVN2VEc5WE8xaW9DZXV4MDV6Q2VxLUFsTGJ5V19mZUdveHZfSldRX21LQ0hzUl8wdkhzMDdPS1gtYXZrYjhaX1N2VFFiOWdiTmdBRGtpdnNnSmxPZkJQUDNrazg0?oc=5",
-        "domain": "mezha.net",
-        "publisher": "Межа. Новини України.",
-        "publisher_url": "https://mezha.net",
-        "language": "",
-        "seendate": "20260926T084437Z",
-        "source": "GoogleNews"
-      },
-      {
         "title": "Kowsari: Nuclear Issue Is Not Open to Negotiation with the Enemy -",
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTWFsVnhaUFhCUUpmSVA1SWs0dHZ0Sll6aGhMcVdGcEc4QjJkVXRmMkFZaXNndGVXSWoyR25wZ1BHUWRzQlE2ZXozMGZfZ0J1T2lPSzRBTDY4SVZ5aFFlQXNwZ3BPWnVkdEZzOGsyMXlZaWZxM2pDSkZoeGdyTThNdF9Sb1M5cHg2N0Zv?oc=5",
         "domain": "wanaen.com",
         "publisher": "WANA News Agency",
         "publisher_url": "https://wanaen.com",
         "language": "",
-        "seendate": "20260926T094710Z",
+        "seendate": "20260926T095527Z",
         "source": "GoogleNews"
       },
       {
-        "title": "DTE to build natural gas plants, boost nuclear power, end coal use by 2032",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObEFpcDNlZDVLY1l2VGNvOVdNNmZMNEwwUEtOci1oa0hiS2NwWS1xMm9QeXYwR01RMXRaV2FkYTFvZkk2MVRIeVNZRnJLV25zUncwdHB2cF82NVFsbmp5RlE2T1h1VGtEeHBzNTFBeWFoWU1NTm5UQUlya1dxeUZycGRFZmlqU01leVp4cDRrN2ZNSGQ4UE0wOEEtem5QOFdK?oc=5",
-        "domain": "www.fox2detroit.com",
-        "publisher": "FOX 2 Detroit",
-        "publisher_url": "https://www.fox2detroit.com",
+        "title": "2 Green Flags and 2 Red Flags for Nuclear Stocks After This Year's Sell-Off",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObXZFb1BjanJSME1SR2plaTlFMUpoQkdQWTlNQWdfWXhXeWpRODVPWFd5b1FSY1FKZk8xdjBvT1N1eFhtbWZZczYxZW8zUUUzWkZmSEJram0zNk1DZU95OEFYdjVlUEdseHBqalpSdUFjTDVEX21jdmlVeVllSUlCN0Zn?oc=5",
+        "domain": "finance.yahoo.com",
+        "publisher": "Yahoo Finance",
+        "publisher_url": "https://finance.yahoo.com",
         "language": "",
-        "seendate": "20260925T175039Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "U.S. intelligence assesses that Saudi Arabia has not ruled out developing nuclear weapons - WP",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZUFTUEE5MEt1QWZFYlRvSF9VSVkyOWIyd2d1VXpXeUVLaXdnczF6Z3E5bThGQzF2WFB2cHNqZUQzdUFTZURWLVdWOG1yZXhZNmpVT2k5UV9RZUFjZVpyWVgwRXdWWV84eWpaajRWVTlTR0xBZXJVaXFNRXZSakNjbkhFOFJBU2xmdEpZZERBZkZJOEEwdUdLYVpjUnRSekY2Zk5kaExZQkdPTnVhQW42RHRkSdIBsgFBVV95cUxNQTlfa0k5ZEhWS3Z6WW03T1VuTG5QU1JJZDFCZFdidjBCX19RdC1WQWpXdmRUYnFRNUlzcEI5cmtjaDJfNGxBMmxVUWllc2tMb251QnhKdTV4VVBxV3JpUzY4SE0xSlpaWC1zMURGWXBTVDR1WEg2NTBGX3huSGxva2VybV9taVZxS1RNTk5lUTVCY2lJSndEMkRvYXhjbVRmbkpXa2RueGJBUnMydWhBd1V3?oc=5",
-        "domain": "unn.ua",
-        "publisher": "Українські Національні Новини (УНН)",
-        "publisher_url": "https://unn.ua",
-        "language": "",
-        "seendate": "20260926T053501Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Iranian president blames US for Middle East conflict while denying nuclear ambitions, offers to dilute uranium",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOR2t4RDNNVGZxUHlRN2hyNTRNLUVFMkc4NXZaWWhEM0JLSG1PWEtQRUhPUkhBQ01aUktfZzNQcTlCTE1mNnprMHI4QXVQelBGZVNVVUh2cllKa25rT0lmYnFGemlSMVBiakRmQXhXNVk2T29CdTdYNlB2TWNFd0t6ZzlySGZhc0JpUmdqdHVCcjhjdTFqbkh1eDZYbnFqRmVNSzJBdl9obGdLTU5vWm0tcUlaSVV5WlJFXy0td2M5QjZBZWg00gHKAUFVX3lxTE9lRGtTajlFZXozV1ZyS29rbzQxQXhlVUFLc1RkZ2tUdlpuWUhOX0FuSmJyOTc4SURIaGVvZHVFaXkxaDhzazY4YUYtUG5QM2FkeE9qY2w4aVpGTGFjN09SbVdKUTFwYm9RakFQc3BhS2FkZ0RRSWZUY2FMbktPUnYyeHVUYVZfYk9HTFgtTGx2Mm9WQVNQRXZ5OXMzRVFuYlE1TGdCaktIbFdGN0dvaDBUZGVyMHVPeW9XSGRGVnUwM2wzQ3RMSDRVbnc?oc=5",
-        "domain": "www.foxnews.com",
-        "publisher": "Fox News",
-        "publisher_url": "https://www.foxnews.com",
-        "language": "",
-        "seendate": "20260925T002536Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Opinion | Eliminating Nuclear Weapons: an Urgent Existential Threat",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1EYTVTNjZvVlVXUTEyMHZiRndCNWRhUFBvNW1mUFVLZ2h0Ml9DT3NrWWJUQkIzSG00em5xSk1Oc3hOV3V1OFEzc05odFd1a2RKZVlzM3BQVnRzWW1vdHRscVAzLWl4WTVJUkZTQTQ5aEV3UQ?oc=5",
-        "domain": "www.commondreams.org",
-        "publisher": "Common Dreams",
-        "publisher_url": "https://www.commondreams.org",
-        "language": "",
-        "seendate": "20260926T114406Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "The push for nuclear energy in South Carolina",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaG94OTRDdlFzc29xNW43bERlOGYzanl1bGtDZ3E1WE90UTIweWdoakRVaGRoUkh4dlJPejF3MlBEc2FYdWFZMHVyR09TaFpWX3d4aUxfWTVqb3VzVlJMVmh4Y2dtYlFQS0Zlc3NLV25palRBbHNwcnMtZnQ4M1VLNWRxbHNtNTRHei1VZVNHODhmdG1weWtHdHhreW1rc1RtWjdhNk9SSzFuMTRRTkJxbmw5U3NSQUdoSkV1QzdUcTVtdw?oc=5",
-        "domain": "www.wltx.com",
-        "publisher": "WLTX",
-        "publisher_url": "https://www.wltx.com",
-        "language": "",
-        "seendate": "20260925T215400Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "3 Nuclear Stocks Powering the Grid Long Before AI Made Them Trendy",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVUp6RGJoeGp1MndoQnN3SWdKeDFSTjVRY3JMME41MHVLemFob084anBxMW44bTVQaVRrcUsxQmJRaW5fbnNDNmxzRUJDQl9MamFjVFJIZTVjU0RPRG4wWDdub0dXUHZRS183TEpyV0FkM0RwekktQ1ZneXlsTUhrTWdhUUg3Z1ZGVW9HbndBU0F0NkJybVNr?oc=5",
-        "domain": "www.fool.com",
-        "publisher": "The Motley Fool",
-        "publisher_url": "https://www.fool.com",
-        "language": "",
-        "seendate": "20260925T203000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Bill Clinton Signs the Comprehensive Nuclear Test Ban Treaty",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUjA5VjhjaUdpZUw1WGZQeVVyeTJ2TUpjTTYwZFRXVFZ5bFZlSlhObVZrWXpLa1lFdV9QVndqdzcxT2U2a2RiLWxIdFhOcXVxZGpSTlFnT2c5WjBadjIwWTc2NkpxbDhSREhTLUs1MXdHdGFEeTJOMFNKbEhNdHJWWUJkRjkzNHJUVGpKSDN4aHpZU1U?oc=5",
-        "domain": "www.cfr.org",
-        "publisher": "Council on Foreign Relations",
-        "publisher_url": "https://www.cfr.org",
-        "language": "",
-        "seendate": "20260924T151611Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Iran pitches seven day roadmap for ceasefire, renewed nuclear talks",
-        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOS3Fhbno2cW9kbWo3dDVZdWZzOGJJa1d4Uk5qZE5WSk93YUVMNUstRWpCbjItNnJOTUxyekUwN1BYUFVSN0dSOV9YaGgtWkJIWWtWNUYxWi1ha1pHaVZzcmQ5aDlHckRhQ0ZESlFaV2xkVklRTE8xTEotb3ExTnhfanY1MjU3akc3N2ZqU2ZFMEZ6YW5xT202ZE5GX1cxcmxGakt4cHpIZnE4a1Z5UXVreFZnclp4U1JEQ3VudzBhWmVHMjh4ME5jWXF6TUlIV0hTeHVnSmJFNU1HQnRJTGt6SkdRMEFMS180TXZjM2YwenM5TVhyUmc2N2U3ZWc?oc=5",
-        "domain": "cbsaustin.com",
-        "publisher": "KEYE",
-        "publisher_url": "https://cbsaustin.com",
-        "language": "",
-        "seendate": "20260925T195634Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Iran Offers U.S. Seven-Day Plan to Reopen Hormuz, Rules Out Nuclear Concessions",
-        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPMWZqRzRfMDA4bmhkTEhnbXU2MWFrcF83ODA0UXpPdWNOblNIcjllN0xSXzdLcDJKTlN2Q1ZDMjgtbmxkNUQxdkhrYmM1VGppdUtPSkRkb1hIUE5TQ0NUYzNydmVHWUlmMzcyY19vVmRYYmRZQ1FjNWdZTUVuVFR4dnFHMmNIZUU0X2NvWm9GRThQQnFDckYwTG5XZEo4U041eFBaaGlEbTNIeDVsNDE5dThqSDZacHdrTDc2MEhaa0E2UWVfVjNvQ2w5QnV0UE95T1RFQ2xWN0hKQmhoVmVxZ0w3ZTZLRjVpOVZwYmZZRllYQVBuRnQzU0ZpNXlCb1lERHVXTTVsbXFaQmpMV1J3?oc=5",
-        "domain": "www.haaretz.com",
-        "publisher": "Haaretz",
-        "publisher_url": "https://www.haaretz.com",
-        "language": "",
-        "seendate": "20260925T235400Z",
+        "seendate": "20260926T003500Z",
         "source": "GoogleNews"
       },
       {
@@ -526,6 +456,76 @@
         "publisher_url": "https://www.wabe.org",
         "language": "",
         "seendate": "20260924T205457Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Saudi Arabia may still pursue nuclear arms, US assessment warns",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1RUV9OZFJMNkdTLWdiNWRzNzJRSkFJbzBCYWRCZExTT2lNNXpkdEF6RlprdVZtWGNVdmZzbmpNYUVVdVlvbk8tUFo0QkdqZTNvdGpISjJUR09HZ1RlaThN?oc=5",
+        "domain": "www.jpost.com",
+        "publisher": "The Jerusalem Post",
+        "publisher_url": "https://www.jpost.com",
+        "language": "",
+        "seendate": "20260925T205641Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "In nuclear campus talks, Idaho Gov. Brad Little says protecting Snake aquifer is ‘nonnegotiable’",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPczUxT3NBZXhtUG9kN3NENUFhNGtuYllWY0VkN2F2TXg5Rk9zalViY3UzSmVBaXpEWEMxQ20wUTZzQm9vRjdtN0ZsWHFHTzQ4M2NwSkVPOFdlRWR2TFl4d192VW5faDJVV1J2TEhEbC15cGZhOHl4U05wcWxfUG12SWFvWXJqVUM4NlZ2N3RYMGlSVTNyM19sMjJlVmtJTmdwZlVSSEljV3c1a2pObkxzRjJnTGk0T2dJSEhQT1RubzItYmNn?oc=5",
+        "domain": "idahocapitalsun.com",
+        "publisher": "Idaho Capital Sun",
+        "publisher_url": "https://idahocapitalsun.com",
+        "language": "",
+        "seendate": "20260925T102042Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Nuclear microreactors targeted to power US defense, advanced computing systems",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYUozc0RldmlrQ0tzX0pxbjVzWjBaRlFlQXFZUlhKd2l0XzdQaUQ3a2hNelhiejRGNThvNjBfNGwtaFVZSV9oYzJraFhVRkxmYk44emJjU05XY2NzWHlmRzd5WUVpZklwdjJnNFZaNGtucEFSNWt5Sm9nREcwNmtoVGpXMWlJTTNPWjVxNXBfNW4yZlJUb2JnZmNVblU5dTRqZGZZ?oc=5",
+        "domain": "interestingengineering.com",
+        "publisher": "Interesting Engineering",
+        "publisher_url": "https://interestingengineering.com",
+        "language": "",
+        "seendate": "20260925T224100Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "OPINION: Trump's U.N. speech, a stark contrast with past presidents",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMG5uNWZWME5xNnd5ZUtxdlFKNjBfZkw1bXQ1NmdyRDZZdUxiVzNUdExhQlAzX3Fqel8yRlB3dW9yd2JzZHRBT0tnYVQwQlgxcTRhbnB0Q2dVME1KaHpoaFVRNC0xSk5tb1RMWlZHMHZOT09EMVNVcTl0eWo4R2U5cnBEYWpFRk4yNWt5ZEZSMEhMdEwzelBzYzdZYTVQdnhT?oc=5",
+        "domain": "www.keranews.org",
+        "publisher": "KERA News",
+        "publisher_url": "https://www.keranews.org",
+        "language": "",
+        "seendate": "20260926T120000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Trump says he rejected the latest Iranian proposal",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9iQkJKWUtEM3FKZXVXUzA0dnVnT1NmSXpkMXZreTlMNy1peWRuUkRodVlfWjFjUEpxM252T21wX3FXN1hzaEd4R3hnTFRCalUzNl8xanB3YXlIekVmTkZlcXM3LXlVQQ?oc=5",
+        "domain": "www.axios.com",
+        "publisher": "Axios",
+        "publisher_url": "https://www.axios.com",
+        "language": "",
+        "seendate": "20260926T142823Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "ONE NUCLEAR ENF (ONEN)",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB1M0xnQ3ViWjI4dWtTTTBNb0ZpYTl3eEwxZ3dOaUFkMjF3dWwyMmhqQkFPMXN5RTNFeENHam9UVDJVX0t2NVlxRWEzQ21lNGc?oc=5",
+        "domain": "www.zacks.com",
+        "publisher": "Zacks Investment Research",
+        "publisher_url": "https://www.zacks.com",
+        "language": "",
+        "seendate": "20260926T140050Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Trump says Iran cannot have nuclear weapon",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAzTkRfbDliOUxHbHpDVTdGNkEzNnd6c2JMb0tVVU12ZDdnTlc0cHdfU0tmY09kLXNhZmwyaU5nb05KTGFqdjEtZDFkY1Y?oc=5",
+        "domain": "iranintl.com",
+        "publisher": "Iran International",
+        "publisher_url": "https://iranintl.com",
+        "language": "",
+        "seendate": "20260926T122541Z",
         "source": "GoogleNews"
       }
     ]
@@ -542,23 +542,33 @@
       "source": "GoogleNews"
     },
     {
+      "title": "Saudi Arabia Open to Possibly Developing Nuclear Weapons",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObkxiMDllRFo0cE01T2oxbmEya1Bra2hUcGJHcFEwLXFTTm9mQ3RmdjdOenJrT0tCdVVMcVcxZ0d5QmwzZkNxRWNsdkxJVTJDZW9vdEY0SllpMlNLS1JwRlFBSlZaSGFnTW9LWmpTZWJuNl9sQTlLVE5UbG1WTlUyNTZzek8yaU0?oc=5",
+      "domain": "www.nytimes.com",
+      "publisher": "nytimes.com",
+      "publisher_url": "https://www.nytimes.com",
+      "language": "",
+      "seendate": "20260925T225125Z",
+      "source": "GoogleNews"
+    },
+    {
       "title": "Iran will make no nuclear concessions, Iranian official says",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORVpYNWQxeFFCcXEzQTZQdkM1LTJpVWc2RHpwOWtxbzV0OHg2aE12UGV1Y2VOQUN4WHdvOVB4YzBGT0ltckk5d0hDZGZUVXk3YWs0WnA5R2xjNmNBbkhHRzNra2pIQVlLa1pNQ29OV1QxQVdSTWJnaWZEYkVaaXJXa3d4cHVvV1o5VGlpWFRjUG9HVTFoMWw4TFZwNlI4aHJwQjU0UVRuZzJISFp0ZU9YQUw4VQ?oc=5",
       "domain": "www.reuters.com",
       "publisher": "Reuters",
       "publisher_url": "https://www.reuters.com",
       "language": "",
-      "seendate": "20260925T203945Z",
+      "seendate": "20260925T163600Z",
       "source": "GoogleNews"
     },
     {
-      "title": "Saudi Arabia Open to Possibly Developing Nuclear Weapons",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObkxiMDllRFo0cE01T2oxbmEya1Bra2hUcGJHcFEwLXFTTm9mQ3RmdjdOenJrT0tCdVVMcVcxZ0d5QmwzZkNxRWNsdkxJVTJDZW9vdEY0SllpMlNLS1JwRlFBSlZaSGFnTW9LWmpTZWJuNl9sQTlLVE5UbG1WTlUyNTZzek8yaU0?oc=5",
-      "domain": "www.nytimes.com",
-      "publisher": "The New York Times",
-      "publisher_url": "https://www.nytimes.com",
+      "title": "Iranian President Masoud Pezeshkian talks about proposal to reopen Strait of Hormuz, says Iran would allow nuclear inspectors",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVnoyWGZiclVjNDh5OTR4MmdXNGN2cDloOVpXSTdRYk9TMFFBN19BT2VsRWloQmpYNjdrNE5xUTFPcDVmajJKd2NMQzdpN2FuNUJzaWstQVRSMmlpeldWTnNfcXNBNkYzdGtkLUt2VTllUmUyeE5XX2ZGVkRuNTJIeDI5TWZJUkR0ZEtycVd0NnRBV1dybFlkalVXTWZJRGM?oc=5",
+      "domain": "www.cbsnews.com",
+      "publisher": "CBS News",
+      "publisher_url": "https://www.cbsnews.com",
       "language": "",
-      "seendate": "20260925T225125Z",
+      "seendate": "20260926T161312Z",
       "source": "GoogleNews"
     },
     {
@@ -572,30 +582,40 @@
       "source": "GoogleNews"
     },
     {
-      "title": "In Iran, Talk of Whether to Build a Nuclear Bomb Bursts Into the Open",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxON1hsQ2ZkLW5Xb056RmRrUDBKOWJKZjNVaHVzTllkQUJKNnZxSHBtd1NBWGsxNGlXT3V6WnBPRHdyQjAtSzBBeXNGSWJIeEM1NFQ1LTd6bllvRmtQd1pHZEhCSGx1V3ZNaXlFRm9Uckt4c3pLM2NfcWRzMS1TTlVVT21kV0N4TmxMUTFNRzlmejI3d2daWV9CZ1VGNjFKUDdwMjh3LWxqejhPSWFJOUJ4V3BSUnZ1Zw?oc=5",
+      "title": "Exclusive | Trump Administration Presses China on Suspected Nuclear Tests in Confidential Talks",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNOHp1cHpGMHY1M2dCcFlVVUtCcXl1a3l0dUd0MnBJcEIxWlIxZXlGWThyeTdPVFZhdUlCVmRnaTBuR1VRRFV5WHpoXzZXVkRiZVhJRFJ6Rmk3WFY5MndFZ1RtX08tUTl0N0tqN0VTT2l6UGdlSURpdFBRNWh3TERGYkgxbG54TFhhckFzVWJTblRIanA3Vjhhd3o1QzhvMm43TWYyTEhUOVMxNEhEcTJ0SjBzOEVpRVh5TkxqcWJKSmkyT3NuZHhDY2VfNnpwTm1oYVFfUWFn?oc=5",
       "domain": "www.wsj.com",
       "publisher": "WSJ",
       "publisher_url": "https://www.wsj.com",
       "language": "",
-      "seendate": "20260925T171300Z",
+      "seendate": "20260924T170000Z",
       "source": "GoogleNews"
     },
     {
-      "title": "Iran rules out nuclear concessions even if US accepts Hormuz proposal",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xYzYyR0NpT0VDaGp4d1RDOTYydmhUQVJxa1NRVHZ1azRwdGtpQTYyRzlPcGVNRXNDM0JKQmdQSFNoR3dUMHAzUVQ0dmlOTF9VSmc?oc=5",
-      "domain": "www.iranintl.com",
-      "publisher": "Iran International",
-      "publisher_url": "https://www.iranintl.com",
+      "title": "40 years after Chernobyl, Italy greenlights a return to nuclear energy",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTFlhUHRPbFpmX1A1bDY2MmF5YXB3SnZmUkFrbjNNN3ZTeU91Ui03S1AzN002NlVOWUNCanBPLVNxek1RZklGSVk2bE56N1JhdmpQdFZRNUZXc08tNWJZeUhUTkJjUXJXRXE0eFdxVVRzVTdCYXM1OU5lN0dqNy1kRWh4TTltc0ItU0dZ?oc=5",
+      "domain": "apnews.com",
+      "publisher": "AP News",
+      "publisher_url": "https://apnews.com",
       "language": "",
-      "seendate": "20260925T175638Z",
+      "seendate": "20260923T164352Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Advanced nuclear power plant could be coming to Aberdeen Proving Ground in Maryland",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNb0dZOTY3M1NiQzJBajhnMFE1SFAwbjNaVnlDdlNNd05udUdhNHZPbHlVNTZKMWFkZ2lzZXYzZHAyQzhWeDYtNEpHNDIycERUazFJLVFFaDhhckZwQXd6TlZBaEZqQzhnbDF6a2Vib3BCR19pYTJfNUFSQlhfTXN3M3ROalB6Q3Y2UmFvNFB5SlNOU1h5a1NJSkl3eXVtQlNYN0RnMEZPV1pyOVlXX043ZzV1cHJqTHhVUDNnb0w1akFza3I0bVFCRTVzaHRLOHR1N3c?oc=5",
+      "domain": "www.wmar2news.com",
+      "publisher": "wmar2news.com",
+      "publisher_url": "https://www.wmar2news.com",
+      "language": "",
+      "seendate": "20260926T161310Z",
       "source": "GoogleNews"
     },
     {
       "title": "De­mo­c­ratic lawmakers oppose proposal to use state dollars for Hochul's nuclear expansion",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbUdKX29lSTU0Y1BMUWlYZjZaS29Zc2c2a1FpRUNPU3I3aTBuWWw2VERCeUNjSGFSY0xObXk0b2xFbklqOS1DTG5VLVgxS19NX2pjckRiNzZMc0xVNzNXVUlhS1FBVDZzTmZrMExhNFJ6dVVMdlNJUm85a0hNNFY3cm9ZQ21nRkdKRVhiM1dKdW90YS1wX0tCUlZCMU9ZRlBuLWNOQ1RLVQ?oc=5",
       "domain": "spectrumlocalnews.com",
-      "publisher": "spectrumlocalnews.com",
+      "publisher": "Spectrum News",
       "publisher_url": "https://spectrumlocalnews.com",
       "language": "",
       "seendate": "20260925T230000Z",
@@ -612,63 +632,33 @@
       "source": "GoogleNews"
     },
     {
-      "title": "IAEA and Inter-American Development Bank Sign Partnership Agreement on Nuclear Energy for Development",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYjVuMExBakliV09XQzEtVXcwYzN4NUxkeXlsbUt2XzBRTmVPa3JPaTNTcFV2TzBITmlOdW5kU0tlR2U5LVJlMWlJQUk4bHdadEFvRHhHWDd2bENsVU9xbmNoZVpVUnhqY2NXX1kzX0ZMY0VEUXVfWmRwM1lwb3gwVzA2bGxrMmxMQWwtaGRVOFl6Yk1YSElOVzhoSVlya3QxMzNaUEdnNE82SS1lUWZ0Z1JYTlE1Ri1NZThTUXJuTE1iVTVITGxuc3JRVldKOW42b2c5Mkgyd2hfWE1CNU1iVQ?oc=5",
+      "title": "Update 368 – IAEA Director General Statement on Situation in Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRU9kXy00dzBrR0xVM0dXdzBadWU4Und0ajlWLVlZdG92emRQRG1vQXlRVFpYREhhMWFPQkVHX3czRVVqTElmRXpnMUc2QmJqYTAtRVZ3OXQ2M29FaUx6dzlJVUN4VDFqNWJLTzVZUU0xNVFBTHVpekFKVGU4NU1WdGU0Rlh1VXExbjI4c1JOazhibzZudGhVR2VJN1lJRkwydi1wMm1PeV9weVNQRjlRbXN3?oc=5",
       "domain": "www.iaea.org",
       "publisher": "International Atomic Energy Agency",
       "publisher_url": "https://www.iaea.org",
       "language": "",
-      "seendate": "20260925T120201Z",
+      "seendate": "20260925T023400Z",
       "source": "GoogleNews"
     },
     {
-      "title": "40 years after Chernobyl, Italy greenlights a return to nuclear energy",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTFlhUHRPbFpmX1A1bDY2MmF5YXB3SnZmUkFrbjNNN3ZTeU91Ui03S1AzN002NlVOWUNCanBPLVNxek1RZklGSVk2bE56N1JhdmpQdFZRNUZXc08tNWJZeUhUTkJjUXJXRXE0eFdxVVRzVTdCYXM1OU5lN0dqNy1kRWh4TTltc0ItU0dZ?oc=5",
-      "domain": "apnews.com",
-      "publisher": "AP News",
-      "publisher_url": "https://apnews.com",
+      "title": "Iran rules out nuclear concessions even if US accepts Hormuz proposal",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xYzYyR0NpT0VDaGp4d1RDOTYydmhUQVJxa1NRVHZ1azRwdGtpQTYyRzlPcGVNRXNDM0JKQmdQSFNoR3dUMHAzUVQ0dmlOTF9VSmc?oc=5",
+      "domain": "www.iranintl.com",
+      "publisher": "Iran International",
+      "publisher_url": "https://www.iranintl.com",
       "language": "",
-      "seendate": "20260923T175200Z",
+      "seendate": "20260925T175638Z",
       "source": "GoogleNews"
     },
     {
-      "title": "European new nuclear: Italian revival, Polish agreement, Parisian summit",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYmJ2N24zdXJEX0g5N2Z3WW01V1VaYjVndzN3THFyUVRyWExzQXpGajV6X0hvWEpxNFg0WTRHeVJnLURGOEtDTFVCelN2VTZkUHZRdl9Ec196b1VSaXpWeVE5ZlJZeVA4LXBsVTF4NXluLVBONW02bEhjUUhKeUFRVVpZa3FPN0JtdG9LeW1CZm9RcEpLWTEtdWJJV3lxZjk5YWN6LUxwaVBRUXRr?oc=5",
-      "domain": "www.ans.org",
-      "publisher": "American Nuclear Society -- ANS",
-      "publisher_url": "https://www.ans.org",
+      "title": "Nuclear regulators probe fuel assembly installation mishap at Palisades",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZHBSOHlhbjBkVF9heHp6R1RkU2hVTnVGMllLR1VMckwzLWlKcEc5N3JnMzE5VzhVXzNKR0dMV0Nwel82Um95Z0oyekZuVTc0LTZEVzhJbno2N2ZxWklrT2ljMllsZXA5OC1jUHVReHV1bEpDeHlaWVZPbDRUSGZUcVlKenNGNk9YbXFFZVBudzJwOWFNSFVoT0lYOE4yUQ?oc=5",
+      "domain": "www.freep.com",
+      "publisher": "Detroit Free Press",
+      "publisher_url": "https://www.freep.com",
       "language": "",
-      "seendate": "20260925T192001Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Senators Markey and Merkley Lead Colleagues to Demand Trump Administration Abandon Reckless Saudi Nuclear Deal",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdC1kOUtfUDIxb1RKWFNOWjY4b0szd3B4N2dvaUFmWW55d2VPZW1RNGFRMDZRMWt3UXktbFRjNmd0bm5wRUc2UGItQkZQLV9FZmUtbVBkWVExS0NnRGNKbVF4eEhGSzVRWFRFQ3FVZEtHNDloRVViQjl2MHhhU0hMVlNXd0hFZkZxSkNCZVBraXppZW1HRFJncm42WE5GajZBMk9jdnNzeU5jcnNySlJJd0puZW1tclZwdTl1N2hES09XSzNsSlFHSG1VU0hFNnl0U1lid2t2anpCZw?oc=5",
-      "domain": "www.merkley.senate.gov",
-      "publisher": "Merkley (.gov)",
-      "publisher_url": "https://www.merkley.senate.gov",
-      "language": "",
-      "seendate": "20260925T205251Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Iranian President Masoud Pezeshkian talks about proposal to reopen Strait of Hormuz, says Iran would allow nuclear inspectors",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVnoyWGZiclVjNDh5OTR4MmdXNGN2cDloOVpXSTdRYk9TMFFBN19BT2VsRWloQmpYNjdrNE5xUTFPcDVmajJKd2NMQzdpN2FuNUJzaWstQVRSMmlpeldWTnNfcXNBNkYzdGtkLUt2VTllUmUyeE5XX2ZGVkRuNTJIeDI5TWZJUkR0ZEtycVd0NnRBV1dybFlkalVXTWZJRGM?oc=5",
-      "domain": "www.cbsnews.com",
-      "publisher": "CBS News",
-      "publisher_url": "https://www.cbsnews.com",
-      "language": "",
-      "seendate": "20260926T011026Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Russian nuclear strike threat against Lithuania sparks alarm, then disappears",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QcElVemZjeWtsc3RFNkh6OUc3LVgzZ20xdXBXOEJLcll2bmhiRk1VV3ctMlUwSEZ2di1GNlItMTVxZEEwamFnSWxSRzg3M3N5QjYwLTN3?oc=5",
-      "domain": "www.ynetnews.com",
-      "publisher": "Ynetnews",
-      "publisher_url": "https://www.ynetnews.com",
-      "language": "",
-      "seendate": "20260926T071116Z",
+      "seendate": "20260926T102000Z",
       "source": "GoogleNews"
     },
     {
@@ -679,6 +669,16 @@
       "publisher_url": "https://www.haaretz.com",
       "language": "",
       "seendate": "20260926T095100Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "A promise without enforcement: reflecting on the International Day for the Total Elimination of Nuclear Weapons",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNWlA3QXhRTndqTXd4VS1US2gyNktGTEtHRlI2VHR3dDhLLWp0MVFTeG9ydzZhdHNlSDlRVTlNTkJUQXJwbkZHUkx1RS1MLVM1YWJGTTMxTXpUNmFwaWwxZkpuZzFTZGNybS1FWERMaVNHaVNTb3RZZU40QXdpb3pjTWRIZGw2bWVHeEZpaXRERi16Qk15Znl4bE1YRXNpZy0zYXdPOXZZSlA0UnJBOTFseXNYZzlIOEZUbEFwVjNPX2JoOWpWemc1NkwyTVpEV3N5TnR1d2NQVDZRcDhtaXNWMg?oc=5",
+      "domain": "www.jurist.org",
+      "publisher": "Jurist.org",
+      "publisher_url": "https://www.jurist.org",
+      "language": "",
+      "seendate": "20260926T160718Z",
       "source": "GoogleNews"
     }
   ],
