@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "nuclear-proliferation-watch",
-    "generated": "2026-09-28T05:50:12.325168+00:00",
+    "generated": "2026-09-28T14:26:40.317006+00:00",
     "mode": "live",
     "sources": [
       "news_articles"
@@ -23,39 +23,29 @@
     },
     {
       "label": "Distinct news domains",
-      "value": "46"
+      "value": "45"
     }
   ],
   "live_data": {
     "news_articles": [
       {
-        "title": "Iran Pressed to Make Nuclear Concessions to Revive Peace Talks With U.S.",
+        "title": "State legislators make the case for a Nuclear Lifecycle Innovation Campus in Idaho",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTXBvUEJhRExlYjVFekVqamtuQUZxUEl6NTlacE1xSDFYVWRTQnJISXVJX1B3TGNQYW5ldFdIWXYwUkR1ZTJXbkNBam9RUkVLVHh1V3FKNEFVNjlPY1V2T0lkTlZHM3ltYzdYMUNCZU5Md1RNT2tGbV9XUlUyREVYZWRDQmFGQ0FxYzYySVBNbkpqYmRzc3lDQmhxUDNCX1ZKY3FYdEQwdV84SEtoaWhzcE5wX0hfMjh4Vk9NZi0xSQ?oc=5",
+        "domain": "idahocapitalsun.com",
+        "publisher": "Idaho Capital Sun",
+        "publisher_url": "https://idahocapitalsun.com",
+        "language": "",
+        "seendate": "20260928T101549Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Iran Is Pressed to Make Nuclear Concessions to Revive Peace Talks With U.S.",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeXp0VDVwMkZGQUR0OVFaQ0F6UHY3eDRsYmVadXFSWkRLQUhWVEZCVkFkdmZqd3FnMHBLQ05nWWZLV2p6MzVFWlVRYzZ5MDJURDczQ0FaMmdEOUNPTENwN3RRU01oOHpIdUNKenN6dnJWRzNWeVZwZFpuQ2RLakc0SE1qVTVLNDVsWTBIbm1Tc2N6V2N6aWNPN05wUmx1dkJLRE9Md0Vxd3ZVWTBhUDJoOWFOeGYydXRVRUE?oc=5",
         "domain": "www.wsj.com",
         "publisher": "WSJ",
         "publisher_url": "https://www.wsj.com",
         "language": "",
         "seendate": "20260927T211700Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Advanced nuclear power plant could be coming to Aberdeen Proving Ground in Maryland",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNb0dZOTY3M1NiQzJBajhnMFE1SFAwbjNaVnlDdlNNd05udUdhNHZPbHlVNTZKMWFkZ2lzZXYzZHAyQzhWeDYtNEpHNDIycERUazFJLVFFaDhhckZwQXd6TlZBaEZqQzhnbDF6a2Vib3BCR19pYTJfNUFSQlhfTXN3M3ROalB6Q3Y2UmFvNFB5SlNOU1h5a1NJSkl3eXVtQlNYN0RnMEZPV1pyOVlXX043ZzV1cHJqTHhVUDNnb0w1akFza3I0bVFCRTVzaHRLOHR1N3c?oc=5",
-        "domain": "www.wmar2news.com",
-        "publisher": "wmar2news.com",
-        "publisher_url": "https://www.wmar2news.com",
-        "language": "",
-        "seendate": "20260928T004025Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Mike Waltz: US offered to sell Iran uranium for civilian programme",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQU1BQRjBhdElacDhZcXlDbzF1M3BLcFpWZnpNdVZ4MEZCZkVteExtay1RZDVqcjhZTlhPcnpoWWFoZlpka0h5dHJDd25ZMkhUc2laaVZ4aWEta2FPYUtVMm96ZmVlOFhENGFHMWZLMVRSU3FkMzB0WGQ1U2E0Z1NaZUViZHpIeEJaaUNzbDNLTHU1V0E0aC1IbkJrUDM0eVNJWlBNc19oQ1lGd9IBrwFBVV95cUxNYjJMM2l2Yk84M0xIUFZHLWltSENaQjBUeWFsVjB4dE1YR2V1WTJKUGU3c3pZQ2pSM0c1bTRaNTlzTm5RQno1YkR3ekFqSkVsWExtVUNKTmtQSjBXbi1URnhCSDM5MnF2S3JXTXNHV2ZGYkR0OFNTOWVZWUl4ZURZM2ZGZHNpVlZDbUpDa2ZNUG5XeWF2SjZYcFlqOFRIYjZ5QkRmZ25TaXhkS0E5dW00?oc=5",
-        "domain": "www.aljazeera.com",
-        "publisher": "Al Jazeera",
-        "publisher_url": "https://www.aljazeera.com",
-        "language": "",
-        "seendate": "20260927T174723Z",
         "source": "GoogleNews"
       },
       {
@@ -72,10 +62,20 @@
         "title": "One Year After Executive Orders, U.S. Nuclear Energy Renaissance Is in Full Swing",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRy1tYVk5SkpESWYySlFVbWpCMDd0djMxeHNLTUJDSGZDekxSNnpxdFJwWE5pQzcwdERZaER6cXRPeEpFZEhVWDhmZTQ5S29vOUxqOVZ0Vm1malRva3RkUjZKeXlITzF5bThDU2hKOTVnZUZpNU1NN2VWOW8wSVFPNTJjOVNkZF81MjBXckxuQXNHb2hiR1RjRmYzb01DVEhMU3ZKTDNQMC14Vlk?oc=5",
         "domain": "www.energy.gov",
-        "publisher": "Department of Energy (.gov)",
+        "publisher": "energy.gov",
         "publisher_url": "https://www.energy.gov",
         "language": "",
         "seendate": "20260924T142145Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Can the SpaceX playbook work for nuclear power?",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa1NpZXNqbUVFZ0txVEJldE84eXB4dF80dHVvTWItb1FISkp1YmE4dm15ZWk3TTczaXU2RkRqV19ic3RHN2xpYjNmN1RSUjVFTldHYUJKeV9PZDF3RUgzN1JXdFAxa0phZGoxNzAwOTVQcGJMd1ppd1QtMXoyTFR1RTA2X1hiajlkNVFSM3NGRjFwdi1sSDNXcmpSRVM1X1FXUUFmbW9WWXNLZzA?oc=5",
+        "domain": "www.politico.com",
+        "publisher": "politico.com",
+        "publisher_url": "https://www.politico.com",
+        "language": "",
+        "seendate": "20260927T172400Z",
         "source": "GoogleNews"
       },
       {
@@ -89,16 +89,6 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Can the SpaceX playbook work for nuclear power?",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa1NpZXNqbUVFZ0txVEJldE84eXB4dF80dHVvTWItb1FISkp1YmE4dm15ZWk3TTczaXU2RkRqV19ic3RHN2xpYjNmN1RSUjVFTldHYUJKeV9PZDF3RUgzN1JXdFAxa0phZGoxNzAwOTVQcGJMd1ppd1QtMXoyTFR1RTA2X1hiajlkNVFSM3NGRjFwdi1sSDNXcmpSRVM1X1FXUUFmbW9WWXNLZzA?oc=5",
-        "domain": "www.politico.com",
-        "publisher": "Politico",
-        "publisher_url": "https://www.politico.com",
-        "language": "",
-        "seendate": "20260927T172400Z",
-        "source": "GoogleNews"
-      },
-      {
         "title": "Saudis have not ruled out developing nuclear weapons, U.S. intelligence assesses",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTEJUT2lldWJOU0RiS1k3ejRod2tWVFkydzJiY0pZZ2Q4YkxpRzFic2VRdW94UU9BMnhRc2daV05vbEFaeFlzTk9pRy1IdnV3UE5XV0xaV3gzaEE3dUxXeWZoczlEQ2ZwVnAzekRiZ2YxZV9aSGFyRXpCM2NvUXFwWmpwWEU3UU1rY1hhWVE3TkxDQm5hUzV0aC1OVDBrcXNHdFFDQmIyd2tpcW9vS2VaMzhGYTVBNUtzbU11UmFJeVpCWTdlcU1MYjJyM1lhb05XVHNVXw?oc=5",
         "domain": "www.washingtonpost.com",
@@ -109,13 +99,53 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Bill Gates says getting countries to agree on AI regulations will be harder than Cold War-era nuclear negotiations",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORXpqejBESDFab0V0cC1EaEFFN0pVdk5SanJRcXRMMnhWSk5xdURna1ZadUdSUkFCSFExMGxOckNxQWctSzgzcU1adDFJcGxtUC1ndC03UDJ0WWtRaTZ3SG1UcVZDQzVPaXk1ZW1sNEViSmlEdUZGTE5FbWRmTTRHVTVGMGNHdWpIVEU3U0lZeGRGeDcwckl3cGxNbjE2RE10MXRWcGdCc3lkX2s5amc?oc=5",
-        "domain": "www.nbcnews.com",
-        "publisher": "NBC News",
-        "publisher_url": "https://www.nbcnews.com",
+        "title": "United States and Sri Lanka Strengthen Nuclear Smuggling Detection Capabilities",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZTRjbko3a0JtcXBEZTRGZWRzX1FFMHJVbklyYVAyejU1cEhrTDJWdmNQZC1kajlSOEhvVFR4enJtM2FsNGNhVlZlRGdEaWVfa1JsdVpWXzI1eExLRzEwMGYwdFc2TzNYaUhQS3pLTzE3aTlyUU8xMXhGV1JqYzRoeFlWc21RZzZGTVVtNk9odGplLWZIdktOWEtBWXBScGJJbXNSUkljZmw?oc=5",
+        "domain": "lk.usembassy.gov",
+        "publisher": "U.S. Embassy in Sri Lanka (.gov)",
+        "publisher_url": "https://lk.usembassy.gov",
         "language": "",
-        "seendate": "20260927T141016Z",
+        "seendate": "20260928T090023Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Q&A: Zeno Power CEO on the demand for space nuclear power",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMjZyN21rNFVvSnRnOXJaQWE3djlsSEl4aVQzZzdVSEJ2OXpRWDBOOEJkenNydE1yRmFDRFhGSV9YT2JWcnFYNWUyajNpUTI2SU5YOGYwZzBXSTBVLUtwOFJ1a1QzcGVmdzZIMGlSTjNTeTZoUHFJTE9iYnBlTEhuYTdwVUc5X3FRNVU2NmhsRHUxaFd2?oc=5",
+        "domain": "aerospaceamerica.aiaa.org",
+        "publisher": "Aerospace America",
+        "publisher_url": "https://aerospaceamerica.aiaa.org",
+        "language": "",
+        "seendate": "20260928T090700Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Revealed: Putin is preparing a base for doomsday nuclear strikes",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSDJmajlmcmpPZXA0NnBFdnU0VFdYRVFIOXhoTm1lQ1d6LTJiWGsxcmhBclhxMWkwOHZ5M3pZREJyc0pDazVmU2FZWTRWV2tDMzdtMGg0SVBwbWZydlZZblN3UHNodEFyV2p0UTRuajN3Mmo1eUMwR1FmcDBsNFU3anlRY196c3pVNktzdGZGZG8xSmFaYXhtX1NaTzZCc0tpMzNuT185a0VhQWVu?oc=5",
+        "domain": "www.thetimes.com",
+        "publisher": "The Times",
+        "publisher_url": "https://www.thetimes.com",
+        "language": "",
+        "seendate": "20260928T135808Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Mike Waltz: US offered to sell Iran uranium for civilian programme",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQU1BQRjBhdElacDhZcXlDbzF1M3BLcFpWZnpNdVZ4MEZCZkVteExtay1RZDVqcjhZTlhPcnpoWWFoZlpka0h5dHJDd25ZMkhUc2laaVZ4aWEta2FPYUtVMm96ZmVlOFhENGFHMWZLMVRSU3FkMzB0WGQ1U2E0Z1NaZUViZHpIeEJaaUNzbDNLTHU1V0E0aC1IbkJrUDM0eVNJWlBNc19oQ1lGd9IBrwFBVV95cUxNYjJMM2l2Yk84M0xIUFZHLWltSENaQjBUeWFsVjB4dE1YR2V1WTJKUGU3c3pZQ2pSM0c1bTRaNTlzTm5RQno1YkR3ekFqSkVsWExtVUNKTmtQSjBXbi1URnhCSDM5MnF2S3JXTXNHV2ZGYkR0OFNTOWVZWUl4ZURZM2ZGZHNpVlZDbUpDa2ZNUG5XeWF2SjZYcFlqOFRIYjZ5QkRmZ25TaXhkS0E5dW00?oc=5",
+        "domain": "www.aljazeera.com",
+        "publisher": "Al Jazeera",
+        "publisher_url": "https://www.aljazeera.com",
+        "language": "",
+        "seendate": "20260927T174723Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Congress Ought to Fix the Flawed Saudi Nuclear Deal",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUmhUd3Nfa3Z2aEl6UTk1OTBCM0lWbFZyRkxOUzI4UGZiTnYxSHl0QVhaWXZSQ3BUZDMyLWk2RzRFRkQ0elktZDVTTVYxX0YtZHBrU1lJT3Z4am5HWFFKWFI3eXprZDg2MVNBM3FSbjJ1aFlTMHA4SFZlX3IwZkc2dlphWmdscWV0c0xoM3RqSlhkdDZ2a21oV1AzcFFJVTBuNlcwclNENA?oc=5",
+        "domain": "www.bloomberg.com",
+        "publisher": "Bloomberg.com",
+        "publisher_url": "https://www.bloomberg.com",
+        "language": "",
+        "seendate": "20260928T100006Z",
         "source": "GoogleNews"
       },
       {
@@ -129,6 +159,16 @@
         "source": "GoogleNews"
       },
       {
+        "title": "AI companies could learn safety lessons from the history of nuclear weapons",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPR3B0cDNNWWdfUGZkWEJhYzJIN0JoaGNncWhnUGZvaXR3NUtWdjhONUhfbkdURmljNjdiMlB5N1VQM29HUU5DeFphbjlGVUJ5b0UyWUEybVltdWpkdlFjTmtUYXRFT0tYWnFIUjd4bDhTSzNhbFJJVXdTQUJmbXdlSmhDTHRWbC1RYTluNzFTV1dOeDJIU3JKcFczaFRMNTBpbm4tVFpiMlUtZGlSbE84?oc=5",
+        "domain": "theconversation.com",
+        "publisher": "The Conversation",
+        "publisher_url": "https://theconversation.com",
+        "language": "",
+        "seendate": "20260928T123731Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "OED: Advanced Nuclear Ready Communities",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBPWXJTRnAzLVY5YnY5dV81UHVzcVlmeEFVdFppcV8wY0c3VFhIYXVreHRVaXdydXNqZjFqVE9kaFBOaGtwNjFjdmlMNDRQZ2g4cmx6cHEzZ3pIQnotVktZcXdXNy1BVkpYTU5sbHZtYk1NdktjT1EtRA?oc=5",
         "domain": "www.in.gov",
@@ -136,6 +176,46 @@
         "publisher_url": "https://www.in.gov",
         "language": "",
         "seendate": "20260925T160814Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Negotiators pushing Iran for nuclear program concessions in exchange for US peace talks - report",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5sbzlZa3dyYl9RSHVabkFnR1VfMEJCVW5ETnJtaThoWTZSS1J4SVVvRHp6NVJaNUZQZ1VyTzhEY3RMcnF6XzJ0V0JJMXZmbG5QUzlqeU9UVWhrMnNxSEJ6d3JIeWJJLVZHeEE?oc=5",
+        "domain": "www.jpost.com",
+        "publisher": "The Jerusalem Post",
+        "publisher_url": "https://www.jpost.com",
+        "language": "",
+        "seendate": "20260928T115410Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "SRS is crucial to the nation's nuclear future, Governor's Nuclear Advisory Council told",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQd0IxNVp4Ym5GYnduNnhiQjJGR1BILUI0WDN4c0VCNUo2MkNlOTlnOEIzZnFuLW5ueS16QXEtU3pPUGZLVUFxbUxUN0NXU1ROS3FPMTlqNHVCUFJ1Q2dPOG5JcENtaFJUTExsNVZiZE9aSklXU25NSk5mQXFFNjVWalhIR1U4MTFwbDRKemZydEROLXRfang3TXFkM2RqSWVPSkhXNkZORmtFOXhSMTU2TDJUT3JjLTR0cFBrMEF5T05XT2F2UVl6ZWhDRG9RZlpxakFPaXg1OFRzOXJtUjFiTjVxOV95dFJ4SUptcWxRV29vTWtzTkI1NDI1d2F1NldVVmVyajFHQQ?oc=5",
+        "domain": "www.postandcourier.com",
+        "publisher": "postandcourier.com",
+        "publisher_url": "https://www.postandcourier.com",
+        "language": "",
+        "seendate": "20260928T091500Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Italy's Senate approves a return to nuclear power",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOU0MwM2JSa051aVJCOUNCSVlHOC1JaDFHbnRIeUpHQ1pNT183NjhERnljNDB5WWl4MnFibXBVYUNtcUdtcm5lWHNKR0VqWXhNbUtKOUs0RmR2cTYzdWNQZ3RfTEFiSlRKeU1HdlFrVFg5aThjYnJhS1hDdjJBdjNIQ1lMaTExT2Y0UzI1bW5fMnIyUQ?oc=5",
+        "domain": "world-nuclear-news.org",
+        "publisher": "World Nuclear News",
+        "publisher_url": "https://world-nuclear-news.org",
+        "language": "",
+        "seendate": "20260924T165454Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "How Trump can earn the monument he so desperately desires",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeXhtc1NyNFp1dWtHUlRVV3hEbFdMUFJiVnFqWmZKX1lCUTFqc3dma2hrLVo4N3pCcGNpVDZSaUxneVVoamUzbTF3Tk9iUDIzYW1iMDItQm1yOUprUldGTE1uR2pqVDNfTlZiYnFPZzdIVE96NGx4VWg3dnpQWW5fSWJzTFpJWjTSAYwBQVVfeXFMTXdVWk9TNW5fd2tjN3FNN3MyNktXUWQ3eWxzU3VmQUoyV0cwUVJmVXlObVBiT0c3OEc2alN4dmtPYWZ2LVE3N1JnRnI5TWdNbjZNQ0lLVHRITjJHV3hQZjBHQkV2cTFGdFdpZzJpXzAwZDFxUTl4SC1CMFc4UWNCWFVJVGsxRVl6SGltT0I?oc=5",
+        "domain": "thehill.com",
+        "publisher": "The Hill",
+        "publisher_url": "https://thehill.com",
+        "language": "",
+        "seendate": "20260928T130000Z",
         "source": "GoogleNews"
       },
       {
@@ -149,73 +229,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Bill Gates says global AI cooperation is ‘more difficult’ than nuclear talks",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNX2lrdlZvdHNnU0tqX3JQRDlNVklLRjBMdmtJQVBpSG1qVkVldEl4Q1gyeWxkd295NG5DU19pWS1ydDk5SVFyRXJydS03N1kzeU5KalhuQ2hwamZnaEl5R1NFNURYb2IxMXdxc2xvMjNsaVdENWlDUC02Y3ZBMzhqU0V5dWo1Z9IBiwFBVV95cUxPanhYZDhRaUFqU2JDZk00b1pnX25CaXpwc3NvYUhIc3A3S3R3OUVTN1RvX09Wek9tYjdjZnNuNFdHeFQ5bEdjNUtqZTR2bFdQTlRlZXEwQ0pUS2JSYTlqbUFTSTI1LXNkOXhDZi1WMlFLR25mSVBpOWNIa1MxdklrbVFOSW85N1FJb0FN?oc=5",
-        "domain": "thehill.com",
-        "publisher": "The Hill",
-        "publisher_url": "https://thehill.com",
+        "title": "Nuclear reactors, data center campuses, gas-powered plants proposed in Iberville, Ascension",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPR2xtYTUwNVYwc0h5UURXX2E0dkRSNnhtNmxhMmFIbF9fNDQ1SkRZNXUtQXZsdjZKZFNQazhyZXF2TnlPLVFsbUpnUHc0OUMzaUFXUUJPb2dZdEo1UGFVVFZ0OE43N1hEYWlIcVp3eENodzd2VDRnSXZDcTk4YWpORkxVOEJqb2RtZ2ZFcnVnVkRWcDA1TDBfTWtkTmotdE9udGV5SXlUZFRGeDZ4X3dGZFNGbGI2NWxwY3fSAb8BQVVfeXFMUDhlVGcwS29td2dUTnhsaTlXaHFLMDgtTktOSTQ1M3ptSDJSaGxMX1Nfbkdza25YNGlQNUV0VWhoTnJBRjlYanlLVTFHRHNwQW9qSnZ5RTI5TlRLT3hkMjI2M19FSlJaTTRtRGtwWk5VX2hfY1VaUjVHcXN1Rkw3OWdHQy11S2ZTUm5nV0RFR1N6VF9VeFhzU2lTWDRneGw2VXEwaGZIdmhtQWVEcDA1YkQyd2lvbnNuTlZKTVUzUHc?oc=5",
+        "domain": "www.nola.com",
+        "publisher": "NOLA.com",
+        "publisher_url": "https://www.nola.com",
         "language": "",
-        "seendate": "20260927T194800Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "AI detects signs of aging in blood stem cells from nuclear images",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1wMnE4UGhRZ3NmWWlicHlYM3NPcmNCeWJkZzd0S3pJSGxQT1JtNV9kT25YU09fcWZnTE5uNVpFX1JHd0cxbFpEX19VV0o4anpicDl4aWg3U1VZTjYzelBUTGFLQmxiQnM4Y2prTG5MOWMtRjRETGJSbQ?oc=5",
-        "domain": "medicalxpress.com",
-        "publisher": "Medical Xpress",
-        "publisher_url": "https://medicalxpress.com",
-        "language": "",
-        "seendate": "20260928T040001Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "40 years after Chernobyl, Italy greenlights a return to nuclear energy",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTFlhUHRPbFpmX1A1bDY2MmF5YXB3SnZmUkFrbjNNN3ZTeU91Ui03S1AzN002NlVOWUNCanBPLVNxek1RZklGSVk2bE56N1JhdmpQdFZRNUZXc08tNWJZeUhUTkJjUXJXRXE0eFdxVVRzVTdCYXM1OU5lN0dqNy1kRWh4TTltc0ItU0dZ?oc=5",
-        "domain": "apnews.com",
-        "publisher": "AP News",
-        "publisher_url": "https://apnews.com",
-        "language": "",
-        "seendate": "20260923T175200Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Iran rules out nuclear concessions even if US accepts Hormuz proposal",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xYzYyR0NpT0VDaGp4d1RDOTYydmhUQVJxa1NRVHZ1azRwdGtpQTYyRzlPcGVNRXNDM0JKQmdQSFNoR3dUMHAzUVQ0dmlOTF9VSmc?oc=5",
-        "domain": "www.iranintl.com",
-        "publisher": "iranintl.com",
-        "publisher_url": "https://www.iranintl.com",
-        "language": "",
-        "seendate": "20260925T175638Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Mediators pressing Iran for nuclear program concessions for US peace talks",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5sbzlZa3dyYl9RSHVabkFnR1VfMEJCVW5ETnJtaThoWTZSS1J4SVVvRHp6NVJaNUZQZ1VyTzhEY3RMcnF6XzJ0V0JJMXZmbG5QUzlqeU9UVWhrMnNxSEJ6d3JIeWJJLVZHeEE?oc=5",
-        "domain": "www.jpost.com",
-        "publisher": "The Jerusalem Post",
-        "publisher_url": "https://www.jpost.com",
-        "language": "",
-        "seendate": "20260928T052016Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Sun Nuclear to Unveil New Innovations Aimed at Strengthening Clinical Confidence at ASTRO 2026",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSEl6V3I0VGh6ZUdQblBINkhwSGtHR2JlQ1dvWjJCN0M5X1FKbmplSWNVMy1SQTdvNkVaVnVyWnRXZFI5MDAwaGlxX2U2SjJCMV9qcG5NSDdPQVR2UzJpZGtjWWtMQ1N2ZWVLTUtINTRrUWZfbXB4OVlqdDBHRjhzN3hyZlRWekd2eUZyNzJ6SjNETTlzVllrQ0RzcXZyZDhiczZtX050OEo2VVVBM3lsdTFTaGJHU3dES1drM0d5eG5aU05HYnVLbFBLTlVNMkU?oc=5",
-        "domain": "www.biospace.com",
-        "publisher": "BioSpace",
-        "publisher_url": "https://www.biospace.com",
-        "language": "",
-        "seendate": "20260928T025744Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Türkiye Protects its Citrus Harvests with Nuclear Science",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMktFSVJ4ZEQ3ZDdCR2h1THVOY0RnbzhfZmdRd1NPbUVsSndKbmEyc2xQZkFRQTFvdVl3TWxLNklNcDlRSWtRSzhLWDJEVy12d1dNT2dIbnhpT3lGcW1KX1IyeU5PRlRBUkljSVdoZzMwR2h3UHJIN1pqZ1lvZExSZURINWV2eXE2SGpqaGJmTm1HOGhWMDVEMVhR?oc=5",
-        "domain": "www.iaea.org",
-        "publisher": "International Atomic Energy Agency",
-        "publisher_url": "https://www.iaea.org",
-        "language": "",
-        "seendate": "20260925T060000Z",
+        "seendate": "20260928T090000Z",
         "source": "GoogleNews"
       },
       {
@@ -229,6 +249,86 @@
         "source": "GoogleNews"
       },
       {
+        "title": "Community, Consumer and Enviro Groups Slam Hochul’s Nuclear Agenda",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUk9JRlJ1cC1hM0g1a1Y3VE1QSHphTHhXM1JEUm1nTTBrN1ZrRTZmNzRWYnp3TU5kdGhvc0hHUkJQYjZOa3Z2WTJSMkc4ZUstU0owNGVkS2txSGNodnM3MV83YkxqZWF0YlJ3YWZxNDlDVWI2RHBFQkhjOGZtYlAxeGItbzBVTi1FTFhlYkNPM2pFTC1i?oc=5",
+        "domain": "yonkerstimes.com",
+        "publisher": "Yonkers Times",
+        "publisher_url": "https://yonkerstimes.com",
+        "language": "",
+        "seendate": "20260928T110003Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "A New Nuclear Age: Why More Countries Are Reconsidering Nuclear Options",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPX2NzMGpCMkpHeklJWVI4MnM1czdpeExnQ1NILVBGa0JRNHlIbFlVVWIzVkJtSUwtanAwSmJBdVN3Vnl1VTdQOF9NTGVoaDJDRjcyLUZZR3BJWmplbGpOM0lkaldLY2UzcDhMX0ZTdGNTRmRJVFV1MS1xZkIwWlVqSVpuOG9TOC1OZmVkQWphNWN0VWE0TG5J?oc=5",
+        "domain": "impakter.com",
+        "publisher": "Impakter",
+        "publisher_url": "https://impakter.com",
+        "language": "",
+        "seendate": "20260928T113625Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Gov. Morrisey pushes back on report about West Virginia nuclear campus",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOei1Ja01fOFV0bk9ZSXdvOFJBLTZmdTNyU2t0WmxBSm9oaVYydlVzeC0zdVhWQnNFaDJhUEoyLTQxbFFDT2toWkJ6bUFiTUVCYXZ2N3BlX2o1b29aYmZoMTdDTEMtTTg4NmhaOV93YXlWV1k5Q1JPWDIwSjNJWGx0QkN1VE5pOWhFTnlacGRCcktYTWoxc1dHRnZXVk9OTUVBaElGeTJtekNWbzR3NS1GV1dwZlJmdE1yMzJhSE5ob3JZaEVsUzhqS2FiUmxnc2ZhTThna1lCY0x3X2luZW01cTkzY3NvOHAzb3c?oc=5",
+        "domain": "www.wvnews.com",
+        "publisher": "wvnews.com",
+        "publisher_url": "https://www.wvnews.com",
+        "language": "",
+        "seendate": "20260928T112400Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Update 368 – IAEA Director General Statement on Situation in Ukraine",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRU9kXy00dzBrR0xVM0dXdzBadWU4Und0ajlWLVlZdG92emRQRG1vQXlRVFpYREhhMWFPQkVHX3czRVVqTElmRXpnMUc2QmJqYTAtRVZ3OXQ2M29FaUx6dzlJVUN4VDFqNWJLTzVZUU0xNVFBTHVpekFKVGU4NU1WdGU0Rlh1VXExbjI4c1JOazhibzZudGhVR2VJN1lJRkwydi1wMm1PeV9weVNQRjlRbXN3?oc=5",
+        "domain": "www.iaea.org",
+        "publisher": "International Atomic Energy Agency",
+        "publisher_url": "https://www.iaea.org",
+        "language": "",
+        "seendate": "20260925T023400Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Iran rules out nuclear concessions even if US accepts Hormuz proposal",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xYzYyR0NpT0VDaGp4d1RDOTYydmhUQVJxa1NRVHZ1azRwdGtpQTYyRzlPcGVNRXNDM0JKQmdQSFNoR3dUMHAzUVQ0dmlOTF9VSmc?oc=5",
+        "domain": "www.iranintl.com",
+        "publisher": "Iran International",
+        "publisher_url": "https://www.iranintl.com",
+        "language": "",
+        "seendate": "20260925T175638Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "40 years after Chernobyl, Italy greenlights a return to nuclear energy",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTFlhUHRPbFpmX1A1bDY2MmF5YXB3SnZmUkFrbjNNN3ZTeU91Ui03S1AzN002NlVOWUNCanBPLVNxek1RZklGSVk2bE56N1JhdmpQdFZRNUZXc08tNWJZeUhUTkJjUXJXRXE0eFdxVVRzVTdCYXM1OU5lN0dqNy1kRWh4TTltc0ItU0dZ?oc=5",
+        "domain": "apnews.com",
+        "publisher": "AP News",
+        "publisher_url": "https://apnews.com",
+        "language": "",
+        "seendate": "20260923T175200Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Türkiye Protects its Citrus Harvests with Nuclear Science",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMktFSVJ4ZEQ3ZDdCR2h1THVOY0RnbzhfZmdRd1NPbUVsSndKbmEyc2xQZkFRQTFvdVl3TWxLNklNcDlRSWtRSzhLWDJEVy12d1dNT2dIbnhpT3lGcW1KX1IyeU5PRlRBUkljSVdoZzMwR2h3UHJIN1pqZ1lvZExSZURINWV2eXE2SGpqaGJmTm1HOGhWMDVEMVhR?oc=5",
+        "domain": "www.iaea.org",
+        "publisher": "International Atomic Energy Agency",
+        "publisher_url": "https://www.iaea.org",
+        "language": "",
+        "seendate": "20260925T060000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "AI detects signs of aging in blood stem cells from nuclear images",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1wMnE4UGhRZ3NmWWlicHlYM3NPcmNCeWJkZzd0S3pJSGxQT1JtNV9kT25YU09fcWZnTE5uNVpFX1JHd0cxbFpEX19VV0o4anpicDl4aWg3U1VZTjYzelBUTGFLQmxiQnM4Y2prTG5MOWMtRjRETGJSbQ?oc=5",
+        "domain": "medicalxpress.com",
+        "publisher": "Medical Xpress",
+        "publisher_url": "https://medicalxpress.com",
+        "language": "",
+        "seendate": "20260928T040001Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "In Iran, Talk of Whether to Build a Nuclear Bomb Bursts Into the Open",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxON1hsQ2ZkLW5Xb056RmRrUDBKOWJKZjNVaHVzTllkQUJKNnZxSHBtd1NBWGsxNGlXT3V6WnBPRHdyQjAtSzBBeXNGSWJIeEM1NFQ1LTd6bllvRmtQd1pHZEhCSGx1V3ZNaXlFRm9Uckt4c3pLM2NfcWRzMS1TTlVVT21kV0N4TmxMUTFNRzlmejI3d2daWV9CZ1VGNjFKUDdwMjh3LWxqejhPSWFJOUJ4V3BSUnZ1Zw?oc=5",
         "domain": "www.wsj.com",
@@ -236,6 +336,26 @@
         "publisher_url": "https://www.wsj.com",
         "language": "",
         "seendate": "20260925T171300Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Mediators press Iran for nuclear concession to revive ceasefire talks with US: Report",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMUtfWXdkaFp6N21SVUE4cGM3NEs1RDRRS29yamRRNlZ4eWx3Z2pfZFlRaEZ5U2ZETzI4QzJ1NHlkUzVkcUk1aFd2bWlldnFCZEkwalVTclJtOUVaM3RWVFFwMmNNTlU1X0tQRENfX1VEbDVIV3ZrelBnUzR4bVNoazByV0FzTGpyZVZmS3U4bXdjd09ldlJsV2tDNXJTZ0pfU1llSjB6UHZlX0kwQmIwazR4MENzcmRpSjFmeXp1WVJSajZZU1h5aHc0S3ppd2hOVnc?oc=5",
+        "domain": "www.aa.com.tr",
+        "publisher": "Anadolu Ajansı",
+        "publisher_url": "https://www.aa.com.tr",
+        "language": "",
+        "seendate": "20260928T070157Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Bill Gates says global AI rules will be harder than nuclear talks",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQkQxX1ZTcjZqNVlrQnFsMlo4Rlg0WTVyR2JKY0lOWWNZdmtOcDYxN0poU01jRWVTNVVzbXZiR25qMnJyeV94WWQtUmVDQ05oaXhIMlhwcTJkX21PMVNESFp4dThrX1dlMG5KeEctS1I1ZnM1RGtuaXM5QzVwTkQ5VUNyYTdWTDhxd05zZXdDTHB4VGZEY05YS0FIRWcwS2N3NW5uTlk2NVbSAa4BQVVfeXFMT19aQkI1NXZhN01GbU5TOEktd01uV0xiTGVfZVl1Sl81MWxCaWFpTlRudTk3YktLNzlvWnRPSjc3bXJKNl85M1BPSmY4eS12NmJoVnNqQWFLd3dhQ25BVzVXeWpLZVFrV0tIVkVzalI1c2Y0ZG5oaFJSU1lFeE1CN0t2SWh2Z3pETy1jcDE4Rl9IRjJWVk14QzB5UVpzeEk4QXp3RjZuSDBKbVIxZWFB?oc=5",
+        "domain": "www.upi.com",
+        "publisher": "upi.com",
+        "publisher_url": "https://www.upi.com",
+        "language": "",
+        "seendate": "20260927T232431Z",
         "source": "GoogleNews"
       },
       {
@@ -249,6 +369,36 @@
         "source": "GoogleNews"
       },
       {
+        "title": "Justice For All Endorses Nuclear Abolition Day, Calls for Total Elimination of Nuclear Weapons",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZURIOGd1TlprSnZneG9VN3RMS3lwaFBmOUd4UFo3T0JIM3pwVFBKS1RZVENiRHJPdXh3dUNSd3lOTjdRdjd1c3doSjFtSDRfZmw3Qk1RRE43TWhlN2dVLVZRbkgzdVljWVJRd3pvZHZTQ1NNUkNjcXdiVlNISmpyMVhWQmpaN0o5dzlYaXpUU1NPX0MwTDMycThWeVpkdHBUNGJpMkJtMmYzbExUTkpySHdKTmNxNks4U1ZUdkpyUnY0Q3BfNFNJUTM1UWM?oc=5",
+        "domain": "www.justiceforall.org",
+        "publisher": "justiceforall.org",
+        "publisher_url": "https://www.justiceforall.org",
+        "language": "",
+        "seendate": "20260928T142400Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Overview",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9VRFZOejhQdWdiNkhvMnBjeV8yaEk0bnFTY1ltT2c5aGQ2V04tb2lLY0VlYnp4SFdBVUg2S3VaRXNkb1l3ZlBnT1lOdzZKLVl2eGFWUk1MMjZIaWdibzBCRGpuU0RsZkU0dUFJOWpR?oc=5",
+        "domain": "legis1.com",
+        "publisher": "Legis1",
+        "publisher_url": "https://legis1.com",
+        "language": "",
+        "seendate": "20260928T135546Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Europe’s AI demand could set off nuclear energy boom, says JP Morgan",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPR3NmYkNOcnBHeTRGTlIxUVNFbHNsNzIta0YzZlRXRGhpOVo2SzlIRVVfd1Z2eGxzdDEwS1RialJCVkUxQ19Hd0ZpZTJsWDhya2FhNktnQXEzaVozZlZmWHpWbzhrb0pseGFnS29DTl9ENXF6eUJRRndJdC1qMHNJMHVVLW10Y0VSbFVEZTJaYm1Za0M5ekgwVTItM3p6OV8xYWJUSg?oc=5",
+        "domain": "www.euronews.com",
+        "publisher": "Euronews.com",
+        "publisher_url": "https://www.euronews.com",
+        "language": "",
+        "seendate": "20260928T101633Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "Why the world’s top nuclear nation is sitting out the hype on small reactors",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTUtZaGJTRlRpS0dXMEV0dkxsZzFOYTdnOHZKUVA1aGkyVGVNcVc3QkxsZ0QweDFiZks1ZVJ6aHBfZXpSeFlMWkZpeW9qYXh6TWJXcDg3NFM3NENlMGdEc0p5dUZ3azM3aWlQa2VWLXJRdFkteDJKaTZNTG9jbF96akdQVVhndWdEdnQ1UzdJTlQtbktjSmNqME4tS3hhbVhVdnNrNlBucGlTdUc5?oc=5",
         "domain": "thebulletin.org",
@@ -259,83 +409,53 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Turkey discusses nuclear deterrence amid Iran war — Cyprus Mail",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYnk1czhOQUJVWlg2WlJuXzZaWFZGd081dF9xb2dsVkowbWxIanlFVndHV3dZa1pXcThweFZvNVhUa3JFZW01QjFHVlpJbmU1WUQ3SUVlZFJRbkt0R3pnd0lRQm1QZGlhYXIzQXJaOHdla0ExU0lMVzNGVGQwSENSQmpNLV9QdnFLdjV4SA?oc=5",
-        "domain": "ua.news",
-        "publisher": "UA.NEWS",
-        "publisher_url": "https://ua.news",
+        "title": "JAGUAR URANIUM TO PARTICIPATE IN ROTH CAPITAL PARTNERS' EMERGING NUCLEAR TECHNOLOGY CONFERENCE IN NEW YORK",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdnFLRUVlc3pfTEN3WS1wY1czbENka3d1d2tvYzRxbGtQVkR2Ri0tWDlndnhHVUxuN1NvNGJHRTNOM2Z5UHdxZXJCMkxQenFmWm95c1Y1Y1lvUC1oU3g1aUZSXzd0WEY0SVc0MXFlaE5XamhrTl83SnEwQ3RJbGZPalVSeHRTeWxUTDgwV1NwWlVEWTNsNm5QRzFBZko0dEVzcTFZQmZreG94c21BNmNNYmZKaExlOGVqU1prbHI4dFpBVEo2ZG5GZDRFd2c?oc=5",
+        "domain": "investingnews.com",
+        "publisher": "Investing News Network",
+        "publisher_url": "https://investingnews.com",
         "language": "",
-        "seendate": "20260928T013557Z",
+        "seendate": "20260928T112106Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Bill Gates says global AI rules will be harder than nuclear talks",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMk5Pb1A5RTlZSWp1Ukw2UzlsUWdkN3VfV0tyUDlENms0amN4emczVGN2dl9DWGpxcm5zaWVMTmRIUmItUWk2RW03UUlKbFlpM2V1V0JBYXJvdGN5ZEYtRE9ieXpuRkRVbGxLQVRfbkRmVFo5ekFlWkZnd0k4c25HU2NXd1RpcnNiWHc?oc=5",
-        "domain": "www.yahoo.com",
-        "publisher": "yahoo.com",
-        "publisher_url": "https://www.yahoo.com",
+        "title": "Top 3 Nuclear Stocks To Watch In September 2026",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWjdyWmJERE1acVlaTlN3WEhXNFEwUGdTSjlCS3VCZlNZOTAzVnBNY3Vnb21iTGVERzdLa3paSU83bWhDSzRraUM4Y2xTN0JneW1CWExFWUpkM3pBR2NHeG1GcERyTUlRSlVxZnJVZnNXQlgxN1NPV01UbHVpOUc5dVpfNndXMGo2ZmxFa3FmRkZ4cU0yNWhyVEI1X0JiUVdBSDhDMXNYcV9oVVFvbmhBOElEY1pYbFVkOFhmQ3d6OHLSAcYBQVVfeXFMT285TFE4WmNTNkJ5aFNUTmVPZ2J6Sjk0eVpFaFp0SlZnS0pwakQ5VG9ueVZzY1RKOHZaZFVIYmFGbXlUQzdWd1pNRHQ2TmVlRU1jTi1pZjF0VVpxQlp3OHFIMFpkVXluVDQxRm50ZGtxdkFKWUctMUt4cEtqMmVwRFRvRlltSlBqTzVGMUlLMzFjNHBEUUdiWENpTlB3WnNwN1ktWFppSFlsU3JBZVhiOGs2OVBzazdRamxGR0E3TGF5TVdNYzln?oc=5",
+        "domain": "simplywall.st",
+        "publisher": "simplywall.st",
+        "publisher_url": "https://simplywall.st",
         "language": "",
-        "seendate": "20260927T232431Z",
+        "seendate": "20260928T103058Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Could Europe’s data centre boom trigger a nuclear power revival?",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQzZpNHJoeVhUdnlRWU9Fc0NycmZvNjhXZzRuRGdybGRQS0QxZnY1cF9GbXl3NVhQYlJQTW9ZbHZVenZZaEVIalJ4WGVqaXlhbVZkcVppSzg5aEFoaXdyWlcxMlBlQk95NEJCazEtUkxTQnZ2b0JMQ3RIOEk5YWJ6MTlJVmF5OHZ3WUxTVnlDQQ?oc=5",
-        "domain": "finance.yahoo.com",
-        "publisher": "Yahoo Finance",
-        "publisher_url": "https://finance.yahoo.com",
+        "title": "Bill Gates says getting countries to agree on AI regulations will be harder than Cold War-era nuclear negotiations",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORXpqejBESDFab0V0cC1EaEFFN0pVdk5SanJRcXRMMnhWSk5xdURna1ZadUdSUkFCSFExMGxOckNxQWctSzgzcU1adDFJcGxtUC1ndC03UDJ0WWtRaTZ3SG1UcVZDQzVPaXk1ZW1sNEViSmlEdUZGTE5FbWRmTTRHVTVGMGNHdWpIVEU3U0lZeGRGeDcwckl3cGxNbjE2RE10MXRWcGdCc3lkX2s5amc?oc=5",
+        "domain": "www.nbcnews.com",
+        "publisher": "NBC News",
+        "publisher_url": "https://www.nbcnews.com",
         "language": "",
-        "seendate": "20260927T102958Z",
+        "seendate": "20260927T141016Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Iranian President Masoud Pezeshkian says he is open to allowing nuclear inspectors into country",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbjFMUlFham02TjluemJ3eEpCZG1seTFQS3kzQ3hFcUQzMzBHeWxqWkNzZ2RWcWYxdWMzOXVCMXg3XzZmMktjRVdwTlJhN3RpSVduQ2NfeXpYR0h0Qnd0YVRiUkQ0TXNjNWRxZDVGMkk1Vmo3SDlFUkp3REVSUk9lWDJuNnlDVTNUMm1CQVNRNlRDSUswZUd0QTFJdzR5U05kcm50ZjEyc2dYeTRnbzB4V3hudzJHNmdLbTRIR2t2YTYzemto?oc=5",
-        "domain": "www.cbsnews.com",
-        "publisher": "cbsnews.com",
-        "publisher_url": "https://www.cbsnews.com",
+        "title": "Bill Gates says global AI cooperation is ‘more difficult’ than nuclear talks",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNX2lrdlZvdHNnU0tqX3JQRDlNVklLRjBMdmtJQVBpSG1qVkVldEl4Q1gyeWxkd295NG5DU19pWS1ydDk5SVFyRXJydS03N1kzeU5KalhuQ2hwamZnaEl5R1NFNURYb2IxMXdxc2xvMjNsaVdENWlDUC02Y3ZBMzhqU0V5dWo1Z9IBiwFBVV95cUxPanhYZDhRaUFqU2JDZk00b1pnX25CaXpwc3NvYUhIc3A3S3R3OUVTN1RvX09Wek9tYjdjZnNuNFdHeFQ5bEdjNUtqZTR2bFdQTlRlZXEwQ0pUS2JSYTlqbUFTSTI1LXNkOXhDZi1WMlFLR25mSVBpOWNIa1MxdklrbVFOSW85N1FJb0FN?oc=5",
+        "domain": "thehill.com",
+        "publisher": "The Hill",
+        "publisher_url": "https://thehill.com",
         "language": "",
-        "seendate": "20260927T143100Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "A promise without enforcement: reflecting on the International Day for the Total Elimination of Nuclear Weapons",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNWlA3QXhRTndqTXd4VS1US2gyNktGTEtHRlI2VHR3dDhLLWp0MVFTeG9ydzZhdHNlSDlRVTlNTkJUQXJwbkZHUkx1RS1MLVM1YWJGTTMxTXpUNmFwaWwxZkpuZzFTZGNybS1FWERMaVNHaVNTb3RZZU40QXdpb3pjTWRIZGw2bWVHeEZpaXRERi16Qk15Znl4bE1YRXNpZy0zYXdPOXZZSlA0UnJBOTFseXNYZzlIOEZUbEFwVjNPX2JoOWpWemc1NkwyTVpEV3N5TnR1d2NQVDZRcDhtaXNWMg?oc=5",
-        "domain": "www.jurist.org",
-        "publisher": "Jurist.org",
-        "publisher_url": "https://www.jurist.org",
-        "language": "",
-        "seendate": "20260926T200600Z",
+        "seendate": "20260927T194800Z",
         "source": "GoogleNews"
       },
       {
         "title": "Deterrence Is Now Key. But Don’t Forget About Arms Control",
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZWJ6WlNLaGtLc1JzeTI0WFZjZUhFenpSYU9zT1gyd1FBQV8tQUdCdm9QdmhTaXdRM0hnX3VCZUpmSnhndk55ZEhNRW5ZMUF6MTdITExTR1lXdHQ5dlRuT0dIODVZY0htNlBaRDVoX2ZOdkxsRTZ2V0wxeGFwaXEtM0E4QQ?oc=5",
         "domain": "ip-quarterly.com",
-        "publisher": "ip-quarterly.com",
+        "publisher": "Internationale Politik Quarterly",
         "publisher_url": "https://ip-quarterly.com",
         "language": "",
-        "seendate": "20260928T043016Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "From hydrogen to nuclear: Investors put energy investments to the test",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOb0xXdVppT2VmRVpRNmVXWGxhYmpCa2hFbDFRekhDUVhBUzBDNUUtTHBYUmxJbEJKRW5Dbkd5a0hDUmpRWU1sNzE3d1E3MzJOZEdaNzJZVXVBamc4NGpLbTYwQVV3T0lZdkpJbUZGRGpTMUZ2dUxvNjYwZU9BOUV2dWMzMk9SajlHOWhVd3JXd3JWcEJnbFhZemlRQ0M4RTZudmhLaTFGSjZfVVVwVWNZeWlDbnA1MGJydjhPVWNKbGpzT1E2ZUhz?oc=5",
-        "domain": "www.top1000funds.com",
-        "publisher": "Top1000funds.com",
-        "publisher_url": "https://www.top1000funds.com",
-        "language": "",
-        "seendate": "20260928T001013Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "South Korea's U.S. nuclear push advances, but contracts unclear",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNUs0XzhoOURnOUQ3MTg1MklqMTU1QnRDc2dEWkZoLTJFcko0SzN4bENjYkQ5bE43YzZfMVNDS1hMcXlhQ3hxN3JwNzZLRExKbE1sSmdFbVo3dFVKYjdrYTZZMERBMm45bGRGb3IwZkdkNWVPNlZEcWNkajdFTHFrVkNlZ05BNFFjY3VjYllMRUxoYk5VNFpKVVNhZDAxeWVQOWZ5TFRfQzdkTl900gGyAUFVX3lxTFBkN0ZxcTAyV1otRWZ3ei1YWHdKS1lyUHJJTWlHMGprdmh2RC1kbkZld1hVcHZNbUpzd2Rxa1hxekJSQ0lpWDB2NUV2a3NsVk5fU0JWRTZNelNPLXEwSXpEUTNuTGpXdnlMWV9pb2JaeFJRY1VoUVoxOHNTaXRkSkU4V2stWGZQd1JiaFFkUllXYlRRZ0pJb2dqMUpkQXNxaTFpTjgwakNsNENRblhTck0zcUE?oc=5",
-        "domain": "www.upi.com",
-        "publisher": "upi.com",
-        "publisher_url": "https://www.upi.com",
-        "language": "",
-        "seendate": "20260927T233037Z",
+        "seendate": "20260928T103016Z",
         "source": "GoogleNews"
       },
       {
@@ -349,216 +469,86 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Bill Clinton Signs the Comprehensive Nuclear Test Ban Treaty",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUjA5VjhjaUdpZUw1WGZQeVVyeTJ2TUpjTTYwZFRXVFZ5bFZlSlhObVZrWXpLa1lFdV9QVndqdzcxT2U2a2RiLWxIdFhOcXVxZGpSTlFnT2c5WjBadjIwWTc2NkpxbDhSREhTLUs1MXdHdGFEeTJOMFNKbEhNdHJWWUJkRjkzNHJUVGpKSDN4aHpZU1U?oc=5",
-        "domain": "www.cfr.org",
-        "publisher": "Council on Foreign Relations",
-        "publisher_url": "https://www.cfr.org",
+        "title": "U.S. Navy Advances First New Nuclear Warhead Programme In Nearly 4 Decades",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPV3VSak42Sk5zMkxGbmlrcXBuM3NsNVZZZ3NvQjREdmoxZTM3MnVuZmpwTXBMbWpRX3B1V3RWa29CaXlrekt3cUZfcFBOTlJMelR4eDZNSHVHRWVEWmstTi1vNnNtZHVocEJMc0lCSWM3N0o2eHdCTkhpd0pSblpacGQ1bmx5Z1M3c1l5N3dYQmdYOXpXOGd4bm5QdkFFWm82Mm1za3c2QQ?oc=5",
+        "domain": "www.marineinsight.com",
+        "publisher": "Marine Insight",
+        "publisher_url": "https://www.marineinsight.com",
         "language": "",
-        "seendate": "20260924T151611Z",
+        "seendate": "20260928T123229Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Half-Life of the Party: Issuers Position for Nuclear Renaissance",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOV0U5eVptUzVjWk9NcEZ2ZElXQTQyb0JGRXpwbC1TdzFoWlc1X3BXaGtqZ0RybGg5VklxVEJkdTRSaXZnbXJWSnVXUmxsa2RlOHpULU9MMm8zeHRUeWlsbDllWHZoUExxOXJBWGVOMXI2aUxhYk1hVlNPS0NaU215NWRnMjMyczRlLXZ2NUEtVGhTZ3BhYUoyZzdDWnZPTzctNld3QkEyVmpNdmZTVzZsSTZPTWM0cHJ0?oc=5",
-        "domain": "www.thedailyupside.com",
-        "publisher": "The Daily Upside",
-        "publisher_url": "https://www.thedailyupside.com",
+        "title": "Sun Nuclear to Unveil New Innovations Aimed at Strengthening Clinical Confidence at ASTRO 2026",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSEl6V3I0VGh6ZUdQblBINkhwSGtHR2JlQ1dvWjJCN0M5X1FKbmplSWNVMy1SQTdvNkVaVnVyWnRXZFI5MDAwaGlxX2U2SjJCMV9qcG5NSDdPQVR2UzJpZGtjWWtMQ1N2ZWVLTUtINTRrUWZfbXB4OVlqdDBHRjhzN3hyZlRWekd2eUZyNzJ6SjNETTlzVllrQ0RzcXZyZDhiczZtX050OEo2VVVBM3lsdTFTaGJHU3dES1drM0d5eG5aU05HYnVLbFBLTlVNMkU?oc=5",
+        "domain": "www.biospace.com",
+        "publisher": "BioSpace",
+        "publisher_url": "https://www.biospace.com",
         "language": "",
-        "seendate": "20260928T040100Z",
+        "seendate": "20260928T025744Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Powering Poland: Bechtel And Westinghouse's Nuclear Drive",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUWpIWUdhOWZmdkVQNjhuaDNYTU9pV2lXdE1ucWJ0UnpHNFUzbDlqRHU5WmtZRG1vSWpxbTltajFseHQtMzVzNUFkaVIzS1VmdVc4U2lWTFQ4clJrRmVfb3Q1czdpWFozTnBPNGRCSUFFY2lrdzN2UVZIWk1zOTBJMkhBOGVKMGJKMkhaWVZWNVBXSW5lOERB?oc=5",
-        "domain": "constructiondigital.com",
-        "publisher": "Construction Digital",
-        "publisher_url": "https://constructiondigital.com",
+        "title": "From hydrogen to nuclear: Investors put energy investments to the test",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOb0xXdVppT2VmRVpRNmVXWGxhYmpCa2hFbDFRekhDUVhBUzBDNUUtTHBYUmxJbEJKRW5Dbkd5a0hDUmpRWU1sNzE3d1E3MzJOZEdaNzJZVXVBamc4NGpLbTYwQVV3T0lZdkpJbUZGRGpTMUZ2dUxvNjYwZU9BOUV2dWMzMk9SajlHOWhVd3JXd3JWcEJnbFhZemlRQ0M4RTZudmhLaTFGSjZfVVVwVWNZeWlDbnA1MGJydjhPVWNKbGpzT1E2ZUhz?oc=5",
+        "domain": "www.top1000funds.com",
+        "publisher": "Top1000funds.com",
+        "publisher_url": "https://www.top1000funds.com",
         "language": "",
-        "seendate": "20260927T134005Z",
+        "seendate": "20260928T001013Z",
         "source": "GoogleNews"
       },
       {
-        "title": "2 Nuclear Stocks Crashed by About 50% in 2026. Here's the 1 Thing That Would Bring Them Back.",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMGM3UG9WOGpUaVNLWlRaQi1WTERjT0oxVTIzbHFPdDQwRTBXdHdDLVhZWlhMN3VFVzNxQmZ2OVlGRVVsUlhKbVl0X0phUFc4MW9ONVgyRmdwZFp2OUs3NlRXT21tSnk1YUVVaF9VY3Nza1g1THJZZ2RnVktfVDI0S1o3R1M?oc=5",
-        "domain": "currently.att.yahoo.com",
-        "publisher": "Currently.com",
-        "publisher_url": "https://currently.att.yahoo.com",
+        "title": "Mediators pushing Iran to compromise on nuclear program, but Tehran believes it can endure US pressure -- report",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxObXdWdmtxWnRpdExndWp5a0RETGRDUi13RUN0My1sNGUxYlV0dU43andzd2t5bUc0R0ZZTm5rdUV6dGZVVHJ0aXFzaTlsckRKbE5PWGtzdU5abS13RnhjZHl2ZFYwYl9KS2p3ZDBqMVJEbVdqMVJBQXBFVXVyTzdvUmZ1SVdfVWxUNXZTWS03Sm9BY2tpeXA0R19fbGkxU1MydjdkbXIzbFUyUDRpQVZ0UUpLNFhVcjlMOUpmQWg4MW5uc1paYzNHdzZzdng0R0hrNVVZeEVvSHlGS2ZzblVIdndWR3RwQ1NqUlE?oc=5",
+        "domain": "www.timesofisrael.com",
+        "publisher": "The Times of Israel",
+        "publisher_url": "https://www.timesofisrael.com",
         "language": "",
-        "seendate": "20260927T135800Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "NANO Nuclear, IP3 and Cybernetic Intelligence Sign Letter of Intent to Pursue Nuclear-Powered AI Infrastructure Projects",
-        "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOTUVHWkFVbEtrWXNoMmxZaDV2WS1aYW90ZW44R096WDFDblVWdUtQd1EtQ3BSSXM2TU1OQV95YV81azVwUl9TbWc2V2ozV0lfdFlJZlF2NjVodzNKaXlZX1JUc0pNbllyOHptT09hTXNWendMQjA3NHNMeWR6Zks5cWgxTXdTSEFBdmcyQXlIelBjdU1kdktFUjRMcUFpdjNvSlk0SmZDMU5zVllueWJMYVNkTlRNanpzR292ejRBeW5WOTlNQjY4NGZXd2E0c2JGaVhhNUY0VnZHOXVhMkpmc1lHT3kyVk0xSzlkNzF1NWw2dFpDNGxUbEl0ZjRVYURVUF9JRXRmNkg5QTZOM25iZjB0NFJMbkU?oc=5",
-        "domain": "www.media-outreach.com",
-        "publisher": "media-outreach.com",
-        "publisher_url": "https://www.media-outreach.com",
-        "language": "",
-        "seendate": "20260928T003000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Bill Gates says global cooperation on AI ‘more difficult’ than nuclear deal",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMUlPTWRtTXpZVnNUVzVVbFB0bTRlVDd4bUF1SnFyVVBtRUdXOFJfWjlWR1ZHY3VWSDhKaGpITFMweUhzMTNpRDRxX1hmbzhvZVk0Y2xmZDBHcnQ0cDdaYXhWOHRmeFhlQ1FGdzFlWl9laC05TUFVRUx5RWxGazRyVjVuQUpuRUFRNzVDR1NVRUp5WFB4T0hsaXZsUkxWZWtMQmJ6UmFpWEY5a1REZzRFa1V0X1RPak9qUG5sQjRZb1NjQm1LZnZaQXBRRQ?oc=5",
-        "domain": "www.nbcnews.com",
-        "publisher": "NBC News",
-        "publisher_url": "https://www.nbcnews.com",
-        "language": "",
-        "seendate": "20260927T140716Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "2 Nuclear Stocks Crashed by About 50% in 2026. Here's the 1 Thing That Would Bring Them Back.",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaWswd2ZyejlsQzhnbmFRYXZSTUN1cUIzeUI3WC14SW85aHZvanZXb0Y3NndwTHg1aWpKLVNoU0x4OGc2Q2szdENDUHdiZ3hvY2FkaDFIZV9zaWJvdFBHbmxsVmo4RTNNSFo3djB3WDdtT0luUmwxeGxVc3kzUzRpdDNIVGctTWxrQUkyS3ptek11dEgzOV9rUQ?oc=5",
-        "domain": "www.fool.com",
-        "publisher": "The Motley Fool",
-        "publisher_url": "https://www.fool.com",
-        "language": "",
-        "seendate": "20260927T143800Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Lithuania moves to lift ban on nuclear weapons as ‘Russians do not attack the strong’",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRS1qYm9KLTd4ZmtINjg2WWFjaU5HRnp4d3BkZFRrVmwtRmhJMm5VaTRpY2J1aF92YUh5T1gxVXRLdngxekVlbFpTaFBlUVpocWpjNThWWEYxNHNneVlzR2pVekdrcl95X2FlXzV5UDZiUmRtY3dhUWItY1VMTVhhV0JuTVRsdW1FQTBRSExza1Q2eks5cGJ2VGtMSlBfVWRZdXdjUDdWN1RUWUx6ckFtem1tUXE?oc=5",
-        "domain": "euobserver.com",
-        "publisher": "EUobserver",
-        "publisher_url": "https://euobserver.com",
-        "language": "",
-        "seendate": "20260927T090000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Italy Approves Return to Nuclear Energy 40 Years After Chernobyl",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb3RIbWNoUUdCUE1jRXJ0MzVqakZ2UGgyMzBxY29zd0hicWpEWFk4T0JTZ0h1TWlhUERyUnhYbTA1M3RqdkF6QU1EbXpBRV9vLTl1T3RNMW5OOGNrV2VkbVdXRWJPRWVXcmV4U1BxcU94Z3ByQ1hLd1haWXV0ZWhMdUxOZWVmbV9aQkktSjQ4bVpjNU9ObEI2X2drQTVreVNzQlE?oc=5",
-        "domain": "orderisda.org",
-        "publisher": "Italian Sons and Daughters of America",
-        "publisher_url": "https://orderisda.org",
-        "language": "",
-        "seendate": "20260927T154348Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "U.S.-Saudi nuclear power deal faces pushback over potential weapons risks",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPY0dZQTBBakltNFcya2dUNU1vNGJyMkNhTVZ3Vy0ydVM3bWZhckpHcldlVWE5eWVZalNEbTNFUTRtTVlhZUxiVlpZZ1pBTkhOQXZjTzlidGNzaXYtYjN6OHdnWHMzUHNYNjdCQ2h4NDNJOGhGdUhIWWpVcTBxQWVBeVRBdkVBVVFxUG1xUUZXQV9Jb3Mwc2kzRk1PYXJMdVU2eWdPYnFicEpvdw?oc=5",
-        "domain": "www.pbs.org",
-        "publisher": "PBS",
-        "publisher_url": "https://www.pbs.org",
-        "language": "",
-        "seendate": "20260918T070000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Sun Nuclear Announces Validated Adaptive QA Solution in Support of New Radiotherapy System, Accela, by Siemens Healthineers",
-        "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOcTBXbVl6QWRFcWxRbjh5YzBLUG8xSVpnV2FCNGs0REdNSkhnQ09uS0ZPTEdrT3JULXU0cmVvSFM5ZHp6T3pPNHZvZUgydmluYWt4bFk0cE9mcWl2azhMcEtVcEpWQ0VaQWk2Nk1wWk1zcUpsdTNzNHU1TzRwUEg0Vk1DbFFQWXNrQ1dMcnFRODV1MFBfUC1kZ0RrdnVjRW96MjExQ2ZVZHoyd1IxaWhQZTFHU0xvRU1QLVFURzZSN21hRnhwUzl1cDA4T09GYlJvVFg2aEdEVnBfblFuN0lnUHp3M1FIR2J2am50b1BFcDBFU09SWVZHVE9faDNEbmx5VHk3MGxwVDIzUQ?oc=5",
-        "domain": "www.businesswire.com",
-        "publisher": "Business Wire",
-        "publisher_url": "https://www.businesswire.com",
-        "language": "",
-        "seendate": "20260927T175100Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Watch IAEA Says Iran Nuclear Oversight Can Resume Fast",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQlg0OXJRQVlzRG5TUTNmd3ZzelZ5SDRlT3ota1EyOWJMUDEycWU5YjRfTjJSUmlHYjMtQVJRclFZRnc3WEwwTXAyeDhLVW9QS0QtajVPMnVJQ2lLNC1Gd1VaSmt0cDFCV1NySFQ0SjZ2Y0IxY3B3S003NG9pR2hOWEhtYU5MempwRy1Va3dqMW1DZ0pOQkJXTXZjNEJXakJIRnRPZkVR?oc=5",
-        "domain": "www.bloomberg.com",
-        "publisher": "Bloomberg",
-        "publisher_url": "https://www.bloomberg.com",
-        "language": "",
-        "seendate": "20260927T000000Z",
+        "seendate": "20260928T062059Z",
         "source": "GoogleNews"
       },
       {
         "title": "Nuclear regulators probe fuel assembly installation mishap at Palisades",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZHBSOHlhbjBkVF9heHp6R1RkU2hVTnVGMllLR1VMckwzLWlKcEc5N3JnMzE5VzhVXzNKR0dMV0Nwel82Um95Z0oyekZuVTc0LTZEVzhJbno2N2ZxWklrT2ljMllsZXA5OC1jUHVReHV1bEpDeHlaWVZPbDRUSGZUcVlKenNGNk9YbXFFZVBudzJwOWFNSFVoT0lYOE4yUQ?oc=5",
         "domain": "www.freep.com",
-        "publisher": "freep.com",
+        "publisher": "Detroit Free Press",
         "publisher_url": "https://www.freep.com",
         "language": "",
         "seendate": "20260926T102000Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Georgia Power and Google announce deal to pay for nuclear upgrades",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObUJBMnpkdGRiS3hLcms2a3U1MTN0dnI2YllESzBtMnQzaUwxQzlaRXZwQlhxR3dIcHl1eWRrbUVlT0ppTnFOcWVfaVROTkc4bnNFb1plRDJ3ZTk4XzJBOWRScWVkNUsyWGF6V0RKWjdkLWRjMTVUanA2UElIOVN3MHhGRzVvWFYyMUZHZg?oc=5",
-        "domain": "www.wabe.org",
-        "publisher": "WABE",
-        "publisher_url": "https://www.wabe.org",
+        "title": "Nuclear’s Next Chapter: The AI Effect",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNR2NCeUNCS2FHTVFJeHNwR1djVGNCRDgxNnpZNk9zNXAteG5XZjdwSVp5QjRnbDAyQ2Jnb3BEbDFncFc2Y05ScFJOX0V4LVJVVVh5V2dGVm8tSkdKWG5WaXpkaXlrSmdBazl2NWpyXzRGVW1HN3lJNndmYURLM2RUbTNhUm0?oc=5",
+        "domain": "www.nsenergybusiness.com",
+        "publisher": "NS Energy",
+        "publisher_url": "https://www.nsenergybusiness.com",
         "language": "",
-        "seendate": "20260924T205457Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Rolls-Royce nuclear reactor fleet locks in critical safety hardware for 470 MW units",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNd0FHeXhSN05jcEE5dGM5VTZrRnd3WUc1LUw3M2xiTXVtWlMxaWJYZXk0X2N2VjF0NGxTenlMTkJDVVBaU0M1aGFLYlgyemNZTkVVU3FTTTBBTklSS1NadXVmR3VHNVNHRWIzTlVNRlVid0Y0UE01UGVGTnQ0WG10SXhNY3RaencxcHZWaA?oc=5",
-        "domain": "interestingengineering.com",
-        "publisher": "Interesting Engineering",
-        "publisher_url": "https://interestingengineering.com",
-        "language": "",
-        "seendate": "20260927T134200Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Iranian President Masoud Pezeshkian talks about proposal to reopen Strait of Hormuz, says Iran would allow nuclear inspectors",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVnoyWGZiclVjNDh5OTR4MmdXNGN2cDloOVpXSTdRYk9TMFFBN19BT2VsRWloQmpYNjdrNE5xUTFPcDVmajJKd2NMQzdpN2FuNUJzaWstQVRSMmlpeldWTnNfcXNBNkYzdGtkLUt2VTllUmUyeE5XX2ZGVkRuNTJIeDI5TWZJUkR0ZEtycVd0NnRBV1dybFlkalVXTWZJRGM?oc=5",
-        "domain": "www.cbsnews.com",
-        "publisher": "cbsnews.com",
-        "publisher_url": "https://www.cbsnews.com",
-        "language": "",
-        "seendate": "20260926T011000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Iranian president blames US for Middle East conflict while denying nuclear ambitions, offers to dilute uranium",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOR2t4RDNNVGZxUHlRN2hyNTRNLUVFMkc4NXZaWWhEM0JLSG1PWEtQRUhPUkhBQ01aUktfZzNQcTlCTE1mNnprMHI4QXVQelBGZVNVVUh2cllKa25rT0lmYnFGemlSMVBiakRmQXhXNVk2T29CdTdYNlB2TWNFd0t6ZzlySGZhc0JpUmdqdHVCcjhjdTFqbkh1eDZYbnFqRmVNSzJBdl9obGdLTU5vWm0tcUlaSVV5WlJFXy0td2M5QjZBZWg00gHKAUFVX3lxTE9lRGtTajlFZXozV1ZyS29rbzQxQXhlVUFLc1RkZ2tUdlpuWUhOX0FuSmJyOTc4SURIaGVvZHVFaXkxaDhzazY4YUYtUG5QM2FkeE9qY2w4aVpGTGFjN09SbVdKUTFwYm9RakFQc3BhS2FkZ0RRSWZUY2FMbktPUnYyeHVUYVZfYk9HTFgtTGx2Mm9WQVNQRXZ5OXMzRVFuYlE1TGdCaktIbFdGN0dvaDBUZGVyMHVPeW9XSGRGVnUwM2wzQ3RMSDRVbnc?oc=5",
-        "domain": "www.foxnews.com",
-        "publisher": "Fox News",
-        "publisher_url": "https://www.foxnews.com",
-        "language": "",
-        "seendate": "20260925T002536Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Italy’s Senate Approves A Return To Nuclear Power",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYjdfYnU3Ulk5aC0wR1ppUEptekhON1FTT29iY3laSGdGb1VfQ0lIa1hVVEpuam5rOE00b29RMEZtWGdITjExRjRBa29XWkYtekw2WFFpSnY4bGJBcHVsUXZ6VUZKcGhFb2RXOTFMcjAxTU11V1FlTmFNRTJ6UnQwOUk3SDI0ajMzWm1Ka0pNc3BlZw?oc=5",
-        "domain": "www.eurasiareview.com",
-        "publisher": "Eurasia Review",
-        "publisher_url": "https://www.eurasiareview.com",
-        "language": "",
-        "seendate": "20260928T002554Z",
+        "seendate": "20260928T101016Z",
         "source": "GoogleNews"
       }
     ]
   },
   "events": [
     {
-      "title": "Iran Pressed to Make Nuclear Concessions to Revive Peace Talks With U.S.",
+      "title": "State legislators make the case for a Nuclear Lifecycle Innovation Campus in Idaho",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTXBvUEJhRExlYjVFekVqamtuQUZxUEl6NTlacE1xSDFYVWRTQnJISXVJX1B3TGNQYW5ldFdIWXYwUkR1ZTJXbkNBam9RUkVLVHh1V3FKNEFVNjlPY1V2T0lkTlZHM3ltYzdYMUNCZU5Md1RNT2tGbV9XUlUyREVYZWRDQmFGQ0FxYzYySVBNbkpqYmRzc3lDQmhxUDNCX1ZKY3FYdEQwdV84SEtoaWhzcE5wX0hfMjh4Vk9NZi0xSQ?oc=5",
+      "domain": "idahocapitalsun.com",
+      "publisher": "Idaho Capital Sun",
+      "publisher_url": "https://idahocapitalsun.com",
+      "language": "",
+      "seendate": "20260928T101549Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Iran Is Pressed to Make Nuclear Concessions to Revive Peace Talks With U.S.",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeXp0VDVwMkZGQUR0OVFaQ0F6UHY3eDRsYmVadXFSWkRLQUhWVEZCVkFkdmZqd3FnMHBLQ05nWWZLV2p6MzVFWlVRYzZ5MDJURDczQ0FaMmdEOUNPTENwN3RRU01oOHpIdUNKenN6dnJWRzNWeVZwZFpuQ2RLakc0SE1qVTVLNDVsWTBIbm1Tc2N6V2N6aWNPN05wUmx1dkJLRE9Md0Vxd3ZVWTBhUDJoOWFOeGYydXRVRUE?oc=5",
       "domain": "www.wsj.com",
       "publisher": "WSJ",
       "publisher_url": "https://www.wsj.com",
       "language": "",
       "seendate": "20260927T211700Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Advanced nuclear power plant could be coming to Aberdeen Proving Ground in Maryland",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNb0dZOTY3M1NiQzJBajhnMFE1SFAwbjNaVnlDdlNNd05udUdhNHZPbHlVNTZKMWFkZ2lzZXYzZHAyQzhWeDYtNEpHNDIycERUazFJLVFFaDhhckZwQXd6TlZBaEZqQzhnbDF6a2Vib3BCR19pYTJfNUFSQlhfTXN3M3ROalB6Q3Y2UmFvNFB5SlNOU1h5a1NJSkl3eXVtQlNYN0RnMEZPV1pyOVlXX043ZzV1cHJqTHhVUDNnb0w1akFza3I0bVFCRTVzaHRLOHR1N3c?oc=5",
-      "domain": "www.wmar2news.com",
-      "publisher": "wmar2news.com",
-      "publisher_url": "https://www.wmar2news.com",
-      "language": "",
-      "seendate": "20260928T004025Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Mike Waltz: US offered to sell Iran uranium for civilian programme",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQU1BQRjBhdElacDhZcXlDbzF1M3BLcFpWZnpNdVZ4MEZCZkVteExtay1RZDVqcjhZTlhPcnpoWWFoZlpka0h5dHJDd25ZMkhUc2laaVZ4aWEta2FPYUtVMm96ZmVlOFhENGFHMWZLMVRSU3FkMzB0WGQ1U2E0Z1NaZUViZHpIeEJaaUNzbDNLTHU1V0E0aC1IbkJrUDM0eVNJWlBNc19oQ1lGd9IBrwFBVV95cUxNYjJMM2l2Yk84M0xIUFZHLWltSENaQjBUeWFsVjB4dE1YR2V1WTJKUGU3c3pZQ2pSM0c1bTRaNTlzTm5RQno1YkR3ekFqSkVsWExtVUNKTmtQSjBXbi1URnhCSDM5MnF2S3JXTXNHV2ZGYkR0OFNTOWVZWUl4ZURZM2ZGZHNpVlZDbUpDa2ZNUG5XeWF2SjZYcFlqOFRIYjZ5QkRmZ25TaXhkS0E5dW00?oc=5",
-      "domain": "www.aljazeera.com",
-      "publisher": "Al Jazeera",
-      "publisher_url": "https://www.aljazeera.com",
-      "language": "",
-      "seendate": "20260927T174723Z",
       "source": "GoogleNews"
     },
     {
@@ -575,10 +565,20 @@
       "title": "One Year After Executive Orders, U.S. Nuclear Energy Renaissance Is in Full Swing",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRy1tYVk5SkpESWYySlFVbWpCMDd0djMxeHNLTUJDSGZDekxSNnpxdFJwWE5pQzcwdERZaER6cXRPeEpFZEhVWDhmZTQ5S29vOUxqOVZ0Vm1malRva3RkUjZKeXlITzF5bThDU2hKOTVnZUZpNU1NN2VWOW8wSVFPNTJjOVNkZF81MjBXckxuQXNHb2hiR1RjRmYzb01DVEhMU3ZKTDNQMC14Vlk?oc=5",
       "domain": "www.energy.gov",
-      "publisher": "Department of Energy (.gov)",
+      "publisher": "energy.gov",
       "publisher_url": "https://www.energy.gov",
       "language": "",
       "seendate": "20260924T142145Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Can the SpaceX playbook work for nuclear power?",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa1NpZXNqbUVFZ0txVEJldE84eXB4dF80dHVvTWItb1FISkp1YmE4dm15ZWk3TTczaXU2RkRqV19ic3RHN2xpYjNmN1RSUjVFTldHYUJKeV9PZDF3RUgzN1JXdFAxa0phZGoxNzAwOTVQcGJMd1ppd1QtMXoyTFR1RTA2X1hiajlkNVFSM3NGRjFwdi1sSDNXcmpSRVM1X1FXUUFmbW9WWXNLZzA?oc=5",
+      "domain": "www.politico.com",
+      "publisher": "politico.com",
+      "publisher_url": "https://www.politico.com",
+      "language": "",
+      "seendate": "20260927T172400Z",
       "source": "GoogleNews"
     },
     {
@@ -592,16 +592,6 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Can the SpaceX playbook work for nuclear power?",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa1NpZXNqbUVFZ0txVEJldE84eXB4dF80dHVvTWItb1FISkp1YmE4dm15ZWk3TTczaXU2RkRqV19ic3RHN2xpYjNmN1RSUjVFTldHYUJKeV9PZDF3RUgzN1JXdFAxa0phZGoxNzAwOTVQcGJMd1ppd1QtMXoyTFR1RTA2X1hiajlkNVFSM3NGRjFwdi1sSDNXcmpSRVM1X1FXUUFmbW9WWXNLZzA?oc=5",
-      "domain": "www.politico.com",
-      "publisher": "Politico",
-      "publisher_url": "https://www.politico.com",
-      "language": "",
-      "seendate": "20260927T172400Z",
-      "source": "GoogleNews"
-    },
-    {
       "title": "Saudis have not ruled out developing nuclear weapons, U.S. intelligence assesses",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTEJUT2lldWJOU0RiS1k3ejRod2tWVFkydzJiY0pZZ2Q4YkxpRzFic2VRdW94UU9BMnhRc2daV05vbEFaeFlzTk9pRy1IdnV3UE5XV0xaV3gzaEE3dUxXeWZoczlEQ2ZwVnAzekRiZ2YxZV9aSGFyRXpCM2NvUXFwWmpwWEU3UU1rY1hhWVE3TkxDQm5hUzV0aC1OVDBrcXNHdFFDQmIyd2tpcW9vS2VaMzhGYTVBNUtzbU11UmFJeVpCWTdlcU1MYjJyM1lhb05XVHNVXw?oc=5",
       "domain": "www.washingtonpost.com",
@@ -612,13 +602,53 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Bill Gates says getting countries to agree on AI regulations will be harder than Cold War-era nuclear negotiations",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORXpqejBESDFab0V0cC1EaEFFN0pVdk5SanJRcXRMMnhWSk5xdURna1ZadUdSUkFCSFExMGxOckNxQWctSzgzcU1adDFJcGxtUC1ndC03UDJ0WWtRaTZ3SG1UcVZDQzVPaXk1ZW1sNEViSmlEdUZGTE5FbWRmTTRHVTVGMGNHdWpIVEU3U0lZeGRGeDcwckl3cGxNbjE2RE10MXRWcGdCc3lkX2s5amc?oc=5",
-      "domain": "www.nbcnews.com",
-      "publisher": "NBC News",
-      "publisher_url": "https://www.nbcnews.com",
+      "title": "United States and Sri Lanka Strengthen Nuclear Smuggling Detection Capabilities",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZTRjbko3a0JtcXBEZTRGZWRzX1FFMHJVbklyYVAyejU1cEhrTDJWdmNQZC1kajlSOEhvVFR4enJtM2FsNGNhVlZlRGdEaWVfa1JsdVpWXzI1eExLRzEwMGYwdFc2TzNYaUhQS3pLTzE3aTlyUU8xMXhGV1JqYzRoeFlWc21RZzZGTVVtNk9odGplLWZIdktOWEtBWXBScGJJbXNSUkljZmw?oc=5",
+      "domain": "lk.usembassy.gov",
+      "publisher": "U.S. Embassy in Sri Lanka (.gov)",
+      "publisher_url": "https://lk.usembassy.gov",
       "language": "",
-      "seendate": "20260927T141016Z",
+      "seendate": "20260928T090023Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Q&A: Zeno Power CEO on the demand for space nuclear power",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMjZyN21rNFVvSnRnOXJaQWE3djlsSEl4aVQzZzdVSEJ2OXpRWDBOOEJkenNydE1yRmFDRFhGSV9YT2JWcnFYNWUyajNpUTI2SU5YOGYwZzBXSTBVLUtwOFJ1a1QzcGVmdzZIMGlSTjNTeTZoUHFJTE9iYnBlTEhuYTdwVUc5X3FRNVU2NmhsRHUxaFd2?oc=5",
+      "domain": "aerospaceamerica.aiaa.org",
+      "publisher": "Aerospace America",
+      "publisher_url": "https://aerospaceamerica.aiaa.org",
+      "language": "",
+      "seendate": "20260928T090700Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Revealed: Putin is preparing a base for doomsday nuclear strikes",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSDJmajlmcmpPZXA0NnBFdnU0VFdYRVFIOXhoTm1lQ1d6LTJiWGsxcmhBclhxMWkwOHZ5M3pZREJyc0pDazVmU2FZWTRWV2tDMzdtMGg0SVBwbWZydlZZblN3UHNodEFyV2p0UTRuajN3Mmo1eUMwR1FmcDBsNFU3anlRY196c3pVNktzdGZGZG8xSmFaYXhtX1NaTzZCc0tpMzNuT185a0VhQWVu?oc=5",
+      "domain": "www.thetimes.com",
+      "publisher": "The Times",
+      "publisher_url": "https://www.thetimes.com",
+      "language": "",
+      "seendate": "20260928T135808Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Mike Waltz: US offered to sell Iran uranium for civilian programme",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQU1BQRjBhdElacDhZcXlDbzF1M3BLcFpWZnpNdVZ4MEZCZkVteExtay1RZDVqcjhZTlhPcnpoWWFoZlpka0h5dHJDd25ZMkhUc2laaVZ4aWEta2FPYUtVMm96ZmVlOFhENGFHMWZLMVRSU3FkMzB0WGQ1U2E0Z1NaZUViZHpIeEJaaUNzbDNLTHU1V0E0aC1IbkJrUDM0eVNJWlBNc19oQ1lGd9IBrwFBVV95cUxNYjJMM2l2Yk84M0xIUFZHLWltSENaQjBUeWFsVjB4dE1YR2V1WTJKUGU3c3pZQ2pSM0c1bTRaNTlzTm5RQno1YkR3ekFqSkVsWExtVUNKTmtQSjBXbi1URnhCSDM5MnF2S3JXTXNHV2ZGYkR0OFNTOWVZWUl4ZURZM2ZGZHNpVlZDbUpDa2ZNUG5XeWF2SjZYcFlqOFRIYjZ5QkRmZ25TaXhkS0E5dW00?oc=5",
+      "domain": "www.aljazeera.com",
+      "publisher": "Al Jazeera",
+      "publisher_url": "https://www.aljazeera.com",
+      "language": "",
+      "seendate": "20260927T174723Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Congress Ought to Fix the Flawed Saudi Nuclear Deal",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUmhUd3Nfa3Z2aEl6UTk1OTBCM0lWbFZyRkxOUzI4UGZiTnYxSHl0QVhaWXZSQ3BUZDMyLWk2RzRFRkQ0elktZDVTTVYxX0YtZHBrU1lJT3Z4am5HWFFKWFI3eXprZDg2MVNBM3FSbjJ1aFlTMHA4SFZlX3IwZkc2dlphWmdscWV0c0xoM3RqSlhkdDZ2a21oV1AzcFFJVTBuNlcwclNENA?oc=5",
+      "domain": "www.bloomberg.com",
+      "publisher": "Bloomberg.com",
+      "publisher_url": "https://www.bloomberg.com",
+      "language": "",
+      "seendate": "20260928T100006Z",
       "source": "GoogleNews"
     },
     {
@@ -632,6 +662,16 @@
       "source": "GoogleNews"
     },
     {
+      "title": "AI companies could learn safety lessons from the history of nuclear weapons",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPR3B0cDNNWWdfUGZkWEJhYzJIN0JoaGNncWhnUGZvaXR3NUtWdjhONUhfbkdURmljNjdiMlB5N1VQM29HUU5DeFphbjlGVUJ5b0UyWUEybVltdWpkdlFjTmtUYXRFT0tYWnFIUjd4bDhTSzNhbFJJVXdTQUJmbXdlSmhDTHRWbC1RYTluNzFTV1dOeDJIU3JKcFczaFRMNTBpbm4tVFpiMlUtZGlSbE84?oc=5",
+      "domain": "theconversation.com",
+      "publisher": "The Conversation",
+      "publisher_url": "https://theconversation.com",
+      "language": "",
+      "seendate": "20260928T123731Z",
+      "source": "GoogleNews"
+    },
+    {
       "title": "OED: Advanced Nuclear Ready Communities",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBPWXJTRnAzLVY5YnY5dV81UHVzcVlmeEFVdFppcV8wY0c3VFhIYXVreHRVaXdydXNqZjFqVE9kaFBOaGtwNjFjdmlMNDRQZ2g4cmx6cHEzZ3pIQnotVktZcXdXNy1BVkpYTU5sbHZtYk1NdktjT1EtRA?oc=5",
       "domain": "www.in.gov",
@@ -639,46 +679,6 @@
       "publisher_url": "https://www.in.gov",
       "language": "",
       "seendate": "20260925T160814Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "In nuclear campus talks, Idaho Gov. Brad Little says protecting Snake aquifer is ‘nonnegotiable’",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPczUxT3NBZXhtUG9kN3NENUFhNGtuYllWY0VkN2F2TXg5Rk9zalViY3UzSmVBaXpEWEMxQ20wUTZzQm9vRjdtN0ZsWHFHTzQ4M2NwSkVPOFdlRWR2TFl4d192VW5faDJVV1J2TEhEbC15cGZhOHl4U05wcWxfUG12SWFvWXJqVUM4NlZ2N3RYMGlSVTNyM19sMjJlVmtJTmdwZlVSSEljV3c1a2pObkxzRjJnTGk0T2dJSEhQT1RubzItYmNn?oc=5",
-      "domain": "idahocapitalsun.com",
-      "publisher": "Idaho Capital Sun",
-      "publisher_url": "https://idahocapitalsun.com",
-      "language": "",
-      "seendate": "20260925T102042Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Bill Gates says global AI cooperation is ‘more difficult’ than nuclear talks",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNX2lrdlZvdHNnU0tqX3JQRDlNVklLRjBMdmtJQVBpSG1qVkVldEl4Q1gyeWxkd295NG5DU19pWS1ydDk5SVFyRXJydS03N1kzeU5KalhuQ2hwamZnaEl5R1NFNURYb2IxMXdxc2xvMjNsaVdENWlDUC02Y3ZBMzhqU0V5dWo1Z9IBiwFBVV95cUxPanhYZDhRaUFqU2JDZk00b1pnX25CaXpwc3NvYUhIc3A3S3R3OUVTN1RvX09Wek9tYjdjZnNuNFdHeFQ5bEdjNUtqZTR2bFdQTlRlZXEwQ0pUS2JSYTlqbUFTSTI1LXNkOXhDZi1WMlFLR25mSVBpOWNIa1MxdklrbVFOSW85N1FJb0FN?oc=5",
-      "domain": "thehill.com",
-      "publisher": "The Hill",
-      "publisher_url": "https://thehill.com",
-      "language": "",
-      "seendate": "20260927T194800Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "AI detects signs of aging in blood stem cells from nuclear images",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1wMnE4UGhRZ3NmWWlicHlYM3NPcmNCeWJkZzd0S3pJSGxQT1JtNV9kT25YU09fcWZnTE5uNVpFX1JHd0cxbFpEX19VV0o4anpicDl4aWg3U1VZTjYzelBUTGFLQmxiQnM4Y2prTG5MOWMtRjRETGJSbQ?oc=5",
-      "domain": "medicalxpress.com",
-      "publisher": "Medical Xpress",
-      "publisher_url": "https://medicalxpress.com",
-      "language": "",
-      "seendate": "20260928T040001Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "40 years after Chernobyl, Italy greenlights a return to nuclear energy",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTFlhUHRPbFpmX1A1bDY2MmF5YXB3SnZmUkFrbjNNN3ZTeU91Ui03S1AzN002NlVOWUNCanBPLVNxek1RZklGSVk2bE56N1JhdmpQdFZRNUZXc08tNWJZeUhUTkJjUXJXRXE0eFdxVVRzVTdCYXM1OU5lN0dqNy1kRWh4TTltc0ItU0dZ?oc=5",
-      "domain": "apnews.com",
-      "publisher": "AP News",
-      "publisher_url": "https://apnews.com",
-      "language": "",
-      "seendate": "20260923T175200Z",
       "source": "GoogleNews"
     }
   ],
