@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "nuclear-proliferation-watch",
-    "generated": "2026-10-06T00:18:55.864777+00:00",
+    "generated": "2026-10-06T06:50:15.967815+00:00",
     "mode": "live",
     "sources": [
       "news_articles"
@@ -23,7 +23,7 @@
     },
     {
       "label": "Distinct news domains",
-      "value": "40"
+      "value": "38"
     }
   ],
   "live_data": {
@@ -35,7 +35,17 @@
         "publisher": "The Guardian",
         "publisher_url": "https://www.theguardian.com",
         "language": "",
-        "seendate": "20261005T223400Z",
+        "seendate": "20261006T013100Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Google, Constellation near deal for nuclear power, Bloomberg News reports",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQnB3VGQ4am5pajBjVTZZeTAtTU9KVHZFc3p3R3hWYkNBVzFEcENOYUI5WGVobTk1OEYtZm8tVGFHTFc3ZzdzY1I2allEUm1lN0ZkSjREZ1Z6QjlXczNrTmlRcEFZMEJkYldSYzVIVUxMYzV4bFVuSDZTcFlvTTI4N2V1UHdWUWtIWl9KbUREWWN4a0VYMjJFLUg4MEZLWV9YcTF1OTFSZG53MXdkMnJkWFlhQkV6N2VjRGZVNg?oc=5",
+        "domain": "www.reuters.com",
+        "publisher": "reuters.com",
+        "publisher_url": "https://www.reuters.com",
+        "language": "",
+        "seendate": "20261006T022400Z",
         "source": "GoogleNews"
       },
       {
@@ -45,7 +55,7 @@
         "publisher": "Utility Dive",
         "publisher_url": "https://www.utilitydive.com",
         "language": "",
-        "seendate": "20261005T215615Z",
+        "seendate": "20261005T215956Z",
         "source": "GoogleNews"
       },
       {
@@ -59,13 +69,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "New England states put aside differences to talk nuclear strategy",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE40cGloVENCRVUzZVhuMGdFQTlfenBla1FIdUZCanEyZmhWVWp2dzNyWVJjSENRdHFLOWx5SG5Ccmw5MlVSV2Nyc1pWSUxjTjc3d3hOLTFrZjVvQ3REbzVrUXRPZkRTSmxEMm9wVQ?oc=5",
-        "domain": "www.nhpr.org",
-        "publisher": "New Hampshire Public Radio",
-        "publisher_url": "https://www.nhpr.org",
+        "title": "Google, Constellation Near Billion-Dollar Deal for Nuclear Power",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWDVtZWFsR0FhT1JuTno3Uy05dWpzOG91dmVfa09PR2pyaFZqV0Zudk1kSkxheWhuUW4xU0c0YWFrSjJqV2NONDlMMF9sQXRjLUF5Rmhfclp0MWNsamtnZXBTS3l5UnZ6SUFzcm1TU04xRXNCYS1UME9WSWozM05fYzh6VGF5c0NEbnY5WTZNamJCejJnVXdMNUZlV0NBcV9wZnJjNjdTZTRVTGRicHJld2E1ajg?oc=5",
+        "domain": "www.bloomberg.com",
+        "publisher": "Bloomberg.com",
+        "publisher_url": "https://www.bloomberg.com",
         "language": "",
-        "seendate": "20261005T201000Z",
+        "seendate": "20261006T010025Z",
         "source": "GoogleNews"
       },
       {
@@ -79,43 +89,33 @@
         "source": "GoogleNews"
       },
       {
-        "title": "The History of Nuclear Power in Space",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5xdXdsX2xfOGVGUmlqX2pxQTY1ckp2R3lDdVA0Rmo5dFI1VWtrVmpEb0NOb2VmaUdiUzFRZ3ZsWGx2TjkwZ2hrN0s0WlI4Tmw3cHN1UERTT0YyOVFKN0h1X01OR0R1ZXMzR0ZSZmtVMA?oc=5",
+        "title": "Idaho's nuclear waste debate reignited as DOE considers new Innovation Campus",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPeHo2M1FwRkdBaXV2d3c5Y01kRHpyR2hyVnkwVjA1bFlIZkJmbGx1YUlaM3lORHFlMHZUa1o3ZHF0cHdYcjdvN1NlUnlwT0U3QUloSG9yend2ZHpITFJ3dXp0cWhKZnNPT1JpYTNuQzczV1FmRlE3V1FZVHNXYUpVVk9LUUFmVVZTWUpOeUNITk5rcjI5WDVjbloyc2VTY3p0V0hjczJaVUU1ZzhhUkRwVjR5Rno0aUZuRDBueHoxMjFnZm9jaVdGc1B4dXRUei1USGUyODV6QkdrRUFDeTRteHd2bDNEdzdlZzVtZHBPMA?oc=5",
+        "domain": "www.ktvb.com",
+        "publisher": "KTVB",
+        "publisher_url": "https://www.ktvb.com",
+        "language": "",
+        "seendate": "20261006T030700Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "What Is Criticality? (And 7 Other Misunderstood Nuclear Energy Terms)",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPLUYwTUlRY1FpYkNCNUJmb2RWbWZUaFFKa1BkZGF4a1lWWlE4ODh5STIzMlVVaE9pcDdfM1JIcy04OHNkX29hU3NPcVhXS2dMMDRocnc0T0N2LWU1eUZaZzZpVjRjTHpzVzBLUTRwMDR1bmtaVVhGVVg4S25ES1JtSVFCbVF6eGpJZWVzOFVPOW1CQ3R4bDVkT3JKRWExRUE?oc=5",
         "domain": "www.energy.gov",
-        "publisher": "Department of Energy (.gov)",
+        "publisher": "energy.gov",
         "publisher_url": "https://www.energy.gov",
         "language": "",
         "seendate": "20260930T193124Z",
         "source": "GoogleNews"
       },
       {
-        "title": "U.S. Energy secretary visits Ohio to announce $4.2B in nuclear power investments",
-        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOQ1ZZajJKVVprMkpHdmhYMG5sTlprRXBfbXdFRmdKcmNiQVF0QWd2ZDdyY2FzSVI2d0FKWWxrZHE4T0psTzBiRWZnRGxmNGRJNmhzcHpoN1hGVmJSUVdOcUxqMFQ4S3NTekR5dGkyTU1UOTktSVZwNThSaHhpUzVTLWpzNVQ1ZUZTWVppbkZ1WUxwWlVhM01pdnUzOUV5R2pPOXVvQmlmN0FYOXVjbVpLQ213UEJZR01zbmdlTWVlTjc0ck51S0ZqNS1oaEdFbHhVMnY3YUpyck5zNHhtRFBsTi15RDlKSUcwTzA5WlN0ZW1hZUEyaldINUQ4eHN6a0ctY05JYVpNSzF4ZXpw?oc=5",
-        "domain": "abc6onyourside.com",
-        "publisher": "WSYX",
-        "publisher_url": "https://abc6onyourside.com",
+        "title": "DOE to Loan Vistra up to $4.2B for Nuclear Upgrades",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORkREXzFmbHdKTHBVS3VSc01JRTVwZk41Tkx3dTlHQVNOcGUxZ0F2azBDdkRrNHZES1VMZV9oVHNwckdsQ2ZPNlFZMzlJalFpd0s0YV91R256Snpoc001Q1htNHBEdFdmTGFwaXdyRjg3MlZDdUNIVng1dTJJdjRKN2N3?oc=5",
+        "domain": "www.rtoinsider.com",
+        "publisher": "rtoinsider.com",
+        "publisher_url": "https://www.rtoinsider.com",
         "language": "",
-        "seendate": "20261005T230345Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Putin’s nuclear threats no longer work",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQd085enNkbkFTbldrOTNhYk1SSHVRVDBmanhQTU16d1QtUmJseDlHbm5EMDN0bmZDd2xsZW9sM0NzQ2pOVTBZSUNwYlQtOVk0ZXhodUlrYjAwZkw5cEg0MmVTcVNUbTNtSWt0R1RjODZ0SG1TMi1VQjZqWkpxWWNjLXh4S3Y?oc=5",
-        "domain": "www.ft.com",
-        "publisher": "Financial Times",
-        "publisher_url": "https://www.ft.com",
-        "language": "",
-        "seendate": "20261005T113808Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "We Energies strikes deal to power Oracle data center with nuclear energy",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWkJmeS1vbHJ3Z3RFRzhCYXJsM29QekJnSDJQd3ZVeUE1a0hINEFTSUotLTBwekk5cDZBZU5ZSVlRSno0N0dJZnB0LXRYckdKTUszMTZxc1R0dF9mdmV6Z3UxSDZjMmFFWFdiU29YZC0zbWc3WkxLLVV2bTh6aXd1Q0VCZ3B6TDhNLWkwWnlZZ0F3MHpuOGdyYklQcU9od04xbExwRUJ3eGt1dTFoeDhxN1RKTXhxRDdvZmttLUJn?oc=5",
-        "domain": "milwaukeenns.org",
-        "publisher": "Milwaukee Neighborhood News Service",
-        "publisher_url": "https://milwaukeenns.org",
-        "language": "",
-        "seendate": "20261005T210000Z",
+        "seendate": "20261006T040808Z",
         "source": "GoogleNews"
       },
       {
@@ -129,103 +129,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "US to lend $4.2 billion to Vistra to boost nuclear power output, source says",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNc0NxeXcwNnV1dXJzdU5xcWdjQm1Udmx5cGVfMGNlSGgtWkJhLU1JLU5uXzVfUFJPNkdYbWNiVFpZY1NtUm9sWHY1YXNSRWxSX1VTUjA0ZW1oMzdfV2Q3Y1Q1YV9GcllMRmlRNV80RHE1OFN1WG5RNjRvYzhPa3BGSzRmcjlJWU9mOXJoZEZZbVg0SHJWcC1WOXZzbFB6cDcxcGlDZmlVblFucVU5Mzd4MmxoRGN5c2lH?oc=5",
-        "domain": "www.reuters.com",
-        "publisher": "Reuters",
-        "publisher_url": "https://www.reuters.com",
+        "title": "U.S. Energy secretary visits Ohio to announce $4.2B in nuclear power investments",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOQ1ZZajJKVVprMkpHdmhYMG5sTlprRXBfbXdFRmdKcmNiQVF0QWd2ZDdyY2FzSVI2d0FKWWxrZHE4T0psTzBiRWZnRGxmNGRJNmhzcHpoN1hGVmJSUVdOcUxqMFQ4S3NTekR5dGkyTU1UOTktSVZwNThSaHhpUzVTLWpzNVQ1ZUZTWVppbkZ1WUxwWlVhM01pdnUzOUV5R2pPOXVvQmlmN0FYOXVjbVpLQ213UEJZR01zbmdlTWVlTjc0ck51S0ZqNS1oaEdFbHhVMnY3YUpyck5zNHhtRFBsTi15RDlKSUcwTzA5WlN0ZW1hZUEyaldINUQ4eHN6a0ctY05JYVpNSzF4ZXpw?oc=5",
+        "domain": "abc6onyourside.com",
+        "publisher": "WSYX",
+        "publisher_url": "https://abc6onyourside.com",
         "language": "",
-        "seendate": "20261003T134907Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "(LETTERS) Nuclear safety, Prop 1 opposition and support",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNV01fb2QtZlBuRGZmaFhKTC1QTUFTYktfdktCZEdMZGhTZ1FJcWNpd1doazFnMWZJbU9GNU5kQktsdENXWW9Xc09uWHkwVWR4dnZaV3g3MmNqREtWVTdSRDJ4M0NlVlJpVDE0STNjazd6MmRneWEyZ2RfYmRPSVZrVDI5b2NHS1B5NW5QeGhzQm82Vk84eUkwRA?oc=5",
-        "domain": "oilcity.news",
-        "publisher": "Oil City News",
-        "publisher_url": "https://oilcity.news",
-        "language": "",
-        "seendate": "20261005T165300Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Missouri Energy Strategy Puts Nuclear Power at the Center",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZk95clBCS01iMXdyVGtXSjJCTkEtcGRrNWpLOUg0enJ2WTJ6NHFxTFlYeXd0X3o3czFMN0lYMFN2VG1UUUFSMVg4WDQya0swNzUteFFWc1B6aWYwNTlKdEp1eE84WHlGYlFqVDhnM1pmdEtSX3JCcWFLWmRLWmxmNjNCN184TGVnaWM0Y18tN2hJOGlZMGs2NUJrd1pldVA0eDJ3bFd5TFVWUjNM?oc=5",
-        "domain": "environmentenergyleader.com",
-        "publisher": "Environment+Energy Leader",
-        "publisher_url": "https://environmentenergyleader.com",
-        "language": "",
-        "seendate": "20261005T220000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Family Enrichment Center receives grant to expand child abuse prevention program",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMkZKMnV5dDBVSWE1MDZSZUNmb3poRnB4dTNlRnJqSDUxeFBZQmZMZ3poNlo1eXZsUEZjaWl4LVZrdWFOY05yQmVIcmVfNWZOLWRnQ2Zqa3dNM0hXSFBEZWw1ZmR1RzNEQW5CRGg1Vk04WV82UnBDMzlCUGR1aXpHOUZFSkc1dDFFUVB5OXpLTWhOSnJWMVBvYjdkU2ppMXVqSmRGbVc2blBONnl4ZDJF?oc=5",
-        "domain": "www.wbko.com",
-        "publisher": "WBKO",
-        "publisher_url": "https://www.wbko.com",
-        "language": "",
-        "seendate": "20261005T212800Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Addressing construction contractor risks and considerations on nuclear projects",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNXZDR0tKUWY3Zkw0ZTB3b2ZFNGhPNU9kRVdSSWk5Y2NERnlZWF94Z25fQlZkRUNHQjl1ekphMWxaWUdzQlR4aF9CTFlzcDM1YUx6a2M2SHlFYkxQOHczU0N4eVBwR3VHWUVZRWpfY19fcHcweE0wakRSOGpOR0VSNjVjYTdmQVFFcDNyNlRHZGVzNWJEWDI0djhFV1ZoREZMQm00Ny1VNENnYWlMQm9Vd3lXSFpmZzVaamNDLUd1VTd0cXpDRkFmX3NGZ3gtMU8x?oc=5",
-        "domain": "www.marsh.com",
-        "publisher": "Marsh",
-        "publisher_url": "https://www.marsh.com",
-        "language": "",
-        "seendate": "20261005T233947Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Sustaining communities",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE14ODBucUUzSVo3ejJZSGV1WUtUanVOUHhVbURxSFVfd0FMT08xcWN0dW9NMFRlc3ZQUFU4dF9BeDk0emtEdDZRNmRNcDBoVXlvTHB4aEx5N2xfZ3pDZGFvV0NNQ1E1d0lacVN6bXR3?oc=5",
-        "domain": "www.ans.org",
-        "publisher": "American Nuclear Society -- ANS",
-        "publisher_url": "https://www.ans.org",
-        "language": "",
-        "seendate": "20261005T150006Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Nuclear having a moment, but hesitation is real",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZVlOMk9TcDZTWlNzbHFkWFNjSDh5SldsdmRtZlc0VzJoT2tIWFZNTTRqY2lyMzBLMEpYMVhkdUhKamlNb2RHNUJxWWwyN3U4cVlqVkNrcEtMeU1ZM1BOdUwxZ2UwVVVpTWdma0NVZUduQUE4bEFPVmxIZ21ydVZleElUUVhqNFdhMlJyYw?oc=5",
-        "domain": "www.lowellsun.com",
-        "publisher": "Lowell Sun",
-        "publisher_url": "https://www.lowellsun.com",
-        "language": "",
-        "seendate": "20261005T144528Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "DOE to Loan Vistra up to $4.2B for Nuclear Upgrades",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORkREXzFmbHdKTHBVS3VSc01JRTVwZk41Tkx3dTlHQVNOcGUxZ0F2azBDdkRrNHZES1VMZV9oVHNwckdsQ2ZPNlFZMzlJalFpd0s0YV91R256Snpoc001Q1htNHBEdFdmTGFwaXdyRjg3MlZDdUNIVng1dTJJdjRKN2N3?oc=5",
-        "domain": "www.rtoinsider.com",
-        "publisher": "rtoinsider.com",
-        "publisher_url": "https://www.rtoinsider.com",
-        "language": "",
-        "seendate": "20261005T220731Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "IAEA Launches Research Project on Spent Fuel Characterization",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVU9raHcyWnFlaHZNU0ZkN3VQWmlSMkpXXzNNNFpDWmVnaUZjVnZDRzVNUUxhLXMtNXc5cy1HUjY2bU5fZ3Z2Y1dSclNFeE5TNDZaZnZGZ3JWN3hmeGRuRE9KbDQtSlJRc1JBUEFxNVpPcE1qTkRrdW5Hck1oNDhTLWJvVGwzY1pNekl2ZWpKMDBhdmxaSDhnVmpxQlhDT3M?oc=5",
-        "domain": "www.iaea.org",
-        "publisher": "International Atomic Energy Agency",
-        "publisher_url": "https://www.iaea.org",
-        "language": "",
-        "seendate": "20261005T100624Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Tritium Level Far Below Japan’s Operational Limit in 24th Batch of ALPS Treated Water, IAEA Confirms",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPa0FhZ2VJXzBnUExxMlpadHNxZzN0dTRCdDdmOWdRUl9rTTlSVmI3VGh5NEI2RTQyZ2p0UklpM0dDYjRkeGF3aHZ0WDNTR3VJSmNGeFJjX08xbkh1VFVRNnNyZEJxdHk2VFBLV0NjRUlTYkdLZ0FtMDNRUU9VOUxNMVRVZ0ZzNHMxeUFuOGhveVRoUS1iUUlhSTh4Q3hzR0pmWHRpaEpNNHFoUEN1cXBMRjhMOXByb3FEQ3dDN1UwdFJpcWdQZncyenUwOUM5aWY4ZWtWTDU5Y3JOa015?oc=5",
-        "domain": "www.iaea.org",
-        "publisher": "International Atomic Energy Agency",
-        "publisher_url": "https://www.iaea.org",
-        "language": "",
-        "seendate": "20261005T110607Z",
+        "seendate": "20261006T015119Z",
         "source": "GoogleNews"
       },
       {
@@ -239,13 +149,33 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Vistra in Line for $4.2B DOE Loan Package to Uprate Nuclear Plants in Ohio and Pennsylvania",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQc1R6TF9hWGxoNVVGLVpleE9CZl9nX2wzS2dpM3lmczBXaHVyTGgwXzZHM213ejV3bnNucjJMbjJWSzc1V3h1ZERmdzJrLVo0T1ZWSlNhdW00MndmNXpwS2E1ZFJmSWlHQXh2SE1WeXhVUFdHa21pY29zSlhnU21QMU9SUVpoNDNfcTd2Wi13dzBMemphUjFPc3dnY2NfOUlaRDM2OFpCWmdCbFNIOHAwag?oc=5",
-        "domain": "www.powermag.com",
-        "publisher": "POWER Magazine",
-        "publisher_url": "https://www.powermag.com",
+        "title": "Addressing construction contractor risks and considerations on nuclear projects",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNXZDR0tKUWY3Zkw0ZTB3b2ZFNGhPNU9kRVdSSWk5Y2NERnlZWF94Z25fQlZkRUNHQjl1ekphMWxaWUdzQlR4aF9CTFlzcDM1YUx6a2M2SHlFYkxQOHczU0N4eVBwR3VHWUVZRWpfY19fcHcweE0wakRSOGpOR0VSNjVjYTdmQVFFcDNyNlRHZGVzNWJEWDI0djhFV1ZoREZMQm00Ny1VNENnYWlMQm9Vd3lXSFpmZzVaamNDLUd1VTd0cXpDRkFmX3NGZ3gtMU8x?oc=5",
+        "domain": "www.marsh.com",
+        "publisher": "Marsh",
+        "publisher_url": "https://www.marsh.com",
         "language": "",
-        "seendate": "20261005T221258Z",
+        "seendate": "20261006T053730Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "New England states put aside differences to talk nuclear strategy",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE40cGloVENCRVUzZVhuMGdFQTlfenBla1FIdUZCanEyZmhWVWp2dzNyWVJjSENRdHFLOWx5SG5Ccmw5MlVSV2Nyc1pWSUxjTjc3d3hOLTFrZjVvQ3REbzVrUXRPZkRTSmxEMm9wVQ?oc=5",
+        "domain": "www.nhpr.org",
+        "publisher": "New Hampshire Public Radio",
+        "publisher_url": "https://www.nhpr.org",
+        "language": "",
+        "seendate": "20261005T201000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "$4.2B investment aims to boost nuclear power production at Ohio, Pennsylvania plants",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZEhXSUlEdUV4TE96Y1F5T01PSktFUVBqdUlEc1ZTZFI0LVhfWWhJQ2dJa2F2U2FGRVhOZjQ0V1hYUEhnNFRKclNabC1hNlJTN2ctVlREcjZvQUNueFU0b3dnMUZwR1JSamxtSTlraWJQdVNkVzRqQk4wUTR5aEZxZjdwZmpPMXJPdHpibjhLeDdHVURXNUZWUGhkWGJzR24zaGdJXzdnN2hPTXdVdHBhaEMzRy1vc1JPVFRQVTBvXzlOQjFBR3JCV1I2UXBNdlV2ajFIdTJGckRXNmZ0UXg1ZkhqMW1md3piekVwR2VMUXA?oc=5",
+        "domain": "www.wkyc.com",
+        "publisher": "WKYC",
+        "publisher_url": "https://www.wkyc.com",
+        "language": "",
+        "seendate": "20261005T235700Z",
         "source": "GoogleNews"
       },
       {
@@ -259,13 +189,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Family Enrichment Center receives grant",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcjlYOXFKZ1l4WUJPNDdmRWpsSHBLeXlJdl8ydlZJMFREWTY3TmtzWGFDS1dyTlJzWDV0MVFfRzNnT2pyTF9pNG4tSnhaNk9EcTZfZnY5Vy1MRjlCMThPTDc5elJVSFNGMDZGWEFIODlCY05DMGQ2YzFhbkdCUEN5Sndpbng?oc=5",
-        "domain": "www.wbko.com",
-        "publisher": "WBKO",
-        "publisher_url": "https://www.wbko.com",
+        "title": "US to lend $4.2 billion to Vistra to boost nuclear power output, source says",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNc0NxeXcwNnV1dXJzdU5xcWdjQm1Udmx5cGVfMGNlSGgtWkJhLU1JLU5uXzVfUFJPNkdYbWNiVFpZY1NtUm9sWHY1YXNSRWxSX1VTUjA0ZW1oMzdfV2Q3Y1Q1YV9GcllMRmlRNV80RHE1OFN1WG5RNjRvYzhPa3BGSzRmcjlJWU9mOXJoZEZZbVg0SHJWcC1WOXZzbFB6cDcxcGlDZmlVblFucVU5Mzd4MmxoRGN5c2lH?oc=5",
+        "domain": "www.reuters.com",
+        "publisher": "reuters.com",
+        "publisher_url": "https://www.reuters.com",
         "language": "",
-        "seendate": "20261005T221500Z",
+        "seendate": "20261003T134907Z",
         "source": "GoogleNews"
       },
       {
@@ -275,57 +205,77 @@
         "publisher": "rtoinsider.com",
         "publisher_url": "https://www.rtoinsider.com",
         "language": "",
-        "seendate": "20261005T223105Z",
+        "seendate": "20261006T033657Z",
         "source": "GoogleNews"
       },
       {
-        "title": "NVIDIA Head of Sustainability: how to accelerate America’s nuclear energy renaissance",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5YSTdZVlFIS3lMeGUtZGx5QlBZakRZemRFRlZtTUZLd0FvbXZGWHJES2VKVXVSdXBaNmh1NV9aVFBWc01MbkpHRkdES3p0ZzVCUGpNS2pUbk1ZWlZsSUxwUVlGT3VtT2JEODVFN2w4dHJMS19SZkkwY2kzdmxBZw?oc=5",
-        "domain": "fortune.com",
-        "publisher": "fortune.com",
-        "publisher_url": "https://fortune.com",
+        "title": "Tritium Level Far Below Japan’s Operational Limit in 24th Batch of ALPS Treated Water, IAEA Confirms",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPa0FhZ2VJXzBnUExxMlpadHNxZzN0dTRCdDdmOWdRUl9rTTlSVmI3VGh5NEI2RTQyZ2p0UklpM0dDYjRkeGF3aHZ0WDNTR3VJSmNGeFJjX08xbkh1VFVRNnNyZEJxdHk2VFBLV0NjRUlTYkdLZ0FtMDNRUU9VOUxNMVRVZ0ZzNHMxeUFuOGhveVRoUS1iUUlhSTh4Q3hzR0pmWHRpaEpNNHFoUEN1cXBMRjhMOXByb3FEQ3dDN1UwdFJpcWdQZncyenUwOUM5aWY4ZWtWTDU5Y3JOa015?oc=5",
+        "domain": "www.iaea.org",
+        "publisher": "International Atomic Energy Agency",
+        "publisher_url": "https://www.iaea.org",
         "language": "",
-        "seendate": "20261005T123000Z",
+        "seendate": "20261005T110607Z",
         "source": "GoogleNews"
       },
       {
-        "title": "TVA begins refueling outage, maintenance at Sequoyah Nuclear Plant in Soddy-Daisy",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQN2JoVnBCWERmU2FxUk5YOXNSd3ZObTNwdWpQbnNpR2w4V0I4cG5HaVlKQ2J0dkg4Vk0taE44VXJMaXdlTWJrelFMQk0xYXRjZHJnRWVfTmE0d0J4TV9FbzZfeENWbmZRVHpQZkgyQXNaeHo4M2M0YkpyeXZ2MGlVdGVBN2VHc2drQ243VUdmT2dUZHZRb1E?oc=5",
-        "domain": "www.timesfreepress.com",
-        "publisher": "Chattanooga Times Free Press",
-        "publisher_url": "https://www.timesfreepress.com",
+        "title": "IAEA Launches Research Project on Spent Fuel Characterization",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVU9raHcyWnFlaHZNU0ZkN3VQWmlSMkpXXzNNNFpDWmVnaUZjVnZDRzVNUUxhLXMtNXc5cy1HUjY2bU5fZ3Z2Y1dSclNFeE5TNDZaZnZGZ3JWN3hmeGRuRE9KbDQtSlJRc1JBUEFxNVpPcE1qTkRrdW5Hck1oNDhTLWJvVGwzY1pNekl2ZWpKMDBhdmxaSDhnVmpxQlhDT3M?oc=5",
+        "domain": "www.iaea.org",
+        "publisher": "International Atomic Energy Agency",
+        "publisher_url": "https://www.iaea.org",
         "language": "",
-        "seendate": "20261005T222400Z",
+        "seendate": "20261005T100624Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Berkeley opens FLiNaK test bed",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONjZuRGFELWI4S1g1bDZSeHk0SjJucTFXOHF3RkJwOUc5WVpaeXZaWGxQMVZ4WjluMXB3d0pvaWRxem5tZnNGcFhDYTBtcm1RVlQzZGQ4cFlSOTBEeVNSZElDNTc3WVRmeGpTbFF5VXFabk9MdkswRDluMG5lQ21ENFVmYTZXenM?oc=5",
-        "domain": "www.ans.org",
-        "publisher": "American Nuclear Society -- ANS",
-        "publisher_url": "https://www.ans.org",
+        "title": "Google, Constellation near $1 billion-plus nuclear power deal, Bloomberg reports",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZkk3dEw1R0dYajY2Tzk1d2FYYjJVX1hJQXR0Y0JrNURyZVRiNUVZZWRiYm5ObnFpSGFTY3g2c290U3F6S19HOVZXc3lCdjdOZFJ4UkdMckRydnVPYjgwendoNFRXVzdYcHpTNTdkQWIyRC1OeFpjWTctSVhNaHRzMThya2hHbWVIOGh1Tw?oc=5",
+        "domain": "uk.finance.yahoo.com",
+        "publisher": "Yahoo Finance UK",
+        "publisher_url": "https://uk.finance.yahoo.com",
         "language": "",
-        "seendate": "20261005T172451Z",
+        "seendate": "20261006T051800Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Singapore Eyes Nuclear Power as Iran War Exposes Its Import Problem",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYTVuVDdqM1ItLVBBVEFmNzQ5RmlmUkQ5N2hBdHJWU1U0VGhrTFVYeHBycE1rNVBoSjN6WENMVnV4c1p4NjBiOVFLWHJmTVFwRFBnQlpUT3UyeW81aGU5QXV1cmg4MlNuMDhWcURiOGk5MjBsNXc3V3VjSE5BTjlGZm9yVnBrSDZldVQ5ck9jeHRMNGdmOFY0dExObFhkNUxENTVNSWExUEQwOHhqSUJRYnpLLTd0TzE1MldsaWZOU2QwUEpZ0gHKAUFVX3lxTE9wYXNfUXBlNFJldXVYMlNLRi1EWk9jZDUtVURtSm1yVDRaYll4d1U5TFZ3TWRXX3lfXzlxNUYta3NHTmlpWTdkNF8wcnZublJtdThzMU9qQXZTQ3lEYjNsdUZEZFhVX2ZwRUl4N3A0cS1DbmJ4cTlFeGlZS0ZfNWRKb3NPYkkya190aXZ1NU0xdmZOZHdJUTc5Mmd2TkdFUXVyckRQYTF6U2ZQVEpoenkySEx2T0FTV2NsWjYwV0VjYzZ4UHczZDJRR3c?oc=5",
-        "domain": "oilprice.com",
-        "publisher": "oilprice.com",
-        "publisher_url": "https://oilprice.com",
+        "title": "We Energies Makes Deal to Power Oracle Data Center with Nuclear Energy",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONmtmRnZGM0sxWk9iNnZwblhCNmtFVzZyRFpiSzNWX0JaMnk0S3V5RGlqeVUzTUdUODlSTDJkaHNQWVVqaVpxVVdBM1o4VnJ3eGZlYVRXbGV1M1FWQVRFNXhDM0RidU5aSkNFNHBhOGZmY2hzb2h3TU52dUxDYzYycUk5ZmdwM3RjVG9nLWFJRnp2SWJGeGRPVGJ6b3lNYjRoa292eHk3TnFEZXRzd0E?oc=5",
+        "domain": "urbanmilwaukee.com",
+        "publisher": "Urban Milwaukee",
+        "publisher_url": "https://urbanmilwaukee.com",
         "language": "",
-        "seendate": "20261005T210000Z",
+        "seendate": "20261005T165200Z",
         "source": "GoogleNews"
       },
       {
-        "title": "New England not likely to see nuclear power revival any time soon",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYVg2TnlNWmlKVmFUeU12d3NJRXFBX0FKeXE3MzVLcEFMamphWWRGUkhCWjRvV0ktcmw5VzBSUmZkVGdvWktNXzhVMUx0YXNadGFPZ1RMbzM3YVhuLVFsZVpwTDUteVZTSGVzaV9CaEpPOXlVWEpzT005eUpPTGxTM0lVSkhWQ1RTdzhxQkhEQ2J4akw0bHo2Zjhwc0lOX2NEUC04S2VR?oc=5",
-        "domain": "hartfordbusiness.com",
-        "publisher": "Hartford Business Journal",
-        "publisher_url": "https://hartfordbusiness.com",
+        "title": "Can nuclear power meet rising electricity demand?",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBBdmxYUHJRX3lnSm5SU1B5WGZYODVvOEUwQUJCdi1QOFo1bEo1UlhVUlJIOGVPOXNlXzJjTkkyRFVpSlpkMUtJb1JTWGRjVlBLVmxiZjNqX1pFN0VEdlHSAWNBVV95cUxNajlDZk1BYmRKaUpoTmxybklYaFBWRVpuXy1jTUJJVzBKUU5pb2xSU1A2RDgzdDJXNENFRkVaY1U1QnpVa3RnRzF6NnRNUE1kX3lzMnhwY3dPbkJsWjlZeHQ1bm8?oc=5",
+        "domain": "www.fox5dc.com",
+        "publisher": "FOX 5 DC",
+        "publisher_url": "https://www.fox5dc.com",
         "language": "",
-        "seendate": "20261005T105205Z",
+        "seendate": "20261006T041336Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "(LETTERS) Nuclear safety, Prop 1 opposition and support",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNV01fb2QtZlBuRGZmaFhKTC1QTUFTYktfdktCZEdMZGhTZ1FJcWNpd1doazFnMWZJbU9GNU5kQktsdENXWW9Xc09uWHkwVWR4dnZaV3g3MmNqREtWVTdSRDJ4M0NlVlJpVDE0STNjazd6MmRneWEyZ2RfYmRPSVZrVDI5b2NHS1B5NW5QeGhzQm82Vk84eUkwRA?oc=5",
+        "domain": "oilcity.news",
+        "publisher": "Oil City News",
+        "publisher_url": "https://oilcity.news",
+        "language": "",
+        "seendate": "20261005T165300Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Nuclear power and waste on Inside West Virginia Politics",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNY1pTWmhZLVBMNXh3UTg0czhfRi0yZ0dSQW5JOHFxVTNHbmVzWUlaanlMbXo4Q1BqMmEyYVh5YlRLOW1HSERmbzZZRmNRTTY1aEMzVnhkTWxFd1IzQUtudi1lZnlYai0xcFExODRXQW13UW9hUkNnV2xTV1BtSU5HVHYwdnNURjNDZHhyOGp3SlRXQldob3lkcTdERHdMLXdoRDNncUJzVdIBrAFBVV95cUxOX1JoTjZCTkRkNFU2YlJsdjdiWG94RTZwU0xMM2lPVEMyTDZNN3BsaUtmZWgxTGRkRGhPM0tLUTZoaFBCYUlmMWl6Sjd3M25PWmdKMjF6Y1c5clhFNldSc1k3OGxTWWR4OUIxX1J0aF9mODUwamhadHBwdkF0c2VHSWduRG1FX3dqWV8yQ1dFNWxpN0NybWZxdENXbW50YWM2eW4waWVXeVJjTDU1?oc=5",
+        "domain": "www.wowktv.com",
+        "publisher": "WOWK 13 News",
+        "publisher_url": "https://www.wowktv.com",
+        "language": "",
+        "seendate": "20261006T024700Z",
         "source": "GoogleNews"
       },
       {
@@ -339,83 +289,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "A startup wants to build a massive nuclear-powered data center on public land in Utah",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQY2NpQng2SENYdG5rZUhjbUU1akRMSXJ5cUxuek81WXBCRzdRTXZoNUM2U1FxeFMyZGF0N1djMTg0ZzdCQjhlZVcyZzFVT2gxdWNOcVR5SVo1cWRXNDFVVHR2Zndxc1BnamhzWkp0aUFwdThuQ05UM2Z0OG9OWVg2RmZLcTVRN3NMd3JWNVVHaXZvY0Zxd0RuODV3OHFJVDg?oc=5",
-        "domain": "www.npr.org",
-        "publisher": "NPR",
-        "publisher_url": "https://www.npr.org",
+        "title": "NVIDIA Head of Sustainability: how to accelerate America’s nuclear energy renaissance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5YSTdZVlFIS3lMeGUtZGx5QlBZakRZemRFRlZtTUZLd0FvbXZGWHJES2VKVXVSdXBaNmh1NV9aVFBWc01MbkpHRkdES3p0ZzVCUGpNS2pUbk1ZWlZsSUxwUVlGT3VtT2JEODVFN2w4dHJMS19SZkkwY2kzdmxBZw?oc=5",
+        "domain": "fortune.com",
+        "publisher": "Fortune",
+        "publisher_url": "https://fortune.com",
         "language": "",
-        "seendate": "20260930T090100Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "New nuclear fuel deal powers portable reactors | Exclusive",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZUk0NXhBVW1tYUdkZWg1NDU5Njh2QmM0WFhNZ0czS1c2ZVdqVUhxaER6a2VQVmV2UGJhLTJOYnZBdjdCYmRqbTJIVk1ueXpYaWs1OXNWb0RfWVRIYTlBT2RqN1g2b1p6NlhHUENIdEVxOGNBQUY0UHlFUkV2cXlMal8wUm40LUE1YXJJUEJFMTV2ejd1UGxrQ05sRUVFMGtDTFNvT1RuUmxpWlZ6WHdhc3g5V0VDZw?oc=5",
-        "domain": "www.oakridger.com",
-        "publisher": "Oakridger",
-        "publisher_url": "https://www.oakridger.com",
-        "language": "",
-        "seendate": "20261005T135300Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Brookfield Welcomes Landmark Agreement To ‘Accelerate US Nuclear Reactor Deployment At Scale’",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMHJlcE1vVHV2amZkQ1VEem53TE1DbG9tMWxGUWhibnZwUjFDWEktQ3lEQTdoTDVEVE1rd1g5MXZjX0lwdnluLXlzRWhkTXF4cUFPbGJfTTlSSWJLNXNqOFNWSTF3dmRnZzlLbDcwS0RUUlI4RUhVTWxCUllQaWpSTFh1bE5pYS1kOGoyTC1FUHJmQnFNQTVFdHVPejBNMWNXcTlRWXlIY2w1aHdJaGJBRE5tVkdmNE9Fa3BNa2I5UnhESE1kWjhxaQ?oc=5",
-        "domain": "www.nucnet.org",
-        "publisher": "NucNet",
-        "publisher_url": "https://www.nucnet.org",
-        "language": "",
-        "seendate": "20261005T205147Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Pentagon Nuclear Review Could Expand War Options Outside Public View",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNC1teHNldElZM3lVczcyekNJa1A4dVpqcEYtM0xMNkRwekQxdTlZbjlORnZjeXpLOFNtR29YSVpNd01SdWJveUd2U2N2NGF5VVVLTmZTaFdBZC1lQWtLRkxvajlCMFZJTUplUjZGU1YwVzVlZXctcktzOWtna0VHM2F5Skl1MzVlcnVhUW85cDIzRVp3ZkUtRA?oc=5",
-        "domain": "www.military.com",
-        "publisher": "Military.com",
-        "publisher_url": "https://www.military.com",
-        "language": "",
-        "seendate": "20261005T141122Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Russia sends nuclear warning to NATO as tensions rise in the Baltic",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNTJVNU5aaklYSDNsWXRMMUVBd2VwaVlhYWtMUzBFSlNCM3dFM2swcENVd3hSOTA1ZEdpUjRtYmVLY0lfNWdfVmM3cW1KNUIxaURqcGNyeTB4djQ3Nkc3c2Z5ME5aN1BXNWlla1ZJQkF2US03X0lmeHNiTEJjblpYTVJMY19wSzlBenJkdGdqNnlEblFhNHItQjBXWWlya0hmQXZPY3YxbnRHVWpBM29fQjFJWUMyTzlJUkE?oc=5",
-        "domain": "www.reuters.com",
-        "publisher": "Reuters",
-        "publisher_url": "https://www.reuters.com",
-        "language": "",
-        "seendate": "20260930T094100Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Kaliningrad, the Russian militarized exclave surrounded by NATO that triggered Putin’s nuclear threat",
-        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNUUFXZDV6OEd2R3NhcVdXM2ViczluSWJDWHJsREFJMk9mZVl2akxMU2tKT0NiNmVKbktBcXNXOTZyRHhHMm9vTms2YlhhZllXOUk2bnBMQnRuMjdrSnFrY1RnUm12ZWxKR3BqQTNLNjFlRWM0NUxrdVFWcDY4UUlmSHFaR3NNZzNlbVo5UzhGYldoT09QaS1pZ3dudWgzMkx6dTB2UVlNcnk5cTdSMWhCZWRWcW5sMG1TS3dRMXpId1ZENGRmMUtmWWlha2xyWjlpZkhWSkdMSUs3RmJrRW81aldyMFRFSmp6cF83ctIBgAJBVV95cUxNYjhwWEtId2d6eXNsRkRoRFdNSm5UYWFGUXpORXpMX1JJeUpyVC0weEtib3RvdzE4SmNVNzh6RU5xUXJDM1d6TTh4QnpJTTg4Qkc4Zm9wM2daQXpxLU9NNlpwemNzTHU1ZkpIb1pENmZTa0pZX0U1UXRINkd2YXJLa2JGZlhFQ3FNR2F1cUwzTmdKM0JBcXZ1YTZhOF95TUI5YVpnTDJGeERNdjJhVTZ4Y0oyb2FkOVNNWGVnNnFPcXZwUjF6Nl9UdFVma2dTMjFUSWNtM2w1WEtKNmJyOWRqTW5iQ3RBenlKZDNBRy00MlhnZXRVVkNDcGVISWxObW1m?oc=5",
-        "domain": "english.elpais.com",
-        "publisher": "EL PAÍS English",
-        "publisher_url": "https://english.elpais.com",
-        "language": "",
-        "seendate": "20261005T143652Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Civil Nuclear Credit Award Cycle 1",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA2OXlPQk5UZ3k1elRBNExFM3hpYmVHbjU5OGVfYTJXOW5DSzFwVWJEVk55WU1lTktiTndxQ0xfRFAwMHhwUUFZMmtyR2swcV9lRHR1M050QkR1WEpzSEE0YXdUajRQdnlaeDZ2Ug?oc=5",
-        "domain": "www.energy.gov",
-        "publisher": "Department of Energy (.gov)",
-        "publisher_url": "https://www.energy.gov",
-        "language": "",
-        "seendate": "20260930T193124Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "GAO report looks at NRC workforce recruitment and retention",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdGdzbk82RTM2d1VMbFNBck5ISzBzcy1lTk03VjRrMzc0QjNBbktxdFN2NTk4enhJOE9FQ05BckFsT19CaDBGa3NNM1pIWGJBWkY3aVpJTFlkd21sX0k2YVktYjVMUGVsSV9VdzlfLWtCUkZtR0V3LTRQOGNTNU5WWmxqVHJlQUo1VV9QSi1Ua2I5Z0pJUThtOWlqdFJ1Z2l3UkdudTZTNHJycEEtcGc?oc=5",
-        "domain": "www.ans.org",
-        "publisher": "American Nuclear Society -- ANS",
-        "publisher_url": "https://www.ans.org",
-        "language": "",
-        "seendate": "20261005T131953Z",
+        "seendate": "20261005T123000Z",
         "source": "GoogleNews"
       },
       {
@@ -429,13 +309,93 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Three US nuclear plants get $4.2B upgrades to add 433 MW of power",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWEJIQWtlX1pBb3JoTlJ0Qi1vcm1RaHB4ZG5MOUE4SmRWMHlXdmpGNDFJN2JKa3FEUjlOZUNvazZ3SC02cGVQTklXbC1IVjRObkxXOTVISTNwMDQ2eGlCNlZOZTJYZkh6NHJtRGhBWHdWUWNPdFphOFFDLTZyNjI1Zm5TekM?oc=5",
-        "domain": "interestingengineering.com",
-        "publisher": "Interesting Engineering",
-        "publisher_url": "https://interestingengineering.com",
+        "title": "Vistra in Line for $4.2B DOE Loan Package to Uprate Nuclear Plants in Ohio and Pennsylvania",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQc1R6TF9hWGxoNVVGLVpleE9CZl9nX2wzS2dpM3lmczBXaHVyTGgwXzZHM213ejV3bnNucjJMbjJWSzc1V3h1ZERmdzJrLVo0T1ZWSlNhdW00MndmNXpwS2E1ZFJmSWlHQXh2SE1WeXhVUFdHa21pY29zSlhnU21QMU9SUVpoNDNfcTd2Wi13dzBMemphUjFPc3dnY2NfOUlaRDM2OFpCWmdCbFNIOHAwag?oc=5",
+        "domain": "www.powermag.com",
+        "publisher": "POWER Magazine",
+        "publisher_url": "https://www.powermag.com",
         "language": "",
-        "seendate": "20261005T230800Z",
+        "seendate": "20261005T225320Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Putin’s nuclear threats no longer work",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQd085enNkbkFTbldrOTNhYk1SSHVRVDBmanhQTU16d1QtUmJseDlHbm5EMDN0bmZDd2xsZW9sM0NzQ2pOVTBZSUNwYlQtOVk0ZXhodUlrYjAwZkw5cEg0MmVTcVNUbTNtSWt0R1RjODZ0SG1TMi1VQjZqWkpxWWNjLXh4S3Y?oc=5",
+        "domain": "www.ft.com",
+        "publisher": "Financial Times",
+        "publisher_url": "https://www.ft.com",
+        "language": "",
+        "seendate": "20261005T113808Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "TVA begins refueling outage, maintenance at Sequoyah Nuclear Plant in Soddy-Daisy",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQN2JoVnBCWERmU2FxUk5YOXNSd3ZObTNwdWpQbnNpR2w4V0I4cG5HaVlKQ2J0dkg4Vk0taE44VXJMaXdlTWJrelFMQk0xYXRjZHJnRWVfTmE0d0J4TV9FbzZfeENWbmZRVHpQZkgyQXNaeHo4M2M0YkpyeXZ2MGlVdGVBN2VHc2drQ243VUdmT2dUZHZRb1E?oc=5",
+        "domain": "www.timesfreepress.com",
+        "publisher": "Chattanooga Times Free Press",
+        "publisher_url": "https://www.timesfreepress.com",
+        "language": "",
+        "seendate": "20261005T231208Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Sustaining communities",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1wNFZic1htVVlmc0xhMFg5Tk1EU2RKVFhBMlYyRmNuckR1VDFvQmZROEhIMVhoOW9ub0pCTDhzakNRbHlxNzd2ZUlZbWpuak1mdFR4Qjl6dXpOWkJWbkltZ19mNkcwNy1xdjI2d1JjTmxyRlZLaEVsamJxZWc?oc=5",
+        "domain": "www.ans.org",
+        "publisher": "American Nuclear Society -- ANS",
+        "publisher_url": "https://www.ans.org",
+        "language": "",
+        "seendate": "20261005T145705Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Google nears billion-dollar deal for nuclear power from Constellation - Bloomberg (CEG:NASDAQ)",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbmlHM0lHdmZGdFJaejRDcGxHX2VwejZ4MmJ2b3BfQ2VUblFUcVB6eGF3TGZvSnV2bTF1X1NwU00wd0E2VXJkWkRvRXliMFhSYnlSN1M1SVV3Uktadk1MRk02YUM3S0FRNlhpQ2tWVmk4RGVEQS1panl4NHl3MGZHdml5dXZLSEctSFVtS0R6emMySWxMYTdnckpyUXN6czl5MktqakZSVU9LX09oN0VhcG5DUjlncU9k?oc=5",
+        "domain": "seekingalpha.com",
+        "publisher": "Seeking Alpha",
+        "publisher_url": "https://seekingalpha.com",
+        "language": "",
+        "seendate": "20261006T023829Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Missouri Energy Strategy Puts Nuclear Power at the Center",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZk95clBCS01iMXdyVGtXSjJCTkEtcGRrNWpLOUg0enJ2WTJ6NHFxTFlYeXd0X3o3czFMN0lYMFN2VG1UUUFSMVg4WDQya0swNzUteFFWc1B6aWYwNTlKdEp1eE84WHlGYlFqVDhnM1pmdEtSX3JCcWFLWmRLWmxmNjNCN184TGVnaWM0Y18tN2hJOGlZMGs2NUJrd1pldVA0eDJ3bFd5TFVWUjNM?oc=5",
+        "domain": "environmentenergyleader.com",
+        "publisher": "Environment+Energy Leader",
+        "publisher_url": "https://environmentenergyleader.com",
+        "language": "",
+        "seendate": "20261005T220000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Davis-Besse among nuclear plants in line for up to $4.2 billion in federal loans",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNalZzSUZtenNYLUpyMVJaSkV1R3Flc1RJSmxEdmpCS2ViNFhzUUlXWkMxQlNsaTk5eHpVUWJTS0R0N3JPMkQydmxoVUswTmhkNDN6ZkdGU3BNcVNJcWRKMTZkSnJnT1hyeWpXcDRUQVJhaExad0p2Uk1raTRqMmkyMzdoQ09FbEc1TXgtRDFJbjVnZzdSY3RBU1FNOGxUTHVMdk9janpDX0w5UjhhNEIwZkc5SUQ?oc=5",
+        "domain": "www.toledoblade.com",
+        "publisher": "Toledo Blade",
+        "publisher_url": "https://www.toledoblade.com",
+        "language": "",
+        "seendate": "20261006T010117Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Family Enrichment Center receives grant to expand child abuse prevention program",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMkZKMnV5dDBVSWE1MDZSZUNmb3poRnB4dTNlRnJqSDUxeFBZQmZMZ3poNlo1eXZsUEZjaWl4LVZrdWFOY05yQmVIcmVfNWZOLWRnQ2Zqa3dNM0hXSFBEZWw1ZmR1RzNEQW5CRGg1Vk04WV82UnBDMzlCUGR1aXpHOUZFSkc1dDFFUVB5OXpLTWhOSnJWMVBvYjdkU2ppMXVqSmRGbVc2blBONnl4ZDJF?oc=5",
+        "domain": "www.wbko.com",
+        "publisher": "WBKO",
+        "publisher_url": "https://www.wbko.com",
+        "language": "",
+        "seendate": "20261005T212800Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "A startup wants to build a massive nuclear-powered data center on public land in Utah",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQY2NpQng2SENYdG5rZUhjbUU1akRMSXJ5cUxuek81WXBCRzdRTXZoNUM2U1FxeFMyZGF0N1djMTg0ZzdCQjhlZVcyZzFVT2gxdWNOcVR5SVo1cWRXNDFVVHR2Zndxc1BnamhzWkp0aUFwdThuQ05UM2Z0OG9OWVg2RmZLcTVRN3NMd3JWNVVHaXZvY0Zxd0RuODV3OHFJVDg?oc=5",
+        "domain": "www.npr.org",
+        "publisher": "NPR",
+        "publisher_url": "https://www.npr.org",
+        "language": "",
+        "seendate": "20260930T090100Z",
         "source": "GoogleNews"
       },
       {
@@ -449,83 +409,123 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Nuclear Notes – Nuclear Power in the World",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQS1NcF9hVkVEX0pFVm12eGRSbm42MjNmQkVXRGRmQ1B3eU5OODZ1TzBfbzN4SWJnbFVTSDA3MEJzNl9mckdDUEM4a2lodVhLbk1OU1VNRVZFQTNKWlB5S0stb0RqM2xQNGx5UzAtUk4td3NuYUNuYkUwQzFRdTlhMHFRNW81QldjbGx3M0cxdHRaQ0Q5Z0g2amRqTQ?oc=5",
-        "domain": "www.positivelynaperville.com",
-        "publisher": "Positively Naperville",
-        "publisher_url": "https://www.positivelynaperville.com",
+        "title": "Three US nuclear plants get $4.2B upgrade to add 433 MW of generating capacity",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWEJIQWtlX1pBb3JoTlJ0Qi1vcm1RaHB4ZG5MOUE4SmRWMHlXdmpGNDFJN2JKa3FEUjlOZUNvazZ3SC02cGVQTklXbC1IVjRObkxXOTVISTNwMDQ2eGlCNlZOZTJYZkh6NHJtRGhBWHdWUWNPdFphOFFDLTZyNjI1Zm5TekM?oc=5",
+        "domain": "interestingengineering.com",
+        "publisher": "Interesting Engineering",
+        "publisher_url": "https://interestingengineering.com",
         "language": "",
-        "seendate": "20261005T134731Z",
+        "seendate": "20261005T230800Z",
         "source": "GoogleNews"
       },
       {
-        "title": "DOE's Energy Dominance Financing Lends Vistra $4.2B to Fuel US Nuclear Output",
+        "title": "Civil Nuclear Credit Award Cycle 1",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA2OXlPQk5UZ3k1elRBNExFM3hpYmVHbjU5OGVfYTJXOW5DSzFwVWJEVk55WU1lTktiTndxQ0xfRFAwMHhwUUFZMmtyR2swcV9lRHR1M050QkR1WEpzSEE0YXdUajRQdnlaeDZ2Ug?oc=5",
+        "domain": "www.energy.gov",
+        "publisher": "energy.gov",
+        "publisher_url": "https://www.energy.gov",
+        "language": "",
+        "seendate": "20260930T193124Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Berkeley opens FLiNaK test bed",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5vSmhhM1hWdm9CaE1oMTRLZjlNM3VkR0s4SzR0YTliQzVMZVp0Q3dyNEhrSXhvMTk4OGZtWTY5UEg1WmE4aEFUWFVsSW9pZGFMSXk2a21zbU53US1Cd2RCU3Y3T0ljSnBINDRXcFNBaDgxMmN5cjJRbw?oc=5",
+        "domain": "www.ans.org",
+        "publisher": "American Nuclear Society -- ANS",
+        "publisher_url": "https://www.ans.org",
+        "language": "",
+        "seendate": "20261005T182453Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "DoE confirms up to $4.2B loan to Vistra to boost nuclear power output (VST:NYSE)",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTnhRUnpsYkt1b2lhTjB4SjY0by1OcnlZYjBmc1lLb2xwS1pRWUNkWnByU2w5UXVBYVNuUEJGY2VKLXFUMjJJclZwdzhjdUdwenVaWFJPWWFIeVNYWHZCSEZxM2s1YU4yUG9Balg4cE9kaTBLQnJvQS1Oak82aTN0bGxJSDI3M09rblZfY1FiU0NCelozR200YTg2UEE5U1BncEJlMGJhZDY?oc=5",
+        "domain": "seekingalpha.com",
+        "publisher": "Seeking Alpha",
+        "publisher_url": "https://seekingalpha.com",
+        "language": "",
+        "seendate": "20261005T223635Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Russia sends nuclear warning to NATO as tensions rise in the Baltic",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNTJVNU5aaklYSDNsWXRMMUVBd2VwaVlhYWtMUzBFSlNCM3dFM2swcENVd3hSOTA1ZEdpUjRtYmVLY0lfNWdfVmM3cW1KNUIxaURqcGNyeTB4djQ3Nkc3c2Z5ME5aN1BXNWlla1ZJQkF2US03X0lmeHNiTEJjblpYTVJMY19wSzlBenJkdGdqNnlEblFhNHItQjBXWWlya0hmQXZPY3YxbnRHVWpBM29fQjFJWUMyTzlJUkE?oc=5",
+        "domain": "www.reuters.com",
+        "publisher": "reuters.com",
+        "publisher_url": "https://www.reuters.com",
+        "language": "",
+        "seendate": "20260930T094100Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "DOE's Energy Dominance Financing Lends Vistra $4.2B to Fuel Nuclear Output",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxON3VzUlBxY3AwZ2s4bTJrcEw0ZzNlS0xCZThIUkpTcjRSY0U1UFZ3NXZCY0d4V3NucE1vLXZUS3JSYTBYZ0QtY043WWJLR1UtMm9WbDVNRzRaOWJ3MUFPMG1mcUZ3SVdCNDRPZjNXdVFHSUhyWEk5eTRKODBsZ3NqQmNKclNGb2pENjFQNW5oX3VOdW1GMzZpcHVSZkRVOVRvMUZTbGFPRGd0dVdtNmRNRWNVRXhVLU15VXlRQU1XQ1pxU2EwMGx5UzhHd3g?oc=5",
         "domain": "www.energytech.com",
         "publisher": "energytech.com",
         "publisher_url": "https://www.energytech.com",
         "language": "",
-        "seendate": "20261005T193626Z",
+        "seendate": "20261006T013035Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Davis-Besse among nuclear plants in line for up to $4.2 billion in federal loans",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNalZzSUZtenNYLUpyMVJaSkV1R3Flc1RJSmxEdmpCS2ViNFhzUUlXWkMxQlNsaTk5eHpVUWJTS0R0N3JPMkQydmxoVUswTmhkNDN6ZkdGU3BNcVNJcWRKMTZkSnJnT1hyeWpXcDRUQVJhaExad0p2Uk1raTRqMmkyMzdoQ09FbEc1TXgtRDFJbjVnZzdSY3RBU1FNOGxUTHVMdk9janpDX0w5UjhhNEIwZkc5SUQ?oc=5",
-        "domain": "www.toledoblade.com",
-        "publisher": "Toledo Blade",
-        "publisher_url": "https://www.toledoblade.com",
+        "title": "Family Enrichment Center receives grant",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcjlYOXFKZ1l4WUJPNDdmRWpsSHBLeXlJdl8ydlZJMFREWTY3TmtzWGFDS1dyTlJzWDV0MVFfRzNnT2pyTF9pNG4tSnhaNk9EcTZfZnY5Vy1MRjlCMThPTDc5elJVSFNGMDZGWEFIODlCY05DMGQ2YzFhbkdCUEN5Sndpbng?oc=5",
+        "domain": "www.wbko.com",
+        "publisher": "WBKO",
+        "publisher_url": "https://www.wbko.com",
         "language": "",
-        "seendate": "20261005T190117Z",
+        "seendate": "20261005T221500Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Rosatom says 2 Zaporizhzhia nuclear plant facilities damaged in overnight attack",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVGRMZDg5RjI4Tktxb0E3VUI4U3VfcDE2WmdfWFVFcFlITzRfb2JqLWQtQ2Z0LVZIZmxyUmJycnNFYzdUSU56eTR6OU5lbTE4MTZoREhGSDVqejRsYXFZczJaYmlXUUhkSnJpZUc3WUtqMjFteTlhcGZqQ0NXTDRiaFRFcEx4aWRsRnlmSFRULVZHMnhWSUNKMzNpTnNzbjFLdGVCWnBuNF9DbnBtSl9VWXZlVTFrb2t5?oc=5",
-        "domain": "aa.com.tr",
-        "publisher": "Anadolu Ajansı",
-        "publisher_url": "https://aa.com.tr",
+        "title": "Boost Platform Incubator Facilitates Rapid Public-Private Nuclear Technology Transfer",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9mX3ZyVk95aVFyZXlVNzYwcHo2ajJrcUFTWlJvM2dZRmNfa3hOWEdnb0NTNFdwQTBpdm43V3ByOGFZamlIUFRSdWx6alpDMTBjazZYM2t3?oc=5",
+        "domain": "www.azom.com",
+        "publisher": "AZoM",
+        "publisher_url": "https://www.azom.com",
         "language": "",
-        "seendate": "20261005T125050Z",
+        "seendate": "20261006T045000Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Finland has a fix for nuclear waste",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZVU4a2dZN0U2YnB4c0JwakhydklZUUVWLXlBOWdDMjZfV1dLVmVtT2ZNVW9Wbk5ZOXU2MFlENFJUYkRpY3J2aHI0UkpUMWszZjh4LUhXMEMwOUQ1R2w2OGZteTBVTzV6eC1zbEp3VVRYV1BWQ05qN1UzZWdybWdMc3YwWHg3UQ?oc=5",
-        "domain": "www.economist.com",
-        "publisher": "The Economist",
-        "publisher_url": "https://www.economist.com",
+        "title": "Singapore Eyes Nuclear Power as Iran War Exposes Its Import Problem",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYTVuVDdqM1ItLVBBVEFmNzQ5RmlmUkQ5N2hBdHJWU1U0VGhrTFVYeHBycE1rNVBoSjN6WENMVnV4c1p4NjBiOVFLWHJmTVFwRFBnQlpUT3UyeW81aGU5QXV1cmg4MlNuMDhWcURiOGk5MjBsNXc3V3VjSE5BTjlGZm9yVnBrSDZldVQ5ck9jeHRMNGdmOFY0dExObFhkNUxENTVNSWExUEQwOHhqSUJRYnpLLTd0TzE1MldsaWZOU2QwUEpZ0gHKAUFVX3lxTE9wYXNfUXBlNFJldXVYMlNLRi1EWk9jZDUtVURtSm1yVDRaYll4d1U5TFZ3TWRXX3lfXzlxNUYta3NHTmlpWTdkNF8wcnZublJtdThzMU9qQXZTQ3lEYjNsdUZEZFhVX2ZwRUl4N3A0cS1DbmJ4cTlFeGlZS0ZfNWRKb3NPYkkya190aXZ1NU0xdmZOZHdJUTc5Mmd2TkdFUXVyckRQYTF6U2ZQVEpoenkySEx2T0FTV2NsWjYwV0VjYzZ4UHczZDJRR3c?oc=5",
+        "domain": "oilprice.com",
+        "publisher": "Crude Oil Prices Today | OilPrice.com",
+        "publisher_url": "https://oilprice.com",
         "language": "",
-        "seendate": "20261001T124503Z",
+        "seendate": "20261005T210000Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Ohio nuclear plants could boost output with proposed $4.2 billion federal loan",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdDR1anc1cHdNck1oajJRQ0FrTEVLRW1yemF4U0kyeFFoM3NSLXhSWjJPeTJVeFRlNjlrLVhGN2ltblNWSVBWd1ZyZ0ZzWUplaDR5TTVNeDRpSGJJUnpqcFJUaVNrNUZMMFd2QzFpYUFtTTAzRHdaZmo1VnVhWnhWNlNBVzBZSDNCalpBSFV6OVotVzctWTNVSWxVY1lERF9qMnhrUk92S3U1Z0FGd2FvTU84a2hmZU0wcmxKQtIB0AFBVV95cUxQRFNkakJEajB4UFZVblZMSWctNWo0eHB6MU4tUTFQNktjb3pqZDMwaEVjakI3QW9uemdzdFVMZnhOWFB1Z281ZjJGNGJWdzFQc0tQLWlneDBsOFMwQm5lZFpHMFRFQlJaNzhhM2NlQ2Q3MmEzUzVLdVNnSDdoQ2F4RUszR3Jvek9wQ3k4TWN4RnV2V2N2YnZITjBNeXpWZHMybF9obk1fOEJoclJ0Q3FzNjZrNEQxT0l5NWZCeVNKTGxEZ3IyYjVPM2hhVFJ0aW1X?oc=5",
-        "domain": "www.cleveland.com",
-        "publisher": "Cleveland.com",
-        "publisher_url": "https://www.cleveland.com",
+        "title": "AMPERA SUBMITS COMPREHENSIVE ENGAGEMENT PLAN TO THE U.S. NUCLEAR REGULATORY COMMISSION",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbUQtV3BYaWU2NFFEX3FpUUJQVWhXMU8wbWYzc0pRS3JtN2t2bVRRSFJvN3RnRkNXekY2U0o4NmhCZGFyX0djdXpoV2dXRlgxdHJndnBuOHpkbFl2dVZFU1pNdEZ2cC1PT2tuTm94YzBnMTlUNkVFZkVMRklMMGRVNVZDbk10YUlEOUdXX0ZvbEdrTUM4ajdDcnBJREFnZ0NBQlJLa0JDSzZuVGtQeDZobnZ6bWJQeFhReVlDaU1YTVh5RG5Ib0pmZ1p0bk1FQ19FRUZNX0Uwcw?oc=5",
+        "domain": "www.prnewswire.com",
+        "publisher": "PR Newswire",
+        "publisher_url": "https://www.prnewswire.com",
         "language": "",
-        "seendate": "20261005T170300Z",
+        "seendate": "20261005T194100Z",
         "source": "GoogleNews"
       },
       {
-        "title": "West Virginia drops bid for $50B federal Nuclear Innovation Campus",
-        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPNWFOQ1VobzVkRkdMa0tRT1JnSWlidUNpblBnMzF4aUJyT2lEQVBKWGgwQ3RLMUNSY3o0bkMxWExaOUZRMHRiaG0tdWpmaHQzenY0XzhfYWFkZnlhNzlWYzVxT0Y0VGVVLWlRZVA2UFRFc2JlUXFwMUlHM1IxNmR1aW9xYzJxMEZ2b2hqLW8zNHFaWVhyRFR5c0R5QjVxeFRqZFlSZW92ejRxaVlxZFNrd0FIN0k1OUFoN1RpLU04Vkd6Mjk2X3NVUm1lcG0tS2twLWd0QkFBanZYdGRhWlJuVjItQlU2dkFlUmYxbA?oc=5",
-        "domain": "www.wvnews.com",
-        "publisher": "WV News",
-        "publisher_url": "https://www.wvnews.com",
+        "title": "Idaho faces nuclear crossroads",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcTVacUszOU1oM3UteEVZa2EtM0p6NUlmTXpSMkU0YjJhU0gxNG1LbTNzVXlQLUYtdWxoS3V2NjdQcW1KN21HTWp2eFBRcTM5WWpVejRQWFJIb2R6bENmZnJsNE9KX1J1azJfbEl0Z002RF9pbUV4ZWZDRHdrQ29zemhERm5XOGhPbFN2Rnp2UGtLMmNkemkzM0tmQUtGcmU3NXVXdFRxT0IwMEpiYWZHUlM3QQ?oc=5",
+        "domain": "www.ktvb.com",
+        "publisher": "KTVB",
+        "publisher_url": "https://www.ktvb.com",
         "language": "",
-        "seendate": "20261005T130000Z",
+        "seendate": "20261006T002500Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Trump reaffirms ‘great’ relation with Kim Jong Un and nuclear-armed states",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQjRLNXZVNnNUNGJGaGJYbHNyX1hvSmVpOVVQQWdFZzFIWFd4OS13UUhCUDR4a1JtU2JienpCWGt4M09xMTZXbGdwLS1hdzQ4eE9kNUhsUHFrNnlINkNLSXJpdEE4U3pMMGQxMEY5dmlHUTREdFgyYm1oTk1Kek1nVzFmMWFVaVpxdHcteG1laHNkTm5ObDVtLVBZT1AtVjlkbXY0Q0ZaVQ?oc=5",
-        "domain": "www.nknews.org",
-        "publisher": "NK News",
-        "publisher_url": "https://www.nknews.org",
+        "title": "$4.2B investment aims to boost nuclear power production in Ohio, Pennsylvania",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNOVpWSzFSdGR4bjVoakJlb3RtX201ZF95NW9CbVAxT1VjcndTTGRWZWhWeGV1dERlT0tFODB5MzJEYk9Da1E0QURaa3hpNUNIVXRlVGZQTjJmMWQzcWF3UFFLZUtCWk5JZHFrUmpId3VPbFFWenlhTnlzaDUzeDZOUjMxd2otMG04dDF6TmJMdzJJai1MZXR3UnR6YzZMei1iWFE2c0Z0MzlQVFMwSHhMeFBhc2MxMWpfNmlHMHFxMFZ0YjN6ZDJJeE1QSmo3Vm8yaEZLS0hYTkUyRzFEWkJld3JQY2l5OTIwWHVYa2pRSkhjekZIUnc?oc=5",
+        "domain": "www.wkyc.com",
+        "publisher": "WKYC",
+        "publisher_url": "https://www.wkyc.com",
         "language": "",
-        "seendate": "20261005T173057Z",
+        "seendate": "20261005T235700Z",
         "source": "GoogleNews"
       }
     ]
@@ -538,7 +538,17 @@
       "publisher": "The Guardian",
       "publisher_url": "https://www.theguardian.com",
       "language": "",
-      "seendate": "20261005T223400Z",
+      "seendate": "20261006T013100Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Google, Constellation near deal for nuclear power, Bloomberg News reports",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQnB3VGQ4am5pajBjVTZZeTAtTU9KVHZFc3p3R3hWYkNBVzFEcENOYUI5WGVobTk1OEYtZm8tVGFHTFc3ZzdzY1I2allEUm1lN0ZkSjREZ1Z6QjlXczNrTmlRcEFZMEJkYldSYzVIVUxMYzV4bFVuSDZTcFlvTTI4N2V1UHdWUWtIWl9KbUREWWN4a0VYMjJFLUg4MEZLWV9YcTF1OTFSZG53MXdkMnJkWFlhQkV6N2VjRGZVNg?oc=5",
+      "domain": "www.reuters.com",
+      "publisher": "reuters.com",
+      "publisher_url": "https://www.reuters.com",
+      "language": "",
+      "seendate": "20261006T022400Z",
       "source": "GoogleNews"
     },
     {
@@ -548,7 +558,7 @@
       "publisher": "Utility Dive",
       "publisher_url": "https://www.utilitydive.com",
       "language": "",
-      "seendate": "20261005T215615Z",
+      "seendate": "20261005T215956Z",
       "source": "GoogleNews"
     },
     {
@@ -562,13 +572,13 @@
       "source": "GoogleNews"
     },
     {
-      "title": "New England states put aside differences to talk nuclear strategy",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE40cGloVENCRVUzZVhuMGdFQTlfenBla1FIdUZCanEyZmhWVWp2dzNyWVJjSENRdHFLOWx5SG5Ccmw5MlVSV2Nyc1pWSUxjTjc3d3hOLTFrZjVvQ3REbzVrUXRPZkRTSmxEMm9wVQ?oc=5",
-      "domain": "www.nhpr.org",
-      "publisher": "New Hampshire Public Radio",
-      "publisher_url": "https://www.nhpr.org",
+      "title": "Google, Constellation Near Billion-Dollar Deal for Nuclear Power",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWDVtZWFsR0FhT1JuTno3Uy05dWpzOG91dmVfa09PR2pyaFZqV0Zudk1kSkxheWhuUW4xU0c0YWFrSjJqV2NONDlMMF9sQXRjLUF5Rmhfclp0MWNsamtnZXBTS3l5UnZ6SUFzcm1TU04xRXNCYS1UME9WSWozM05fYzh6VGF5c0NEbnY5WTZNamJCejJnVXdMNUZlV0NBcV9wZnJjNjdTZTRVTGRicHJld2E1ajg?oc=5",
+      "domain": "www.bloomberg.com",
+      "publisher": "Bloomberg.com",
+      "publisher_url": "https://www.bloomberg.com",
       "language": "",
-      "seendate": "20261005T201000Z",
+      "seendate": "20261006T010025Z",
       "source": "GoogleNews"
     },
     {
@@ -582,43 +592,33 @@
       "source": "GoogleNews"
     },
     {
-      "title": "The History of Nuclear Power in Space",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5xdXdsX2xfOGVGUmlqX2pxQTY1ckp2R3lDdVA0Rmo5dFI1VWtrVmpEb0NOb2VmaUdiUzFRZ3ZsWGx2TjkwZ2hrN0s0WlI4Tmw3cHN1UERTT0YyOVFKN0h1X01OR0R1ZXMzR0ZSZmtVMA?oc=5",
+      "title": "Idaho's nuclear waste debate reignited as DOE considers new Innovation Campus",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPeHo2M1FwRkdBaXV2d3c5Y01kRHpyR2hyVnkwVjA1bFlIZkJmbGx1YUlaM3lORHFlMHZUa1o3ZHF0cHdYcjdvN1NlUnlwT0U3QUloSG9yend2ZHpITFJ3dXp0cWhKZnNPT1JpYTNuQzczV1FmRlE3V1FZVHNXYUpVVk9LUUFmVVZTWUpOeUNITk5rcjI5WDVjbloyc2VTY3p0V0hjczJaVUU1ZzhhUkRwVjR5Rno0aUZuRDBueHoxMjFnZm9jaVdGc1B4dXRUei1USGUyODV6QkdrRUFDeTRteHd2bDNEdzdlZzVtZHBPMA?oc=5",
+      "domain": "www.ktvb.com",
+      "publisher": "KTVB",
+      "publisher_url": "https://www.ktvb.com",
+      "language": "",
+      "seendate": "20261006T030700Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "What Is Criticality? (And 7 Other Misunderstood Nuclear Energy Terms)",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPLUYwTUlRY1FpYkNCNUJmb2RWbWZUaFFKa1BkZGF4a1lWWlE4ODh5STIzMlVVaE9pcDdfM1JIcy04OHNkX29hU3NPcVhXS2dMMDRocnc0T0N2LWU1eUZaZzZpVjRjTHpzVzBLUTRwMDR1bmtaVVhGVVg4S25ES1JtSVFCbVF6eGpJZWVzOFVPOW1CQ3R4bDVkT3JKRWExRUE?oc=5",
       "domain": "www.energy.gov",
-      "publisher": "Department of Energy (.gov)",
+      "publisher": "energy.gov",
       "publisher_url": "https://www.energy.gov",
       "language": "",
       "seendate": "20260930T193124Z",
       "source": "GoogleNews"
     },
     {
-      "title": "U.S. Energy secretary visits Ohio to announce $4.2B in nuclear power investments",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOQ1ZZajJKVVprMkpHdmhYMG5sTlprRXBfbXdFRmdKcmNiQVF0QWd2ZDdyY2FzSVI2d0FKWWxrZHE4T0psTzBiRWZnRGxmNGRJNmhzcHpoN1hGVmJSUVdOcUxqMFQ4S3NTekR5dGkyTU1UOTktSVZwNThSaHhpUzVTLWpzNVQ1ZUZTWVppbkZ1WUxwWlVhM01pdnUzOUV5R2pPOXVvQmlmN0FYOXVjbVpLQ213UEJZR01zbmdlTWVlTjc0ck51S0ZqNS1oaEdFbHhVMnY3YUpyck5zNHhtRFBsTi15RDlKSUcwTzA5WlN0ZW1hZUEyaldINUQ4eHN6a0ctY05JYVpNSzF4ZXpw?oc=5",
-      "domain": "abc6onyourside.com",
-      "publisher": "WSYX",
-      "publisher_url": "https://abc6onyourside.com",
+      "title": "DOE to Loan Vistra up to $4.2B for Nuclear Upgrades",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORkREXzFmbHdKTHBVS3VSc01JRTVwZk41Tkx3dTlHQVNOcGUxZ0F2azBDdkRrNHZES1VMZV9oVHNwckdsQ2ZPNlFZMzlJalFpd0s0YV91R256Snpoc001Q1htNHBEdFdmTGFwaXdyRjg3MlZDdUNIVng1dTJJdjRKN2N3?oc=5",
+      "domain": "www.rtoinsider.com",
+      "publisher": "rtoinsider.com",
+      "publisher_url": "https://www.rtoinsider.com",
       "language": "",
-      "seendate": "20261005T230345Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Putin’s nuclear threats no longer work",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQd085enNkbkFTbldrOTNhYk1SSHVRVDBmanhQTU16d1QtUmJseDlHbm5EMDN0bmZDd2xsZW9sM0NzQ2pOVTBZSUNwYlQtOVk0ZXhodUlrYjAwZkw5cEg0MmVTcVNUbTNtSWt0R1RjODZ0SG1TMi1VQjZqWkpxWWNjLXh4S3Y?oc=5",
-      "domain": "www.ft.com",
-      "publisher": "Financial Times",
-      "publisher_url": "https://www.ft.com",
-      "language": "",
-      "seendate": "20261005T113808Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "We Energies strikes deal to power Oracle data center with nuclear energy",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWkJmeS1vbHJ3Z3RFRzhCYXJsM29QekJnSDJQd3ZVeUE1a0hINEFTSUotLTBwekk5cDZBZU5ZSVlRSno0N0dJZnB0LXRYckdKTUszMTZxc1R0dF9mdmV6Z3UxSDZjMmFFWFdiU29YZC0zbWc3WkxLLVV2bTh6aXd1Q0VCZ3B6TDhNLWkwWnlZZ0F3MHpuOGdyYklQcU9od04xbExwRUJ3eGt1dTFoeDhxN1RKTXhxRDdvZmttLUJn?oc=5",
-      "domain": "milwaukeenns.org",
-      "publisher": "Milwaukee Neighborhood News Service",
-      "publisher_url": "https://milwaukeenns.org",
-      "language": "",
-      "seendate": "20261005T210000Z",
+      "seendate": "20261006T040808Z",
       "source": "GoogleNews"
     },
     {
@@ -632,43 +632,23 @@
       "source": "GoogleNews"
     },
     {
-      "title": "US to lend $4.2 billion to Vistra to boost nuclear power output, source says",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNc0NxeXcwNnV1dXJzdU5xcWdjQm1Udmx5cGVfMGNlSGgtWkJhLU1JLU5uXzVfUFJPNkdYbWNiVFpZY1NtUm9sWHY1YXNSRWxSX1VTUjA0ZW1oMzdfV2Q3Y1Q1YV9GcllMRmlRNV80RHE1OFN1WG5RNjRvYzhPa3BGSzRmcjlJWU9mOXJoZEZZbVg0SHJWcC1WOXZzbFB6cDcxcGlDZmlVblFucVU5Mzd4MmxoRGN5c2lH?oc=5",
-      "domain": "www.reuters.com",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
+      "title": "U.S. Energy secretary visits Ohio to announce $4.2B in nuclear power investments",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOQ1ZZajJKVVprMkpHdmhYMG5sTlprRXBfbXdFRmdKcmNiQVF0QWd2ZDdyY2FzSVI2d0FKWWxrZHE4T0psTzBiRWZnRGxmNGRJNmhzcHpoN1hGVmJSUVdOcUxqMFQ4S3NTekR5dGkyTU1UOTktSVZwNThSaHhpUzVTLWpzNVQ1ZUZTWVppbkZ1WUxwWlVhM01pdnUzOUV5R2pPOXVvQmlmN0FYOXVjbVpLQ213UEJZR01zbmdlTWVlTjc0ck51S0ZqNS1oaEdFbHhVMnY3YUpyck5zNHhtRFBsTi15RDlKSUcwTzA5WlN0ZW1hZUEyaldINUQ4eHN6a0ctY05JYVpNSzF4ZXpw?oc=5",
+      "domain": "abc6onyourside.com",
+      "publisher": "WSYX",
+      "publisher_url": "https://abc6onyourside.com",
       "language": "",
-      "seendate": "20261003T134907Z",
+      "seendate": "20261006T015119Z",
       "source": "GoogleNews"
     },
     {
-      "title": "(LETTERS) Nuclear safety, Prop 1 opposition and support",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNV01fb2QtZlBuRGZmaFhKTC1QTUFTYktfdktCZEdMZGhTZ1FJcWNpd1doazFnMWZJbU9GNU5kQktsdENXWW9Xc09uWHkwVWR4dnZaV3g3MmNqREtWVTdSRDJ4M0NlVlJpVDE0STNjazd6MmRneWEyZ2RfYmRPSVZrVDI5b2NHS1B5NW5QeGhzQm82Vk84eUkwRA?oc=5",
-      "domain": "oilcity.news",
-      "publisher": "Oil City News",
-      "publisher_url": "https://oilcity.news",
+      "title": "AI doesn’t need ‘superintelligence’ or evil intent to start a nuclear war",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQXzdLNHpjakIwSElqYzlaVUcxVkphNnB5TzlsQ0hqOFpUVFlrLU5PdjR3SkZweVlHX25ZZllBZmdrbE5DQ1FFY0tPMHY0bFg3YnRDaURrQzlzSnd4RDVwX0Mwb2x3czNiRmVmQnhoMnZVOFZ5ei1Ya0pTUEY0aFVzVVpzUzFuRjQ4cW5oWlllUVRRQWpnR0RlelMzZG81Qm44NUtiZy1R?oc=5",
+      "domain": "thebulletin.org",
+      "publisher": "Bulletin of the Atomic Scientists",
+      "publisher_url": "https://thebulletin.org",
       "language": "",
-      "seendate": "20261005T165300Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Missouri Energy Strategy Puts Nuclear Power at the Center",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZk95clBCS01iMXdyVGtXSjJCTkEtcGRrNWpLOUg0enJ2WTJ6NHFxTFlYeXd0X3o3czFMN0lYMFN2VG1UUUFSMVg4WDQya0swNzUteFFWc1B6aWYwNTlKdEp1eE84WHlGYlFqVDhnM1pmdEtSX3JCcWFLWmRLWmxmNjNCN184TGVnaWM0Y18tN2hJOGlZMGs2NUJrd1pldVA0eDJ3bFd5TFVWUjNM?oc=5",
-      "domain": "environmentenergyleader.com",
-      "publisher": "Environment+Energy Leader",
-      "publisher_url": "https://environmentenergyleader.com",
-      "language": "",
-      "seendate": "20261005T220000Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Family Enrichment Center receives grant to expand child abuse prevention program",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMkZKMnV5dDBVSWE1MDZSZUNmb3poRnB4dTNlRnJqSDUxeFBZQmZMZ3poNlo1eXZsUEZjaWl4LVZrdWFOY05yQmVIcmVfNWZOLWRnQ2Zqa3dNM0hXSFBEZWw1ZmR1RzNEQW5CRGg1Vk04WV82UnBDMzlCUGR1aXpHOUZFSkc1dDFFUVB5OXpLTWhOSnJWMVBvYjdkU2ppMXVqSmRGbVc2blBONnl4ZDJF?oc=5",
-      "domain": "www.wbko.com",
-      "publisher": "WBKO",
-      "publisher_url": "https://www.wbko.com",
-      "language": "",
-      "seendate": "20261005T212800Z",
+      "seendate": "20261002T143356Z",
       "source": "GoogleNews"
     },
     {
@@ -678,7 +658,27 @@
       "publisher": "Marsh",
       "publisher_url": "https://www.marsh.com",
       "language": "",
-      "seendate": "20261005T233947Z",
+      "seendate": "20261006T053730Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "New England states put aside differences to talk nuclear strategy",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE40cGloVENCRVUzZVhuMGdFQTlfenBla1FIdUZCanEyZmhWVWp2dzNyWVJjSENRdHFLOWx5SG5Ccmw5MlVSV2Nyc1pWSUxjTjc3d3hOLTFrZjVvQ3REbzVrUXRPZkRTSmxEMm9wVQ?oc=5",
+      "domain": "www.nhpr.org",
+      "publisher": "New Hampshire Public Radio",
+      "publisher_url": "https://www.nhpr.org",
+      "language": "",
+      "seendate": "20261005T201000Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "$4.2B investment aims to boost nuclear power production at Ohio, Pennsylvania plants",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZEhXSUlEdUV4TE96Y1F5T01PSktFUVBqdUlEc1ZTZFI0LVhfWWhJQ2dJa2F2U2FGRVhOZjQ0V1hYUEhnNFRKclNabC1hNlJTN2ctVlREcjZvQUNueFU0b3dnMUZwR1JSamxtSTlraWJQdVNkVzRqQk4wUTR5aEZxZjdwZmpPMXJPdHpibjhLeDdHVURXNUZWUGhkWGJzR24zaGdJXzdnN2hPTXdVdHBhaEMzRy1vc1JPVFRQVTBvXzlOQjFBR3JCV1I2UXBNdlV2ajFIdTJGckRXNmZ0UXg1ZkhqMW1md3piekVwR2VMUXA?oc=5",
+      "domain": "www.wkyc.com",
+      "publisher": "WKYC",
+      "publisher_url": "https://www.wkyc.com",
+      "language": "",
+      "seendate": "20261005T235700Z",
       "source": "GoogleNews"
     }
   ],
