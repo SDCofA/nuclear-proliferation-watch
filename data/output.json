@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "nuclear-proliferation-watch",
-    "generated": "2026-10-10T06:22:05.650887+00:00",
+    "generated": "2026-10-10T13:01:39.702681+00:00",
     "mode": "live",
     "sources": [
       "news_articles"
@@ -23,7 +23,7 @@
     },
     {
       "label": "Distinct news domains",
-      "value": "35"
+      "value": "34"
     }
   ],
   "live_data": {
@@ -39,16 +39,6 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Update 370 – IAEA Director General Statement on Situation in Ukraine",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQ19oR25LUUJEcHl1TUdtS1B1ZHJnSkJkLXE5a1V4dmZMZ1lQeUFkbnZLd0IyLUdIN2dmM2hTODRIMjRkNXlISC1EdF9FWUw1aldBNEFWa3VLemhoLXFTSkw1dG1LUVgwRXctbmxscHVfQVozZjJhSERQODVBU1BRbDVsS0FBa2VwYXNuOVFfcGp0YWttNVRJcUI1dGtScGVSNWNYR1JvRzBfaFNxdHBTaQ?oc=5",
-        "domain": "www.iaea.org",
-        "publisher": "International Atomic Energy Agency",
-        "publisher_url": "http://www.iaea.org",
-        "language": "",
-        "seendate": "20261009T151535Z",
-        "source": "GoogleNews"
-      },
-      {
         "title": "NASA, Energy Department Advance New Era of Nuclear-Powered Exploration",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ3dfeENaem5YaExKOHFKcUtxQXN2cTFZSGdSWEpaWVJNRF9QaTh6Uk1sai16Y3V5SXBVNl93eFVSNlYzbVJCalV4MzVqLWxHQmNsZjBaZGs0cEUwNUdRWmRTVDRNVF9XLUNuRjV5bk1NcEpibW5WbjB4SVFaNHdhMllldEI1RVZkbElnbUwzRS1Gb0NTU0d0clMzSFduX1czYmVBbWk5UQ?oc=5",
         "domain": "www.nasa.gov",
@@ -56,26 +46,6 @@
         "publisher_url": "https://www.nasa.gov",
         "language": "",
         "seendate": "20261008T162016Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "New campuswide project confronts the legacy of U.S. nuclear bombing in the Marshall Islands",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObU12QWZvN1pWanFlTncxY2RBZnp0SWVjSWE5aEQ4UDF4ck04LTRncGpRZE5XOU0wS2VLVURSanJKZ0VkUGx3dzFHRXVkclJMYmFwWkRnbVFmWnkyTDVLQ3dWV0pheUZ2YkRzQmR3d3VFMzRncWhwVEQ2bEI4Z3AtRUcxLVhTRDB3bXlpSmlkLXJXWGR4aEY0S3JyUzA5UmFvbkp3cURUYnJadXFLNlNCUFRfZU5uLVRRZTYwNFVqclhSN3N4Z3ow?oc=5",
-        "domain": "news.berkeley.edu",
-        "publisher": "University of California, Berkeley",
-        "publisher_url": "https://news.berkeley.edu",
-        "language": "",
-        "seendate": "20261009T221307Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Google, Constellation reach 11-unit uprate plan; Constellation to invest $4.3 billion",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaVpKV1ZDVzhsaDdNU1dxeUhmY0NjaGFQaTlsZE43bFdvVVB1bHRGQkZjV1YtYmtyMmxNbU92eGhNWUVVTXoyd1dkcVltM3NMSWF4ekJFRTE3THh1cmxvVnRGb245OWNFQWlpOWtZdng3VkNLbHdscllqMXhGY3hiVGJwQ0JnUkh4TEhVZTlRSVZwclVFX0VwdEtXX0ZWek9DTUxaNUhzTE8zcDE3ZXFNbDNmRTFFaUtZZ1pF?oc=5",
-        "domain": "www.ans.org",
-        "publisher": "American Nuclear Society -- ANS",
-        "publisher_url": "https://www.ans.org",
-        "language": "",
-        "seendate": "20261009T204922Z",
         "source": "GoogleNews"
       },
       {
@@ -99,13 +69,33 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Where McKinney, Duresky stand on Hanford nuclear site funding",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUUVNUTZzSXBkbWZ1ZjlxZmJMdndhMjVHUWkyMkZzV1Z3RDdoLV91WkgwMC00Y0pxVmo4bGxURW9SYkdHSzVOcjIwaGlQZnlPVEo2b1piTkFLeHBKenpNNExmZkdBR3VlN28yM3JDdC1yUDNiN09jaXpKODNQNmw4Z3MwRVI0cjBuWTlONjBsQjh1dklPVUVlRlNhNnZvUQ?oc=5",
-        "domain": "www.spokesman.com",
-        "publisher": "The Spokesman-Review",
-        "publisher_url": "https://www.spokesman.com",
+        "title": "New campuswide project confronts the legacy of U.S. nuclear bombing in the Marshall Islands",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObU12QWZvN1pWanFlTncxY2RBZnp0SWVjSWE5aEQ4UDF4ck04LTRncGpRZE5XOU0wS2VLVURSanJKZ0VkUGx3dzFHRXVkclJMYmFwWkRnbVFmWnkyTDVLQ3dWV0pheUZ2YkRzQmR3d3VFMzRncWhwVEQ2bEI4Z3AtRUcxLVhTRDB3bXlpSmlkLXJXWGR4aEY0S3JyUzA5UmFvbkp3cURUYnJadXFLNlNCUFRfZU5uLVRRZTYwNFVqclhSN3N4Z3ow?oc=5",
+        "domain": "news.berkeley.edu",
+        "publisher": "University of California, Berkeley",
+        "publisher_url": "https://news.berkeley.edu",
         "language": "",
-        "seendate": "20261010T013100Z",
+        "seendate": "20261009T221307Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Update 370 – IAEA Director General Statement on Situation in Ukraine",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQ19oR25LUUJEcHl1TUdtS1B1ZHJnSkJkLXE5a1V4dmZMZ1lQeUFkbnZLd0IyLUdIN2dmM2hTODRIMjRkNXlISC1EdF9FWUw1aldBNEFWa3VLemhoLXFTSkw1dG1LUVgwRXctbmxscHVfQVozZjJhSERQODVBU1BRbDVsS0FBa2VwYXNuOVFfcGp0YWttNVRJcUI1dGtScGVSNWNYR1JvRzBfaFNxdHBTaQ?oc=5",
+        "domain": "www.iaea.org",
+        "publisher": "International Atomic Energy Agency",
+        "publisher_url": "http://www.iaea.org",
+        "language": "",
+        "seendate": "20261009T151535Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Google, Constellation reach 11-unit uprate plan; Constellation to invest $4.3 billion",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaVpKV1ZDVzhsaDdNU1dxeUhmY0NjaGFQaTlsZE43bFdvVVB1bHRGQkZjV1YtYmtyMmxNbU92eGhNWUVVTXoyd1dkcVltM3NMSWF4ekJFRTE3THh1cmxvVnRGb245OWNFQWlpOWtZdng3VkNLbHdscllqMXhGY3hiVGJwQ0JnUkh4TEhVZTlRSVZwclVFX0VwdEtXX0ZWek9DTUxaNUhzTE8zcDE3ZXFNbDNmRTFFaUtZZ1pF?oc=5",
+        "domain": "www.ans.org",
+        "publisher": "American Nuclear Society -- ANS",
+        "publisher_url": "https://www.ans.org",
+        "language": "",
+        "seendate": "20261009T204922Z",
         "source": "GoogleNews"
       },
       {
@@ -119,173 +109,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Oklo fuels growth of nuclear engineering at Ohio State",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbjNIT2tPWW1wT0Y5T3pMSEViVXFkVmZSOEFVV1IySXhqVFFsX1hlSDl1YjZBSzljOTJFWVVzV1ZxZ2xlUWMzRGJoM1k2ZHVJVHhLczJNU3NNbVRoaWNydlZMUmZJYlNMSUdxaWdMV3RpejZYbHM4aDM5OGVTUXRfMXNn?oc=5",
-        "domain": "news.osu.edu",
-        "publisher": "Ohio State News",
-        "publisher_url": "https://news.osu.edu",
+        "title": "This Nuclear Stock Doesn't Need a Breakthrough. It Just Won Another $189 Million Contract Doing What It's Always Done.",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTnExMHp2NUktV1VWcmR5eGR6NGZIUTNVT1NlbU1YWklobGF4d19tNVBxMlhCU3d0MDBsbEhkcGk3ajhaakRoeG44SVBpVzNfOVJkeWdpX0w0WWFoTld5MDBUcmprN2Naa3MybVlybFVJYzQ0YlpQd3QwU3lLcWJWUnFNdDZLeXdkTHI4NW52YWhEeEZlanBEOWRuTQ?oc=5",
+        "domain": "finance.yahoo.com",
+        "publisher": "Yahoo Finance",
+        "publisher_url": "https://finance.yahoo.com",
         "language": "",
-        "seendate": "20261009T193000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Nuclear Sector Outlook: Tim Rotolo on Headwinds, AI Demand & Catalysts",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbFJvZGlvSHlvMU5tZ0gzTndwejhabktjaVBHU1lOU3R2V3lQck9jV1lQQTZtMjRGaTRDX283NThRUTJQeE94Q1M2Q21CaDlheXRVUnJvUDA2S2h2eUt0YW1iQ3VOQlhjQlFtZk05c09ZRVFuZ1pUVkJ1UmVvcnVfc1BGcUZHckg4eU1DMHNsYw?oc=5",
-        "domain": "etfdb.com",
-        "publisher": "ETF Database",
-        "publisher_url": "https://etfdb.com",
-        "language": "",
-        "seendate": "20261009T183828Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Colorado’s debate over homeschool enrichment oversight: Officials to weigh stricter rules",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcDNLcXg5N1FYelNuNEFSUzFvaWd5aFVtb2x5bEVjaVdPLTlzSXlUOElnWlpDZ21QTXFDcml4eVdpc0JsdDEtSnB1VHFlYWM0bTNva0lTVUFfOXRiR0l0ZXpUemstcHR3OVVRV1Y0VnFWSjhMRzBmOUtoWlg4WGlWMG95cDZBRzVJNng0VE9wN3FPUVp5Mi1IQlVwOWQyeDlGdlhSZA?oc=5",
-        "domain": "www.chalkbeat.org",
-        "publisher": "Chalkbeat",
-        "publisher_url": "https://www.chalkbeat.org",
-        "language": "",
-        "seendate": "20261009T212800Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "IAEA Concludes Long Term Operation Safety Review at Sweden’s Oskarshamn Nuclear Power Plant",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYXlPVVBqcEVuRHJWUEM4dFdQTXlYRHBndGpOX1ZUTjhaaFN3TzJMdEJZdGY3MkIzZ1VBNWNhOFlPcFhlOU8xYUt4bnI4a3RXTFFvY1JQNTM4N1d0ZVFSdHZocW9CTUFWNDlVTFNGMjR0TGlWYXBuQVlON3Z4WV9MeW5QY25LVGNjSDZxUjdycHFMdlpCYUZHRS1wTTJZYzZwVVJOZDBKVkVWVkVGd1F5bkR1eTBZNmNnZ3JrcFlTaGdsYXUyR3ppR3JqREh1dVVfQ3ZZ?oc=5",
-        "domain": "www.iaea.org",
-        "publisher": "International Atomic Energy Agency",
-        "publisher_url": "http://www.iaea.org",
-        "language": "",
-        "seendate": "20261009T091336Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "EXCLUSIVE: Vance says Iran must cut enrichment to end war",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ3R3RzJuRF9NSlo0bWNMaGY3dTdUbXRmSU1BMml2V2RLd0sxazNvVUNRdXpHa21Ebk4tVWtLeHZXMG5xM2ZUVG1aTEJDU0FRWnRHZnozTHQxdVRjeTJvbXRKNzFpNG1wR3RqVDlKMXpXY09hYlFKVlF4RW5uQjJJMXhKOEt3c0ZLWE4tbWZlQW5hUnRnckxmaU1mU0R0SWwzRGNXdGo0ZTVTUXBlSHlfakN1Yw?oc=5",
-        "domain": "www.reuters.com",
-        "publisher": "Reuters",
-        "publisher_url": "https://www.reuters.com",
-        "language": "",
-        "seendate": "20261007T124032Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Fermi America, Blue Energy make strides in Texas",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPU2JIT0hzd1hUUnlMM0RsZU5sMnhHLUVRS20zQXZOOElRWkxvWEdHYjRycUk4Q3lhTVZYR1lIY1lwUV9ZZE5kYzU0M3pvU01Xd1QtSnJOWGVsSVRPUjJVNGQ2eHZFRWpWM0FGRnEzT1lnbUtMaExqQ1k5bklWM3FpVUZvd2Y4V2JUT3lxc05vMA?oc=5",
-        "domain": "www.ans.org",
-        "publisher": "American Nuclear Society -- ANS",
-        "publisher_url": "https://www.ans.org",
-        "language": "",
-        "seendate": "20261009T210748Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "A nuclear clock synchronized to 229Th",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBSMVE4UlYwb2hQWUZ4ZmVLMnRlZUg2bVNfUlBxUGZhVE4yWnBmUDBWTGloajZtWnBrbHNxekV4OFhGeFBoRkwwN24xc01zYVg5bENmU0xQYnlDdE1RT1Zj?oc=5",
-        "domain": "www.nature.com",
-        "publisher": "Nature",
-        "publisher_url": "https://www.nature.com",
-        "language": "",
-        "seendate": "20261007T230338Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "IAEA Expands Cooperation to Support Nuclear Power Development",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOa1ZRZDFKWmNMYTJxYzJpNzA5VzlYbVVEeGRyYmxMSkFMUDN2MEFpSjdyOHZHNzQ2anZPV096YVgyblJpeGV3d2ppdFFUNk4zbXozNW5CWkFZcm9OTkxjaU4xVmw0TFM2UXRJXzF5MHJNM0p4UmFiWmFiX3ZXLW9qdjFSdHkwV2VBaTQyXzFvUU5BZ0pabUJ5UW42RndrQQ?oc=5",
-        "domain": "www.iaea.org",
-        "publisher": "International Atomic Energy Agency",
-        "publisher_url": "http://www.iaea.org",
-        "language": "",
-        "seendate": "20261009T104907Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Kremlin says France's test nuclear launch is part of 'dead end' anti-Russia strategy",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYVhyTEI5OXdMUkw0bkwwR0dhaUlpZGJCbmJZNU5IV2R6VXBscTJmLUFxUUZvb0Fnal9QM3NOWWN1UnFVbHNMYmt1RV81YnZmQUpsc1pSZ1VjSzEyb2lEYmk4ZkZ3QjBULXd1c1luS3FGN2h3MV90TFBaNXp1c0dYT1FMdkxybDMyYjdib3lKaHZPWmlvbm9IaWtuNEFLazA5RHhfVXpYZUI5RUoyR1ZrQXVLQkFZQmlFQTh4bENrb2lGeWJKZk95d1YzNFJ2S0ZaV0d0WE1XZ2Q?oc=5",
-        "domain": "www.reuters.com",
-        "publisher": "Reuters",
-        "publisher_url": "https://www.reuters.com",
-        "language": "",
-        "seendate": "20261007T113344Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "IAEA Completes International Physical Protection Advisory Service Mission in Pakistan",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUmZ0SmxrSG5ZdEVheGJ2TkEtSDVVTHUwZUhMWjVEbVVzV3VCQmZqWVhLWFpkTTBveE1zYWxRcXRFUzRkZnJKNGxwLVR1NmpoZjNYUXZyYklKY215ZmR4VVlQNG9WQTAxbUtiUktjVGJub1JKeTljS3l0MFRMbkQ0b0E2STdSLXVjRXlwb0xrcFlUSlBBQnkwNFJnck1ka2xGMlhZQUxRLW5maFFtNHM2cUl2YkJhUVlqTVhNZzUwTExEZnRXcFJ3SHFn?oc=5",
-        "domain": "www.iaea.org",
-        "publisher": "International Atomic Energy Agency",
-        "publisher_url": "http://www.iaea.org",
-        "language": "",
-        "seendate": "20261009T090008Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Scientists in Vienna and Beijing create world's first nuclear clocks",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZ1FTSUp2ZFNWd1NVMW5pandncUJNOHFyajhrbmJ1Sm0zdl8xMG5Xemo1TFlLUHl2clVVb2hfQm42OTBMTDNjQWZUem95SFpMQ2kwalZZU29oN3JFcFE5R0Z2aHlKMldBZkFRQ3VKcUgxREk1eTM5STEtekhPUXBUT1JVcnJydFF5Yks4NkJCN2NmaUlMUV9Wb1puYlZaS1IzNU1VbDVBUQ?oc=5",
-        "domain": "www.reuters.com",
-        "publisher": "Reuters",
-        "publisher_url": "https://www.reuters.com",
-        "language": "",
-        "seendate": "20261007T155859Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Rubio says Tehran missed 'multiple' chances for nuclear deal amid Iran stalemate",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBST3M3OWl1Z3R1OFBQaFRuXzBxeC1DVnczRVNFWm12c2NHQnV5OU9acWZLTllvSWNKcUE4NHBSV1oyQmFObGszUlE0dU9sUE9zZmk4NmpPZEJTNmZMRkZrU3NlWVlVSjF3czJHVVd30gFzQVVfeXFMTl9lOGNDTDRpUHJsdU80NU5NV1NTTVhua25JazF6eHA4TC1aNGNqWm5aaHBXM3hkYjZqZGFGYzR6NFdrcnJZdnRzRTBUYndZZEhIa2gwUHhwNTlvbkNmYk8zNG1DSFBMaDk2LUlidmJyRHZYdw?oc=5",
-        "domain": "www.cnbc.com",
-        "publisher": "CNBC",
-        "publisher_url": "https://www.cnbc.com",
-        "language": "",
-        "seendate": "20261007T094042Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "A New Trend in Nuclear Energy: Squeezing More Power Out of Old Plants",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbW5FdURocU1CQlU1SnNEUm4yRGQ0dWhXbmYtdXVaVXEyUV9LNEZGZkZaVmRoU3paMFBneXZQNFBHekY3WkNtTW9sTWxqZHJnY2pNdEZUczdjaW0zM1BBMkk2TEdaNkEtNkV0anlVTFVrV25uY21YNTZNY2RMc2hHbUhITHRWOWdZaW5FeC1OYUY?oc=5",
-        "domain": "www.nytimes.com",
-        "publisher": "The New York Times",
-        "publisher_url": "https://www.nytimes.com",
-        "language": "",
-        "seendate": "20261006T193709Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Location of Amherst County Nuclear Power Plant",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOGRMRzNDOHUtczF1Y2FyamRuS0NzbnoxZFB0NGRPQzV6RTE3UERKRVNZQzBZbWN5Y3c5MGZ4cmRoQ05lcWp4NkU2QTN3Yks4aTZzQlFKbS1uTDBfdVFweDBrejVKX2J1eU1xN2tyMFE2b25VaGdiRTh3cGtscTkyQzhVSm1fZHA5alZB?oc=5",
-        "domain": "www.wdbj7.com",
-        "publisher": "WDBJ7",
-        "publisher_url": "https://www.wdbj7.com",
-        "language": "",
-        "seendate": "20261009T221900Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "To lead on nuclear disarmament, Australia must renounce the US umbrella",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdlRsMlVpeGdJMVB6NVBKUno3aElmbDl6NTY4OGFsLXY2NnpHRG02cW80SHFaakRmZjFwRTdET1FVaklmczRxeU5raUpkWUx2QTBTeUljcFJDeklOcW9CYW1LRzRNc0ViWkVLN05qcGtHdXVpT2t6OVR0eVJwbHRONEFTdXFfLVBaYlhQNzQ0c2NBX2xBc1RjTEE1aWFhdzJ5Qms1WDBB?oc=5",
-        "domain": "thebulletin.org",
-        "publisher": "Bulletin of the Atomic Scientists",
-        "publisher_url": "https://thebulletin.org",
-        "language": "",
-        "seendate": "20261009T115222Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Researchers in Vienna and Beijing report nuclear clock “milestone” -- ANS / Nuclear Newswire",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSU9rZVdwcVpoS3AxZTh6dEVNSkJkR3ZaOFJsWlExekxXNzR4emYzeXY3bFdsazZ1b09XdUQwY0FfbGFXOEJPWFN5blF4cUlVUjJrbnJCZC10R2czZW9yTmw4VS1Dd2RzMEthVmFmQ0IxR21oZHo5T3pJVm1aRlc5eUFtazhhYjFDbTJIbnJsRzhLUFBQaXBlTExEdWdQS0YzbFlMNkFB?oc=5",
-        "domain": "www.ans.org",
-        "publisher": "American Nuclear Society -- ANS",
-        "publisher_url": "https://www.ans.org",
-        "language": "",
-        "seendate": "20261009T153713Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "In Vienna and Beijing, the First Nuclear Clocks Begin to Tick",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTEdDTHFQam5OWW41dGdVdGh6Sy1EME5ObGdvdWNYc1RIb3RsQUFPWGRlQlhHSms1NmxQQVRCbzBBOVNYXzhObjc5V1g5TmttdUN6ZDFlTTdka2FOdkc2ZlMxX29NQ1hfSFBOem5wRzlBaEhLS0dmTHhKNXFRYzBFTnh4cWRvcXM?oc=5",
-        "domain": "www.nytimes.com",
-        "publisher": "The New York Times",
-        "publisher_url": "https://www.nytimes.com",
-        "language": "",
-        "seendate": "20261007T150020Z",
+        "seendate": "20261010T123500Z",
         "source": "GoogleNews"
       },
       {
@@ -299,6 +129,126 @@
         "source": "GoogleNews"
       },
       {
+        "title": "A New Trend in Nuclear Energy: Squeezing More Power Out of Old Plants",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbW5FdURocU1CQlU1SnNEUm4yRGQ0dWhXbmYtdXVaVXEyUV9LNEZGZkZaVmRoU3paMFBneXZQNFBHekY3WkNtTW9sTWxqZHJnY2pNdEZUczdjaW0zM1BBMkk2TEdaNkEtNkV0anlVTFVrV25uY21YNTZNY2RMc2hHbUhITHRWOWdZaW5FeC1OYUY?oc=5",
+        "domain": "www.nytimes.com",
+        "publisher": "The New York Times",
+        "publisher_url": "https://www.nytimes.com",
+        "language": "",
+        "seendate": "20261006T193709Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Rubio says Tehran missed 'multiple' chances for nuclear deal amid Iran stalemate",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBST3M3OWl1Z3R1OFBQaFRuXzBxeC1DVnczRVNFWm12c2NHQnV5OU9acWZLTllvSWNKcUE4NHBSV1oyQmFObGszUlE0dU9sUE9zZmk4NmpPZEJTNmZMRkZrU3NlWVlVSjF3czJHVVd30gFzQVVfeXFMTl9lOGNDTDRpUHJsdU80NU5NV1NTTVhua25JazF6eHA4TC1aNGNqWm5aaHBXM3hkYjZqZGFGYzR6NFdrcnJZdnRzRTBUYndZZEhIa2gwUHhwNTlvbkNmYk8zNG1DSFBMaDk2LUlidmJyRHZYdw?oc=5",
+        "domain": "www.cnbc.com",
+        "publisher": "CNBC",
+        "publisher_url": "https://www.cnbc.com",
+        "language": "",
+        "seendate": "20261007T094042Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Rosatom says it wins tribunal ruling in Finnish nuclear plant dispute",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcThCT2xlTm9fZ1hMODRNcTQ1TjVjOXJYTXlsSDdHOEJLLTdoZG51QlN2aHRVQjJfS1ZRYjQ2ZjBHaWtnN0hhaFR3ZFlHeXFCNUN4dnBzQlhjc3ZHb3BMYjZycGdIVVZKWlVTWFhuQ1dQUlBkb285YzMzdUkxYUNIcUhtUEMwcGNtZlNSSDNEWlR6Q09JZnpwanl4amFaYzM0dzI4ZnNfTV9sWWJ3djIzbmpNVVNOU2tMQkE?oc=5",
+        "domain": "www.reuters.com",
+        "publisher": "Reuters",
+        "publisher_url": "https://www.reuters.com",
+        "language": "",
+        "seendate": "20261010T090553Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "A nuclear clock synchronized to 229Th",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBSMVE4UlYwb2hQWUZ4ZmVLMnRlZUg2bVNfUlBxUGZhVE4yWnBmUDBWTGloajZtWnBrbHNxekV4OFhGeFBoRkwwN24xc01zYVg5bENmU0xQYnlDdE1RT1Zj?oc=5",
+        "domain": "www.nature.com",
+        "publisher": "Nature",
+        "publisher_url": "https://www.nature.com",
+        "language": "",
+        "seendate": "20261007T230338Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "IAEA Concludes Long Term Operation Safety Review at Sweden’s Oskarshamn Nuclear Power Plant",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYXlPVVBqcEVuRHJWUEM4dFdQTXlYRHBndGpOX1ZUTjhaaFN3TzJMdEJZdGY3MkIzZ1VBNWNhOFlPcFhlOU8xYUt4bnI4a3RXTFFvY1JQNTM4N1d0ZVFSdHZocW9CTUFWNDlVTFNGMjR0TGlWYXBuQVlON3Z4WV9MeW5QY25LVGNjSDZxUjdycHFMdlpCYUZHRS1wTTJZYzZwVVJOZDBKVkVWVkVGd1F5bkR1eTBZNmNnZ3JrcFlTaGdsYXUyR3ppR3JqREh1dVVfQ3ZZ?oc=5",
+        "domain": "www.iaea.org",
+        "publisher": "International Atomic Energy Agency",
+        "publisher_url": "http://www.iaea.org",
+        "language": "",
+        "seendate": "20261009T091336Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Fortune 500 company has a new global nuclear headquarters in Oak Ridge",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcDB3YlJHZGZzcnpadkIwQ18tZFJNX3VxUHNnV182NHpUaDVoZkpGTnl6OUl5WXcyMVFOeHlidjlvTWJpazJGOEU5SkI2XzlvNXNZY2hrUGJWZHFQUzQxRkdLdWJ0bFFGblFINmZXbmtWbGFRYlNTN08tUVZPUC1wQXprSEFtYWVCaXBqb2ZhRVZxdTZka2c?oc=5",
+        "domain": "finance.yahoo.com",
+        "publisher": "Yahoo Finance",
+        "publisher_url": "https://finance.yahoo.com",
+        "language": "",
+        "seendate": "20261010T080920Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Fermi America, Blue Energy make strides in Texas",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPU2JIT0hzd1hUUnlMM0RsZU5sMnhHLUVRS20zQXZOOElRWkxvWEdHYjRycUk4Q3lhTVZYR1lIY1lwUV9ZZE5kYzU0M3pvU01Xd1QtSnJOWGVsSVRPUjJVNGQ2eHZFRWpWM0FGRnEzT1lnbUtMaExqQ1k5bklWM3FpVUZvd2Y4V2JUT3lxc05vMA?oc=5",
+        "domain": "www.ans.org",
+        "publisher": "American Nuclear Society -- ANS",
+        "publisher_url": "https://www.ans.org",
+        "language": "",
+        "seendate": "20261009T200748Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "EXCLUSIVE: Vance says Iran must cut enrichment to end war",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ3R3RzJuRF9NSlo0bWNMaGY3dTdUbXRmSU1BMml2V2RLd0sxazNvVUNRdXpHa21Ebk4tVWtLeHZXMG5xM2ZUVG1aTEJDU0FRWnRHZnozTHQxdVRjeTJvbXRKNzFpNG1wR3RqVDlKMXpXY09hYlFKVlF4RW5uQjJJMXhKOEt3c0ZLWE4tbWZlQW5hUnRnckxmaU1mU0R0SWwzRGNXdGo0ZTVTUXBlSHlfakN1Yw?oc=5",
+        "domain": "www.reuters.com",
+        "publisher": "Reuters",
+        "publisher_url": "https://www.reuters.com",
+        "language": "",
+        "seendate": "20261007T124032Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "BWX Technologies (BWXT) Lands Indigenous Led Canada Nuclear Pilot With Global Ambitions",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOUxWQTh2UkNUdlVveDl5cnRzNHJpTXJRZTlpM1VzQW5oaU40TXNSc1N2RzVtMEFmWE80aXlNdjNnQk5rR1hsQWdQcnRoTWFSaHdvNmJzeVpiRzhWNWhPZnJUcDJzdmttTlBqakE3aGdaNy0xY3gxak1kcTZhQ201MnpUU3lEQ2tIcW5vZEJKbGlxR3lQNlZxMnhJc1ZpZXZneThoTHZ3?oc=5",
+        "domain": "finance.yahoo.com",
+        "publisher": "Yahoo Finance",
+        "publisher_url": "https://finance.yahoo.com",
+        "language": "",
+        "seendate": "20261010T121359Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Scientists in Vienna and Beijing create world's first nuclear clocks",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZ1FTSUp2ZFNWd1NVMW5pandncUJNOHFyajhrbmJ1Sm0zdl8xMG5Xemo1TFlLUHl2clVVb2hfQm42OTBMTDNjQWZUem95SFpMQ2kwalZZU29oN3JFcFE5R0Z2aHlKMldBZkFRQ3VKcUgxREk1eTM5STEtekhPUXBUT1JVcnJydFF5Yks4NkJCN2NmaUlMUV9Wb1puYlZaS1IzNU1VbDVBUQ?oc=5",
+        "domain": "www.reuters.com",
+        "publisher": "Reuters",
+        "publisher_url": "https://www.reuters.com",
+        "language": "",
+        "seendate": "20261007T155859Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "IAEA Completes International Physical Protection Advisory Service Mission in Pakistan",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUmZ0SmxrSG5ZdEVheGJ2TkEtSDVVTHUwZUhMWjVEbVVzV3VCQmZqWVhLWFpkTTBveE1zYWxRcXRFUzRkZnJKNGxwLVR1NmpoZjNYUXZyYklKY215ZmR4VVlQNG9WQTAxbUtiUktjVGJub1JKeTljS3l0MFRMbkQ0b0E2STdSLXVjRXlwb0xrcFlUSlBBQnkwNFJnck1ka2xGMlhZQUxRLW5maFFtNHM2cUl2YkJhUVlqTVhNZzUwTExEZnRXcFJ3SHFn?oc=5",
+        "domain": "www.iaea.org",
+        "publisher": "International Atomic Energy Agency",
+        "publisher_url": "http://www.iaea.org",
+        "language": "",
+        "seendate": "20261009T090008Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Another nuclear headquarters coming to Tennessee",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWF8zcGxHRDRkZl9ZTWZ3ZWstdGg0SEdxd1JsaElmMTE5cnIzVzBLdEZoQ1djS2RBcnBuaEVqVkl0amxkTEd6aDFaQmZKcmFKa0VPTlQ0cVZzQ3AwQzB2cEZXalNVaTc1ZkhqQVVJQ2o2cmRUSGRZcHdhWHRzY3Vzb1pVLWtSb3p2Z05ZS3ZB?oc=5",
+        "domain": "www.wkrn.com",
+        "publisher": "WKRN News 2",
+        "publisher_url": "https://www.wkrn.com",
+        "language": "",
+        "seendate": "20261010T110257Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "Iran will not abandon uranium enrichment or hand over its uranium, nuclear chief says",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOWJXV1M2Z055WDNCTmFla09RcnJqYWV4TVRMX0t4djNydEU2SHQtV0drRlQ0U2k3NERlaUpPbkF0SDhUMTVOVTU2eXRIWVYwM1JBNXVHUnluZlRrby03cDdnQnF4WW1DcV9ROTgxZUlmNzVTMUdtMnJJSTBhbTNpYWVoY0JXM1hUcVpPdlluZmpLRi1mN3NfcV9abFY5MmhFanlyeDhCYjVXa2FiQkxLbThPclVWcmpKdHU3bGlYeXkzV1BiTVFLUw?oc=5",
         "domain": "www.arabnews.com",
@@ -309,23 +259,73 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Vivek Ramaswamy’s Nuclear Startup Raises at $1.9 Billion Value",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPck56V19lY1NhV09qWk1Sc3F0dWRnTC1GSWVDeFRERzBUWUpRS0J0d1Z6MmNBV2dHemRtLTVhZDVKMW1RR1hkM2p1blQ5OGc0REFhT3pJV1pIVnNWUzA0bkhlM1RBdzdHdXpieVZROEtVMHFTRk5qLW9tMzZWZlVoNGpCQVNGYld3V3BBdkNnZ2NWZ1E0ZzIxNDQ1WkN2YWU4MkNqcDZSbXdDbXpmRU9pUUln?oc=5",
-        "domain": "www.bloomberg.com",
-        "publisher": "Bloomberg.com",
-        "publisher_url": "https://www.bloomberg.com",
+        "title": "In Vienna and Beijing, the First Nuclear Clocks Begin to Tick",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTEdDTHFQam5OWW41dGdVdGh6Sy1EME5ObGdvdWNYc1RIb3RsQUFPWGRlQlhHSms1NmxQQVRCbzBBOVNYXzhObjc5V1g5TmttdUN6ZDFlTTdka2FOdkc2ZlMxX29NQ1hfSFBOem5wRzlBaEhLS0dmTHhKNXFRYzBFTnh4cWRvcXM?oc=5",
+        "domain": "www.nytimes.com",
+        "publisher": "The New York Times",
+        "publisher_url": "https://www.nytimes.com",
         "language": "",
-        "seendate": "20261009T080153Z",
+        "seendate": "20261007T150020Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Palisades proposes method to retrieve tipped nuclear fuel assembly, but concerns remain",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVVBQTnM0NFQ1cU9tdXhUNktQeVJRT3YwWWNQSi1zYV9wWG1MSXliejNfSUkzeUo3RkVGLTJfR09reHJzbFFyS0hHTEd0S3k0Q2RFTjBjVDFwX0RlWlk4TzBsRlNqdGpuR2IyLW5DNVhBNGRaanN5enpEWXI4eG9ZSkp5bVRQXzZHMkJXejBqTDE4LS1EUFNGVTdiX2JURDhKc01JRENFaHlMNFlq?oc=5",
-        "domain": "www.thenationalnews.com",
-        "publisher": "The National",
-        "publisher_url": "https://www.thenationalnews.com",
+        "title": "Where McKinney, Duresky stand on Hanford nuclear site funding",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUUVNUTZzSXBkbWZ1ZjlxZmJMdndhMjVHUWkyMkZzV1Z3RDdoLV91WkgwMC00Y0pxVmo4bGxURW9SYkdHSzVOcjIwaGlQZnlPVEo2b1piTkFLeHBKenpNNExmZkdBR3VlN28yM3JDdC1yUDNiN09jaXpKODNQNmw4Z3MwRVI0cjBuWTlONjBsQjh1dklPVUVlRlNhNnZvUQ?oc=5",
+        "domain": "www.spokesman.com",
+        "publisher": "The Spokesman-Review",
+        "publisher_url": "https://www.spokesman.com",
         "language": "",
-        "seendate": "20261009T230634Z",
+        "seendate": "20261010T013100Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "IAEA Expands Cooperation to Support Nuclear Power Development",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOa1ZRZDFKWmNMYTJxYzJpNzA5VzlYbVVEeGRyYmxMSkFMUDN2MEFpSjdyOHZHNzQ2anZPV096YVgyblJpeGV3d2ppdFFUNk4zbXozNW5CWkFZcm9OTkxjaU4xVmw0TFM2UXRJXzF5MHJNM0p4UmFiWmFiX3ZXLW9qdjFSdHkwV2VBaTQyXzFvUU5BZ0pabUJ5UW42RndrQQ?oc=5",
+        "domain": "www.iaea.org",
+        "publisher": "International Atomic Energy Agency",
+        "publisher_url": "http://www.iaea.org",
+        "language": "",
+        "seendate": "20261009T104907Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Colorado’s debate over homeschool enrichment oversight: Officials to weigh stricter rules",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcDNLcXg5N1FYelNuNEFSUzFvaWd5aFVtb2x5bEVjaVdPLTlzSXlUOElnWlpDZ21QTXFDcml4eVdpc0JsdDEtSnB1VHFlYWM0bTNva0lTVUFfOXRiR0l0ZXpUemstcHR3OVVRV1Y0VnFWSjhMRzBmOUtoWlg4WGlWMG95cDZBRzVJNng0VE9wN3FPUVp5Mi1IQlVwOWQyeDlGdlhSZA?oc=5",
+        "domain": "www.chalkbeat.org",
+        "publisher": "Chalkbeat",
+        "publisher_url": "https://www.chalkbeat.org",
+        "language": "",
+        "seendate": "20261009T212800Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Oklo fuels growth of nuclear engineering at Ohio State",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbjNIT2tPWW1wT0Y5T3pMSEViVXFkVmZSOEFVV1IySXhqVFFsX1hlSDl1YjZBSzljOTJFWVVzV1ZxZ2xlUWMzRGJoM1k2ZHVJVHhLczJNU3NNbVRoaWNydlZMUmZJYlNMSUdxaWdMV3RpejZYbHM4aDM5OGVTUXRfMXNn?oc=5",
+        "domain": "news.osu.edu",
+        "publisher": "Ohio State News",
+        "publisher_url": "https://news.osu.edu",
+        "language": "",
+        "seendate": "20261009T193000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Location of Amherst County Nuclear Power Plant",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOGRMRzNDOHUtczF1Y2FyamRuS0NzbnoxZFB0NGRPQzV6RTE3UERKRVNZQzBZbWN5Y3c5MGZ4cmRoQ05lcWp4NkU2QTN3Yks4aTZzQlFKbS1uTDBfdVFweDBrejVKX2J1eU1xN2tyMFE2b25VaGdiRTh3cGtscTkyQzhVSm1fZHA5alZB?oc=5",
+        "domain": "www.wdbj7.com",
+        "publisher": "WDBJ7",
+        "publisher_url": "https://www.wdbj7.com",
+        "language": "",
+        "seendate": "20261009T221900Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Nuclear Sector Outlook: Tim Rotolo on Headwinds, AI Demand & Catalysts",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbFJvZGlvSHlvMU5tZ0gzTndwejhabktjaVBHU1lOU3R2V3lQck9jV1lQQTZtMjRGaTRDX283NThRUTJQeE94Q1M2Q21CaDlheXRVUnJvUDA2S2h2eUt0YW1iQ3VOQlhjQlFtZk05c09ZRVFuZ1pUVkJ1UmVvcnVfc1BGcUZHckg4eU1DMHNsYw?oc=5",
+        "domain": "etfdb.com",
+        "publisher": "ETF Database",
+        "publisher_url": "https://etfdb.com",
+        "language": "",
+        "seendate": "20261009T183828Z",
         "source": "GoogleNews"
       },
       {
@@ -339,53 +339,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Russia may turn to nuclear space weapons to counter U.S. missile defenses, report says",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdmpXM2ZScUkwM2tGWE1HZTNnNkw2ai1wRE5palBpeDAwVWlSSVZ2bUswUUFwT0YyY081X2kycWo0amFjQWpFNjFxdmV6ZFUxNjNERGdicHJqclgtRjdBa2JYcG00UDh6SXpFQ3RNLVZlaGNFX2JYSkhBM2loNERURTRJRnVycVFmLVlKbW9PMU9DRXg0Q1dJUTBaMHA2VWliYUVsMVBMZkduZTQ?oc=5",
-        "domain": "spacenews.com",
-        "publisher": "SpaceNews",
-        "publisher_url": "https://spacenews.com",
+        "title": "NATO presses ahead with ‘Steadfast Noon’ nuclear drill after Russia’s nuclear warning",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTnU1djJpYnBwYTN5eGh2ZURHbHQ4cEhpN2dKamRJQW9LdXVSNUVXdHBza1ZBRGJRdzdDZkIySVBsdzlCMFlmb3RkdThIQ3ozYjAyc0RzUklIZ1NmM0R3ckx5STdvdmNZbXd5UlZxNEF5R0tTNWF6U2dwNlUzbDZGbEdSOHFYbEdGOFdDU21mWGxFOEdXdmtwNGNxa1ZnTV9BR2pvamtPS2lCaUsyN0VF?oc=5",
+        "domain": "apnews.com",
+        "publisher": "AP News",
+        "publisher_url": "https://apnews.com",
         "language": "",
-        "seendate": "20261009T132825Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "NASA Signs Space Nuclear Pact, Says Moon Base Is Ahead of Schedule",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSVBsQ1RZZG1XWW41REVlUWRPdkVuWmJLbElZdUs0dVlCNVAzWTF3LXpLdUxkbXZjcU90UFdud3FtOW5vOWlFS05oVG1STjJld1NGOFJOYndKb0o0TUJRZGFzd21PdXhaSmFsN2k1eEtfSS1kYkNlMThZX3NRZmdwZk51bzBrdzh3ODh4d1hteFBpdGE5dlE?oc=5",
-        "domain": "payloadspace.com",
-        "publisher": "Payload Space",
-        "publisher_url": "https://payloadspace.com",
-        "language": "",
-        "seendate": "20261009T121810Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Google invests billions into nuclear plants: Sen. Rezin on Illinois' push for more nuclear power",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE93a1pLbjMtNXBlZTYyQ1ZoajZvZzFibkNmbFhRY2EwbzNVY1Vkd1BVMmpGWnJGWnRTUVZlaXlLdHduTVMyby1aNUxESmZyN05aY3doQ2I3REJjRHZ4TnV1SER2TGhvdw?oc=5",
-        "domain": "www.fox32chicago.com",
-        "publisher": "FOX 32 Chicago",
-        "publisher_url": "https://www.fox32chicago.com",
-        "language": "",
-        "seendate": "20261009T195611Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Firm behind Piketon nuclear campus gifts OSU millions for new major, lab space",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQW81NlNOS2RDUHZwT3lyZ09DS0dzUDRVal9zTFluT3gtRllnRmRwbWUzZFUxV0ZiZDZFa3JkQ195RW9vQWliS1ZpUDVmVDBwNDUwSVhNZjc0bDkwSTY5SG5NSl9lQmpobzlEUHpyQmNhR2FoWU02Nk9aNEFLcGxZRTVHQWpJZGo2R0pHNDZCN1JudGpRWnRaYzZJZWctTHdUTFRheU80a3NBNTFFMFVKUkw1RTlBR09CcUVJQ3ZJVlktc1N5QVlkajFfc2ZCSW5mMGFhLXVzRQ?oc=5",
-        "domain": "www.dispatch.com",
-        "publisher": "The Columbus Dispatch",
-        "publisher_url": "https://www.dispatch.com",
-        "language": "",
-        "seendate": "20261009T203500Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "DOE deputy secretary visits Three Mile Island as nuclear reactor targets 2027 restart",
-        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPOUVXNjVRSzB3ODZNNWFPVWRtUF9JN2xKbzFIYmxYWTM2TTB0TkxmdVloTGpRcmhTQUpoUEo1Y3JJSUEtRkRkRWVTOVFGdUZGUHI3SVdSU0FwSG9TeTNhRnJlMzFCTXkzTFllNl9lYnpIcXhEN1ZtUm8zTzR1ZFhsMDZ1MVM0OWdvTDBfZEQ3bVQwcjZlWXhkRTFVbXVhaHZiMjZNS1BGeG5vNUhBaW9PdjItNlhWejdqLU1ZS01GLVZ1emxWN3RScDlQLXVPQ2YxdkRkNkpWa05hdEt5TW9yeXZGVDV3MklVM1dUZGRpd1p4VER2Uk15TXpoYWZGcHc?oc=5",
-        "domain": "www.fox43.com",
-        "publisher": "fox43.com",
-        "publisher_url": "https://www.fox43.com",
-        "language": "",
-        "seendate": "20261010T020100Z",
+        "seendate": "20261008T154600Z",
         "source": "GoogleNews"
       },
       {
@@ -399,6 +359,136 @@
         "source": "GoogleNews"
       },
       {
+        "title": "Vivek Ramaswamy’s Nuclear Startup Raises at $1.9 Billion Value",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPck56V19lY1NhV09qWk1Sc3F0dWRnTC1GSWVDeFRERzBUWUpRS0J0d1Z6MmNBV2dHemRtLTVhZDVKMW1RR1hkM2p1blQ5OGc0REFhT3pJV1pIVnNWUzA0bkhlM1RBdzdHdXpieVZROEtVMHFTRk5qLW9tMzZWZlVoNGpCQVNGYld3V3BBdkNnZ2NWZ1E0ZzIxNDQ1WkN2YWU4MkNqcDZSbXdDbXpmRU9pUUln?oc=5",
+        "domain": "www.bloomberg.com",
+        "publisher": "Bloomberg.com",
+        "publisher_url": "https://www.bloomberg.com",
+        "language": "",
+        "seendate": "20261008T200609Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Palisades proposes method to retrieve tipped nuclear fuel assembly, but concerns remain",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVVBQTnM0NFQ1cU9tdXhUNktQeVJRT3YwWWNQSi1zYV9wWG1MSXliejNfSUkzeUo3RkVGLTJfR09reHJzbFFyS0hHTEd0S3k0Q2RFTjBjVDFwX0RlWlk4TzBsRlNqdGpuR2IyLW5DNVhBNGRaanN5enpEWXI4eG9ZSkp5bVRQXzZHMkJXejBqTDE4LS1EUFNGVTdiX2JURDhKc01JRENFaHlMNFlq?oc=5",
+        "domain": "www.thenationalnews.com",
+        "publisher": "The National",
+        "publisher_url": "https://www.thenationalnews.com",
+        "language": "",
+        "seendate": "20261009T230634Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Iranian Spokesman Slams France’s Nuclear Double Standards",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcnd3X21kdTJUWUt5WUNZem9aRk9MOVNRZGt1U09WMTZyeWJmR054ZmcwSFVvSWhLU2Ryd1lueFlNaW14R2h4VGJ0Mllya0NSWnhEZTVEYTJkNEYwblZkZGQ1bUxieGZKc3VlaGo3ZldaeEd1N01IaUtrM3VyTzFkQUljYjh0SDVkVXQ3dmM3dDhMNzQwOXNVN1R4enBQUklUbHpzaW5yQWJxT25XdW5R0gG0AUFVX3lxTE5DR2h3ZHRaTnlOLWhMVWdmNWxVUUdPMEszVVJHdzZGa0ZpRjlQNF9hcThxZXhjZGhsSEl3MFc0Nzlzek9JT0kteFRNc0hkSWwzZm5mcktqNVdGWmpKTUd5cWxuUkxhM05xaENKZm02QkkzbGh6SVY4RjM0T2RwRGxwem5FMlFsU2FmWWNKbzMxdDNENFp5bnFRZGJaZThLODdDd0ZuamRna1J5UjRrZFlqc2Zpbg?oc=5",
+        "domain": "www.tasnimnews.ir",
+        "publisher": "تسنیم",
+        "publisher_url": "https://www.tasnimnews.ir",
+        "language": "",
+        "seendate": "20261010T070045Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Researchers in Vienna and Beijing report nuclear clock “milestone” -- ANS / Nuclear Newswire",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSU9rZVdwcVpoS3AxZTh6dEVNSkJkR3ZaOFJsWlExekxXNzR4emYzeXY3bFdsazZ1b09XdUQwY0FfbGFXOEJPWFN5blF4cUlVUjJrbnJCZC10R2czZW9yTmw4VS1Dd2RzMEthVmFmQ0IxR21oZHo5T3pJVm1aRlc5eUFtazhhYjFDbTJIbnJsRzhLUFBQaXBlTExEdWdQS0YzbFlMNkFB?oc=5",
+        "domain": "www.ans.org",
+        "publisher": "American Nuclear Society -- ANS",
+        "publisher_url": "https://www.ans.org",
+        "language": "",
+        "seendate": "20261009T153713Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Japan’s ambitious decarbonisation strategy needs a Plan B",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWFhIbWxNQkJBRldHN0N4SGlQUnVZMUViUllRX2VPWlE1UjdJTVRUT0FvdmpaNkMyTmdtNTh5VjduZFBXdmFwdFlRdTlTMno0ckhNNV9hWl9YNFdyNExEdzBZRy15eEFQZy1ac010OEM4VWt1NFZTb25rRnZoNjZ2ekpnb3B1SE5RS1dEcXFxLTUwTjQ4UlpoNjlB?oc=5",
+        "domain": "eastasiaforum.org",
+        "publisher": "East Asia Forum",
+        "publisher_url": "https://eastasiaforum.org",
+        "language": "",
+        "seendate": "20261010T110000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Ramaswamy Nuclear Startup Raises Funds at $1.9 Billion Value",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTWM1akx5T2l1SnFBSXVDX3FwZmFJR3V6SEQwNEppUk16ZXg5YlJpdGN6d2piRE02eFJSekp2UjdYUzF5bi1jelg2VS1IVHkwcjRXQlNKZFQtdHFNY0hPTElLb1M3ZEdzbGJMaU9CRk9ZLXhuSWZCWmtPdG9WVVBJV09MMHFOVjdYYUIweFE0RnM3UUQ0Vk8taHpsejJpX2t0d09pdkt2QVZySUJGQ2Rra0w2aGxxV3JUcGc?oc=5",
+        "domain": "www.energyconnects.com",
+        "publisher": "Energy Connects",
+        "publisher_url": "https://www.energyconnects.com",
+        "language": "",
+        "seendate": "20261009T105754Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Iran Nuclear Chief Raps IAEA for Bowing to US, Israeli Pressure",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZHpQZGlwaWwzTUwtc1VuQnRHVHAwb3p1MHY2b1h6SDBOcXlvcHBfSVNYeVRwdGJyUFpNU0ZQVGZLRGxFT2pmMmhMR2xxN2sxa0ZPQVhteGlTbUp1UExGNEtkaGNRUE43NTFKblU2WDNjNWtCMVF1SHVhLVJXMkpNUmdfd3dwY1JWbjZsWmF6NktWYnB3cEFOekEwanoxSVJNa1VteXExakwtWjRSYTVtWnNfZjlPZ9IBuwFBVV95cUxOSXFKV0JfU3BLNXNiYUVheWdrSE1SOGFUTkRMNGRMXzZBYldlQkJGLXVBZGN5M2ZGNDJDZzJzamhyLWlCZjNjTmhiemZLYW5XN0FaTWlBZjhvak1heG10dmZhVi03TlM4dEw2RUt1ZjFrRnZJTmxhbm04NUllTmU0eFFkOGZEMW5zOGV6YkRVa3hOTVpWQXpVTGxiclRfTUoyRGEwOWo0dGFYU3hxNVdPUGN3NDg1dWVxZjRn?oc=5",
+        "domain": "www.tasnimnews.ir",
+        "publisher": "تسنیم",
+        "publisher_url": "https://www.tasnimnews.ir",
+        "language": "",
+        "seendate": "20261010T112705Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "DOE deputy secretary visits Three Mile Island as nuclear reactor targets 2027 restart",
+        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPOUVXNjVRSzB3ODZNNWFPVWRtUF9JN2xKbzFIYmxYWTM2TTB0TkxmdVloTGpRcmhTQUpoUEo1Y3JJSUEtRkRkRWVTOVFGdUZGUHI3SVdSU0FwSG9TeTNhRnJlMzFCTXkzTFllNl9lYnpIcXhEN1ZtUm8zTzR1ZFhsMDZ1MVM0OWdvTDBfZEQ3bVQwcjZlWXhkRTFVbXVhaHZiMjZNS1BGeG5vNUhBaW9PdjItNlhWejdqLU1ZS01GLVZ1emxWN3RScDlQLXVPQ2YxdkRkNkpWa05hdEt5TW9yeXZGVDV3MklVM1dUZGRpd1p4VER2Uk15TXpoYWZGcHc?oc=5",
+        "domain": "www.fox43.com",
+        "publisher": "fox43.com",
+        "publisher_url": "https://www.fox43.com",
+        "language": "",
+        "seendate": "20261010T020100Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Google invests billions into nuclear plants: Sen. Rezin on Illinois' push for more nuclear power",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE93a1pLbjMtNXBlZTYyQ1ZoajZvZzFibkNmbFhRY2EwbzNVY1Vkd1BVMmpGWnJGWnRTUVZlaXlLdHduTVMyby1aNUxESmZyN05aY3doQ2I3REJjRHZ4TnV1SER2TGhvdw?oc=5",
+        "domain": "www.fox32chicago.com",
+        "publisher": "FOX 32 Chicago",
+        "publisher_url": "https://www.fox32chicago.com",
+        "language": "",
+        "seendate": "20261009T195611Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "To lead on nuclear disarmament, Australia must renounce the US umbrella",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdlRsMlVpeGdJMVB6NVBKUno3aElmbDl6NTY4OGFsLXY2NnpHRG02cW80SHFaakRmZjFwRTdET1FVaklmczRxeU5raUpkWUx2QTBTeUljcFJDeklOcW9CYW1LRzRNc0ViWkVLN05qcGtHdXVpT2t6OVR0eVJwbHRONEFTdXFfLVBaYlhQNzQ0c2NBX2xBc1RjTEE1aWFhdzJ5Qms1WDBB?oc=5",
+        "domain": "thebulletin.org",
+        "publisher": "Bulletin of the Atomic Scientists",
+        "publisher_url": "https://thebulletin.org",
+        "language": "",
+        "seendate": "20261009T115222Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Firm behind Piketon nuclear campus gifts OSU millions for new major, lab space",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQW81NlNOS2RDUHZwT3lyZ09DS0dzUDRVal9zTFluT3gtRllnRmRwbWUzZFUxV0ZiZDZFa3JkQ195RW9vQWliS1ZpUDVmVDBwNDUwSVhNZjc0bDkwSTY5SG5NSl9lQmpobzlEUHpyQmNhR2FoWU02Nk9aNEFLcGxZRTVHQWpJZGo2R0pHNDZCN1JudGpRWnRaYzZJZWctTHdUTFRheU80a3NBNTFFMFVKUkw1RTlBR09CcUVJQ3ZJVlktc1N5QVlkajFfc2ZCSW5mMGFhLXVzRQ?oc=5",
+        "domain": "www.dispatch.com",
+        "publisher": "The Columbus Dispatch",
+        "publisher_url": "https://www.dispatch.com",
+        "language": "",
+        "seendate": "20261009T203500Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "AI Steps Into Nuclear Power Plants, and Workers Are Letting It in",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBpQjlWZExxM0k0eVhRTjhMZEtSVkRiU3ZqYm1qUUxHT3ZvczBEeHptZFUwSDNRbTM4bWZxM01wOGhpNHBCUjF0V19fUEdsbWZOdWQ0S3pRVlVyTUxETFMyRk1SWFVGZVYyckxj?oc=5",
+        "domain": "spectrum.ieee.org",
+        "publisher": "IEEE Spectrum",
+        "publisher_url": "https://spectrum.ieee.org",
+        "language": "",
+        "seendate": "20261008T142842Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Superpowers Race to Put Nuclear Reactors on the Moon",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1TMnRhZE9CWWFCMHhQVFNtNHpzaTBEQ2MtYnhoZXFZRzZaQTc5R05wcVhOVUQ4MDc0MjBIYUpUNGRpNnRkU0lrMzRJVDF2dk8wbWd1WHpqN19mc2k4alZPM1ZOMV9LSENITGg2UVVPTUdJNTBKYTZQcm1GOU4?oc=5",
+        "domain": "www.nytimes.com",
+        "publisher": "The New York Times",
+        "publisher_url": "https://www.nytimes.com",
+        "language": "",
+        "seendate": "20261004T090029Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "Constellation Energy (CEG) Is Up 10.1% After Google Backs 20-Year Nuclear Power Expansion",
         "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORlBOWU5IaElnZGl6OUc0dEdkR1hSaEV2X1ZnOWN1TDhLa2ZVMDdFX25xaDAwaFAxcFZNMmpLS3l0RHdaTmkzckxDU1BRNHdQcmFBT2FlbnE1Z29oNVJpT0RfWFRMR2dJMlRNV0l1S3FIMU5LUnlQalBZV0V3azgybF9PTFI?oc=5",
         "domain": "sg.finance.yahoo.com",
@@ -406,6 +496,16 @@
         "publisher_url": "https://sg.finance.yahoo.com",
         "language": "",
         "seendate": "20261009T180831Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Russia may turn to nuclear space weapons to counter U.S. missile defenses, report says",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdmpXM2ZScUkwM2tGWE1HZTNnNkw2ai1wRE5palBpeDAwVWlSSVZ2bUswUUFwT0YyY081X2kycWo0amFjQWpFNjFxdmV6ZFUxNjNERGdicHJqclgtRjdBa2JYcG00UDh6SXpFQ3RNLVZlaGNFX2JYSkhBM2loNERURTRJRnVycVFmLVlKbW9PMU9DRXg0Q1dJUTBaMHA2VWliYUVsMVBMZkduZTQ?oc=5",
+        "domain": "spacenews.com",
+        "publisher": "SpaceNews",
+        "publisher_url": "https://spacenews.com",
+        "language": "",
+        "seendate": "20261009T132825Z",
         "source": "GoogleNews"
       },
       {
@@ -427,106 +527,6 @@
         "language": "",
         "seendate": "20261009T232513Z",
         "source": "GoogleNews"
-      },
-      {
-        "title": "Danish Decommissioning files final repository proposal",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWkpydWtPNnFsczRsb093N3dwZG5nWE9Vemh5NXZLT1lXTUw0Y2EwZFAzSGw4UktOckRNdDVqVUlqYnBqeGlUUXlaNkZuNkV5NGpoNmtGeWFuMkg4QzVpek1LQ1FMb0hIaDlheUd6NnZUZDRMOG9CeGotQjhuY3NFQXBlb1VGNWVmYWljTWM2QjlRUTA0dXB4Qw?oc=5",
-        "domain": "www.ans.org",
-        "publisher": "American Nuclear Society -- ANS",
-        "publisher_url": "https://www.ans.org",
-        "language": "",
-        "seendate": "20261009T131312Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "'We shouldn't worry': Trump assures US prevented Iran from acquiring a nuclear weapon",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16MUM0UzNXT3ItQVdfM283WS1aMm5kZVRmeW93SmdHa1Q4bkprc01YX2xKTWRuRGRMbEMtODRYMUhsaTRMRVFmb0RUQ2RpOW1NcGFMOVREOTVLcDZ5bWNMdFBteExpMVhJdmc?oc=5",
-        "domain": "www.jpost.com",
-        "publisher": "The Jerusalem Post",
-        "publisher_url": "https://www.jpost.com",
-        "language": "",
-        "seendate": "20261009T175950Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "AI Steps Into Nuclear Power Plants, and Workers Are Letting It in",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBpQjlWZExxM0k0eVhRTjhMZEtSVkRiU3ZqYm1qUUxHT3ZvczBEeHptZFUwSDNRbTM4bWZxM01wOGhpNHBCUjF0V19fUEdsbWZOdWQ0S3pRVlVyTUxETFMyRk1SWFVGZVYyckxj?oc=5",
-        "domain": "spectrum.ieee.org",
-        "publisher": "IEEE Spectrum",
-        "publisher_url": "https://spectrum.ieee.org",
-        "language": "",
-        "seendate": "20261008T142842Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "NATO presses ahead with ‘Steadfast Noon’ nuclear drill after Russia’s nuclear warning",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTnU1djJpYnBwYTN5eGh2ZURHbHQ4cEhpN2dKamRJQW9LdXVSNUVXdHBza1ZBRGJRdzdDZkIySVBsdzlCMFlmb3RkdThIQ3ozYjAyc0RzUklIZ1NmM0R3ckx5STdvdmNZbXd5UlZxNEF5R0tTNWF6U2dwNlUzbDZGbEdSOHFYbEdGOFdDU21mWGxFOEdXdmtwNGNxa1ZnTV9BR2pvamtPS2lCaUsyN0VF?oc=5",
-        "domain": "apnews.com",
-        "publisher": "AP News",
-        "publisher_url": "https://apnews.com",
-        "language": "",
-        "seendate": "20261008T154600Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Superpowers Race to Put Nuclear Reactors on the Moon",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1TMnRhZE9CWWFCMHhQVFNtNHpzaTBEQ2MtYnhoZXFZRzZaQTc5R05wcVhOVUQ4MDc0MjBIYUpUNGRpNnRkU0lrMzRJVDF2dk8wbWd1WHpqN19mc2k4alZPM1ZOMV9LSENITGg2UVVPTUdJNTBKYTZQcm1GOU4?oc=5",
-        "domain": "www.nytimes.com",
-        "publisher": "The New York Times",
-        "publisher_url": "https://www.nytimes.com",
-        "language": "",
-        "seendate": "20261004T090029Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Better Energy ETF: VanEck's Nuclear-Focused NLR vs. State Street's XOP Oil and Gas Fund",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQR29ZNDYtUHp6X0V5NU1tdEtGMHVQekhvVVRMT1JHVExWeDU4WlB1VnNURzFPN21BYzYtNFQ4WFZ3aUJ2M25YZnJoVWRaektSQk15aW5jcDFRcGNFcFhxT1F6NFhCaFpXMF80OVkxR1NWRzhmUFk5TjVEYjU4QlIwbUVUSnNxWGFIRXZJRUJwMkZBNHhlM1F5R1pVdGJLeThzNFc2dkoxd0JUelgtdV9UTldTM0tBNE1xd2Q1ZDlQT3NLZl9iVEJPMmk5LVo?oc=5",
-        "domain": "www.fool.com",
-        "publisher": "The Motley Fool",
-        "publisher_url": "https://www.fool.com",
-        "language": "",
-        "seendate": "20261009T214500Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "What happens when a nuclear physicist builds a superyacht",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdzFqLU5LNWd3OV81ZUx4dzdMSGU4cmFrOGk3VnFGT0wtTkVWRGlpY3BybF8tdU1acW1RU3BLY0ZfY0xPY2tydzNhRndUbjNHM1VfZzZaRDlYVUNrbDNjcVZQb0lEaThFemxraXhreGRaWTU4TnhTcWVta0hBTkFFZFNXdWVueVIxbTBtUlpoTXVKd3ZiMkhIb0Z0YnAzZkRfeDh5UjdNOHJJTkRDcFFtLVUtVS02Zw?oc=5",
-        "domain": "www.boatinternational.com",
-        "publisher": "BOAT International",
-        "publisher_url": "https://www.boatinternational.com",
-        "language": "",
-        "seendate": "20261009T194046Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Iran Accuses France of Seeking Monopoly on Nuclear Deterrence",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZWZZalQyZFZtS0V6aUZ4Y2puT1dQQ2hqcTZKS0gwMWlzZmlBUnoxSDFjMmd4RjQ0TTdlNElHb2x5bzBnWVlONVA4UTJWYUhvMG9tbEE0SnRGRW9ET2R6ajJ3aUI5dHBrRlZXMTNoeWFzc1NYNTdVdE9FSmMyVDJON0gtYlNFV3hjZGFHWDh6cDVCME1JZV9COGlzdklUci1RRThTeldncko?oc=5",
-        "domain": "www.kurdistan24.net",
-        "publisher": "کوردستان 24",
-        "publisher_url": "https://www.kurdistan24.net",
-        "language": "",
-        "seendate": "20261009T152600Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Amazon Just Signed a 20-Year Nuclear Power Deal. Here's the 1 Industrial Stock That Benefits Most.",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZjJmU1R2b0tRemNsSkg5aERZY2VEY1MwVzdVYjBiWVlpRkxSRUkxN3JHZnIyOVpxUzhGWFVQcUtuOUJtMk5HeldVZm41aVk3dFl2TzItYlFLVUNJd0RHTXphUkxwZkh4ZXB1U2k0ODY0NEU5WGNLT0NxQmNJaHd4Z2hQV2h1QXktR0J0c3NPb0U?oc=5",
-        "domain": "www.fool.com",
-        "publisher": "The Motley Fool",
-        "publisher_url": "https://www.fool.com",
-        "language": "",
-        "seendate": "20261009T123300Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Ohio State announces plans for undergraduate nuclear engineering major",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUDBjeGpOWlFWbEpQX19NaGJpMHkwSWZvRzFBZ1BLaTY5alFjcFhuNU95NFRGeFl1QW1aczlXMG44MWdXeTFnUkUxZDc5bFFPblNMdXBzMkJVRjhfOXhnQ3NMWEZKUC1vNFZud2FYTzkwWDdIUGNOcklDYXM2YjlZNDZPa2lyZWQ5ZWVBcmNibWJpeDctczhKWkg5M2IyOTg4N25JWTA5OWExT2N3?oc=5",
-        "domain": "www.nbc4i.com",
-        "publisher": "NBC4 WCMH-TV",
-        "publisher_url": "https://www.nbc4i.com",
-        "language": "",
-        "seendate": "20261009T211826Z",
-        "source": "GoogleNews"
       }
     ]
   },
@@ -542,16 +542,6 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Update 370 – IAEA Director General Statement on Situation in Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQ19oR25LUUJEcHl1TUdtS1B1ZHJnSkJkLXE5a1V4dmZMZ1lQeUFkbnZLd0IyLUdIN2dmM2hTODRIMjRkNXlISC1EdF9FWUw1aldBNEFWa3VLemhoLXFTSkw1dG1LUVgwRXctbmxscHVfQVozZjJhSERQODVBU1BRbDVsS0FBa2VwYXNuOVFfcGp0YWttNVRJcUI1dGtScGVSNWNYR1JvRzBfaFNxdHBTaQ?oc=5",
-      "domain": "www.iaea.org",
-      "publisher": "International Atomic Energy Agency",
-      "publisher_url": "http://www.iaea.org",
-      "language": "",
-      "seendate": "20261009T151535Z",
-      "source": "GoogleNews"
-    },
-    {
       "title": "NASA, Energy Department Advance New Era of Nuclear-Powered Exploration",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ3dfeENaem5YaExKOHFKcUtxQXN2cTFZSGdSWEpaWVJNRF9QaTh6Uk1sai16Y3V5SXBVNl93eFVSNlYzbVJCalV4MzVqLWxHQmNsZjBaZGs0cEUwNUdRWmRTVDRNVF9XLUNuRjV5bk1NcEpibW5WbjB4SVFaNHdhMllldEI1RVZkbElnbUwzRS1Gb0NTU0d0clMzSFduX1czYmVBbWk5UQ?oc=5",
       "domain": "www.nasa.gov",
@@ -559,26 +549,6 @@
       "publisher_url": "https://www.nasa.gov",
       "language": "",
       "seendate": "20261008T162016Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "New campuswide project confronts the legacy of U.S. nuclear bombing in the Marshall Islands",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObU12QWZvN1pWanFlTncxY2RBZnp0SWVjSWE5aEQ4UDF4ck04LTRncGpRZE5XOU0wS2VLVURSanJKZ0VkUGx3dzFHRXVkclJMYmFwWkRnbVFmWnkyTDVLQ3dWV0pheUZ2YkRzQmR3d3VFMzRncWhwVEQ2bEI4Z3AtRUcxLVhTRDB3bXlpSmlkLXJXWGR4aEY0S3JyUzA5UmFvbkp3cURUYnJadXFLNlNCUFRfZU5uLVRRZTYwNFVqclhSN3N4Z3ow?oc=5",
-      "domain": "news.berkeley.edu",
-      "publisher": "University of California, Berkeley",
-      "publisher_url": "https://news.berkeley.edu",
-      "language": "",
-      "seendate": "20261009T221307Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Google, Constellation reach 11-unit uprate plan; Constellation to invest $4.3 billion",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaVpKV1ZDVzhsaDdNU1dxeUhmY0NjaGFQaTlsZE43bFdvVVB1bHRGQkZjV1YtYmtyMmxNbU92eGhNWUVVTXoyd1dkcVltM3NMSWF4ekJFRTE3THh1cmxvVnRGb245OWNFQWlpOWtZdng3VkNLbHdscllqMXhGY3hiVGJwQ0JnUkh4TEhVZTlRSVZwclVFX0VwdEtXX0ZWek9DTUxaNUhzTE8zcDE3ZXFNbDNmRTFFaUtZZ1pF?oc=5",
-      "domain": "www.ans.org",
-      "publisher": "American Nuclear Society -- ANS",
-      "publisher_url": "https://www.ans.org",
-      "language": "",
-      "seendate": "20261009T204922Z",
       "source": "GoogleNews"
     },
     {
@@ -602,13 +572,33 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Where McKinney, Duresky stand on Hanford nuclear site funding",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUUVNUTZzSXBkbWZ1ZjlxZmJMdndhMjVHUWkyMkZzV1Z3RDdoLV91WkgwMC00Y0pxVmo4bGxURW9SYkdHSzVOcjIwaGlQZnlPVEo2b1piTkFLeHBKenpNNExmZkdBR3VlN28yM3JDdC1yUDNiN09jaXpKODNQNmw4Z3MwRVI0cjBuWTlONjBsQjh1dklPVUVlRlNhNnZvUQ?oc=5",
-      "domain": "www.spokesman.com",
-      "publisher": "The Spokesman-Review",
-      "publisher_url": "https://www.spokesman.com",
+      "title": "New campuswide project confronts the legacy of U.S. nuclear bombing in the Marshall Islands",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObU12QWZvN1pWanFlTncxY2RBZnp0SWVjSWE5aEQ4UDF4ck04LTRncGpRZE5XOU0wS2VLVURSanJKZ0VkUGx3dzFHRXVkclJMYmFwWkRnbVFmWnkyTDVLQ3dWV0pheUZ2YkRzQmR3d3VFMzRncWhwVEQ2bEI4Z3AtRUcxLVhTRDB3bXlpSmlkLXJXWGR4aEY0S3JyUzA5UmFvbkp3cURUYnJadXFLNlNCUFRfZU5uLVRRZTYwNFVqclhSN3N4Z3ow?oc=5",
+      "domain": "news.berkeley.edu",
+      "publisher": "University of California, Berkeley",
+      "publisher_url": "https://news.berkeley.edu",
       "language": "",
-      "seendate": "20261010T013100Z",
+      "seendate": "20261009T221307Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Update 370 – IAEA Director General Statement on Situation in Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQ19oR25LUUJEcHl1TUdtS1B1ZHJnSkJkLXE5a1V4dmZMZ1lQeUFkbnZLd0IyLUdIN2dmM2hTODRIMjRkNXlISC1EdF9FWUw1aldBNEFWa3VLemhoLXFTSkw1dG1LUVgwRXctbmxscHVfQVozZjJhSERQODVBU1BRbDVsS0FBa2VwYXNuOVFfcGp0YWttNVRJcUI1dGtScGVSNWNYR1JvRzBfaFNxdHBTaQ?oc=5",
+      "domain": "www.iaea.org",
+      "publisher": "International Atomic Energy Agency",
+      "publisher_url": "http://www.iaea.org",
+      "language": "",
+      "seendate": "20261009T151535Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Google, Constellation reach 11-unit uprate plan; Constellation to invest $4.3 billion",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaVpKV1ZDVzhsaDdNU1dxeUhmY0NjaGFQaTlsZE43bFdvVVB1bHRGQkZjV1YtYmtyMmxNbU92eGhNWUVVTXoyd1dkcVltM3NMSWF4ekJFRTE3THh1cmxvVnRGb245OWNFQWlpOWtZdng3VkNLbHdscllqMXhGY3hiVGJwQ0JnUkh4TEhVZTlRSVZwclVFX0VwdEtXX0ZWek9DTUxaNUhzTE8zcDE3ZXFNbDNmRTFFaUtZZ1pF?oc=5",
+      "domain": "www.ans.org",
+      "publisher": "American Nuclear Society -- ANS",
+      "publisher_url": "https://www.ans.org",
+      "language": "",
+      "seendate": "20261009T204922Z",
       "source": "GoogleNews"
     },
     {
@@ -622,33 +612,63 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Oklo fuels growth of nuclear engineering at Ohio State",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbjNIT2tPWW1wT0Y5T3pMSEViVXFkVmZSOEFVV1IySXhqVFFsX1hlSDl1YjZBSzljOTJFWVVzV1ZxZ2xlUWMzRGJoM1k2ZHVJVHhLczJNU3NNbVRoaWNydlZMUmZJYlNMSUdxaWdMV3RpejZYbHM4aDM5OGVTUXRfMXNn?oc=5",
-      "domain": "news.osu.edu",
-      "publisher": "Ohio State News",
-      "publisher_url": "https://news.osu.edu",
+      "title": "This Nuclear Stock Doesn't Need a Breakthrough. It Just Won Another $189 Million Contract Doing What It's Always Done.",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTnExMHp2NUktV1VWcmR5eGR6NGZIUTNVT1NlbU1YWklobGF4d19tNVBxMlhCU3d0MDBsbEhkcGk3ajhaakRoeG44SVBpVzNfOVJkeWdpX0w0WWFoTld5MDBUcmprN2Naa3MybVlybFVJYzQ0YlpQd3QwU3lLcWJWUnFNdDZLeXdkTHI4NW52YWhEeEZlanBEOWRuTQ?oc=5",
+      "domain": "finance.yahoo.com",
+      "publisher": "Yahoo Finance",
+      "publisher_url": "https://finance.yahoo.com",
       "language": "",
-      "seendate": "20261009T193000Z",
+      "seendate": "20261010T123500Z",
       "source": "GoogleNews"
     },
     {
-      "title": "Nuclear Sector Outlook: Tim Rotolo on Headwinds, AI Demand & Catalysts",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbFJvZGlvSHlvMU5tZ0gzTndwejhabktjaVBHU1lOU3R2V3lQck9jV1lQQTZtMjRGaTRDX283NThRUTJQeE94Q1M2Q21CaDlheXRVUnJvUDA2S2h2eUt0YW1iQ3VOQlhjQlFtZk05c09ZRVFuZ1pUVkJ1UmVvcnVfc1BGcUZHckg4eU1DMHNsYw?oc=5",
-      "domain": "etfdb.com",
-      "publisher": "ETF Database",
-      "publisher_url": "https://etfdb.com",
+      "title": "NATO holds annual nuclear exercise Steadfast Noon",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQczdMdldOS3lsUkZrYXJBSWQ4ZXU1cHBPRzJOLUYyekJWRWcyTVV6QWhpNk53dzZOQ3pzYnJKUWhpUldwRVJGRVhKemFhTGFpZ2dGQjJVS25oUlllM0QxSFZqSGlndlhrY1NQQUpZRFVrb0U2RUtVMGpjNzFFV2p6N1lMdkZwbmZiSTN1LVlNYkZhaEIxdVJYeGVWNVA5RlZ6a3hVV2FJc0lEQUR3RXBBU1VFOEo?oc=5",
+      "domain": "www.nato.int",
+      "publisher": "North Atlantic Treaty Organization | NATO",
+      "publisher_url": "https://www.nato.int",
       "language": "",
-      "seendate": "20261009T183828Z",
+      "seendate": "20261008T161330Z",
       "source": "GoogleNews"
     },
     {
-      "title": "Colorado’s debate over homeschool enrichment oversight: Officials to weigh stricter rules",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcDNLcXg5N1FYelNuNEFSUzFvaWd5aFVtb2x5bEVjaVdPLTlzSXlUOElnWlpDZ21QTXFDcml4eVdpc0JsdDEtSnB1VHFlYWM0bTNva0lTVUFfOXRiR0l0ZXpUemstcHR3OVVRV1Y0VnFWSjhMRzBmOUtoWlg4WGlWMG95cDZBRzVJNng0VE9wN3FPUVp5Mi1IQlVwOWQyeDlGdlhSZA?oc=5",
-      "domain": "www.chalkbeat.org",
-      "publisher": "Chalkbeat",
-      "publisher_url": "https://www.chalkbeat.org",
+      "title": "A New Trend in Nuclear Energy: Squeezing More Power Out of Old Plants",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbW5FdURocU1CQlU1SnNEUm4yRGQ0dWhXbmYtdXVaVXEyUV9LNEZGZkZaVmRoU3paMFBneXZQNFBHekY3WkNtTW9sTWxqZHJnY2pNdEZUczdjaW0zM1BBMkk2TEdaNkEtNkV0anlVTFVrV25uY21YNTZNY2RMc2hHbUhITHRWOWdZaW5FeC1OYUY?oc=5",
+      "domain": "www.nytimes.com",
+      "publisher": "The New York Times",
+      "publisher_url": "https://www.nytimes.com",
       "language": "",
-      "seendate": "20261009T212800Z",
+      "seendate": "20261006T193709Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Rubio says Tehran missed 'multiple' chances for nuclear deal amid Iran stalemate",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBST3M3OWl1Z3R1OFBQaFRuXzBxeC1DVnczRVNFWm12c2NHQnV5OU9acWZLTllvSWNKcUE4NHBSV1oyQmFObGszUlE0dU9sUE9zZmk4NmpPZEJTNmZMRkZrU3NlWVlVSjF3czJHVVd30gFzQVVfeXFMTl9lOGNDTDRpUHJsdU80NU5NV1NTTVhua25JazF6eHA4TC1aNGNqWm5aaHBXM3hkYjZqZGFGYzR6NFdrcnJZdnRzRTBUYndZZEhIa2gwUHhwNTlvbkNmYk8zNG1DSFBMaDk2LUlidmJyRHZYdw?oc=5",
+      "domain": "www.cnbc.com",
+      "publisher": "CNBC",
+      "publisher_url": "https://www.cnbc.com",
+      "language": "",
+      "seendate": "20261007T094042Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Rosatom says it wins tribunal ruling in Finnish nuclear plant dispute",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcThCT2xlTm9fZ1hMODRNcTQ1TjVjOXJYTXlsSDdHOEJLLTdoZG51QlN2aHRVQjJfS1ZRYjQ2ZjBHaWtnN0hhaFR3ZFlHeXFCNUN4dnBzQlhjc3ZHb3BMYjZycGdIVVZKWlVTWFhuQ1dQUlBkb285YzMzdUkxYUNIcUhtUEMwcGNtZlNSSDNEWlR6Q09JZnpwanl4amFaYzM0dzI4ZnNfTV9sWWJ3djIzbmpNVVNOU2tMQkE?oc=5",
+      "domain": "www.reuters.com",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "language": "",
+      "seendate": "20261010T090553Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "A nuclear clock synchronized to 229Th",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBSMVE4UlYwb2hQWUZ4ZmVLMnRlZUg2bVNfUlBxUGZhVE4yWnBmUDBWTGloajZtWnBrbHNxekV4OFhGeFBoRkwwN24xc01zYVg5bENmU0xQYnlDdE1RT1Zj?oc=5",
+      "domain": "www.nature.com",
+      "publisher": "Nature",
+      "publisher_url": "https://www.nature.com",
+      "language": "",
+      "seendate": "20261007T230338Z",
       "source": "GoogleNews"
     },
     {
@@ -659,26 +679,6 @@
       "publisher_url": "http://www.iaea.org",
       "language": "",
       "seendate": "20261009T091336Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "EXCLUSIVE: Vance says Iran must cut enrichment to end war",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ3R3RzJuRF9NSlo0bWNMaGY3dTdUbXRmSU1BMml2V2RLd0sxazNvVUNRdXpHa21Ebk4tVWtLeHZXMG5xM2ZUVG1aTEJDU0FRWnRHZnozTHQxdVRjeTJvbXRKNzFpNG1wR3RqVDlKMXpXY09hYlFKVlF4RW5uQjJJMXhKOEt3c0ZLWE4tbWZlQW5hUnRnckxmaU1mU0R0SWwzRGNXdGo0ZTVTUXBlSHlfakN1Yw?oc=5",
-      "domain": "www.reuters.com",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "language": "",
-      "seendate": "20261007T124032Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Fermi America, Blue Energy make strides in Texas",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPU2JIT0hzd1hUUnlMM0RsZU5sMnhHLUVRS20zQXZOOElRWkxvWEdHYjRycUk4Q3lhTVZYR1lIY1lwUV9ZZE5kYzU0M3pvU01Xd1QtSnJOWGVsSVRPUjJVNGQ2eHZFRWpWM0FGRnEzT1lnbUtMaExqQ1k5bklWM3FpVUZvd2Y4V2JUT3lxc05vMA?oc=5",
-      "domain": "www.ans.org",
-      "publisher": "American Nuclear Society -- ANS",
-      "publisher_url": "https://www.ans.org",
-      "language": "",
-      "seendate": "20261009T210748Z",
       "source": "GoogleNews"
     }
   ],
