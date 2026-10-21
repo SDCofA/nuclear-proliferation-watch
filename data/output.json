@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "nuclear-proliferation-watch",
-    "generated": "2026-10-21T17:37:48.832845+00:00",
+    "generated": "2026-10-21T21:58:19.844056+00:00",
     "mode": "live",
     "sources": [
       "news_articles"
@@ -23,7 +23,7 @@
     },
     {
       "label": "Distinct news domains",
-      "value": "46"
+      "value": "49"
     }
   ],
   "live_data": {
@@ -49,13 +49,23 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Space Nuclear Power Corporation Awarded DARPA Agreement for Ground Test of Autonomous Nuclear Reactor Controller",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZUtkTjBvZWRRMWMtUVQwVFV6SXJBbzVVbkxMYzFOUFJnYlpxb0VESG1sXzQ4NEtzdUpvMWpFVnV5cGN2MXRkNDBaWE4zak1MbjluVEEzdmplb09HWTlIYTZBR2stNEo3V2xWVF9jU0xMLWRVdnZiT1ZBNTJSbmZGY0h4NUllZXUtcmotb0ZialIzbUVmZGZPNVBCVzRyMjk5VlFhMkgzaERxWFhvMHhLdXNxRjFUcjN6RThDZTNOOTFQRWhRXzdWbWJiWllMVUtL?oc=5",
-        "domain": "spacenews.com",
-        "publisher": "SpaceNews",
-        "publisher_url": "https://spacenews.com",
+        "title": "Saudi Arabia’s nuclear program could outlive its government, so plan accordingly",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUVFhSlpzdmlfUWNZMGxvZm83YTEzZTk4aGtheFV5MW9mRERqS3ZHQjhGc2FsZ0NvQ292Wkw0c1hjTVplX2IySHNWSHdZbHR6NlBIRGpkMVVqOVBTcmI2emdBUmo4bkx1Mm9meHlRMFotSTEyTWdNSy1QT0lsT1NZQXl3Ti04RDJWdU5lcThsdmNVcVo5c09QdXN0R09RQ2FaMXN1MHYxaVVYSngxRFEtVFBoTWU3Zw?oc=5",
+        "domain": "breakingdefense.com",
+        "publisher": "Breaking Defense",
+        "publisher_url": "https://breakingdefense.com",
         "language": "",
-        "seendate": "20261021T142957Z",
+        "seendate": "20261021T183856Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Iran’s enriched uranium re-emerges as point of contention in US talks",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObU1fR08wbW14TkFSa0ZmVW5ZbHd6ZDA3QzlyOXRXWGVtYW9wUEdhdlN1dENmUjdvbjRaLW55X01QMjZVcFVGdmhyQVc5ei1YSjM2S2xKQXZBZVNLOXJsQ2xqcWU5cnRTMVpJbml0eURYTGs4a1VyOUozdC1kSDNrWWN6Mk9FRmRwRzFjWWs2SmNGZzQ1QzNLV3JSY01Vcjg2MXVqYnRrRDFqUnEyTFpr0gG0AUFVX3lxTE9UZUJucFFuTnhUWDE5QnZIa2VabS1KX1R3MEhDX0VMcWtDdWg4OG9mR3ZZbTRyNjhJNTREOEZscV9LUzlFZmR0ZW1DMTJuV3RuYS1pRGZLNldNUjZIbzlDZHVuUXNwZHphODhFS1JnWDNXTktRYmhvSXlCbW9sZWNBXzZLbmxHS1otbl81NjJoTG1aQThfS25OX2R4RUZ0bUsxWk9QanBFbU5SQ1VueEJLZDB3aQ?oc=5",
+        "domain": "www.aljazeera.com",
+        "publisher": "Al Jazeera",
+        "publisher_url": "https://www.aljazeera.com",
+        "language": "",
+        "seendate": "20261021T122043Z",
         "source": "GoogleNews"
       },
       {
@@ -69,13 +79,23 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Iran’s enriched uranium re-emerges as point of contention in US talks",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObU1fR08wbW14TkFSa0ZmVW5ZbHd6ZDA3QzlyOXRXWGVtYW9wUEdhdlN1dENmUjdvbjRaLW55X01QMjZVcFVGdmhyQVc5ei1YSjM2S2xKQXZBZVNLOXJsQ2xqcWU5cnRTMVpJbml0eURYTGs4a1VyOUozdC1kSDNrWWN6Mk9FRmRwRzFjWWs2SmNGZzQ1QzNLV3JSY01Vcjg2MXVqYnRrRDFqUnEyTFpr0gG0AUFVX3lxTE9UZUJucFFuTnhUWDE5QnZIa2VabS1KX1R3MEhDX0VMcWtDdWg4OG9mR3ZZbTRyNjhJNTREOEZscV9LUzlFZmR0ZW1DMTJuV3RuYS1pRGZLNldNUjZIbzlDZHVuUXNwZHphODhFS1JnWDNXTktRYmhvSXlCbW9sZWNBXzZLbmxHS1otbl81NjJoTG1aQThfS25OX2R4RUZ0bUsxWk9QanBFbU5SQ1VueEJLZDB3aQ?oc=5",
-        "domain": "www.aljazeera.com",
-        "publisher": "Al Jazeera",
-        "publisher_url": "https://www.aljazeera.com",
+        "title": "Space Nuclear Power Corporation Awarded DARPA Agreement for Ground Test of Autonomous Nuclear Reactor Controller",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZUtkTjBvZWRRMWMtUVQwVFV6SXJBbzVVbkxMYzFOUFJnYlpxb0VESG1sXzQ4NEtzdUpvMWpFVnV5cGN2MXRkNDBaWE4zak1MbjluVEEzdmplb09HWTlIYTZBR2stNEo3V2xWVF9jU0xMLWRVdnZiT1ZBNTJSbmZGY0h4NUllZXUtcmotb0ZialIzbUVmZGZPNVBCVzRyMjk5VlFhMkgzaERxWFhvMHhLdXNxRjFUcjN6RThDZTNOOTFQRWhRXzdWbWJiWllMVUtL?oc=5",
+        "domain": "spacenews.com",
+        "publisher": "SpaceNews",
+        "publisher_url": "https://spacenews.com",
         "language": "",
-        "seendate": "20261021T122043Z",
+        "seendate": "20261021T142957Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Nuclear developments in Wyoming, Kentucky, and Louisiana -- ANS / Nuclear Newswire",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc05ZUHl5OFdPYUFwYldMSTJFdnhnYmEwcFBIdlRXN0piSkdsUFhGOGRJYWloRGtSaE42SEp0V01jMF9JMG8yZkljSFRDeTdPNTgzX2V1OHFfeWo3RXVRblY2RDhUVVZ6dmdFZnpGczlfc3Mybkkzd1RZeGJJSGdiaDFvbndPeHlidkdQRHdrdWpUZ1Bsb1B3ZA?oc=5",
+        "domain": "www.ans.org",
+        "publisher": "American Nuclear Society",
+        "publisher_url": "https://www.ans.org",
+        "language": "",
+        "seendate": "20261021T205430Z",
         "source": "GoogleNews"
       },
       {
@@ -99,16 +119,6 @@
         "source": "GoogleNews"
       },
       {
-        "title": "As a UF doctoral student and TikTok star, Kaylee Cunningham is sharing her passion for nuclear energy",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YRm1hQ0ZMd3pSZEdPNDZGZGNUQTRDbnBmR1dPN2o1bnBucVZGdTRiWlRMODZ6UkNNcWdNbTdLb3BoZTVRaERJSk9YMjhpcUNwaHdFZ3U5aHdJUDQ?oc=5",
-        "domain": "news.ufl.edu",
-        "publisher": "University of Florida",
-        "publisher_url": "https://news.ufl.edu",
-        "language": "",
-        "seendate": "20261021T153100Z",
-        "source": "GoogleNews"
-      },
-      {
         "title": "The Nuclear Company Announces Prosperity One, a 6.6 Gigawatt Nuclear Power Campus in Lewis County, Kentucky",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPWEN1ZlNXcDZlc0JobzFzWGNidFJsR3hLY3NJeTZmVm1BV243QzZCbFhaRGhWN0p3YnFEa1hNWHRzLVlLNTh0SHItVk9CNklBS3I1dkZZUFMwWU9sWUNiOE42RFhjTWREWlZ6WGsxR3I1eVMwcVBLNFVoNk5fakFfc3hWbVNQdTN3VnpVNFM0MDFEWDFiVGtnOXVtUHlwRDhrc0hQNEd3blh1SDRTM01iamhrQ3FGem1XRlFKYlRBR0YtVXRzRnQ4a1otaWFzWi01bDlLQ3llczFwTktiU2tKOGdOZ05EbGFWVHpTOXRSLXBKWFk?oc=5",
         "domain": "www.prnewswire.com",
@@ -116,6 +126,26 @@
         "publisher_url": "https://www.prnewswire.com",
         "language": "",
         "seendate": "20261021T090000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "How Close Were the Nazis to a Nuclear Bomb?",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBaTWhvMFk4bHdwZ3I0NlFvY004VmFRNTdBMDB2dzJEdTZuVGdvU1NnZXNPalA2eTRPX28wMm16RUFmbjAyUXA4LTRvNmJvZ2NkcFo0dGZDcFdrc1BENmlJ?oc=5",
+        "domain": "www.history.com",
+        "publisher": "History.com",
+        "publisher_url": "https://www.history.com",
+        "language": "",
+        "seendate": "20261021T203410Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "As a UF doctoral student and TikTok star, Kaylee Cunningham is sharing her passion for nuclear energy",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YRm1hQ0ZMd3pSZEdPNDZGZGNUQTRDbnBmR1dPN2o1bnBucVZGdTRiWlRMODZ6UkNNcWdNbTdLb3BoZTVRaERJSk9YMjhpcUNwaHdFZ3U5aHdJUDQ?oc=5",
+        "domain": "news.ufl.edu",
+        "publisher": "University of Florida",
+        "publisher_url": "https://news.ufl.edu",
+        "language": "",
+        "seendate": "20261021T153100Z",
         "source": "GoogleNews"
       },
       {
@@ -129,16 +159,6 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Westinghouse investing $1B to make a new kind of uranium at SC nuclear fuel factory",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObTd4ejVHaGFtU2p0d094S1htTHgtMmhSWDZ2VlhPR2xQS1JiWUlxX3JhcVprbWp1eHp5aEY2YXVDYVVuaGUtcl9ZWV9pc09XbTNSbktXSjF3UlZOSUdfcnZqTWZlbDdiRjFyMlpnTlh4YVBSR2RxcHFRdER2Yk9OVFRwOWcyaUUwY0V5bndwbjhReGdCVm9ManUycUg0cTdjcnYwNmZSaTlaVVNzVXNfX1YtbXJPNkJVWXV4UUVn?oc=5",
-        "domain": "scdailygazette.com",
-        "publisher": "SC Daily Gazette",
-        "publisher_url": "https://scdailygazette.com",
-        "language": "",
-        "seendate": "20261021T163446Z",
-        "source": "GoogleNews"
-      },
-      {
         "title": "State officials offered to store nuclear waste. Then residents found out.",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTkJ1d09kcjd5SE9iblR6dkVybWJDQmF6b0hlZTRNV3pYUHJIMHl0dmlHdktNRVM3NFNTb0l2bm9PMWlHRlpNQ1lleG82QWo4OWhZZzA3cE42cWU0di1OUjJVNnNzbTdGU05qcDE1WWxGWnVjOHFiZHZRT1l4eXpDb2Zwejd2YlJTS0MtajlNTVlFS0Z5aUFGX1NpamNHUEtiaEgwSmVwblRZT1poOUpJWk0zMWh1S2s?oc=5",
         "domain": "www.washingtonpost.com",
@@ -149,23 +169,33 @@
         "source": "GoogleNews"
       },
       {
-        "title": "The History of Nuclear Power in Space",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5xdXdsX2xfOGVGUmlqX2pxQTY1ckp2R3lDdVA0Rmo5dFI1VWtrVmpEb0NOb2VmaUdiUzFRZ3ZsWGx2TjkwZ2hrN0s0WlI4Tmw3cHN1UERTT0YyOVFKN0h1X01OR0R1ZXMzR0ZSZmtVMA?oc=5",
-        "domain": "www.energy.gov",
-        "publisher": "Department of Energy (.gov)",
-        "publisher_url": "https://www.energy.gov",
+        "title": "Outcome Of US Strikes on Iran's Nuclear Programs Unclear",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBNSnoybXdMTUZrNEx2bXZ2bkt5Q3MzMDc1WEhsODR2cldoSFlKSzNmQjVoM1pPUUhGZHJJdnppNWtjSXJCcEZMQWVRSVRCZDNQTHBIRHlxYzZyNy14SGNGRGtNMy1LcmZJMHlibFNtQi1tQVFNNHZB?oc=5",
+        "domain": "legis1.com",
+        "publisher": "Legis1",
+        "publisher_url": "https://legis1.com",
         "language": "",
-        "seendate": "20261016T173000Z",
+        "seendate": "20261021T184900Z",
         "source": "GoogleNews"
       },
       {
-        "title": "AEP signs 960-MW Indiana nuclear pact with Amazon, X-energy",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaGFUTURfTGZpbEFWYW1sZkRtUXJKUDFpVzA4Nno4aHNrOEtnNHN0S2pDUFBFLXRMU3dvcUdIS3lJMEpqMno5M0RtV01UVDc5X2RwbGZoQnJkYzNUZUpCUjdIZDJqNE5iVnFoLUNqR3VObWZ2M1o5eDd2bmZ5R3kwSE1DT2VSd0dFV3l4bkNoRW9ZNU42?oc=5",
-        "domain": "www.utilitydive.com",
-        "publisher": "Utility Dive",
-        "publisher_url": "https://www.utilitydive.com",
+        "title": "Westinghouse investing $1B to make a new kind of uranium at SC nuclear fuel factory",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObTd4ejVHaGFtU2p0d094S1htTHgtMmhSWDZ2VlhPR2xQS1JiWUlxX3JhcVprbWp1eHp5aEY2YXVDYVVuaGUtcl9ZWV9pc09XbTNSbktXSjF3UlZOSUdfcnZqTWZlbDdiRjFyMlpnTlh4YVBSR2RxcHFRdER2Yk9OVFRwOWcyaUUwY0V5bndwbjhReGdCVm9ManUycUg0cTdjcnYwNmZSaTlaVVNzVXNfX1YtbXJPNkJVWXV4UUVn?oc=5",
+        "domain": "scdailygazette.com",
+        "publisher": "SC Daily Gazette",
+        "publisher_url": "https://scdailygazette.com",
         "language": "",
-        "seendate": "20261019T153642Z",
+        "seendate": "20261021T163446Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Indiana considering 6 GW Candu nuclear project",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeDdsLVhlblNFSVZ3SUROUDdUbUo1cG5Qc1l5QUNjQXJ6TUtyekpHVDZZZnpVdU05VERvMmU2XzNfT21lanVnZU84RXpLN1RPSmJzclpCT05oRzBnWll2SFVFYmpORlNSel9yYWY2TXpvSkltc09oSnBhdDFfX3VBU3NTUGRKVmNSRVIwbDFEWQ?oc=5",
+        "domain": "world-nuclear-news.org",
+        "publisher": "World Nuclear News",
+        "publisher_url": "https://world-nuclear-news.org",
+        "language": "",
+        "seendate": "20261020T150602Z",
         "source": "GoogleNews"
       },
       {
@@ -179,33 +209,23 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Proposed Kansas nuclear reactor stock drops 50% after critical report calls it a ‘money pit’",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOb3pUR1pVOXVwYUpNRWhlQ2ZoaVNrbUZnMnpIWjFNVHotU1dRalNJV3k2ZGItOHBMd2dtbGdqdnh6dDFrU3BlVWVqYW11ZE8tYjdNTFBkVU9SYjN1Z0JJNElDSmlHdzhuSHhhTk9TQWg2VW4wZU9xZFRTQ0JuWnRoai1qWDJYNVFJLUI1MjVqeWVGZllKY0dCc1Awd0dmdXpsRTNjTUNtVy1PRzgwVG1lcllZYV85ckJJdG1BdEEtR3JQVVdONU9RMA?oc=5",
-        "domain": "kansasreflector.com",
-        "publisher": "Kansas Reflector",
-        "publisher_url": "https://kansasreflector.com",
+        "title": "AEP signs 960-MW Indiana nuclear pact with Amazon, X-energy",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaGFUTURfTGZpbEFWYW1sZkRtUXJKUDFpVzA4Nno4aHNrOEtnNHN0S2pDUFBFLXRMU3dvcUdIS3lJMEpqMno5M0RtV01UVDc5X2RwbGZoQnJkYzNUZUpCUjdIZDJqNE5iVnFoLUNqR3VObWZ2M1o5eDd2bmZ5R3kwSE1DT2VSd0dFV3l4bkNoRW9ZNU42?oc=5",
+        "domain": "www.utilitydive.com",
+        "publisher": "Utility Dive",
+        "publisher_url": "https://www.utilitydive.com",
         "language": "",
-        "seendate": "20261021T125530Z",
+        "seendate": "20261019T153642Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Holy See: Nuclear weapons are one of gravest threats to humanity",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYVBIMGFnNVpybW1NQXlwTTVrUEFEdVB3WksxSDhmcTdmQVJyd2p5cjJPYWV5clZGUG1TSm9faHBIMkZtV0FrSndsOVNyR0xHVVBiZjRMek1MM0MxUGhoOVdrWWg1WDlESVUwcVIzYWhrYkN1NlFBTUt3WTNFbzNaRHktRkNPc21ENVU2VUNGc1hfYzRvUVZhYUNzQjlhT1NMM3VCQzd0NkFkdUlTd1B0RW4xRXdsWm9VaFNFeUp3c0w?oc=5",
-        "domain": "www.vaticannews.va",
-        "publisher": "Vatican News",
-        "publisher_url": "https://www.vaticannews.va",
+        "title": "The History of Nuclear Power in Space",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5xdXdsX2xfOGVGUmlqX2pxQTY1ckp2R3lDdVA0Rmo5dFI1VWtrVmpEb0NOb2VmaUdiUzFRZ3ZsWGx2TjkwZ2hrN0s0WlI4Tmw3cHN1UERTT0YyOVFKN0h1X01OR0R1ZXMzR0ZSZmtVMA?oc=5",
+        "domain": "www.energy.gov",
+        "publisher": "Department of Energy (.gov)",
+        "publisher_url": "https://www.energy.gov",
         "language": "",
-        "seendate": "20261020T131601Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "The Nuclear Company Proposes 6.6-GW AP1000 Nuclear Campus in Kentucky",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPci1QekR0VTFtSWZhRnFkMGdoOWNGS2ctdTNuYnZ4WFMzMk5obTROOHk3TnRkZ1c1NFJ5WWUydTJtemFVaFRab2dQWjctWE05eU5XNkkwWHRPdzNGamJ2bXk3eWNKbUViSTR1aDRoWnVkTlNJWndTUWxXaURjWW9GV2xrTTlSZW5OSVBQSFVwX3Y3amg0RTdyNVNmaw?oc=5",
-        "domain": "www.powermag.com",
-        "publisher": "POWER Magazine",
-        "publisher_url": "https://www.powermag.com",
-        "language": "",
-        "seendate": "20261021T142849Z",
+        "seendate": "20261016T173000Z",
         "source": "GoogleNews"
       },
       {
@@ -219,13 +239,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Critical Capital: Can nuclear seize on data center momentum?",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcXdyc181NGQ0OGgxWjVyc3hDaU03N1dUY2V4cnZGVU15UDZyMW5ma1AxaFBIOHRjQWtNQkVDX2dER2lSb0pfSHJkRlMybkN1a0lDeGUyMkE3WndxTXp0V1U5UlpILUw1djd2cnExNGlJTDdZSWpLREo5VW1rYkhHU1kxVDcwYTVRMmREQWNrSVRDajB0eFhnSzlB?oc=5",
-        "domain": "www.latitudemedia.com",
-        "publisher": "Latitude Media",
-        "publisher_url": "https://www.latitudemedia.com",
+        "title": "Holy See: Nuclear weapons are one of gravest threats to humanity",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYVBIMGFnNVpybW1NQXlwTTVrUEFEdVB3WksxSDhmcTdmQVJyd2p5cjJPYWV5clZGUG1TSm9faHBIMkZtV0FrSndsOVNyR0xHVVBiZjRMek1MM0MxUGhoOVdrWWg1WDlESVUwcVIzYWhrYkN1NlFBTUt3WTNFbzNaRHktRkNPc21ENVU2VUNGc1hfYzRvUVZhYUNzQjlhT1NMM3VCQzd0NkFkdUlTd1B0RW4xRXdsWm9VaFNFeUp3c0w?oc=5",
+        "domain": "www.vaticannews.va",
+        "publisher": "Vatican News",
+        "publisher_url": "https://www.vaticannews.va",
         "language": "",
-        "seendate": "20261021T113238Z",
+        "seendate": "20261019T070000Z",
         "source": "GoogleNews"
       },
       {
@@ -239,6 +259,16 @@
         "source": "GoogleNews"
       },
       {
+        "title": "Amazon Funds Nuclear Project Planned to Generate Nearly 1 Gigawatt of Carbon-Free Energy",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONUpVZE9KR2JZcmdOVG9jRkdid2dLU2luZFctMWh1RF9CYlNwLWhmaEtKWTBsaHUyUmZqSnZQUzNEZHJGNWhTX29OSXBjOVh2R18zclRZeHAxTmxvcS1oaXdVQVYzaVBDYV9taXdHSktSdWYyd2pSdHZPSjdJcE5QUFRrRmU5Z2RRRVZMbk1yWWNvekU5bFNiNzgxZmdCTzlmcDFCbktNZ1lNNVdOSjYyQllWZHNhVEd2ZmtneA?oc=5",
+        "domain": "broadbandbreakfast.com",
+        "publisher": "Broadband Breakfast",
+        "publisher_url": "https://broadbandbreakfast.com",
+        "language": "",
+        "seendate": "20261021T180957Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "President Trump wants a historic legacy. He should start by resurrecting Reagan's nuclear diplomacy",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWG9lSVpTUERtSjZvblNrN2k0UGlLZnN2LWtvQTZzdWRONHZpVENZOWN0NTIzd1pxN3VEY2JvUmZ3ZXpYME96SUVsZ1lPS0o4cHJHa0JlUlhjS2dlZVdWbDU1ZkVSV1NGVkM1d3l6WjBrc1pNMzlTRWhBcWZpR3g1OWFBMlhWUmMyX3d4YVN4N1R6S2w5VGY2Y1lxRFgxUFB1OW5qaTRQV1RJQktCOW1pTl9FMnZvV2xwa2hVZ1JVeXA0b0VXaklsVVFR?oc=5",
         "domain": "thebulletin.org",
@@ -249,33 +279,23 @@
         "source": "GoogleNews"
       },
       {
-        "title": "The Nuclear Threat Is Roaring Back, Thanks in Part to Donald Trump",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMlVxN2l3cEF4QnpUTHl4eVNYNDVta3hDZFFxaGhRaGNsUE44cWZLQWJPOW5pQVJMdWp3R1V6NllsXzdfa1cwZ2pRcVRTMnNpQWkwQzg0dnJLV3ZNdW9ZbHdFWmk1ajdIamtQX2E5bWFxYVM5VmI0VWxaY2VpeEQyQzlYZDI4OTVxN09hbTlybWxBS25KcjdhZHJYOEUzUXZJa2M1VF9ZUQ?oc=5",
-        "domain": "www.rollingstone.com",
-        "publisher": "Rolling Stone",
-        "publisher_url": "https://www.rollingstone.com",
+        "title": "Proposed nuclear campus could be Kentucky’s first commercial reactor site",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNd2hucHFycktwVEtSbUhVX1EzTjdWTWdDUV9ScUc2MXhHaVVVR1VQMmdManc5aE5MWmJBclZOTjhsMmpMMUZSaG5ac0dVZUNYNDZ3NDBnWjE0R0VQeGcyUFdrYWlmYXdrUm9wOVhaRU5lbmhwa1BfYTAzaGhOSENMMGlaUjFITVZtLWxNZV83MkVVZjVQejZJYjJybHV1eFpLWVd2ck5vQkhXbUt4cFJKMw?oc=5",
+        "domain": "www.wkyt.com",
+        "publisher": "WKYT",
+        "publisher_url": "https://www.wkyt.com",
         "language": "",
-        "seendate": "20261021T140000Z",
+        "seendate": "20261021T212800Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Costs and permitting are barriers to nuclear-powered electricity in Idaho, utilities say",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObVZkX2ZkRm1FbWNtZU96RVBHbENMRFItb0hpR1RBekNkTGNZRlIzZk9RUFd3N1NENG1IVGVzQzVQX2VzbWdmSkZwaC0wa2ZoV29lNUQwaDZvOEhuVFV4RlMzRTZ4RlNOYkxlWVhPZG43UTZfRnVva0pLekkwLVhfZGk1Z2QzOE1Obk5OOXhTbnpKdVFOYk5kWEtNUlk0c2ZLMHVFX0dyMW9ubFQ4WFFuWnJ6QTRndi0wMWlPeEpXQmtoMjJYUWc?oc=5",
-        "domain": "idahocapitalsun.com",
-        "publisher": "Idaho Capital Sun",
-        "publisher_url": "https://idahocapitalsun.com",
+        "title": "DOE OKs Savannah River Site as next home for nation's largest supply of new nuclear warhead triggers",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWWstVW90bms3andNWGMtYWZFdTRQM2VnTVpkWUloX05hVEVvX1dOVkpJYXkyd2tzbXlfWG9RSDd1cG1XMWYwWTlMUjFvUG1ieTB3LTZiQVFKa3Q0dU1SSTdtXzFrTGsxZkt2QVNLcXZhd0lqaXQ1NUVid1g3YnBTYURpMVEtUFhkU2t6RG1ZVkVEVkFFUnZOVEFwQnlhb29RZm5sRFNiU1lfUWlrTHBnazFhSUxtLVRXT1AyVGNkVkxfZVhnVlhSTC1Xdm1EV3U4UUE?oc=5",
+        "domain": "thecurrentga.org",
+        "publisher": "The Current",
+        "publisher_url": "https://thecurrentga.org",
         "language": "",
-        "seendate": "20261020T230841Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Indiana will bring nuclear energy to the grid under new agreement",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYkJSaXp2a1NZclRwQ1c4UmFtM05mLTFRLXBjM05xbXdIWFlwaDNRMDI3NlpfX3NXSU9qMlZJbGdmXzQwSHp2YlRHRUdQd1BTQ0tDeFhoVVdHRm13bzBsb1dScHFibndXV0thMHR5bWUyYzEteC1xTUttZ3ppYTRiY1MwNm50cWdrS0ZLUXNNVW1DajhndmM4YlRNY2VZbFNVdF9v?oc=5",
-        "domain": "www.ipm.org",
-        "publisher": "Indiana Public Media",
-        "publisher_url": "https://www.ipm.org",
-        "language": "",
-        "seendate": "20261021T164800Z",
+        "seendate": "20261021T181655Z",
         "source": "GoogleNews"
       },
       {
@@ -289,6 +309,26 @@
         "source": "GoogleNews"
       },
       {
+        "title": "EANM: Is ‘research fragmentation’ holding back nuclear medicine?",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPRWdTMzZzMEhDQkJiWkZ5OW0tNXYxMk9pcldrNEl3ek5xdm0xdVl3ampEdWhGRS1WOWJ2cDVBMU51N3pxdGNiZFlHdDJld0g4Qm8zV3lJOGtDZWxXLVhuUVVSZXJ3SXA1M0M4TkF0b3lzb1lsZWxGSEcyLWpnbjdvYmY2RThMMldhWm5HRnBXaTdGUDltOEJ3ZjNpaGxLeVE5cmQ5eFdSX090X2ptU1RsY3QwcFpkZlhzTWk2YjJIRC1pejhWQ0FwU0lKbnJWN1BNLUNaVG5zTmJYRUFhdUozLVhIVUg1TEhK?oc=5",
+        "domain": "www.auntminnie.com",
+        "publisher": "AuntMinnie",
+        "publisher_url": "https://www.auntminnie.com",
+        "language": "",
+        "seendate": "20261021T212230Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Proposed Kansas nuclear reactor stock drops 50% after critical report calls it a ‘money pit’",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOb3pUR1pVOXVwYUpNRWhlQ2ZoaVNrbUZnMnpIWjFNVHotU1dRalNJV3k2ZGItOHBMd2dtbGdqdnh6dDFrU3BlVWVqYW11ZE8tYjdNTFBkVU9SYjN1Z0JJNElDSmlHdzhuSHhhTk9TQWg2VW4wZU9xZFRTQ0JuWnRoai1qWDJYNVFJLUI1MjVqeWVGZllKY0dCc1Awd0dmdXpsRTNjTUNtVy1PRzgwVG1lcllZYV85ckJJdG1BdEEtR3JQVVdONU9RMA?oc=5",
+        "domain": "kansasreflector.com",
+        "publisher": "Kansas Reflector",
+        "publisher_url": "https://kansasreflector.com",
+        "language": "",
+        "seendate": "20261021T125530Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "Rosatom signs floating nuclear power deal for Indonesia",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNU1F1UEh0Sno5TEpwSjJzZmpkZ2ZjY242Rzduakd6S2lMMDZpcXl0RWx4d0NDRFJnZmF6Umg4aVotS3hDN1NhcHFhWU9ramFJdGlsSU9fTl9JdGRQSl9aUS1JZHBfem1YQkRoSE9VLWNmOTRWUjVJVHFqY25qbGIwbTdiR3dQT0dNUUlZTUpEUE04SmlSdUhLT1BLVQ?oc=5",
         "domain": "world-nuclear-news.org",
@@ -299,23 +339,53 @@
         "source": "GoogleNews"
       },
       {
-        "title": "NATO 3.0 Is a Dangerous Gamble",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSldmYnhvbmFLUVhLdU9WeXVXVk83bF9Vdk5seGp4TWZwa0d0bWtGaUdpdTBzTjJISEYxT1hBZUlKXzMyd0VuRnotclNqQ3o0cWw1V0t5WTFPOTNJa2xrdWZYakh5SmYxZF9YRWVZTkt2emdjVTF2Q3VUSWpHYWhWUGpnM3Z1bV9iN2w3bTk4ZXFqcDRGQXptRw?oc=5",
-        "domain": "foreignpolicy.com",
-        "publisher": "Foreign Policy",
-        "publisher_url": "https://foreignpolicy.com",
+        "title": "Costs and permitting are barriers to nuclear-powered electricity in Idaho, utilities say",
+        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPT1NtamFaSDJja0t6c3B1VWF6eHpiN3Q2a3RWZnl2UEVwUk1KWVZLQU5WZ1h0SHFlUXVMN3ZtMzJ5ZThCNWxVM0pDUEltTEJVSWJ0a1NNZlRQN213NW5CMzdUYnczdDdkYWFqVUx5TnRSQUpubUJiSUdKMjNKbVNHQmYyUWR5SUVzTTF0YlFHZkJtLWtVOWhsNDJfckt1enMzaE5pVXV2SHlHUGRGd0dkamUzc3hLX3hDVnc5VDJWNVd5NW5faHBmSGc4d1NiU1FoZklBMlR0MktGaGZ4T1F5ZV9pUXRMX01vNGlSN0EzMlFLb3hMalFTMEdrSnJZcjFGVTlxSUdn?oc=5",
+        "domain": "www.idahostatejournal.com",
+        "publisher": "Idaho State Journal",
+        "publisher_url": "https://www.idahostatejournal.com",
         "language": "",
-        "seendate": "20261021T162216Z",
+        "seendate": "20261021T172000Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Nuclear Power Group Announces Six-Reactor, 6.6-GW Campus at Kentucky Site",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT2gzbzJLUEVaNlhjTWxmbC1Jb1dPRTNMVVV2NWx5TXpMU00xWU1YendTUHBlbVl0Sy1YcWsyRGQyN3BoeFkzY3djeGRzUG5pRk1ka0J2cU4xaWtqUVhOenVIaTFnNVJEdVZTRDZvMjF3b2dNU3QxQUdXWWhaZ2VpWjB4dGFqbEMySFUtLTNYekpZTkJ1YzhiU3Bld0NNRXc?oc=5",
+        "title": "The Nuclear Company Proposes 6.6-GW AP1000 Nuclear Campus in Kentucky",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPci1QekR0VTFtSWZhRnFkMGdoOWNGS2ctdTNuYnZ4WFMzMk5obTROOHk3TnRkZ1c1NFJ5WWUydTJtemFVaFRab2dQWjctWE05eU5XNkkwWHRPdzNGamJ2bXk3eWNKbUViSTR1aDRoWnVkTlNJWndTUWxXaURjWW9GV2xrTTlSZW5OSVBQSFVwX3Y3amg0RTdyNVNmaw?oc=5",
         "domain": "www.powermag.com",
         "publisher": "POWER Magazine",
         "publisher_url": "https://www.powermag.com",
         "language": "",
-        "seendate": "20261021T145349Z",
+        "seendate": "20261021T142849Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Indiana will bring nuclear energy to the grid under new agreement",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYkJSaXp2a1NZclRwQ1c4UmFtM05mLTFRLXBjM05xbXdIWFlwaDNRMDI3NlpfX3NXSU9qMlZJbGdmXzQwSHp2YlRHRUdQd1BTQ0tDeFhoVVdHRm13bzBsb1dScHFibndXV0thMHR5bWUyYzEteC1xTUttZ3ppYTRiY1MwNm50cWdrS0ZLUXNNVW1DajhndmM4YlRNY2VZbFNVdF9v?oc=5",
+        "domain": "www.ipm.org",
+        "publisher": "Indiana Public Media",
+        "publisher_url": "https://www.ipm.org",
+        "language": "",
+        "seendate": "20261021T164800Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "The Nuclear Company Unveils a Chinese-Style Reactor Megaproject in Kentucky",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9sRW93dzRrS05GbG5NMHRFbDd3dE5rUG5IMmVtR3BURDhLV1lxakVJUVZ2bE9nR3FrYUg3R3NmeEdaWk5wNVVadmhWbUM4dUJRVHZxUFQzYmNhSHdEZW5CM1lwWC1DSjltdWZwbU5uUQ?oc=5",
+        "domain": "heatmap.news",
+        "publisher": "Heatmap News",
+        "publisher_url": "https://heatmap.news",
+        "language": "",
+        "seendate": "20261021T184521Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Startup proposes massive nuclear power plant campus in Lewis County",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTGVrdGJkMHJvUFduQWlUN2x5cXJGb2NqaWJ6bnM2MngybnN0Yll2Uk9iQS1BTHR5V3M3cWVGYnFoUXFFclk3b05tdnRGVXk1SFlKZFpwNmozRjFWbVIxTE1xZDNBcFNiTGJNbG5DNVFhRkVmLTFSZ1lIYVpiRncyX0ozbVpuenJCUlhkSnVLNEJDb2EwenU1LTVwMERXSW82ZTY2UHMxdENOaVVneWc?oc=5",
+        "domain": "www.wuky.org",
+        "publisher": "WUKY",
+        "publisher_url": "https://www.wuky.org",
+        "language": "",
+        "seendate": "20261021T180500Z",
         "source": "GoogleNews"
       },
       {
@@ -339,33 +409,33 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Canada: City opposes deep repository designation; court denies NSDF challenge",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQb1hvWHdfT19FdzYyWDA3cGJhRHphWmxfZjZsOEh5ZWhsbGFHMm83TGhNVWZ0NkNVX3RQcTBUaURnd0lIMy1ySUl6VlV4a2c0TGI5bHhzUlFLRnZXSmI0LU9kQnpzX3k3VlBXY1JmUU9weTltX2VTUXk2RnJZZHNNM19jV04tcUtNZkRNaG03YlkyMWdGa2hUOFQtOTBBUnFDNWRfNno2RWY0ejlsaElHRGZSaU0?oc=5",
-        "domain": "www.ans.org",
-        "publisher": "American Nuclear Society",
-        "publisher_url": "https://www.ans.org",
+        "title": "The Nuclear Threat Is Roaring Back, Thanks in Part to Donald Trump",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMlVxN2l3cEF4QnpUTHl4eVNYNDVta3hDZFFxaGhRaGNsUE44cWZLQWJPOW5pQVJMdWp3R1V6NllsXzdfa1cwZ2pRcVRTMnNpQWkwQzg0dnJLV3ZNdW9ZbHdFWmk1ajdIamtQX2E5bWFxYVM5VmI0VWxaY2VpeEQyQzlYZDI4OTVxN09hbTlybWxBS25KcjdhZHJYOEUzUXZJa2M1VF9ZUQ?oc=5",
+        "domain": "www.rollingstone.com",
+        "publisher": "Rolling Stone",
+        "publisher_url": "https://www.rollingstone.com",
         "language": "",
-        "seendate": "20261021T121419Z",
+        "seendate": "20261021T140000Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Companies announce proposed 6.6-gigawatt nuclear power campus in northeastern Kentucky",
-        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQUTg2MjB4MDlWbVZnRi1mZlZaVWJXekJ5ZW04MHJ3MzNBZHZGQmhBcjF4X2JhNmZSS2Zvc3hKcDZYamNTd2hEbmFKY3NvcjdXUFMyQ2NWYjN1SHlJTXRXOFpXZzUweTJLVzROSHZwckxxMjZfd0NIWmpNeElBcWVZVUFENDFkbTVUUDJpeXJjbHNwdTYtN2ZoSVptVDhoampqQVZacll1akluSkZoZDhpNzRTcGtCWTNkV2c4TWdkVTRoQzhEcVA0azJmTEV3eFU1U00zYXlEM1dWZkNDRGkycHgzNnI2dVNZS0c4MmRLSmhCTXlpZWhUX0llT2Z3R0p6?oc=5",
-        "domain": "www.kentuckytoday.com",
-        "publisher": "Kentucky Today",
-        "publisher_url": "https://www.kentuckytoday.com",
+        "title": "Report: Hiring Freeze, Downsizing Reversed Nuclear Agency’s Effort to Address Skills Shortfall",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdk5id3NtdU9odG1fZm5VY3hmZ0kwb0FxZHdILXQ1QjR2T3dRUTRtVW1SOGpSVWY4dUlDTE1zanNQalZ2Y0V0NlU5WFhQWUhFNDhuaTJHZjdXQlF1WlNSeC10OHdPWE1CS3pzcXI4dFhEcUNGelFHSkxOQktYXy1VRFViWklTbmlNa0NjLVRreTltZzhQc2MxSkU3UUJ4WVRPVEVYQnRobUpDbmlVNWI2OXVWM0gxc0dWNlY4aEVETzYyVTJSSG9yWnVsNGNuc253X3dxUDlTNFJVSnhab1JZ?oc=5",
+        "domain": "www.fedweek.com",
+        "publisher": "FEDweek",
+        "publisher_url": "https://www.fedweek.com",
         "language": "",
-        "seendate": "20261021T170100Z",
+        "seendate": "20261021T140656Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Korean concern over proposed 'Made in EU' act's impact on nuclear power projects",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOEg5NEx3VmNLZEdwNEZ5WXlJWThxdHVnNk5PcVpzMnItVkFYZUM0R1lkaWE3WlRNdEF3TDVvbEh4eWcwYlZVdjI0elJGdGtOakdTUXVnZ1VyZjJlQVpMMUdvS1ZmZTNuZDZfei1ScFBJMDdCMXFmZ054VTNMYUdfbExxNVZkSjFxUXF0dERRY2lvSENRdVFIQ090djZxZ2tJZ1hSZWhvUGwzN3RtcDd3a2ZQczFidw?oc=5",
-        "domain": "world-nuclear-news.org",
-        "publisher": "World Nuclear News",
-        "publisher_url": "https://world-nuclear-news.org",
+        "title": "Nucleon sees opportunity to grow Wyoming’s nuclear fuel industry",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYjQwWUdtNU1DYTBqY1ZRUFhWbGFaakxWakFLbGFidGxyaGVkdkhXcFRkZ2NtUkxVUXhPQUtiSXI3Zk5DdGV0cFJBbHhKRTJfM0RiMllLTHFkTEtpc1VMeUc4d1NzYlFGMkpmc2xZM09LR3dTOWpHX19KM1duckZZRVp0NUJHLU5lTlJuQl9JaXF6WWVIWVR2VFZBNWY?oc=5",
+        "domain": "county17.com",
+        "publisher": "County 17",
+        "publisher_url": "https://county17.com",
         "language": "",
-        "seendate": "20261021T035513Z",
+        "seendate": "20261021T203519Z",
         "source": "GoogleNews"
       },
       {
@@ -379,43 +449,53 @@
         "source": "GoogleNews"
       },
       {
-        "title": "As America’s nuclear pipeline grows, brokers face a specialist placement challenge",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTFBHUHJ5ZVVIdmt1M3ZNM2p6UWY3M0VRZVl3Zk10RW9QT1o0b0VBTGVaZlVSbGxiTVE5NmZwWU5PR1N0NXEzbU1ZSm0zd1AzRndGZlhPWVFXeEFydE9YS2Y5Q1JwcnVjOTd6YWJQeTl4Ym00MDdhaHN2S091eTZSOXBuOTk2U3pKNm4tUWFhekg0ZVZENTlYRkpLbmpkTHNGS0EyRDU5ZGJ5ckpGWUg4X2FDUVVTLXBzVkhWclVVRnd0NE12dkJWb21RQ1FLVnAzWHVGY1dPODE0VWlyWXg3VHZPWDE?oc=5",
-        "domain": "www.insurancebusinessmag.com",
-        "publisher": "Insurance Business",
-        "publisher_url": "https://www.insurancebusinessmag.com",
+        "title": "Critical Capital: Can nuclear seize on data center momentum?",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcXdyc181NGQ0OGgxWjVyc3hDaU03N1dUY2V4cnZGVU15UDZyMW5ma1AxaFBIOHRjQWtNQkVDX2dER2lSb0pfSHJkRlMybkN1a0lDeGUyMkE3WndxTXp0V1U5UlpILUw1djd2cnExNGlJTDdZSWpLREo5VW1rYkhHU1kxVDcwYTVRMmREQWNrSVRDajB0eFhnSzlB?oc=5",
+        "domain": "www.latitudemedia.com",
+        "publisher": "Latitude Media",
+        "publisher_url": "https://www.latitudemedia.com",
         "language": "",
-        "seendate": "20261021T142348Z",
+        "seendate": "20261021T113238Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Atos selected by EDF to accelerate the digital transformation of nuclear operations for its EPR export projects",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE90MDRhMEY3NnExcy1xMjc5TWJtRHRzbDhTd2ZjN0RhT0xDMzFiWlAxeHlBTFNpXzV2Tlo2dWRpclhNV3dtV1pLdEUtVVJGV0UxY1A1Tkd0dmNzRThLNldkc3AyYndwTFRSNUVpMmw3Yw?oc=5",
-        "domain": "www.webwire.com",
-        "publisher": "WebWire",
-        "publisher_url": "https://www.webwire.com",
+        "title": "Westinghouse $1B Richland County expansion targets next-gen nuclear fuel",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTC1tMGFndnBTX0QzSnBVbHZuNE1SQ1dpUVR6ZDlwWmx3UWp3MWdzSnlLUFBBNVJOckpLRFNDT0NvT1FDbUpqRmN6Zlg4eTVHcmpHR3ZjalA0cmtnVlJHYkF6NlRuV0VoZG9qdWhPTk9INHdtMW52dXEwc09XODlUWHlCRkZST3RJRHFqVjZpTElKN25wNzJCdDY3Y3BPdTFx?oc=5",
+        "domain": "wach.com",
+        "publisher": "WACH.com",
+        "publisher_url": "https://wach.com",
         "language": "",
-        "seendate": "20261021T132311Z",
+        "seendate": "20261021T165343Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Westinghouse To Invest $1 Billion In New US Higher Enrichment Nuclear Fuel Facility",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdXlMaWlyTVNQTWNzUkpUOFZ5MmVPakNtcFdzT3p2cFdlMDdDQWczVThuS3gybFBJYU1yZVEyd1c4X1dfVnBmaWdQLUloRm1TWlZFS3c4Y0pfckhSbVd4dy1UNWxULW1QTDktUG5Xc3pkRTlNbzh2RndWTEE3cXk3djYtcDFlX3VIaDZHLVhlSERFV2ZaVFpjZVV5WC1CWS1Wdl9mTVhqTGpTcjBOSVY4Y3dxRXBLbG1uOEFkbTlvMFc?oc=5",
-        "domain": "www.nucnet.org",
-        "publisher": "NucNet",
-        "publisher_url": "https://www.nucnet.org",
+        "title": "Nuclear Power Now Has Bipartisan Support",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0wZFVhaC1qX09XM3hkNElWN0ttZVZmeVp3bU00aHdrbjhyWjYzYzJRTl84NXR4U290bWRfOE9CZlZhbmVzVmZGMEF2RHR5c3QxOG9YLTEzaDNtaENCMmp4b0JySC0yeUdRQTQzTDh1bFZaMmJmeWlQYUtsRQ?oc=5",
+        "domain": "reason.com",
+        "publisher": "Reason Magazine",
+        "publisher_url": "https://reason.com",
         "language": "",
-        "seendate": "20261021T111330Z",
+        "seendate": "20261021T173508Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Russia to Build $815 Million Arctic Shipyard for Its Growing Fleet of Floating Nuclear Reactors",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPLVdvMnJIb010NkV2UE9FajJ5aG9OUElIR2tuSUF4LUpfaHpRSkdsN1RGRDNQbElDNnM1ZHRUN210X3R4cXhlWnNjMUwzMnluajltUkxVbzJtR2c0a0EwazREVDQyODdhM3BVVG1EbjlRNjZoalJFRUY4Z2k0WXluUVNmNC1pN3oyZENEdnVpRzJHenpUZmNDUkVfWFdwZ3pkN0hESnhzR2hpcXpLSVFjS3lKc3BVZTl0MDZUX1R0cnlDcW9lVFhYUjBWai1fa2ZqRF82VGRGLUo?oc=5",
-        "domain": "united24media.com",
-        "publisher": "UNITED24 Media",
-        "publisher_url": "https://united24media.com",
+        "title": "NATO 3.0 Is a Dangerous Gamble",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSldmYnhvbmFLUVhLdU9WeXVXVk83bF9Vdk5seGp4TWZwa0d0bWtGaUdpdTBzTjJISEYxT1hBZUlKXzMyd0VuRnotclNqQ3o0cWw1V0t5WTFPOTNJa2xrdWZYakh5SmYxZF9YRWVZTkt2emdjVTF2Q3VUSWpHYWhWUGpnM3Z1bV9iN2w3bTk4ZXFqcDRGQXptRw?oc=5",
+        "domain": "foreignpolicy.com",
+        "publisher": "Foreign Policy",
+        "publisher_url": "https://foreignpolicy.com",
         "language": "",
-        "seendate": "20261021T120515Z",
+        "seendate": "20261021T181528Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Developing nuclear energy in Indiana",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUGFsdGN2UUdULWJrb1V6YkVUUnlKaVBXblNyRU1NQlB0ekJWQ0V2QndoZGxvcTdvb05HODJQVnpxaFhPcF8xR2RYRUN5ZEpBSFhTRWlVYmJCeG9hQ1R6djd6UWhzWHRwUUR1emZGR1NLMk52LW1EZEtNZ0hKQUJtNlpndlhFQjZsb1Y3aHdmaDU0QnhPTm9la3I1SURfaHNxR1dWX1h6N3VVdDhCU3M1Q0VQaWE3UQ?oc=5",
+        "domain": "www.wthr.com",
+        "publisher": "WTHR",
+        "publisher_url": "https://www.wthr.com",
+        "language": "",
+        "seendate": "20261021T213400Z",
         "source": "GoogleNews"
       },
       {
@@ -429,103 +509,23 @@
         "source": "GoogleNews"
       },
       {
-        "title": "The Knoxville Blueprint: Bill Tindal, Tennessee Nuclear Network",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQREphOGZGVE1naHloOW1hS3VkTkZYSHowWGoxQklYdzlCN3hzNGlqSFZGVkNSRjBoUV9BeFItSEFraUI1eG9uSWozbGVQQmI1bnloc1ZNaXp6NGlZU1F3eW54c3F2UjdfZnRXTUFReU12ZHdBTGtwVUlxRHpPNkpOYzB4SXZuYVl2cjJzZkx5WGM3S1BNRlYwV1daWFNZcjNyaHhRWUxvTV96cjBmbmlHbXI0S3ZEZEE4MUFLTmlyMVNlcXNqbVZUR0pWYk1ucF9fYkR6RVF2bHhzandmR2kxWWVuM0xWelZpRFE?oc=5",
-        "domain": "www.wbir.com",
-        "publisher": "WBIR",
-        "publisher_url": "https://www.wbir.com",
+        "title": "US to install 8 CANDU nuclear plants with 6GW capacity in Indiana",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdm1UaU02dC1qejUtZUhqeE4tYzlfSzZlNzNvckpYSndMaHA2NUZFSl9VcEROUGdpV3pkN2M2TzM4ZHY1RTAxQVNCcm10NjlwblRXcDRlS1JjQmtiYjNaRnVVaEw5YXNvSjhJY2s4dnFybHRtVmFfd1FnODdEM1h5TVZ5NzJxZw?oc=5",
+        "domain": "interestingengineering.com",
+        "publisher": "Interesting Engineering",
+        "publisher_url": "https://interestingengineering.com",
         "language": "",
-        "seendate": "20261021T173000Z",
+        "seendate": "20261021T194100Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Westinghouse plans $1 billion expansion facility in Richland County",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9lSGhRNGNUS0hTNVJfZDV5WTUyb0VPcml2R19LcmhqQ0NhUVdXZXZfb0xkaDNBQXg5UUg0S0RhcHg1MXp2LUFsa3ZtRDZPN1Y5Zzhlb1AyUnBpU1lvU1ZtVDM2azdxYjU40gFoQVVfeXFMTVQ4b3o5UXk1V2pQelpPTURFTXFTX25qVUtnSHBPRGIwcE9XVmxRM2xBYXlyVl9WQ3FUcVVhTUZ4bkZ1QVpmeldza3o1VWhuV2xMYnNaaTktOWZEbU8wYVBzZTVSQ1UyOTE?oc=5",
-        "domain": "www.thestate.com",
-        "publisher": "The State",
-        "publisher_url": "https://www.thestate.com",
+        "title": "Companies announce proposed 6.6-gigawatt nuclear power campus in northeastern Kentucky",
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQUTg2MjB4MDlWbVZnRi1mZlZaVWJXekJ5ZW04MHJ3MzNBZHZGQmhBcjF4X2JhNmZSS2Zvc3hKcDZYamNTd2hEbmFKY3NvcjdXUFMyQ2NWYjN1SHlJTXRXOFpXZzUweTJLVzROSHZwckxxMjZfd0NIWmpNeElBcWVZVUFENDFkbTVUUDJpeXJjbHNwdTYtN2ZoSVptVDhoampqQVZacll1akluSkZoZDhpNzRTcGtCWTNkV2c4TWdkVTRoQzhEcVA0azJmTEV3eFU1U00zYXlEM1dWZkNDRGkycHgzNnI2dVNZS0c4MmRLSmhCTXlpZWhUX0llT2Z3R0p6?oc=5",
+        "domain": "www.kentuckytoday.com",
+        "publisher": "Kentucky Today",
+        "publisher_url": "https://www.kentuckytoday.com",
         "language": "",
-        "seendate": "20261021T141830Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Indiana considering 6 GW Candu nuclear project",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeDdsLVhlblNFSVZ3SUROUDdUbUo1cG5Qc1l5QUNjQXJ6TUtyekpHVDZZZnpVdU05VERvMmU2XzNfT21lanVnZU84RXpLN1RPSmJzclpCT05oRzBnWll2SFVFYmpORlNSel9yYWY2TXpvSkltc09oSnBhdDFfX3VBU3NTUGRKVmNSRVIwbDFEWQ?oc=5",
-        "domain": "world-nuclear-news.org",
-        "publisher": "World Nuclear News",
-        "publisher_url": "https://world-nuclear-news.org",
-        "language": "",
-        "seendate": "20261020T150602Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Westinghouse to invest $1B in South Carolina nuclear fuel plant expansion",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdV9KcUE0aTlaSndLbHVaajluVk5CYVljeld0aE5qMFNENFJ0Q1lCb0FWT1RDdWQ3bWFxal80NWhTVXhrRlNuU19heU14VUZ2S0lVa21aV1BneFJieVhOWmROa09iQTd2UUVrVjF5NWRrOE5tbkh2SlF6aVp4a3hTNlFMY0M0Q3FKRm1RV0VIYTR0Vk1zcnJ4ejRpTVZDQXZacEdCbjh6cw?oc=5",
-        "domain": "www.bizjournals.com",
-        "publisher": "The Business Journals",
-        "publisher_url": "https://www.bizjournals.com",
-        "language": "",
-        "seendate": "20261021T150500Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Westinghouse $1B Richland County expansion targets next-gen nuclear fuel",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTC1tMGFndnBTX0QzSnBVbHZuNE1SQ1dpUVR6ZDlwWmx3UWp3MWdzSnlLUFBBNVJOckpLRFNDT0NvT1FDbUpqRmN6Zlg4eTVHcmpHR3ZjalA0cmtnVlJHYkF6NlRuV0VoZG9qdWhPTk9INHdtMW52dXEwc09XODlUWHlCRkZST3RJRHFqVjZpTElKN25wNzJCdDY3Y3BPdTFx?oc=5",
-        "domain": "wach.com",
-        "publisher": "WACH.com",
-        "publisher_url": "https://wach.com",
-        "language": "",
-        "seendate": "20261021T114945Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Westinghouse investing $1B to expand Richland County nuclear fuel facility",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNanN0amlCd1JkdjY3S05PVW5kdnhNNEtOWVhqa08tVGxfVTJjNWZ3LUIzZjhReDRmSk9xQlNhbWlycGVWajVxYl83N29ncW5wNk1WbklERWVQUHRBejRJSlRzVFBmdW5OWWxDc0JKbUlBRzh5dVhqU3BNdjcxa24zdHhuUVV3VFBQaWdDTmVCN0ltYnBHY1RhOGROUThrSmtXbnRQMjdvdzNSR3RNLUs3TzFtY1ZEWW9fNkpZWV8xbzR5UdIBxwFBVV95cUxPZUxsZkx3ZzB4akpmQWVGOEJhQ3FIdnYyNUpZakNYRUxmOGJTWHpvUzZyazVRLUpCZG93dk1DLUJ2MWxkUjB4Q2daWWxBZS1aYmxlOVJya3JESGdHZXpqN1V3N1REaXM0Tm9SQ3IzR3RLNlBQQUdZNWN6WkljQkduYktycEtJWFNCemlCRExCVmhTS01Mc2Z5ZkVpZ1dpSUo4cU9lX0RfaVZ4TVN5M2JiTTRoeHV1ejdLM3Z4RVowTlF6NkMzM0x3?oc=5",
-        "domain": "www.counton2.com",
-        "publisher": "WCBD News 2",
-        "publisher_url": "https://www.counton2.com",
-        "language": "",
-        "seendate": "20261021T114330Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "$6 Billion Deal Proposed to Tehran in Exchange for Nuclear Inspections",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdDVKYnpObVcySzJBZGluTGNNcnZNMk1veU10aG43MTRCTGx1N2xzVFg3SHhTYU1kOS1nbnk5ejlPZ2Zuc0lOQ01Ra1BLZ3pEZnBjR2g2MGo1RmpZWldVMmxzR3BvellVMWZXNHlVU180bi1CTkpEblVwdUpqSDlpODZrV25wQzNZNEdla215SXVoc3VpcVpvX09mQ3RHTXhvd0duQXE1d2tvUQ?oc=5",
-        "domain": "iranwire.com",
-        "publisher": "IranWire",
-        "publisher_url": "https://iranwire.com",
-        "language": "",
-        "seendate": "20261021T120635Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "County resident, officials react to proposed Amazon, AEP nuclear plant",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTGcwTzl1UkN5c0JPZUxsX01oYVJjX29YQnV1bzRiSlRnMW9uRjBzUjRJV2xSYWd0VjdsNGxMMEhQbE5MTm1SbVNHaUh3RS1MWEstRXl6T29aNzd3a2tIMWExT1JWd3Jaakh1U3IzS3JESXUwTm5ZUVIzWUhjeE1QVEgzTUpuUGlOekhQOEFIc2loenJXQTA0Zmw5cDJqSU1zOWl3VkpkS19wMndibk1LbGFrUTB2OVpWYTN2bFpHQnhWTXJ3bXRDaVZyV3VKSlhIUzg1SklR?oc=5",
-        "domain": "www.southbendtribune.com",
-        "publisher": "South Bend Tribune",
-        "publisher_url": "https://www.southbendtribune.com",
-        "language": "",
-        "seendate": "20261021T090800Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Deep Fission Signs 25-Year Power Agreement For Planned US Nuclear Project",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcEFFYWRueVlEUUltT29WUXlwNEVjd2NtNnB1YVZZM1p0RXZRWDUtenh5Nk1tY1hxdEJsbUZvMEJvNlN1Ym1qbS11UE1DbHEwaWJMamdPS3dKSWhLY3V3eEk1OTV0MjdaSWVLVmoxNV80WDNqdXVnUUJxdFpWZGFfTUZFNFFFS1N1MTRlbWY1ZzJHRHRUNkZRQzhId1JlWi01aDNjTFpvempjRmJPYUVPdw?oc=5",
-        "domain": "www.nucnet.org",
-        "publisher": "NucNet",
-        "publisher_url": "https://www.nucnet.org",
-        "language": "",
-        "seendate": "20261021T103329Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Commentary: Idaho helped start the nuclear age. We should help write what comes next.",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUzgxT21CdERiUkd6VHJhNzZBck1MVnhQYWg2c2lHUGE2ZGJYaFN1Z0lNei1uZzdKRVdMcDN2U25PS2cyT01NOFV4QklpRGRFUVpZdDBNdElzaXpINWFFY2tSRmZHdE5Ka2pUTHZyS194SEZ4MjhTRXZSRXBXb2VVOUlRU3dnbGJsUTRQdXo0ZUFlblhmWmQtRTN0UkRFbS15MXEyMHhXQVY1UFMxWnhrVmtTZWV0eHIxMTEwZ3gwUkdIZw?oc=5",
-        "domain": "www.bigcountrynewsconnection.com",
-        "publisher": "Big Country News |",
-        "publisher_url": "https://www.bigcountrynewsconnection.com",
-        "language": "",
-        "seendate": "20261021T102146Z",
+        "seendate": "20261021T170100Z",
         "source": "GoogleNews"
       }
     ]
@@ -552,13 +552,23 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Space Nuclear Power Corporation Awarded DARPA Agreement for Ground Test of Autonomous Nuclear Reactor Controller",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZUtkTjBvZWRRMWMtUVQwVFV6SXJBbzVVbkxMYzFOUFJnYlpxb0VESG1sXzQ4NEtzdUpvMWpFVnV5cGN2MXRkNDBaWE4zak1MbjluVEEzdmplb09HWTlIYTZBR2stNEo3V2xWVF9jU0xMLWRVdnZiT1ZBNTJSbmZGY0h4NUllZXUtcmotb0ZialIzbUVmZGZPNVBCVzRyMjk5VlFhMkgzaERxWFhvMHhLdXNxRjFUcjN6RThDZTNOOTFQRWhRXzdWbWJiWllMVUtL?oc=5",
-      "domain": "spacenews.com",
-      "publisher": "SpaceNews",
-      "publisher_url": "https://spacenews.com",
+      "title": "Saudi Arabia’s nuclear program could outlive its government, so plan accordingly",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUVFhSlpzdmlfUWNZMGxvZm83YTEzZTk4aGtheFV5MW9mRERqS3ZHQjhGc2FsZ0NvQ292Wkw0c1hjTVplX2IySHNWSHdZbHR6NlBIRGpkMVVqOVBTcmI2emdBUmo4bkx1Mm9meHlRMFotSTEyTWdNSy1QT0lsT1NZQXl3Ti04RDJWdU5lcThsdmNVcVo5c09QdXN0R09RQ2FaMXN1MHYxaVVYSngxRFEtVFBoTWU3Zw?oc=5",
+      "domain": "breakingdefense.com",
+      "publisher": "Breaking Defense",
+      "publisher_url": "https://breakingdefense.com",
       "language": "",
-      "seendate": "20261021T142957Z",
+      "seendate": "20261021T183856Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Iran’s enriched uranium re-emerges as point of contention in US talks",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObU1fR08wbW14TkFSa0ZmVW5ZbHd6ZDA3QzlyOXRXWGVtYW9wUEdhdlN1dENmUjdvbjRaLW55X01QMjZVcFVGdmhyQVc5ei1YSjM2S2xKQXZBZVNLOXJsQ2xqcWU5cnRTMVpJbml0eURYTGs4a1VyOUozdC1kSDNrWWN6Mk9FRmRwRzFjWWs2SmNGZzQ1QzNLV3JSY01Vcjg2MXVqYnRrRDFqUnEyTFpr0gG0AUFVX3lxTE9UZUJucFFuTnhUWDE5QnZIa2VabS1KX1R3MEhDX0VMcWtDdWg4OG9mR3ZZbTRyNjhJNTREOEZscV9LUzlFZmR0ZW1DMTJuV3RuYS1pRGZLNldNUjZIbzlDZHVuUXNwZHphODhFS1JnWDNXTktRYmhvSXlCbW9sZWNBXzZLbmxHS1otbl81NjJoTG1aQThfS25OX2R4RUZ0bUsxWk9QanBFbU5SQ1VueEJLZDB3aQ?oc=5",
+      "domain": "www.aljazeera.com",
+      "publisher": "Al Jazeera",
+      "publisher_url": "https://www.aljazeera.com",
+      "language": "",
+      "seendate": "20261021T122043Z",
       "source": "GoogleNews"
     },
     {
@@ -572,13 +582,23 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Iran’s enriched uranium re-emerges as point of contention in US talks",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObU1fR08wbW14TkFSa0ZmVW5ZbHd6ZDA3QzlyOXRXWGVtYW9wUEdhdlN1dENmUjdvbjRaLW55X01QMjZVcFVGdmhyQVc5ei1YSjM2S2xKQXZBZVNLOXJsQ2xqcWU5cnRTMVpJbml0eURYTGs4a1VyOUozdC1kSDNrWWN6Mk9FRmRwRzFjWWs2SmNGZzQ1QzNLV3JSY01Vcjg2MXVqYnRrRDFqUnEyTFpr0gG0AUFVX3lxTE9UZUJucFFuTnhUWDE5QnZIa2VabS1KX1R3MEhDX0VMcWtDdWg4OG9mR3ZZbTRyNjhJNTREOEZscV9LUzlFZmR0ZW1DMTJuV3RuYS1pRGZLNldNUjZIbzlDZHVuUXNwZHphODhFS1JnWDNXTktRYmhvSXlCbW9sZWNBXzZLbmxHS1otbl81NjJoTG1aQThfS25OX2R4RUZ0bUsxWk9QanBFbU5SQ1VueEJLZDB3aQ?oc=5",
-      "domain": "www.aljazeera.com",
-      "publisher": "Al Jazeera",
-      "publisher_url": "https://www.aljazeera.com",
+      "title": "Space Nuclear Power Corporation Awarded DARPA Agreement for Ground Test of Autonomous Nuclear Reactor Controller",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZUtkTjBvZWRRMWMtUVQwVFV6SXJBbzVVbkxMYzFOUFJnYlpxb0VESG1sXzQ4NEtzdUpvMWpFVnV5cGN2MXRkNDBaWE4zak1MbjluVEEzdmplb09HWTlIYTZBR2stNEo3V2xWVF9jU0xMLWRVdnZiT1ZBNTJSbmZGY0h4NUllZXUtcmotb0ZialIzbUVmZGZPNVBCVzRyMjk5VlFhMkgzaERxWFhvMHhLdXNxRjFUcjN6RThDZTNOOTFQRWhRXzdWbWJiWllMVUtL?oc=5",
+      "domain": "spacenews.com",
+      "publisher": "SpaceNews",
+      "publisher_url": "https://spacenews.com",
       "language": "",
-      "seendate": "20261021T122043Z",
+      "seendate": "20261021T142957Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Nuclear developments in Wyoming, Kentucky, and Louisiana -- ANS / Nuclear Newswire",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc05ZUHl5OFdPYUFwYldMSTJFdnhnYmEwcFBIdlRXN0piSkdsUFhGOGRJYWloRGtSaE42SEp0V01jMF9JMG8yZkljSFRDeTdPNTgzX2V1OHFfeWo3RXVRblY2RDhUVVZ6dmdFZnpGczlfc3Mybkkzd1RZeGJJSGdiaDFvbndPeHlidkdQRHdrdWpUZ1Bsb1B3ZA?oc=5",
+      "domain": "www.ans.org",
+      "publisher": "American Nuclear Society",
+      "publisher_url": "https://www.ans.org",
+      "language": "",
+      "seendate": "20261021T205430Z",
       "source": "GoogleNews"
     },
     {
@@ -602,16 +622,6 @@
       "source": "GoogleNews"
     },
     {
-      "title": "As a UF doctoral student and TikTok star, Kaylee Cunningham is sharing her passion for nuclear energy",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YRm1hQ0ZMd3pSZEdPNDZGZGNUQTRDbnBmR1dPN2o1bnBucVZGdTRiWlRMODZ6UkNNcWdNbTdLb3BoZTVRaERJSk9YMjhpcUNwaHdFZ3U5aHdJUDQ?oc=5",
-      "domain": "news.ufl.edu",
-      "publisher": "University of Florida",
-      "publisher_url": "https://news.ufl.edu",
-      "language": "",
-      "seendate": "20261021T153100Z",
-      "source": "GoogleNews"
-    },
-    {
       "title": "The Nuclear Company Announces Prosperity One, a 6.6 Gigawatt Nuclear Power Campus in Lewis County, Kentucky",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPWEN1ZlNXcDZlc0JobzFzWGNidFJsR3hLY3NJeTZmVm1BV243QzZCbFhaRGhWN0p3YnFEa1hNWHRzLVlLNTh0SHItVk9CNklBS3I1dkZZUFMwWU9sWUNiOE42RFhjTWREWlZ6WGsxR3I1eVMwcVBLNFVoNk5fakFfc3hWbVNQdTN3VnpVNFM0MDFEWDFiVGtnOXVtUHlwRDhrc0hQNEd3blh1SDRTM01iamhrQ3FGem1XRlFKYlRBR0YtVXRzRnQ4a1otaWFzWi01bDlLQ3llczFwTktiU2tKOGdOZ05EbGFWVHpTOXRSLXBKWFk?oc=5",
       "domain": "www.prnewswire.com",
@@ -619,6 +629,26 @@
       "publisher_url": "https://www.prnewswire.com",
       "language": "",
       "seendate": "20261021T090000Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "How Close Were the Nazis to a Nuclear Bomb?",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBaTWhvMFk4bHdwZ3I0NlFvY004VmFRNTdBMDB2dzJEdTZuVGdvU1NnZXNPalA2eTRPX28wMm16RUFmbjAyUXA4LTRvNmJvZ2NkcFo0dGZDcFdrc1BENmlJ?oc=5",
+      "domain": "www.history.com",
+      "publisher": "History.com",
+      "publisher_url": "https://www.history.com",
+      "language": "",
+      "seendate": "20261021T203410Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "As a UF doctoral student and TikTok star, Kaylee Cunningham is sharing her passion for nuclear energy",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YRm1hQ0ZMd3pSZEdPNDZGZGNUQTRDbnBmR1dPN2o1bnBucVZGdTRiWlRMODZ6UkNNcWdNbTdLb3BoZTVRaERJSk9YMjhpcUNwaHdFZ3U5aHdJUDQ?oc=5",
+      "domain": "news.ufl.edu",
+      "publisher": "University of Florida",
+      "publisher_url": "https://news.ufl.edu",
+      "language": "",
+      "seendate": "20261021T153100Z",
       "source": "GoogleNews"
     },
     {
@@ -632,16 +662,6 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Westinghouse investing $1B to make a new kind of uranium at SC nuclear fuel factory",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObTd4ejVHaGFtU2p0d094S1htTHgtMmhSWDZ2VlhPR2xQS1JiWUlxX3JhcVprbWp1eHp5aEY2YXVDYVVuaGUtcl9ZWV9pc09XbTNSbktXSjF3UlZOSUdfcnZqTWZlbDdiRjFyMlpnTlh4YVBSR2RxcHFRdER2Yk9OVFRwOWcyaUUwY0V5bndwbjhReGdCVm9ManUycUg0cTdjcnYwNmZSaTlaVVNzVXNfX1YtbXJPNkJVWXV4UUVn?oc=5",
-      "domain": "scdailygazette.com",
-      "publisher": "SC Daily Gazette",
-      "publisher_url": "https://scdailygazette.com",
-      "language": "",
-      "seendate": "20261021T163446Z",
-      "source": "GoogleNews"
-    },
-    {
       "title": "State officials offered to store nuclear waste. Then residents found out.",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTkJ1d09kcjd5SE9iblR6dkVybWJDQmF6b0hlZTRNV3pYUHJIMHl0dmlHdktNRVM3NFNTb0l2bm9PMWlHRlpNQ1lleG82QWo4OWhZZzA3cE42cWU0di1OUjJVNnNzbTdGU05qcDE1WWxGWnVjOHFiZHZRT1l4eXpDb2Zwejd2YlJTS0MtajlNTVlFS0Z5aUFGX1NpamNHUEtiaEgwSmVwblRZT1poOUpJWk0zMWh1S2s?oc=5",
       "domain": "www.washingtonpost.com",
@@ -652,33 +672,13 @@
       "source": "GoogleNews"
     },
     {
-      "title": "The History of Nuclear Power in Space",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5xdXdsX2xfOGVGUmlqX2pxQTY1ckp2R3lDdVA0Rmo5dFI1VWtrVmpEb0NOb2VmaUdiUzFRZ3ZsWGx2TjkwZ2hrN0s0WlI4Tmw3cHN1UERTT0YyOVFKN0h1X01OR0R1ZXMzR0ZSZmtVMA?oc=5",
-      "domain": "www.energy.gov",
-      "publisher": "Department of Energy (.gov)",
-      "publisher_url": "https://www.energy.gov",
+      "title": "Outcome Of US Strikes on Iran's Nuclear Programs Unclear",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBNSnoybXdMTUZrNEx2bXZ2bkt5Q3MzMDc1WEhsODR2cldoSFlKSzNmQjVoM1pPUUhGZHJJdnppNWtjSXJCcEZMQWVRSVRCZDNQTHBIRHlxYzZyNy14SGNGRGtNMy1LcmZJMHlibFNtQi1tQVFNNHZB?oc=5",
+      "domain": "legis1.com",
+      "publisher": "Legis1",
+      "publisher_url": "https://legis1.com",
       "language": "",
-      "seendate": "20261016T173000Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "AEP signs 960-MW Indiana nuclear pact with Amazon, X-energy",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaGFUTURfTGZpbEFWYW1sZkRtUXJKUDFpVzA4Nno4aHNrOEtnNHN0S2pDUFBFLXRMU3dvcUdIS3lJMEpqMno5M0RtV01UVDc5X2RwbGZoQnJkYzNUZUpCUjdIZDJqNE5iVnFoLUNqR3VObWZ2M1o5eDd2bmZ5R3kwSE1DT2VSd0dFV3l4bkNoRW9ZNU42?oc=5",
-      "domain": "www.utilitydive.com",
-      "publisher": "Utility Dive",
-      "publisher_url": "https://www.utilitydive.com",
-      "language": "",
-      "seendate": "20261019T153642Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "AEP Partners with Amazon and X-energy to Explore Advanced Nuclear Energy in Indiana",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBjNTA2VTM2dDllSjB4Wjc5b2RXVk9LaC1zVGVsS1czVzJqMWNVQ3N6bnVYQWp6ZlJ0S1IwMGVfQjFNYkFvRGtIR0RNYXA1d2FMOW9DOXdvTQ?oc=5",
-      "domain": "www.aep.com",
-      "publisher": "AEP.com",
-      "publisher_url": "https://www.aep.com",
-      "language": "",
-      "seendate": "20261019T131004Z",
+      "seendate": "20261021T184900Z",
       "source": "GoogleNews"
     }
   ],
