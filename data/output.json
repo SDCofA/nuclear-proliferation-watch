@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "nuclear-proliferation-watch",
-    "generated": "2026-10-24T05:00:01.114524+00:00",
+    "generated": "2026-10-24T11:35:57.282137+00:00",
     "mode": "live",
     "sources": [
       "news_articles"
@@ -23,11 +23,21 @@
     },
     {
       "label": "Distinct news domains",
-      "value": "37"
+      "value": "36"
     }
   ],
   "live_data": {
     "news_articles": [
+      {
+        "title": "World News in Brief: Iran nuclear inspections, deadly church attack in Jordan, El Fasher – one year on",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE90UjZEMHJTSmRjVzFrQWQ4SE9ad1FGYTB3ckJzTENRaWZYdUtJcWJta2I2X3p4MlhPUkNUamUxVkJGVFBya1Z0ZzlKQTFnWklpY1g2d3cyVQ?oc=5",
+        "domain": "news.un.org",
+        "publisher": "Welcome to the United Nations",
+        "publisher_url": "https://news.un.org",
+        "language": "",
+        "seendate": "20261023T202237Z",
+        "source": "GoogleNews"
+      },
       {
         "title": "Carney says AtkinsRealis is a contender to build nuclear power plant in Turkey",
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUDVaTVBUN2djLWhIejhzYlNpOGtWU0hoUEQxN1g0Q0M2UldpcFhud2pIc2s3LWpfOWdIVm1hZU4tSzFmVDRzLUJxSzFHcFNybURZTnY0R3liU1QtSE51S1F3TDJXdFJ6dzNUd2tjQUxScWpIYWt6ZXVPQnFqUjdVWkRENWRncnhoMFp2NDdMVWZrMFdUWThFcU9FbUdNOWplcWUxNXdRelc1cHN2RWJ3OEl6RXV4VkNpQUYxRDE1cTdFUQ?oc=5",
@@ -36,6 +46,46 @@
         "publisher_url": "https://www.reuters.com",
         "language": "",
         "seendate": "20261023T151126Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Startup plans to rejuvenate the nuclear power industry with a new manufacturing approach",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNck14Q2NYRjF3YlA0U0xfUW1TMC1haFJVTjJDTGNRNXdsWkxDNm0xX0Ruc1hXZG51dzZRLThjMTJIZEtrdXdqUmZUQXI4NkZsNlZKU0pJeG5oMWkxd2huTEtpMFRpdDN2VURhbmFRX2pxY2RxWEFJeTFLUm9KQlkyM0N0Q2lwWmRJbkxXUHJ4UUItU2dVdW16LWhXQUdNelZDR2c?oc=5",
+        "domain": "news.mit.edu",
+        "publisher": "MIT News",
+        "publisher_url": "https://news.mit.edu",
+        "language": "",
+        "seendate": "20261022T040000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "IAEA Mission Says UAE Response to Barakah Nuclear Power Plant Event in May 2026 was Effective",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUVNETzN1N2tCQ2VWN1B1OTJtMjBMcW9zM3JmblpQSzFVcGNaVFBtZV90d0p6eHJ2dE5SRC00R0s2Sy1FTzlYQ1gwMVRFbFpQVXFHRE5zRVNvWGZzWmVSaS1xVmkzajNlTXFRMVEwbGppemFRZnQ3U2VFc3B3Qm04UkxNMEVsd095SjJHXzFPeF9STGhXMEctWndLSkwyY25wWUFLUHh6dEIwMkQ4dEtFcUZSUGdVVGJ4T2daeXBRQUNSNm9XVFBVQWtDOThiQnRpVFhvdQ?oc=5",
+        "domain": "www.iaea.org",
+        "publisher": "International Atomic Energy Agency",
+        "publisher_url": "http://www.iaea.org",
+        "language": "",
+        "seendate": "20261020T085616Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "NASA’s SR-1 Freedom Advances with Progress on Nuclear Power Module",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQM243TXE0Vm1TUnZUVG9UNHlkRHpYNUt6NVNydk8yZzhtRFJCU0RlYW42QzNqRnVWUEN5SmI2dUliMExvUUhaZHFOS1Nxa01rN3gya3F2MkZNN0l4bGlHT2pWQzljb2dUZDc3aTAxelg4TU9GVVBFMFIwdkdaZ3FjOGdRRUdiWnViZlhoSnRWNFQ0SDdWVE5rNGd4SXZVTG1ya3pVTVpSSV9UdVhkSzM4?oc=5",
+        "domain": "www.nasa.gov",
+        "publisher": "NASA (.gov)",
+        "publisher_url": "https://www.nasa.gov",
+        "language": "",
+        "seendate": "20261020T181133Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Entergy celebrates Nuclear Science Week 2026",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9MemI5SVU5dEtnNUtUVEIzX3pmcHduZ2JreGRHaGRIUF9oWkVJQl9JMUNvLWhYWmMzdG1CNDlEM2h4UkpyUnppU0dva1hJV05mTk1OaGhBMjZ4d2hGT0p4UXBuZks3M0x0aTJZQk1paVNCYlhDODM0RjV6TTNTdw?oc=5",
+        "domain": "www.entergy.com",
+        "publisher": "Entergy",
+        "publisher_url": "https://www.entergy.com",
+        "language": "",
+        "seendate": "20261023T215623Z",
         "source": "GoogleNews"
       },
       {
@@ -55,47 +105,7 @@
         "publisher": "AP News",
         "publisher_url": "https://apnews.com",
         "language": "",
-        "seendate": "20261023T225035Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "IAEA Mission Says UAE Response to Barakah Nuclear Power Plant Event in May 2026 was Effective",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUVNETzN1N2tCQ2VWN1B1OTJtMjBMcW9zM3JmblpQSzFVcGNaVFBtZV90d0p6eHJ2dE5SRC00R0s2Sy1FTzlYQ1gwMVRFbFpQVXFHRE5zRVNvWGZzWmVSaS1xVmkzajNlTXFRMVEwbGppemFRZnQ3U2VFc3B3Qm04UkxNMEVsd095SjJHXzFPeF9STGhXMEctWndLSkwyY25wWUFLUHh6dEIwMkQ4dEtFcUZSUGdVVGJ4T2daeXBRQUNSNm9XVFBVQWtDOThiQnRpVFhvdQ?oc=5",
-        "domain": "www.iaea.org",
-        "publisher": "International Atomic Energy Agency",
-        "publisher_url": "http://www.iaea.org",
-        "language": "",
-        "seendate": "20261020T085616Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Entergy celebrates Nuclear Science Week 2026",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9MemI5SVU5dEtnNUtUVEIzX3pmcHduZ2JreGRHaGRIUF9oWkVJQl9JMUNvLWhYWmMzdG1CNDlEM2h4UkpyUnppU0dva1hJV05mTk1OaGhBMjZ4d2hGT0p4UXBuZks3M0x0aTJZQk1paVNCYlhDODM0RjV6TTNTdw?oc=5",
-        "domain": "www.entergy.com",
-        "publisher": "Entergy",
-        "publisher_url": "https://www.entergy.com",
-        "language": "",
-        "seendate": "20261023T215623Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Fall, fuel rod mishap and failed exams plague US nuclear revival effort",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNejlBMEFUN2NVLVZEUXVWbFdDb0paMmtnZzgwODRrWlhiMEVISkZzcE9NQTJtb1JnMVlQY0FHZlAwQnRHeS1SdVRxeGRNZmNYUTY2ajdfckpZcHlpbXRucF94YVZvdWNkMmpIM2UzSEZ0TUkxdnFmWDRyd0U1dHFGSWZmVDk?oc=5",
-        "domain": "www.ft.com",
-        "publisher": "Financial Times",
-        "publisher_url": "https://www.ft.com",
-        "language": "",
-        "seendate": "20261023T100002Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "NASA’s SR-1 Freedom Advances with Progress on Nuclear Power Module",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQM243TXE0Vm1TUnZUVG9UNHlkRHpYNUt6NVNydk8yZzhtRFJCU0RlYW42QzNqRnVWUEN5SmI2dUliMExvUUhaZHFOS1Nxa01rN3gya3F2MkZNN0l4bGlHT2pWQzljb2dUZDc3aTAxelg4TU9GVVBFMFIwdkdaZ3FjOGdRRUdiWnViZlhoSnRWNFQ0SDdWVE5rNGd4SXZVTG1ya3pVTVpSSV9UdVhkSzM4?oc=5",
-        "domain": "www.nasa.gov",
-        "publisher": "NASA (.gov)",
-        "publisher_url": "https://www.nasa.gov",
-        "language": "",
-        "seendate": "20261020T181133Z",
+        "seendate": "20261023T222100Z",
         "source": "GoogleNews"
       },
       {
@@ -106,6 +116,16 @@
         "publisher_url": "https://www.wsj.com",
         "language": "",
         "seendate": "20261022T183500Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Six AP1000 reactors eyed for Kentucky nuclear power facility -- ANS / Nuclear Newswire",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeHM1VHA5OWhiTWotX296UUswSENOYUpscDFkVk9XQ2lKVm1ibHRONThONWpWZ0ptcTJMa3RyQngyck5pUnFreDYzY1JhS1h6ckMyZUdtOGNFaTN1dktoWl9ZaGl2dGdTZWZDSG9GaDBMRGNab2ZuUnhfNTdiQzYzOVhsalkzcXZZckh6NXVLby1tZHBEWjZYbF9pdUhzRFg2?oc=5",
+        "domain": "www.ans.org",
+        "publisher": "American Nuclear Society",
+        "publisher_url": "https://www.ans.org",
+        "language": "",
+        "seendate": "20261022T234119Z",
         "source": "GoogleNews"
       },
       {
@@ -129,6 +149,16 @@
         "source": "GoogleNews"
       },
       {
+        "title": "AEP Partners with Amazon and X-energy to Explore Advanced Nuclear Energy in Indiana",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBjNTA2VTM2dDllSjB4Wjc5b2RXVk9LaC1zVGVsS1czVzJqMWNVQ3N6bnVYQWp6ZlJ0S1IwMGVfQjFNYkFvRGtIR0RNYXA1d2FMOW9DOXdvTQ?oc=5",
+        "domain": "www.aep.com",
+        "publisher": "AEP.com",
+        "publisher_url": "https://www.aep.com",
+        "language": "",
+        "seendate": "20261019T131004Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "Indiana considering 6 GW Candu nuclear project",
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeDdsLVhlblNFSVZ3SUROUDdUbUo1cG5Qc1l5QUNjQXJ6TUtyekpHVDZZZnpVdU05VERvMmU2XzNfT21lanVnZU84RXpLN1RPSmJzclpCT05oRzBnWll2SFVFYmpORlNSel9yYWY2TXpvSkltc09oSnBhdDFfX3VBU3NTUGRKVmNSRVIwbDFEWQ?oc=5",
         "domain": "world-nuclear-news.org",
@@ -136,6 +166,16 @@
         "publisher_url": "https://world-nuclear-news.org",
         "language": "",
         "seendate": "20261020T150602Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "What to know about Louisiana’s nuclear energy aspirations",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9RbV9teWZjSG1IdUhxLS01c3pBalBHa2RJMVM0LW02akZ1TXRzVm0yMXNrVFJvQnE0c25iWmZtZUtveHRISlpnd1FvVWw5SVA5dHFUdkxLWEZBMkVtbG84c2h4NE5rUUdf?oc=5",
+        "domain": "lailluminator.com",
+        "publisher": "Louisiana Illuminator",
+        "publisher_url": "https://lailluminator.com",
+        "language": "",
+        "seendate": "20261022T234847Z",
         "source": "GoogleNews"
       },
       {
@@ -149,23 +189,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "RAF holds first ever joint nuclear drill with France in warning shot to Putin",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSVR1Uk92WFJIOUlQQVZ2UVJfaEx6VVlzQWtaQ19SNEI0LUt1WFdwX3NORDhtWVZhLWJzMWo3S3VOeTUxTWtQdldTSmE0S0psaUpFUjlEcC03ZTZvWUJxRVdvSkRMUHVHVENEeGdPZDgyd1E4UGVYQ2Ruc0NYaEtaVE1sdldKMW9jbHRIZTFTc1VBc3FOMU5VMDVQaWZKQQ?oc=5",
-        "domain": "www.independent.co.uk",
-        "publisher": "The Independent",
-        "publisher_url": "https://www.independent.co.uk",
+        "title": "IAEA Mission Finds Kenya Committed to Safe Management of Radioactive Waste as it Develops a Nuclear Power Programme",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQNG5ObFRPcWRMWlFFYWduRUdlWnBsNjgzQ0tueDd6Vk82cVF5QVJHRTdFTmtxT2NfbFp6azNFU0I0LTZYTXBDWmQyTlJpRHh0RVF0QWVURGNmWGRseVlsVjNXZEgwVV9DamJBMEpPQm1rUUdZQ1RzTjhoUTdOZUdxZ003VWVUYzdvNnpJM3NzU0JsVVc3d2hFZmx0U0xHN2Ytd0o5OFBxTjZXRHk4d2Q4WkFoOFkzdmFSN0h5ZWNXRU52RHcxUkFqQURpcm0tT0hDNFhFaER2WGpuTlZvYkZVX3dlM1d1SHBWVjhlWkhYb05oSGc?oc=5",
+        "domain": "www.iaea.org",
+        "publisher": "International Atomic Energy Agency",
+        "publisher_url": "https://www.iaea.org",
         "language": "",
-        "seendate": "20261023T174500Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Idaho could see nuclear boom as small modular reactors near reality; Twin Falls panel set for Oct. 27",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVEptdmlzYnJJcGhRejZweWhwanVleHh2SXExNDJlbUV4VmJDc3I2bm42VHlEbWJkOE5WWVpXbXY1bVBhM2tsNVpxdHI1SHBxTC04TzYzTzhfZnV5aVJLUVRxLXVQRU1remdWWEplbHZxUWd0ODN4QWZyOEdTNUFhbkozS0pNVHVQbXllYjRYZjRDcHBzaENnR0tZZFhSamhkdGR2eE1DYTh0S18xcmxXblQ0elVsZ08tbE5Vd2RlMmJjNzFldHA1M1ZvS1hnZw?oc=5",
-        "domain": "www.kivitv.com",
-        "publisher": "Idaho News 6",
-        "publisher_url": "https://www.kivitv.com",
-        "language": "",
-        "seendate": "20261023T214000Z",
+        "seendate": "20261022T121817Z",
         "source": "GoogleNews"
       },
       {
@@ -179,26 +209,6 @@
         "source": "GoogleNews"
       },
       {
-        "title": "IAEA Mission Finds Kenya Committed to Safe Management of Radioactive Waste as it Develops a Nuclear Power Programme | IAEA",
-        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQNG5ObFRPcWRMWlFFYWduRUdlWnBsNjgzQ0tueDd6Vk82cVF5QVJHRTdFTmtxT2NfbFp6azNFU0I0LTZYTXBDWmQyTlJpRHh0RVF0QWVURGNmWGRseVlsVjNXZEgwVV9DamJBMEpPQm1rUUdZQ1RzTjhoUTdOZUdxZ003VWVUYzdvNnpJM3NzU0JsVVc3d2hFZmx0U0xHN2Ytd0o5OFBxTjZXRHk4d2Q4WkFoOFkzdmFSN0h5ZWNXRU52RHcxUkFqQURpcm0tT0hDNFhFaER2WGpuTlZvYkZVX3dlM1d1SHBWVjhlWkhYb05oSGc?oc=5",
-        "domain": "www.iaea.org",
-        "publisher": "International Atomic Energy Agency",
-        "publisher_url": "https://www.iaea.org",
-        "language": "",
-        "seendate": "20261022T121817Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Union head calls MLB’s salary cap proposal ‘nuclear bomb’ ahead of World Series opener",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPLTlrNkdkWE11eW5pcGtOZWY4WXRHVWl0d2dzbjVhZUx3NUtDSGE2NDNOaDdDOENyVzB2S1E0Q2V6c3pYVTBKMkZKWnRoTTlsYkRHbl9jZVNHQzlEdTBzTWpRLVRiS3A3NmF5VFl1WFJ5bXNTODU4eXU3cmhlb3dFbHVSTXVzS0NhYUtKYQ?oc=5",
-        "domain": "apnews.com",
-        "publisher": "AP News",
-        "publisher_url": "https://apnews.com",
-        "language": "",
-        "seendate": "20261024T000100Z",
-        "source": "GoogleNews"
-      },
-      {
         "title": "Westinghouse invests USD1 billion in US LEU+ fuel plant",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRk5oYVY2UFUwNW1EYk1JM3R4NnRIOTZCdkM0XzNSNkVIcVJMdDhSNkE1cDFJVDZGQmVmcnprQ3UxMDloUXlic0hBaW9kaGtydzJJOEpFcG1hblhnM1ozRlhvcFhobDVpbUdtU2JkQWxQQmt0ZmFUbVA3b0pFUXZGak1ya245WmlXd2pLUnlON2ljQXZOemxVU0NINmdET1k?oc=5",
         "domain": "www.world-nuclear-news.org",
@@ -209,23 +219,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Tiffany touts nuclear power, fresh school food during Onalaska campaign stop",
-        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNa2xiT2lWMFJrRTcyV2F6Vm9tR0NUOXgtWmlFSGtVM2tSLXRBV3VWaW1RN2lLVnc5S0tWMnhXbGFYQWczVmpSX056a1Z2bmtFdm5UczhWYThfVFBTeU0tX0ZrTVZGV3I4dW01NFQ5b3QtQ1NpeHBDOFZpd284YktORkRETWZWSk1xQkVGSVR0Mk0wUi1yYmV6S1d5WnRsRkV1eXBVWW1VcmpkQ0lsMExydzBwVjZrek5XU2FfWHgxWDB2U3ZTVk1PWWlmSTZsS3NsTExLSXZZYk5SSm45MUpsRC1VYXlYTTRjaHB1djNuTW05Tlk?oc=5",
-        "domain": "www.wxow.com",
-        "publisher": "WXOW",
-        "publisher_url": "https://www.wxow.com",
+        "title": "General Assembly Reaffirms Support for IAEA as Nuclear Safety, Proliferation Concerns Persist",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9CbTdFd1otY3JsYm0tUGxuSnphUjBQYmZ1VnhJaU9VNVRWWE84VVE0OUo2VUFWdWxDSVd1X0Z1UjUwNDRnU2ZZNXgtZ3dXaHFBQ1ZfLWpQYw?oc=5",
+        "domain": "press.un.org",
+        "publisher": "UN Meetings Coverage and Press Releases",
+        "publisher_url": "https://press.un.org",
         "language": "",
-        "seendate": "20261023T215000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Opinion: Stop Chasing a Nuclear Fantasy",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUTJSS2NVV1ZBcVl4NjhlREs3QUh6cmNPYlR2N2RWbXZsMlBnQjR1VmMzb0U3d2QyLUlOWVBkcnNlY2NUQjRFX1ZqNUNLWGN5MGE2UVJtNnFEZ3NiZUtDaHZFbVg0X3hMR1o1bWdKVFFKZzVPN3VTcGxVeEx1SFZRbmhRc2c?oc=5",
-        "domain": "www.amherstindy.org",
-        "publisher": "Amherst Indy",
-        "publisher_url": "https://www.amherstindy.org",
-        "language": "",
-        "seendate": "20261024T011008Z",
+        "seendate": "20261023T040000Z",
         "source": "GoogleNews"
       },
       {
@@ -249,13 +249,33 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Nuclear power could return to Genoa under new agreement",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeWluQl9NZjQ5eXRkSHRlci1YVEdURlBHVGhDemphYmdQNm12ZHJnRm9UTnRKVkc2dlZfSGxiZ3p5aFZIV1VZNXNSRDNhdnI2Y0lmR05SdlQ2eGJpd3JSZC11S0hSQTFjWXlYNWNSUHFrakpPRmFQdUhEMlBXNVdPXzhadjc4dlZKSkYtM05jQ1VaWldyMHF1WndBdEE5S3Q4SWZTNGdyX0FzVUNBbHN6djJjVWJRbXdiLWdhcVVGYVZTdEVjYVFsVVln?oc=5",
-        "domain": "www.wxow.com",
-        "publisher": "WXOW",
-        "publisher_url": "https://www.wxow.com",
+        "title": "Fall, fuel rod mishap and failed exams plague US nuclear revival effort",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNejlBMEFUN2NVLVZEUXVWbFdDb0paMmtnZzgwODRrWlhiMEVISkZzcE9NQTJtb1JnMVlQY0FHZlAwQnRHeS1SdVRxeGRNZmNYUTY2ajdfckpZcHlpbXRucF94YVZvdWNkMmpIM2UzSEZ0TUkxdnFmWDRyd0U1dHFGSWZmVDk?oc=5",
+        "domain": "www.ft.com",
+        "publisher": "Financial Times",
+        "publisher_url": "https://www.ft.com",
         "language": "",
-        "seendate": "20261024T025300Z",
+        "seendate": "20261023T100002Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Union head calls MLB’s salary cap proposal ‘nuclear bomb’ ahead of World Series opener",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPLTlrNkdkWE11eW5pcGtOZWY4WXRHVWl0d2dzbjVhZUx3NUtDSGE2NDNOaDdDOENyVzB2S1E0Q2V6c3pYVTBKMkZKWnRoTTlsYkRHbl9jZVNHQzlEdTBzTWpRLVRiS3A3NmF5VFl1WFJ5bXNTODU4eXU3cmhlb3dFbHVSTXVzS0NhYUtKYQ?oc=5",
+        "domain": "apnews.com",
+        "publisher": "AP News",
+        "publisher_url": "https://apnews.com",
+        "language": "",
+        "seendate": "20261024T000100Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "\"A butter knife against a nuclear arsenal:\" Tech billionaires vastly outspend wealth tax supporters",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdkktejBsUWR6WnY0YlRxYk5Mc1pKN1RxSmMtSnROZzk3SVdWeGVKcXBPczhISF9MRElMaXhTNl9sNXBrSEVvekJDUFdCMlhFSnRPTUVCanMzV1JjMHVvaGRjcURxV3Fma1YxdDFNblNCVDhPUVM0YVNsY0hCOERyTlpkZTV3ckhpbTVSMGJsZG50VHpNVC1yNEh1M0FXX2lneWJjdnZXWmgwb0o3ZWl1NlZn?oc=5",
+        "domain": "www.latimes.com",
+        "publisher": "Los Angeles Times",
+        "publisher_url": "https://www.latimes.com",
+        "language": "",
+        "seendate": "20261024T100000Z",
         "source": "GoogleNews"
       },
       {
@@ -266,6 +286,46 @@
         "publisher_url": "https://www.reuters.com",
         "language": "",
         "seendate": "20261022T201000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Iran Tells UN Denying Countries Access to Nuclear Fuel Cycle Violates NPT",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObnl0Y2JrTnRlX2c4ZFQ0YVZ0R0dHaDhYS1lVNHBqdER5YkhYbVJod0FsTU41MEY1WkZGajB1VG9wOGVMWElTMVh5amNTYy1Fd0NJamhfRUR4Vjl3ckRqd3hYempDakg4WkZITE1kcV9mN2lURnFMOGZVbXRwZHpnWVhuLXExajJnM3JwYktYUFFHMWFPdE9vUQ?oc=5",
+        "domain": "wanaen.com",
+        "publisher": "WANA News Agency",
+        "publisher_url": "https://wanaen.com",
+        "language": "",
+        "seendate": "20261024T063729Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Idaho could see nuclear boom as small modular reactors near reality; Twin Falls panel set for Oct. 27",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVEptdmlzYnJJcGhRejZweWhwanVleHh2SXExNDJlbUV4VmJDc3I2bm42VHlEbWJkOE5WWVpXbXY1bVBhM2tsNVpxdHI1SHBxTC04TzYzTzhfZnV5aVJLUVRxLXVQRU1remdWWEplbHZxUWd0ODN4QWZyOEdTNUFhbkozS0pNVHVQbXllYjRYZjRDcHBzaENnR0tZZFhSamhkdGR2eE1DYTh0S18xcmxXblQ0elVsZ08tbE5Vd2RlMmJjNzFldHA1M1ZvS1hnZw?oc=5",
+        "domain": "www.kivitv.com",
+        "publisher": "Idaho News 6",
+        "publisher_url": "https://www.kivitv.com",
+        "language": "",
+        "seendate": "20261023T214000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "State energy planner weighs in on proposed Lewis County nuclear site",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRDd0SUo4UEZpSXVBMkxFZ05NVnBWcjBab1lkVlg0djBBQ3A1SnAwSEliWTlmd3ZUd2E3OGlkLTU4VG5sUC14SEFWcGhUMmZpZVVtYXZaenNlZUYwVS1YelgzNGF0ckE3VXRoanBwQjRDdnN5bnhhUjVmdWxTdXNBWkswdU11TG93WEhLNEM4LXljTTFhalcyR29HRHE4MFktVFBz?oc=5",
+        "domain": "spectrumnews1.com",
+        "publisher": "Spectrum News",
+        "publisher_url": "https://spectrumnews1.com",
+        "language": "",
+        "seendate": "20261024T110000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "SRS a keystone of a nuclear renaissance in the Southeast, DOE Asst. Sec. Walsh says",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPU3F2Z29uM2N1WnRZZm1CY29pbmJWeDA0SlFITEJNM0J3emdfSmlJWmFteXlDc0pSNnNnNFRfUEhVUklwVzBRY3ZfY25uUk9oV29aZDJhVVNieWJSUDNjNXV2WnV1dVdfQm1DOUJYRmxEZS1BUXJnZzNhMmR6NEptS3JjOGdFSzJfRUNmN2JnNzZsRWdPU3c2R1hnMHE?oc=5",
+        "domain": "www.yahoo.com",
+        "publisher": "Yahoo",
+        "publisher_url": "https://www.yahoo.com",
+        "language": "",
+        "seendate": "20261024T094500Z",
         "source": "GoogleNews"
       },
       {
@@ -289,43 +349,53 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Nuclear power could more than triple by 2060, UN agency says",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPd0Z2cGFxLUlLRlg4UG44N01NMG9YT19Nb1JMczY2T1JERTBmVmV1WEtMRTBScjRtY0tSVEFhZ3JLY0praGoxWjRCWW15V1duM1dfN3dWbEpLc1BkUHlUTmVmZUVWQ1ZFRnBaYUdubjdsaUhRRFBPNE9OQ1FxbHN3NGwtVlN4WnF1TDZBd18tTTRmaUJodzNEcmZBZUlZNjlDeWk1MUQ5RDB5LXpHM005VWdudWtUUHFCSXZkVlFLM1BMTm44Z3ktcThHSTB2QjVkQ1RTeldkTQ?oc=5",
-        "domain": "kdhnews.com",
-        "publisher": "The Killeen Daily Herald",
-        "publisher_url": "https://kdhnews.com",
+        "title": "Opinion: Stop Chasing a Nuclear Fantasy",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUTJSS2NVV1ZBcVl4NjhlREs3QUh6cmNPYlR2N2RWbXZsMlBnQjR1VmMzb0U3d2QyLUlOWVBkcnNlY2NUQjRFX1ZqNUNLWGN5MGE2UVJtNnFEZ3NiZUtDaHZFbVg0X3hMR1o1bWdKVFFKZzVPN3VTcGxVeEx1SFZRbmhRc2c?oc=5",
+        "domain": "www.amherstindy.org",
+        "publisher": "Amherst Indy",
+        "publisher_url": "https://www.amherstindy.org",
         "language": "",
-        "seendate": "20261023T222153Z",
+        "seendate": "20261024T011008Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Nuclear power could more than triple by 2060, UN agency says",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOWF9IdFdmMkt1bXZMellOMURwXzlpZTE1STdYYW96YlRyNGRzQkxicDhHOVBGZHFwR1ExQk53T1BfZmR5eUhRanl5U29PN0JiVTdnNm1MbXZTQ2VEZ1ZTVGNVeTVRbEcwTl9CZUtOZF9PM2dHR3FlLW1JNFhadm5BbXZpODRyRk1BZlhjalFVVGpqRVIzaWpBT0NlX3J1dkgtZEhiX0dNLVdoeVFJdnJBQzBWMXBBQkFtVTU1MWdDZU13VjdNcFpTOVdUQmxFcFdzanltNUxraGU3RFlkdm13R2RYOHVmYlRaV2RqdTRQSG8?oc=5",
-        "domain": "www.ottumwacourier.com",
-        "publisher": "Ottumwa Courier",
-        "publisher_url": "https://www.ottumwacourier.com",
-        "language": "",
-        "seendate": "20261023T222153Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Nuclear power could more than triple by 2060, UN agency says",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNOS1TczIyVFVjbXBXX3E0NUZnczEyai1TWFdLaUxZalFNM21QcW9FMHFQZURJRTgwOTdSU2lEOV9QVmVJZ0J0TFB1Z2laOEp0c3ZkQ0ZsUnBSOVJkQjh0Yy0zWmpacVFhVEo5azBLVXZCWlM2YldJemRieExMajFXZk1KaGltQ251Q1hmc29hbTkwZU5WLUN3Ylo5bnRINWNhcmR5djFkZTBiQndxUFhMM3U4WlZLSkE5X1kwLUo3d0NscHk4b2R5VlVCQVBiOEF5bDgxNnExZGJUeXJINFpFZzNLN0RKX2FJTWc?oc=5",
-        "domain": "www.newspressnow.com",
-        "publisher": "News-Press NOW",
-        "publisher_url": "https://www.newspressnow.com",
-        "language": "",
-        "seendate": "20261023T222153Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Iranian hardliners say the time for nuclear weapons has come",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZVRHWGV1ZVRXUEw0SkI5V2ZtT2dQbE9QbEwtc2Y2UEdvWVNZNERfbmN3aTJJb3pJZ1RhNzdvSDVtbHFjM2U1VVY4MU43bmlpcnhENE1ielR3WUkxUVp5N3VuRnN1Rld6RVQzanpBQm5zN0d2SUtHbmpVM3ZnTmc5TTd4bGM?oc=5",
+        "title": "The Putin whisperers",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWE9zYW9lMUVXNGhpZ19CMnB1MUxoenpIWWlFcU9DLXZMX0Q0WWpqSlc2aUM0SVI4bGhMR3I4aGJRTmM5eGcxVDQtTE5NNVFfeXBYVXNpVEVmZGhPbi1NTnZybXhXNHlhZnFhSXhWQzJNQUlSOFNzV1pRbEU0Q2dnaFpsdHc?oc=5",
         "domain": "www.ft.com",
         "publisher": "Financial Times",
         "publisher_url": "https://www.ft.com",
         "language": "",
-        "seendate": "20261019T095522Z",
+        "seendate": "20261024T040206Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Nuclear restarts: Holtec, Constellation, NextEra plan 2.25 GW ...",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZkU4TnBUMHdfNnJiV3oyQUxxRzVqQ0dZcTJvbmlhaWxyUnk3bzVaU2NaMzh2bmZ2bi1UTFNNV3RWUTJKMVpDbkJLQmJHci1rcndLSkhPd1lNSnRVWWVodF9OWVpCQ19sREw2elQwUkhGbmJyajRONklBR2JzTTdWZXJiRzc?oc=5",
+        "domain": "www.eenewseurope.com",
+        "publisher": "eeNews Europe",
+        "publisher_url": "https://www.eenewseurope.com",
+        "language": "",
+        "seendate": "20261024T100939Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Savannah River Mission Completion unveils latest technology at Rapid Prototyping Facility",
+        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOYTFXRFBFYXhjSlpydzVhZnlyN0E1MUFLTTZwZnh0V0Ywa0VFOFRmMmhwdnRkZFJyNGJRVWtlZWsyS1pnUE1ORTdXd1hDVmVFQ2s4VWNoaFZOLXphUXotei1XZ1VvZkhnSnVHTDFBazVVVnRFMlVtdTYzbGU5WWw3azhIUlA0bmQ1YjIzZGs1Rmd1VnI3d3M4V21SOW05Qi1iYi0wUjducHZYcHphSmktcm5jWFJCYlRFc2ZUdHkyMHRrQkdTQnBfcUVQM2x1TU1YdVdrWHZtSVZmakViTE9tay1YcmRWdHAxbXVmamVNNGo4SzFGWkRVSGdGWEQzQndsT0NKNg?oc=5",
+        "domain": "www.postandcourier.com",
+        "publisher": "Post and Courier",
+        "publisher_url": "https://www.postandcourier.com",
+        "language": "",
+        "seendate": "20261024T093000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Nuclear power could return to Genoa under new agreement",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeWluQl9NZjQ5eXRkSHRlci1YVEdURlBHVGhDemphYmdQNm12ZHJnRm9UTnRKVkc2dlZfSGxiZ3p5aFZIV1VZNXNSRDNhdnI2Y0lmR05SdlQ2eGJpd3JSZC11S0hSQTFjWXlYNWNSUHFrakpPRmFQdUhEMlBXNVdPXzhadjc4dlZKSkYtM05jQ1VaWldyMHF1WndBdEE5S3Q4SWZTNGdyX0FzVUNBbHN6djJjVWJRbXdiLWdhcVVGYVZTdEVjYVFsVVln?oc=5",
+        "domain": "www.wxow.com",
+        "publisher": "WXOW",
+        "publisher_url": "https://www.wxow.com",
+        "language": "",
+        "seendate": "20261024T025300Z",
         "source": "GoogleNews"
       },
       {
@@ -339,123 +409,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "3 Great Canadian Nuclear Stocks To Own In October 2026",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYUZMS1A3X3RjejhkUFk2bGxoTFhZNXVQQS05NTd1NEcyR25WX1N6eThrZUdMR0t2bElPSmFqRVNieHpScU55c05WZnAzN3hNbWhlWGs5dUh4cGxXRDEyR3MxNmF3Q0VCUGhaOHhnVlVsVDZXRGJoZGVCOU1zVV9BNUV5eWg0bVhhUnlRSXNvQ3IxZw?oc=5",
-        "domain": "finance.yahoo.com",
-        "publisher": "Yahoo Finance",
-        "publisher_url": "https://finance.yahoo.com",
+        "title": "Iranian hardliners say the time for nuclear weapons has come",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZVRHWGV1ZVRXUEw0SkI5V2ZtT2dQbE9QbEwtc2Y2UEdvWVNZNERfbmN3aTJJb3pJZ1RhNzdvSDVtbHFjM2U1VVY4MU43bmlpcnhENE1ielR3WUkxUVp5N3VuRnN1Rld6RVQzanpBQm5zN0d2SUtHbmpVM3ZnTmc5TTd4bGM?oc=5",
+        "domain": "www.ft.com",
+        "publisher": "Financial Times",
+        "publisher_url": "https://www.ft.com",
         "language": "",
-        "seendate": "20261023T071103Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "The status of Iran's uranium enrichment programme",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSnlJOEpCTFRFNHYydjJsZE5xaXBTQUZtbGxveEo4MlJlYlR2V083Z29pLXV4TFdxWS1zTjVNTS1fWHh4Zkt4TTNqcXIzVDhiOGluLUZoaDNtS216c3R0WVQ3VmJkY0xFVUgzWVpKVGZjbTFlRmpKdnB4MzBIT055cWpVMGJrV29Db2llb2tlTVhMU2RMSFJrS19WUQ?oc=5",
-        "domain": "www.reuters.com",
-        "publisher": "Reuters",
-        "publisher_url": "https://www.reuters.com",
-        "language": "",
-        "seendate": "20261008T070000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "France, Britain stage first joint nuclear air strike simulation",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQS3JVYjhDUDdfSkVBdWxvclZHTVQ0RHZrekhIOGllbnRMZURBRFpBOXQtbDZqTGRVVi1aaDVzampMRW95UzdtRGl1cU1lMWlaUlBjOUc1M05IWWFHTTZoTjM4MXRGRFRNOXhzekNsTm56WmlXaUpDWjFxSmMyaU92QmtxQklOMVBDZnpMUU42aDJHdlE4Vjl3ZtIBngFBVV95cUxORmNhWENpZVhZNE13OXpXZlBqSnY0empVdUZSV29YSGEtaHR6MFBxUGVibTFpb3A4QllDaWh4ZFIzYVRLZ1o4MlRMVE5rcDNUcDdfSWFteWN1RDJzUGROM0FaX1dWMmhzcXB1ZzJnMFpJUmllV0FZLUhhcXY5UUttMG9lVUJFRFZzWS1qRzdXZ25lLW5vYUZUXzVXZlNTUQ?oc=5",
-        "domain": "www.timesofisrael.com",
-        "publisher": "The Times of Israel",
-        "publisher_url": "https://www.timesofisrael.com",
-        "language": "",
-        "seendate": "20261023T160700Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Ramp Investors Went Nuclear Against Airwallex After Doomed Deal",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWUJPRy1hdjg1RDJ5dzBJUFllekt6cnBJVU0yVHpyc3JnY2pCUFlWWmQ0NjVNUkJpMEdaN09XQklHVlllWFdFWm8xTG9OVEdsS2x1NU1LZllSRUpQem01MlN4UjJmNzBaTzgwejVOYmlPWllaa3Zzdm1IUVp5bkZJcjgzUFJZZFNDNHpQYXBrQVI2WHM?oc=5",
-        "domain": "www.theinformation.com",
-        "publisher": "The Information",
-        "publisher_url": "https://www.theinformation.com",
-        "language": "",
-        "seendate": "20261023T131533Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "IAEA says Barakah drone-strike response was effective",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVzlpNGg5cGQweHZrZS02OUJTNmhIS1BFTWtULVBHbFZ6RF8tbTJBOE5nMjV4Vi1oZjhnYjNyMjhXTjhIdjV6LWhWNmhXMzlCLV9BS19taWVQRFFrVEFPSVNDWWlDSGdtTExBRkk1UHdZejdaLV9FRUQ0S2E3NlhJSGZfRWVuWGFlU3lLQkh2eld5eWtBZ0xvMTdjQ1kzdw?oc=5",
-        "domain": "www.world-nuclear-news.org",
-        "publisher": "World Nuclear News",
-        "publisher_url": "https://www.world-nuclear-news.org",
-        "language": "",
-        "seendate": "20261021T131457Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "‘We Are Christians, Good People’: Russian Media Tycoon Urges Nuclear Strike on Ukraine",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBSQ0lKZG4xanBKdGdNdDR1ZXJsdHN5NEQ0UE1pTldDWEVDNFdhczN6RlRiVFlQTGNRckQ1YWpSU2tPQVAxMlZPaGZCQQ?oc=5",
-        "domain": "www.kyivpost.com",
-        "publisher": "Kyiv Post",
-        "publisher_url": "https://www.kyivpost.com",
-        "language": "",
-        "seendate": "20261023T142344Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "World Nuclear Outlook Report 2026",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOXEtTk4xX01FVGRXNWFOSTFYb00teFQzMGlERF8zeVpjUE50ajN1V1laeHFVeGZrWTN6Nnl6UnNSeUtFbEpoRURpZlBqNi1nQzZuaXFSRWhndkNxWDNJS1QwZm4yWEF1QXNldFl2SDJwOTJZRzlqNkl3SERENG9jRHRDbS1qZlBvekpYTDE5bUduRGs2TGNOU1lUMVVEaC1lMGMySFJrTGM?oc=5",
-        "domain": "world-nuclear.org",
-        "publisher": "World Nuclear Association",
-        "publisher_url": "https://world-nuclear.org",
-        "language": "",
-        "seendate": "20261016T070000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Trinity test fallout haunts New Mexico as US expands nuclear plans",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBoU1dlX3BXTUdPYkcwWExHbUxqLW04bTFiQ1ZDLXRqTEh1RGdjdlpHN3NWY1hzaGh0UXJpcDItcGQtaTdSWTJ2OXlLR2g0U05fVnJHbDBobFE5N19D?oc=5",
-        "domain": "www.msn.com",
-        "publisher": "MSN",
-        "publisher_url": "https://www.msn.com",
-        "language": "",
-        "seendate": "20261023T191921Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "British Typhoons Escort French Rafales in First Joint Nuclear Strike Drill",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONnp6U25YV29oeGFBbXZocXE5M2NvMkwzcEo2VUlOVEY4ZDhLZkJfT2h3OTdHb2gxU0ZHdjcyUnA5THRmWTVsWHRUYmR1c3FJV2lhNm9OZUdfNmtOZnVtSU5NNHBKT2UwVjdubTdVYVdRdmdmNmdHdVFKNWQxZ0ctUndRa2ctMmxTY09ZSnVwOU13emVVOEdsTA?oc=5",
-        "domain": "theaviationist.com",
-        "publisher": "The Aviationist",
-        "publisher_url": "https://theaviationist.com",
-        "language": "",
-        "seendate": "20261023T195100Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "India highlights nuclear advances, development partnerships at UNGA session",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPX3ZzTWlPLUotbEVJaGt1RGJoR3VTT1psZzhVdzd3YnNobnQzMVBBZkdRbUo0SHR3U1JxdjhDbnRlS0xYYnppX05fc28waFFraG1ITUV0VGd3NG5yaHFYWjlSQkxJbFFDZVFkSkJEY3FjbXZGWUtUQl8tV0twZk9yUU1UUGg3MDdmNGFMY1ZnUzZOZHFhaXNXQ0VycjR1QXl4RGZ4SXphVjRIQzlkODBQUWo0cWZrQXhnM0VUYmFfM3lMT0VuTHljNFRnZ2EwbTBsQTNmVk5PaGNpUdIB3wFBVV95cUxQbVNWd0RDZktvanJOcHVOSndUSVlVeDZQUFdhdW0tNXlfRzhFc3VSZ3VoZklwTGVVQTZnMFNzRWZ2ZnU2amJheVJJcnVRcWxMNjBubmlDVU5wRk90T0hUZ0FyQkxyWmF5R2hXbVFqOWJnVDlTR3JIclZpb2d0LThTdmg2Z3pWckxCYl8tODRLUVJ3VEFsUGE5V1AwMzJpLXRuRHJzV1BEbkZwLUZiYzBQbDNpTUpJR3hwdDZmeVVTYkdyeDhuRHlleXk5TVJxTGY4TDBwSEJDSm1kRUFjYTQw?oc=5",
-        "domain": "timesofindia.indiatimes.com",
-        "publisher": "The Times of India",
-        "publisher_url": "https://timesofindia.indiatimes.com",
-        "language": "",
-        "seendate": "20261024T023800Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Iranian lawmaker calls for nuclear response if US launches new attack",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yMUxEekY1VGt3dFhxQmkweFlvbzVSQ0RPeERRell6eEtMdUZib04xZGR0bjREX0F3LTdERWtOZ2wyZ2ktNnVDN1Y2QWxEZk5KQWZxc2trOTVUUQ?oc=5",
-        "domain": "www.israelnationalnews.com",
-        "publisher": "Israel National News",
-        "publisher_url": "https://www.israelnationalnews.com",
-        "language": "",
-        "seendate": "20261023T032824Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Onkalo: World-first nuclear repository to bury radioactive waste for 100,000 years approved",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNd3duRHo0el84bldQYUNPWWZtOUpabHZ4NFF6eTJLaUhsTFFpaDNoYXZIWnVzM25hLV9UTUFFd3RUcUJrS2lwNWJfcWxqOUJ6a01ndlptUGNmN1FCdkhOOVgzdXVfeGltSlVvMTZ1OGtlelVNbWxwQ0pndzQwN0NpX3BB?oc=5",
-        "domain": "interestingengineering.com",
-        "publisher": "Interesting Engineering",
-        "publisher_url": "https://interestingengineering.com",
-        "language": "",
-        "seendate": "20261023T104500Z",
+        "seendate": "20261019T095522Z",
         "source": "GoogleNews"
       },
       {
@@ -469,23 +429,63 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Union head calls MLB's salary cap proposal 'nuclear bomb' ahead of World Series opener",
-        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQR1hNS3JyRTN2UTZjVjNjalozbGtpbFAtNXBySHhiZXpkMWhGVk11V1VDRl9tXzB2TUVmNkxfY054OTY0X2pmNVZDY3R1RHN3bzN3SnRwVHpMU01SQ3hBTEVDcGRUaktEWEk0cHYta2oyNnpobDNtam5xZUcwa1ZFd0xvM0loSFFQXzJLN3JmbE5sSEZQaFE0a3ZzcVNJQ2xuTmdJblZVLWVCWkNrSFpSSmtZb3NyZUFtdUdUZ01tZFZTel95d0d3by1xWWp6QTZ2RWpHT3NzY1M1eXpDX09jNUk3M2RYYTFDY2NJaDVBeFNkbFprd2RleG1jR2tudU9JYVhlS0JkMzU5NUhMczJR?oc=5",
-        "domain": "www.clintonherald.com",
-        "publisher": "Clinton Herald",
-        "publisher_url": "https://www.clintonherald.com",
+        "title": "The status of Iran's uranium enrichment programme",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSnlJOEpCTFRFNHYydjJsZE5xaXBTQUZtbGxveEo4MlJlYlR2V083Z29pLXV4TFdxWS1zTjVNTS1fWHh4Zkt4TTNqcXIzVDhiOGluLUZoaDNtS216c3R0WVQ3VmJkY0xFVUgzWVpKVGZjbTFlRmpKdnB4MzBIT055cWpVMGJrV29Db2llb2tlTVhMU2RMSFJrS19WUQ?oc=5",
+        "domain": "www.reuters.com",
+        "publisher": "Reuters",
+        "publisher_url": "https://www.reuters.com",
         "language": "",
-        "seendate": "20261024T000142Z",
+        "seendate": "20261008T070000Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Four Nuclear Medicine Societies Issue New Guideline for Lung Ventilation–Perfusion Scintigraphy",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSWV1WVA0dU1IN081TDdNTEJJd2xGTnJKakF0U2ZMSUp6YzRzYmtyeDl2WWJoY044cWVrTU5GQmgzMUNyc0xUbHJscm1LUUZDM29yTk9xcFdWWE1qYmRNbXBsc05xMUJtYVdfN0xNd01VRTZPcWJXOXdOcnNpYmowWG9DVHFqUDRRWmlGTWd0V2Y4clNfTXh5bVlnXzJPVXlna0RtNW1Bd1NqZDdHdmROTndWMDRadU9wWTBCeg?oc=5",
-        "domain": "bioengineer.org",
-        "publisher": "Bioengineer.org",
-        "publisher_url": "https://bioengineer.org",
+        "title": "IAEA says Barakah drone-strike response was effective",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVzlpNGg5cGQweHZrZS02OUJTNmhIS1BFTWtULVBHbFZ6RF8tbTJBOE5nMjV4Vi1oZjhnYjNyMjhXTjhIdjV6LWhWNmhXMzlCLV9BS19taWVQRFFrVEFPSVNDWWlDSGdtTExBRkk1UHdZejdaLV9FRUQ0S2E3NlhJSGZfRWVuWGFlU3lLQkh2eld5eWtBZ0xvMTdjQ1kzdw?oc=5",
+        "domain": "www.world-nuclear-news.org",
+        "publisher": "World Nuclear News",
+        "publisher_url": "https://www.world-nuclear-news.org",
         "language": "",
-        "seendate": "20261024T013340Z",
+        "seendate": "20261021T131457Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "OPG firm joins UK BWRX-300 project",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTFdObk1ueXJFeDNWYlA2Y3hSVlVmUVhDZFd6cDBrU3N5X19pQ05yS19wV3JDTmdRVEltS0ZnZUN3TWdESmMydVdZcG5RZzVNc0M1ZVVNZ1Zva2VPUHhwTzNPWGtjaFBtbGdNUWxzaWc4ZWRpY0JsTUVGX0RCa1gxVWpsdDNiMTBNbW5zWlNUclZtODBN?oc=5",
+        "domain": "world-nuclear-news.org",
+        "publisher": "World Nuclear News",
+        "publisher_url": "https://world-nuclear-news.org",
+        "language": "",
+        "seendate": "20261022T150105Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Tiffany touts nuclear power, fresh school food during Onalaska campaign stop",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPNkw1NFdETmFkVlhlOFV1alRlcFREY0xPMlVQaHR4QWJscW1jSHpTU2k5QWs5RWxhMVBnTVFJdTV4VExrbkNaSnUwemtsNTFWbDRQWldhNEVKWFd4eTZMNHBkYnlQTDVFeFB6cldYUjVSVVJKeE5FUzFrMGhfbkFlQ0RKREMtWUROekZCOEstTzB4YVdyVURpckQyT19rY1UtcHpuU2h1cUl6ZUpCSmRONk05VEM1ZV91ckQ5M1A4NGM0MUVzWkppRjBNRHRsUTg4RHotRmtqaDgtcGN6Sk0zVHpROVk?oc=5",
+        "domain": "www.wxow.com",
+        "publisher": "WXOW",
+        "publisher_url": "https://www.wxow.com",
+        "language": "",
+        "seendate": "20261024T025800Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Syria urges UN for protection against Israeli attacks",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQkJEVk52Qm1FLXVJeGJ3MlQ2Y0VHXzFUVmhWWVF0SjF6N09ZZ0xybnBqMndvbkpERVo5UFJnMTd3NTMzSEpxRlpZQnlaWHBxb2J4N0sxcGFFNzE5S3JJWXpWalEzMi1rSG9fakIwMVBENktVNjRnbHpnZ3lPX0VVaDJZX2paR2djVjVmdENrd3ZHekNDaldMeW1JcUpYMUprY2c?oc=5",
+        "domain": "www.arabnews.jp",
+        "publisher": "アラブニュース",
+        "publisher_url": "https://www.arabnews.jp",
+        "language": "",
+        "seendate": "20261024T060203Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Tribune-Star Editorial: Transparency key with proposed nuclear power plant",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNSUM1YnhUYVRqQTV1azdxczdzNlQ1SFhPYmM0dFdhS0ZqUXVTeUlqQnE0bkdyaUJrOE9GR2ZrR3BodEZncTh6RDBLckVudWRMS25QQVBfNms0OUFDQXljRk12WHZOZUU3THp6bVpCZVE2TEZlenE4UlFaWktiNGJQVF81Qkx2WTJYdUlCbjA0YVZHcFhfOUxfYTNTYlFjZVh6R0t5MGxiMjNwckR2T3BvZmFHUl9ZSkpXUjlmV3hxbEoyVl9rOFJyUWhMOXJvU2hXMFQySnRsWTM2a2p2VXJlNlhXd19qN0o2SXZuTA?oc=5",
+        "domain": "www.tribstar.com",
+        "publisher": "Terre Haute Tribune-Star",
+        "publisher_url": "https://www.tribstar.com",
+        "language": "",
+        "seendate": "20261024T104500Z",
         "source": "GoogleNews"
       },
       {
@@ -499,38 +499,48 @@
         "source": "GoogleNews"
       },
       {
-        "title": "LR: Ports Will Benefit From Early Planning for Nuclear Power Systems",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSHRSVnZDWEc0WVNOMElLaVBxcWg4eGdCeXBRUHNteldKQkNkUXJqaElKOVlrbEtBTFdGalR4TUdyTXdJZzVZVTJXUjcwdnR6N2s2V3RjUzF1TzZUNlcxamRWZkpxR3c4TDRHdV9XZXRMSlhUUTJIRG1QVXdudFpYb2JidXJGUWIxUWhBNkh0eDRCV0Z6R2VmM2h2djhuaENnSml4SktKOEdJdw?oc=5",
-        "domain": "maritime-executive.com",
-        "publisher": "The Maritime Executive",
-        "publisher_url": "https://maritime-executive.com",
+        "title": "3 Great Canadian Nuclear Stocks To Own In October 2026",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYUZMS1A3X3RjejhkUFk2bGxoTFhZNXVQQS05NTd1NEcyR25WX1N6eThrZUdMR0t2bElPSmFqRVNieHpScU55c05WZnAzN3hNbWhlWGs5dUh4cGxXRDEyR3MxNmF3Q0VCUGhaOHhnVlVsVDZXRGJoZGVCOU1zVV9BNUV5eWg0bVhhUnlRSXNvQ3IxZw?oc=5",
+        "domain": "finance.yahoo.com",
+        "publisher": "Yahoo Finance",
+        "publisher_url": "https://finance.yahoo.com",
         "language": "",
-        "seendate": "20261023T012334Z",
+        "seendate": "20261023T071103Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Canada's AtkinsRealis contender to build Türkiye nuclear plant: Carney | Daily Sabah",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQ0hsdjh1NDBwenlQNlR0RzU3TTNRbmZaZGVVYkg3RkJfSWlLMW5qMUNia0dwcjFTZWV0WEJvTVp5bkdLSTdoTDJqSFRtNUkxSmNOam1JVHJITGMtMHJZUG1pTGlJS3RkWThDdEhfNnV2X3FWOVUwZlJMX0Rsai1QQ3dxaUV4N3RPYlM0UWFvT01rdi1fSXVfWmw1eERlV19NY0pYb3c1NnltRmswVUF1SGtn0gG3AUFVX3lxTFBjNi1RZmhiTmRMX0RoWlR5Y1RDVm9LVm9RSGtCZHBrTzczRDRzbU91T0dJbVM0LTJQSUpWYmdMSVlsUElZUkFKSkx1Q1FZaFNhVHRhenVKZm8xUGFqZnBKRHlZQk02T3VsMXdwYVdRSHJiRFk2MnBjN1BNWmdLZ0xnNzlMeVNBeGVDS2c4ZEN5d2NQc2RlSDVpR0RSMG5tckxPSmdodnJNVENjb1BQNFRtVnJvRTFkYw?oc=5",
-        "domain": "www.dailysabah.com",
-        "publisher": "Daily Sabah",
-        "publisher_url": "https://www.dailysabah.com",
+        "title": "RAF Typhoons join French nuclear exercise for first time, escorting Rafale strike mission",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbDBWblVwTmtMT0J3U3ZfaWUxWHU3alp1N19HQ19FdHF1VG03UktuRnNnRGUtUFBZOVE3MmlmanNtXzBQampMS25EalpQVzhIY19XYkYtejgwQmFBd2JwRGc5YmpySWlYU1JoekRqSzhEUjN5U1dpNEtBTlNXeXpOQ3JhLTFRZ0J4ZHF0ck1PYnF5aXpsZzdHOEkxNVcxQ2Y5UVpxbUJJZkdiZi0xWEs1UlFsODVQWTVs?oc=5",
+        "domain": "defence-industry.eu",
+        "publisher": "Defence Industry Europe",
+        "publisher_url": "https://defence-industry.eu",
         "language": "",
-        "seendate": "20261023T083900Z",
+        "seendate": "20261024T100932Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Union head calls MLB's salary cap proposal 'nuclear bomb' ahead of World Series opener",
-        "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQczhDaUJ6b0tqQ19LbXNINjNZQURKU3NyeUg2OU5YUkcxbUhoQXlRdTJsY0I3M1V4U3o3MkFtSUdqd1ZnajhNQzRSbXFDT3RiM0F5R2o4MkhPTlh3S0RPUGZvUC1NMDJEREg4RGtDbi1PSmp0NkhPUFVaLVN6U3o1SUNMNFlIdjBTU2VjeGFYN01iY3dHcGhjLXAzaTVfdU9pVVE1Z0J2YkNOUjlPWWlVOG52dTlHWlhFNWhfMVl0Tk5kaDFvcWExYTlIS1ZpNHJOOHJwTmY0U29CTk9ZWWhJVnhJZi1nZ01EaTBtMk1VOGo0V3dGYUxEV29KaVdOOUtaQkl6SXZ5VVItT3hhdzF3Uw?oc=5",
-        "domain": "www.ottumwacourier.com",
-        "publisher": "Ottumwa Courier",
-        "publisher_url": "https://www.ottumwacourier.com",
+        "title": "RAF holds first ever joint nuclear drill with France in warning shot to Putin",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSVR1Uk92WFJIOUlQQVZ2UVJfaEx6VVlzQWtaQ19SNEI0LUt1WFdwX3NORDhtWVZhLWJzMWo3S3VOeTUxTWtQdldTSmE0S0psaUpFUjlEcC03ZTZvWUJxRVdvSkRMUHVHVENEeGdPZDgyd1E4UGVYQ2Ruc0NYaEtaVE1sdldKMW9jbHRIZTFTc1VBc3FOMU5VMDVQaWZKQQ?oc=5",
+        "domain": "www.independent.co.uk",
+        "publisher": "The Independent",
+        "publisher_url": "https://www.independent.co.uk",
         "language": "",
-        "seendate": "20261024T000142Z",
+        "seendate": "20261023T111400Z",
         "source": "GoogleNews"
       }
     ]
   },
   "events": [
+    {
+      "title": "World News in Brief: Iran nuclear inspections, deadly church attack in Jordan, El Fasher – one year on",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE90UjZEMHJTSmRjVzFrQWQ4SE9ad1FGYTB3ckJzTENRaWZYdUtJcWJta2I2X3p4MlhPUkNUamUxVkJGVFBya1Z0ZzlKQTFnWklpY1g2d3cyVQ?oc=5",
+      "domain": "news.un.org",
+      "publisher": "Welcome to the United Nations",
+      "publisher_url": "https://news.un.org",
+      "language": "",
+      "seendate": "20261023T202237Z",
+      "source": "GoogleNews"
+    },
     {
       "title": "Carney says AtkinsRealis is a contender to build nuclear power plant in Turkey",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUDVaTVBUN2djLWhIejhzYlNpOGtWU0hoUEQxN1g0Q0M2UldpcFhud2pIc2s3LWpfOWdIVm1hZU4tSzFmVDRzLUJxSzFHcFNybURZTnY0R3liU1QtSE51S1F3TDJXdFJ6dzNUd2tjQUxScWpIYWt6ZXVPQnFqUjdVWkRENWRncnhoMFp2NDdMVWZrMFdUWThFcU9FbUdNOWplcWUxNXdRelc1cHN2RWJ3OEl6RXV4VkNpQUYxRDE1cTdFUQ?oc=5",
@@ -539,6 +549,46 @@
       "publisher_url": "https://www.reuters.com",
       "language": "",
       "seendate": "20261023T151126Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Startup plans to rejuvenate the nuclear power industry with a new manufacturing approach",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNck14Q2NYRjF3YlA0U0xfUW1TMC1haFJVTjJDTGNRNXdsWkxDNm0xX0Ruc1hXZG51dzZRLThjMTJIZEtrdXdqUmZUQXI4NkZsNlZKU0pJeG5oMWkxd2huTEtpMFRpdDN2VURhbmFRX2pxY2RxWEFJeTFLUm9KQlkyM0N0Q2lwWmRJbkxXUHJ4UUItU2dVdW16LWhXQUdNelZDR2c?oc=5",
+      "domain": "news.mit.edu",
+      "publisher": "MIT News",
+      "publisher_url": "https://news.mit.edu",
+      "language": "",
+      "seendate": "20261022T040000Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "IAEA Mission Says UAE Response to Barakah Nuclear Power Plant Event in May 2026 was Effective",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUVNETzN1N2tCQ2VWN1B1OTJtMjBMcW9zM3JmblpQSzFVcGNaVFBtZV90d0p6eHJ2dE5SRC00R0s2Sy1FTzlYQ1gwMVRFbFpQVXFHRE5zRVNvWGZzWmVSaS1xVmkzajNlTXFRMVEwbGppemFRZnQ3U2VFc3B3Qm04UkxNMEVsd095SjJHXzFPeF9STGhXMEctWndLSkwyY25wWUFLUHh6dEIwMkQ4dEtFcUZSUGdVVGJ4T2daeXBRQUNSNm9XVFBVQWtDOThiQnRpVFhvdQ?oc=5",
+      "domain": "www.iaea.org",
+      "publisher": "International Atomic Energy Agency",
+      "publisher_url": "http://www.iaea.org",
+      "language": "",
+      "seendate": "20261020T085616Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "NASA’s SR-1 Freedom Advances with Progress on Nuclear Power Module",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQM243TXE0Vm1TUnZUVG9UNHlkRHpYNUt6NVNydk8yZzhtRFJCU0RlYW42QzNqRnVWUEN5SmI2dUliMExvUUhaZHFOS1Nxa01rN3gya3F2MkZNN0l4bGlHT2pWQzljb2dUZDc3aTAxelg4TU9GVVBFMFIwdkdaZ3FjOGdRRUdiWnViZlhoSnRWNFQ0SDdWVE5rNGd4SXZVTG1ya3pVTVpSSV9UdVhkSzM4?oc=5",
+      "domain": "www.nasa.gov",
+      "publisher": "NASA (.gov)",
+      "publisher_url": "https://www.nasa.gov",
+      "language": "",
+      "seendate": "20261020T181133Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Entergy celebrates Nuclear Science Week 2026",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9MemI5SVU5dEtnNUtUVEIzX3pmcHduZ2JreGRHaGRIUF9oWkVJQl9JMUNvLWhYWmMzdG1CNDlEM2h4UkpyUnppU0dva1hJV05mTk1OaGhBMjZ4d2hGT0p4UXBuZks3M0x0aTJZQk1paVNCYlhDODM0RjV6TTNTdw?oc=5",
+      "domain": "www.entergy.com",
+      "publisher": "Entergy",
+      "publisher_url": "https://www.entergy.com",
+      "language": "",
+      "seendate": "20261023T215623Z",
       "source": "GoogleNews"
     },
     {
@@ -558,47 +608,7 @@
       "publisher": "AP News",
       "publisher_url": "https://apnews.com",
       "language": "",
-      "seendate": "20261023T225035Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "IAEA Mission Says UAE Response to Barakah Nuclear Power Plant Event in May 2026 was Effective",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUVNETzN1N2tCQ2VWN1B1OTJtMjBMcW9zM3JmblpQSzFVcGNaVFBtZV90d0p6eHJ2dE5SRC00R0s2Sy1FTzlYQ1gwMVRFbFpQVXFHRE5zRVNvWGZzWmVSaS1xVmkzajNlTXFRMVEwbGppemFRZnQ3U2VFc3B3Qm04UkxNMEVsd095SjJHXzFPeF9STGhXMEctWndLSkwyY25wWUFLUHh6dEIwMkQ4dEtFcUZSUGdVVGJ4T2daeXBRQUNSNm9XVFBVQWtDOThiQnRpVFhvdQ?oc=5",
-      "domain": "www.iaea.org",
-      "publisher": "International Atomic Energy Agency",
-      "publisher_url": "http://www.iaea.org",
-      "language": "",
-      "seendate": "20261020T085616Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Entergy celebrates Nuclear Science Week 2026",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9MemI5SVU5dEtnNUtUVEIzX3pmcHduZ2JreGRHaGRIUF9oWkVJQl9JMUNvLWhYWmMzdG1CNDlEM2h4UkpyUnppU0dva1hJV05mTk1OaGhBMjZ4d2hGT0p4UXBuZks3M0x0aTJZQk1paVNCYlhDODM0RjV6TTNTdw?oc=5",
-      "domain": "www.entergy.com",
-      "publisher": "Entergy",
-      "publisher_url": "https://www.entergy.com",
-      "language": "",
-      "seendate": "20261023T215623Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Fall, fuel rod mishap and failed exams plague US nuclear revival effort",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNejlBMEFUN2NVLVZEUXVWbFdDb0paMmtnZzgwODRrWlhiMEVISkZzcE9NQTJtb1JnMVlQY0FHZlAwQnRHeS1SdVRxeGRNZmNYUTY2ajdfckpZcHlpbXRucF94YVZvdWNkMmpIM2UzSEZ0TUkxdnFmWDRyd0U1dHFGSWZmVDk?oc=5",
-      "domain": "www.ft.com",
-      "publisher": "Financial Times",
-      "publisher_url": "https://www.ft.com",
-      "language": "",
-      "seendate": "20261023T100002Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "NASA’s SR-1 Freedom Advances with Progress on Nuclear Power Module",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQM243TXE0Vm1TUnZUVG9UNHlkRHpYNUt6NVNydk8yZzhtRFJCU0RlYW42QzNqRnVWUEN5SmI2dUliMExvUUhaZHFOS1Nxa01rN3gya3F2MkZNN0l4bGlHT2pWQzljb2dUZDc3aTAxelg4TU9GVVBFMFIwdkdaZ3FjOGdRRUdiWnViZlhoSnRWNFQ0SDdWVE5rNGd4SXZVTG1ya3pVTVpSSV9UdVhkSzM4?oc=5",
-      "domain": "www.nasa.gov",
-      "publisher": "NASA (.gov)",
-      "publisher_url": "https://www.nasa.gov",
-      "language": "",
-      "seendate": "20261020T181133Z",
+      "seendate": "20261023T222100Z",
       "source": "GoogleNews"
     },
     {
@@ -609,6 +619,16 @@
       "publisher_url": "https://www.wsj.com",
       "language": "",
       "seendate": "20261022T183500Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Six AP1000 reactors eyed for Kentucky nuclear power facility -- ANS / Nuclear Newswire",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeHM1VHA5OWhiTWotX296UUswSENOYUpscDFkVk9XQ2lKVm1ibHRONThONWpWZ0ptcTJMa3RyQngyck5pUnFreDYzY1JhS1h6ckMyZUdtOGNFaTN1dktoWl9ZaGl2dGdTZWZDSG9GaDBMRGNab2ZuUnhfNTdiQzYzOVhsalkzcXZZckh6NXVLby1tZHBEWjZYbF9pdUhzRFg2?oc=5",
+      "domain": "www.ans.org",
+      "publisher": "American Nuclear Society",
+      "publisher_url": "https://www.ans.org",
+      "language": "",
+      "seendate": "20261022T234119Z",
       "source": "GoogleNews"
     },
     {
@@ -632,6 +652,16 @@
       "source": "GoogleNews"
     },
     {
+      "title": "AEP Partners with Amazon and X-energy to Explore Advanced Nuclear Energy in Indiana",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBjNTA2VTM2dDllSjB4Wjc5b2RXVk9LaC1zVGVsS1czVzJqMWNVQ3N6bnVYQWp6ZlJ0S1IwMGVfQjFNYkFvRGtIR0RNYXA1d2FMOW9DOXdvTQ?oc=5",
+      "domain": "www.aep.com",
+      "publisher": "AEP.com",
+      "publisher_url": "https://www.aep.com",
+      "language": "",
+      "seendate": "20261019T131004Z",
+      "source": "GoogleNews"
+    },
+    {
       "title": "Indiana considering 6 GW Candu nuclear project",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeDdsLVhlblNFSVZ3SUROUDdUbUo1cG5Qc1l5QUNjQXJ6TUtyekpHVDZZZnpVdU05VERvMmU2XzNfT21lanVnZU84RXpLN1RPSmJzclpCT05oRzBnWll2SFVFYmpORlNSel9yYWY2TXpvSkltc09oSnBhdDFfX3VBU3NTUGRKVmNSRVIwbDFEWQ?oc=5",
       "domain": "world-nuclear-news.org",
@@ -642,43 +672,13 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Finland nearing opening of world’s first permanent nuclear waste repository",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYTJMbVBwT3p0YU5mUVRuc0tNMWY0eFo0TEE5RXEydUJTWVZ0X3hoYWczcm9ocFlLcXF5bXhRMUR2SlpLT0NkdDhQTHRVTVczMnBPZkpnY1pmYk9KTmdvd1VEMEVlM0JlS3ZnVmhOODQ2ZnU3NXhXUDNFNXZ2bHVlS1JUWnJ1a1MzNWVfM1FmdXhfaUNfUnBJNzYtX1h1ZDBSRy0wV0FBdmtmNUpzZm1lVDFGWWpHZzjSAbwBQVVfeXFMTjU0LUlVTEhRTU9POHk4czJyTHlsdW4zcmZOVURuaDhHUFVJb3pUUThtajlpaFhpUElKRENra1hVUW0tNmJQUkplYzhhVU90Vmc5RVk2V3JPVV9nRlVOeHZwMHdJRGtMdlJhZEE5VkFTZklYdnFDTE5tek50RV90SFJGY0o0QVp5SGpKd2didFFQdlR1VzlRWWdPWTlFd2V6TUlhX1VVNGUzNml2RE1OMUZEZWdMMklZc2N5LXQ?oc=5",
-      "domain": "www.aljazeera.com",
-      "publisher": "Al Jazeera",
-      "publisher_url": "https://www.aljazeera.com",
+      "title": "What to know about Louisiana’s nuclear energy aspirations",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9RbV9teWZjSG1IdUhxLS01c3pBalBHa2RJMVM0LW02akZ1TXRzVm0yMXNrVFJvQnE0c25iWmZtZUtveHRISlpnd1FvVWw5SVA5dHFUdkxLWEZBMkVtbG84c2h4NE5rUUdf?oc=5",
+      "domain": "lailluminator.com",
+      "publisher": "Louisiana Illuminator",
+      "publisher_url": "https://lailluminator.com",
       "language": "",
-      "seendate": "20261023T135437Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "RAF holds first ever joint nuclear drill with France in warning shot to Putin",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSVR1Uk92WFJIOUlQQVZ2UVJfaEx6VVlzQWtaQ19SNEI0LUt1WFdwX3NORDhtWVZhLWJzMWo3S3VOeTUxTWtQdldTSmE0S0psaUpFUjlEcC03ZTZvWUJxRVdvSkRMUHVHVENEeGdPZDgyd1E4UGVYQ2Ruc0NYaEtaVE1sdldKMW9jbHRIZTFTc1VBc3FOMU5VMDVQaWZKQQ?oc=5",
-      "domain": "www.independent.co.uk",
-      "publisher": "The Independent",
-      "publisher_url": "https://www.independent.co.uk",
-      "language": "",
-      "seendate": "20261023T174500Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Idaho could see nuclear boom as small modular reactors near reality; Twin Falls panel set for Oct. 27",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVEptdmlzYnJJcGhRejZweWhwanVleHh2SXExNDJlbUV4VmJDc3I2bm42VHlEbWJkOE5WWVpXbXY1bVBhM2tsNVpxdHI1SHBxTC04TzYzTzhfZnV5aVJLUVRxLXVQRU1remdWWEplbHZxUWd0ODN4QWZyOEdTNUFhbkozS0pNVHVQbXllYjRYZjRDcHBzaENnR0tZZFhSamhkdGR2eE1DYTh0S18xcmxXblQ0elVsZ08tbE5Vd2RlMmJjNzFldHA1M1ZvS1hnZw?oc=5",
-      "domain": "www.kivitv.com",
-      "publisher": "Idaho News 6",
-      "publisher_url": "https://www.kivitv.com",
-      "language": "",
-      "seendate": "20261023T214000Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "British jets join French nuclear exercise for first time, France says",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNejUxWUdfTnA1dERLbFdHM21QSnA0cTl2NVhpeUo1cTRlWElBOHBCazM3cFNxQ3MyQUZuR3BUdTFteHVTeWFqWE1LZWxUa2UtQWxZWmxETUl3c1RJblFobnNUbXFfUkQ5eEpGNkhFUkp2c1NnYnRoaEVyclpmS21kbldqM1dOOHFlSHFtcF9FR3JRRnU5eVhmSUM0U2lOTm05X2d5Vk1HekphdUw5UmtsN25Icks0X0dVVXVGb1BVVElnXzQxcXc?oc=5",
-      "domain": "www.reuters.com",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "language": "",
-      "seendate": "20261023T112602Z",
+      "seendate": "20261022T234847Z",
       "source": "GoogleNews"
     }
   ],
