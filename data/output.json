@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "nuclear-proliferation-watch",
-    "generated": "2026-11-02T06:47:39.839540+00:00",
+    "generated": "2026-11-02T21:55:18.004661+00:00",
     "mode": "live",
     "sources": [
       "news_articles"
@@ -23,11 +23,71 @@
     },
     {
       "label": "Distinct news domains",
-      "value": "38"
+      "value": "41"
     }
   ],
   "live_data": {
     "news_articles": [
+      {
+        "title": "Nuclear-Weapon States Consult as Trump Talks Denuclearization",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNTlXQkZ0aVdsV0d3MEpfOVdDZzVxRGlkczZDMDJBVWpQU1ZOZkFyMWN2SkxFQXVBenZ1WjRwNVgwUlBJLXJLTnVZeTJzREJYNjdiQVJBc053NWphZTZOSk4xTWwyWjBiTjNlUXoweXRSYVpuVDd4UUNINUZjdkc5QV8zZkxsWFV6eGR6M3JuQXlYUDUwUThtMkJQVVh0T2VocHRlU0pB?oc=5",
+        "domain": "www.armscontrol.org",
+        "publisher": "Arms Control Association",
+        "publisher_url": "https://www.armscontrol.org",
+        "language": "",
+        "seendate": "20261102T185123Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Fake alerts warn of nuclear danger as Ukraine and Russia report emergency app hacks",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQ1QzbGU5dXREb2Y1VkpSSmU5TEhnNm5TSmFOdWRkMkh4Qk1uVDZtZUp6SUs4RTVDUndVemptd2hWRXNZdGc0ZDdDaFp5ajVvWEw3dzVsb3RXbWhFa2tBSUZ4YXNvWmpFT1hLeGxKaHIwc1NyemhaeTlvWjdfVGxPRmFDaUJPQ0NBUFNiWS1kUkN2bjZUdUt6amlPbkQ1VkdjNDJsWDVkNkJkcGJWVnpfUmlWb0FzN1k?oc=5",
+        "domain": "www.nbcnews.com",
+        "publisher": "NBC News",
+        "publisher_url": "https://www.nbcnews.com",
+        "language": "",
+        "seendate": "20261102T125652Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Hackers send fake nuclear threat alert to Ukraine emergency app",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNmlEUnlFc3VFcEdqSjREVzdJOFJWbjhBd3hwQ0FkVXlLVU9kNmlqSXpQRlVtZVlDeUZKcHIzODB1LWFLeDhXVmRXdVk0N1VhLWw5YXpnWHQ5LXZMMllFWUFRc1NCNDZ5Yk91Nkg1UnlZX1BseTdtT0NQeVNyRHlEamNLQlZ2amU0SkRrOGNtRDJLckpMa1dWZzlmdnBVbjU5Q1lFZ2tHejUwblFKQXViOXVOUmJuQQ?oc=5",
+        "domain": "www.theguardian.com",
+        "publisher": "The Guardian",
+        "publisher_url": "https://www.theguardian.com",
+        "language": "",
+        "seendate": "20261102T165000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Idaho National Laboratory receives ARPA-E award to advance next-generation nuclear fuel",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWTFoYTRzNEZYSGIxaG5ycTNlU2Q5YlB0RHgtU085LXVmR1U3WEVYMGFTR2J6WUpWZHRwZTFuRmUyZkhBcVdlVGFpMlRiaktpTnBLYzZ0N3BNWXZuTXg3c0g4b0Z2MGVtNEIzS1lvTVgxYUl3Sk50MmstRjZ3RjdvZzQ4eXZXb2xxRmtVdUZXdnFFYWdOeTIxbDFmTjQtV1BFRWNFd0pRZTB3bEJNbFEwQ1VoV2hqZFRy?oc=5",
+        "domain": "inl.gov",
+        "publisher": "Idaho National Laboratory (.gov)",
+        "publisher_url": "https://inl.gov",
+        "language": "",
+        "seendate": "20261102T200345Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Fake warnings of nuclear attack posted on hacked Russian and Ukrainian emergency apps",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPS3VKNzBYUk8yYXJEZF9MX01wVEtHZFljV0ZDdnEyR1lKUlFRMnBmbjVrdkg5Y2FpTE4xdmpmVHJfakpOZ1lLaTRvdXVvZEVLZzc3amxIQ21SNVUzVXNqakdrdTQ2SjNwcDMxYlhKXzVPTWFlcTkzZkRoNUthMnNGeV9DazF0ODE5Qnc?oc=5",
+        "domain": "www.cnn.com",
+        "publisher": "CNN",
+        "publisher_url": "https://www.cnn.com",
+        "language": "",
+        "seendate": "20261102T105720Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Fake nuclear warnings issued after Ukrainian and Russian air alert apps hacked",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1URnRWSXh1UnA2ckptNEdJd2VGVVU4N2FKYUxjanpWWVpsRDRUVWNpYXFtV3JFSWdlLUdwUVdWVXgzd09UTjRuQ2ljcnIySF9lWjhEbVFpSks1MHM?oc=5",
+        "domain": "www.bbc.com",
+        "publisher": "BBC",
+        "publisher_url": "https://www.bbc.com",
+        "language": "",
+        "seendate": "20261102T143501Z",
+        "source": "GoogleNews"
+      },
       {
         "title": "Iran’s nuclear bomb debate gains ground on official platforms",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ncU5lU042bEhlZ2RxWkFMeFl3TFdqeHoyU045dTlPQ3EzTHpBRU1lOHBWblNBdGtFbEpQbEFZS3hRUmlfVzl5V2hxZm1VZEpyZWc?oc=5",
@@ -36,6 +96,56 @@
         "publisher_url": "https://www.iranintl.com",
         "language": "",
         "seendate": "20261102T004000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "San Onofre’s nuclear waste is stored on the beach: Will another community agree to take it?",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBmMEU0X0h1SGxoV3o1NWt6M2kyalBXUGZwN1lWN19mR0Mtc2J6bTZ3NnN0Rmo5MG5pVnNsR3AxQl9zaTB3YlN3NzlBZHNKMnJsMWZLRE5OZXE1ZWkzellxTXNVOVBRcVVGZHkyQk94V2FsbmZKZjUwZg?oc=5",
+        "domain": "calmatters.org",
+        "publisher": "CalMatters",
+        "publisher_url": "https://calmatters.org",
+        "language": "",
+        "seendate": "20261102T130000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Nuclear radiation in Russia, Ukraine? No, just hacked warning alerts",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZTN5bktCQ0lvY3ZfalRyZW52YnAxU2M0Z0Q5WkE2dTBKa2JtYUcxbnlCWXVtRGRxYjIxYURwYU1YVjZYaHljdFp1VnpxalV2eVFscHU2RFVYRXlnZ2xTZDdNVEhHR29UenlkZHlsWTNsX1lyc2NvNFV3UENwTWU2VzV5ZzJEQ2JtRjM5dW5CRkd5RUlrUFg3c0FFS2hUaEY3R1JfTDJnTWZmd9IBrwFBVV95cUxQRGFFdjNwOFRkcnBsMnhWbW1qV055TXJmblVzcnFuRXpiNkRMS085V1FaejFFVG5WVThpTzI2TnI5cTIwSFFXUC1tWkVXRDlFOHA0NjlGRGd0cWZqNVpFaGZCZVN6akVqS1NPcGN6MEg4QUxKRUdDWDRLNGVqNmpMY2N1a05lOXN2X1V3eDZrMXF3WHBURWFEZzV3cDN4TkFJc2ZQYW0yV2toRmY5dTI4?oc=5",
+        "domain": "www.aljazeera.com",
+        "publisher": "Al Jazeera",
+        "publisher_url": "https://www.aljazeera.com",
+        "language": "",
+        "seendate": "20261102T094611Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Ukraine and Russia's emergency alert apps both hacked, residents warned of fake nuclear, chemical strikes",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMFVBYnZvb3ZDNlg5V3o4TUlJaXVHVFRmT1VPWmkweTJ5aTRtdURObGtqZjdtUTJtTlpVR3RiUjQ2MmtTMzNTOUtYYUR6Z1ZxbWE1MExwZG4za244THlzVkQ5SzhzTHpfaXFRTllvbmYzMUExOHZVM25HZ1hqdEd5czlMaVY4NmpEdXFqZC01aEZ1dFlKZW14SmxxSnl1STQ?oc=5",
+        "domain": "www.cbsnews.com",
+        "publisher": "CBS News",
+        "publisher_url": "https://www.cbsnews.com",
+        "language": "",
+        "seendate": "20261102T172600Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Trump could launch nuclear strike on Iran within days, commentator claims",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUjZ2Ql9aYWZVd2RGOXgwS3FCUVJNbnhpdW9Fa2p2alNGRVhQTEFEVnVvRDJZOEs3dHdDbGFoNVRiWGppVW9UVGV0c3A2Qi0waElZcVZObWNtWFhBUW1rcHJFLWFqREhaTlZQZFl3MklDRnRLYU1JdXpza2UwRTk3b3lVUG1QZTZIb2kzZzNtV3ZKTUtabXNBelpFaUxZbGlGVHlTSi1vRzBpQUdTd2lj?oc=5",
+        "domain": "aa.com.tr",
+        "publisher": "Anadolu Ajansı",
+        "publisher_url": "https://aa.com.tr",
+        "language": "",
+        "seendate": "20261102T080147Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "The History of Nuclear Power in Space",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5xdXdsX2xfOGVGUmlqX2pxQTY1ckp2R3lDdVA0Rmo5dFI1VWtrVmpEb0NOb2VmaUdiUzFRZ3ZsWGx2TjkwZ2hrN0s0WlI4Tmw3cHN1UERTT0YyOVFKN0h1X01OR0R1ZXMzR0ZSZmtVMA?oc=5",
+        "domain": "www.energy.gov",
+        "publisher": "Department of Energy (.gov)",
+        "publisher_url": "https://www.energy.gov",
+        "language": "",
+        "seendate": "20261029T200000Z",
         "source": "GoogleNews"
       },
       {
@@ -49,143 +159,53 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Netanyahu pushing Donald Trump for nuclear strike on Iran? US commentator makes big claim",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNMVZhcGxWam4zYmRvMEhnNFBYbVd5S2NLTU4tMGFjYnEzRFlvZHh0Ym5jcXAwcExabFBsVUg1MUxyTVI5VU9WRExNZkFnZTI2dExPSnhEdm9IN2I3TTNxc0xHQWctZl9kRmNCUHJWcGh1eVlELVpGSnlVTFVmSDVtOHJuSTU4VjFCUEJEbmh2eENyY2ZTWnYzcVlPNFlhbkJJd3l3M2k0UUR1cTE1QXZYbi1PaGdndW50WDdONDVnWDJXWDVRcGxLSks5blBWa2NXeGl1bl9McDh3Rk5mdGs3QWN0c2w4Q0RVMVNQS3V3cEzSAfYBQVVfeXFMTXFkOERUYzFxSm1neERBblNZLUtjZjd6eWxReWFhY2VQU2RxRE1BeWk3bGtVTzFjbHpRaEFkRElnMlZRbzUyNUNaZmFvdmFiNTk4Y2h4N2Frd3VGMmhWV281RFZXZDBEMlcwYU9kQUFXSVFmUkdzRjdkZUtydzZ5YjdOcEZUY0VuS3N4MFZ6ZWllX2c5NkFGTm9oQkdWY054bFA4eEFzVjZsYktLNFMxWFdGQi1nTmZyQUJMT0tXcmVQVzAyNHZ6RVk2blBfblo3RWM3RVlUQnR1bElqRkxCenlhR3BIUVdDalJVdGJlNXFwMWF1MUNn?oc=5",
-        "domain": "timesofindia.indiatimes.com",
-        "publisher": "The Times of India",
-        "publisher_url": "https://timesofindia.indiatimes.com",
+        "title": "China has likely resumed making weapon-grade uranium at Emeishan",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSC1NbnNfaUJxSTJpOXZPbGd6SFNDb05hbExzRWYyejRoRVh3QUVKODl3b2tfcmdDcEtSVkpZdklmN1BwdmZYdUVjM1lQQWFjVkUyTkpTR0F1QU1FSTFISlZGQkRKRlJmY0FtWi1mTm5IUmpLZkNpTmJuOHdnS2V3Q1BfekR4VWVZYm1hTWkwSk10S2U0bkdGYm9RRTB0Zw?oc=5",
+        "domain": "thebulletin.org",
+        "publisher": "Bulletin of the Atomic Scientists",
+        "publisher_url": "https://thebulletin.org",
         "language": "",
-        "seendate": "20261102T041100Z",
+        "seendate": "20261102T110538Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Trump may attack Iran with nuclear weapons within days, Tucker Carlson warns",
-        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQUmN6VjlKWUpFMVFXMjluNTdJOGh1QlIzcGxmR2NEQURBUEVtVjRMRF9kc0ZXR3IxZExxaFRnVXhPdXRRazhWLVRJcXJfdkZPN3UtZXZpVFNDakM3OVZsUnpvLTFQZ3VKQl9iek43MzVMYzRtUURUc3Y4UDVOT3NzZWpPVzE1Y0NyQS1KUlJvcHJRM1lOa0Zod3FidXVWdlRsNUNFUjgxYjFMNGl6cXFwaWtHLTkyRWp0RTlYbjBHdFA0T1B4ZW1vZU1acTZJeEMxU21xUFJfcFdzdU5EYzJ2ZmtBUlhrRFVKSkJfSFBfZWxLUGhk0gH6AUFVX3lxTE16eDQ5UHRIRXNiSHZ2Q0ZRaDZVQ2hpYTNxbll2cTNBXzdXSU1xNTU1TTktZEwxaWZpcFJHSlVVTEJwNHRtSFhaaWhDU3dyVzZ5NjQzYnJSczczRXBMRWk2SGlJcUF0dWJJN3ppOE15dzc4UzJHbTB1MGtGcmdvc1RJSktnWmZybXBXSXVpR0VlNWpoYVFhOHl3Z1pON1dsdnZ3MHJzd2RQa2o3UDFRTmgxc3hWT195RklWUll3VENnaU9aSjhGSkcxd25mekVhMjh5a0JsQUx3aVVacTdCdTl1Y0JGVU11ekNfTU1RQWUyM2taWkN4MHJ2Q1E?oc=5",
-        "domain": "www.firstpost.com",
-        "publisher": "Firstpost",
-        "publisher_url": "https://www.firstpost.com",
+        "title": "Fake nuclear warnings in Ukraine as Moscow, Kyiv report separate cyberattacks on emergency apps",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQllmMnQ0eTliZGFCbFFOWHFVaHkwT09icWRRaXhMamIyUllPNTgyZG83OFpnSUJJZFRKcmJtMFVqRGlEWGdPLWRJTGNkY3dENmdHTUdWNkxGLW15MFhVS3FUOWtwb3p5TzlKZkpJTnZzOFpJQ2o1X0p4ZXNHTXNfbWRJT0RxQdIBiwFBVV95cUxNUTlQeS1Hc1dRZmFBdzlLSjNNUHFMbFNlRmoxc0NQQUY1SXNFdjFURXM0eFBYMDQtMGR6TFloRUJNZzRnUUNOc2lhQ0ZuelZibEtlaVQ2b3Exb3kzSWJ0VTJjLUl6VmoxZ3lnak10VDJWRldTb0RhemU2clJDbTdhUFFUb2VRNWFFT2Rj?oc=5",
+        "domain": "www.cnbc.com",
+        "publisher": "CNBC",
+        "publisher_url": "https://www.cnbc.com",
         "language": "",
-        "seendate": "20261102T051702Z",
+        "seendate": "20261102T111805Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Trump says US could strike Iran's remaining nuclear sites in '10 minutes'",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPclNtN1RfbEt4ajNpQzBGNnJxVkRmN3pQcHBnRHFPRlNrc3R0OFYzQS11RUNicmszR01JWEE4RFA4S3N1cEFObTRCY2xDNTJZcXR5Wms4UDk2ZTdFdjBwUUdYWjNkbm1zd2VTYndqOHdfbVNxSjdTaHdmZmoyQ1BjQXppY2g4MFV3bnpUNTlJT3VidWhwdDBBRWxVUDlFbjB3YmNkWnkxSnh3b2c4OHVxY2ZB?oc=5",
-        "domain": "www.aa.com.tr",
-        "publisher": "Anadolu Ajansı",
-        "publisher_url": "https://www.aa.com.tr",
+        "title": "Nuclear Regulatory Reform Beyond the Permitting Bill",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbWlpYmVRLTFUeWNHYUp6M1VQYUQ0NEJrTV9iSGZSbF9tNlVPd2xIWV9TQmR2NjBlS0dieFYtNmRoX3BYdHpscFhqSWcxR3dJWm5xOEluUFdCcERyYTBHcnZhT0t3UnIteXVfTXAtSzQ3QVh2Z3E3UFdBalZ2YWRzb3I4cFhfZXdHNk0zZnhNcXo3eTdHeFE?oc=5",
+        "domain": "www.energypolicy.columbia.edu",
+        "publisher": "CGEP",
+        "publisher_url": "https://www.energypolicy.columbia.edu",
         "language": "",
-        "seendate": "20261101T083414Z",
+        "seendate": "20261102T152059Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Nuclear energy company Applied Atomics establishes headquarters in New Orleans",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORUxHaEJsWFRRajVXT1BlbkNHQU9QSTliQW1BdWNaeEl2Tnptb3ZjU1dSTy16NjhkTERqS2thMnRCREFIVGpqOU91Z0J4am5aVlRCdlZDMjFFS19oTFJyNzJ2d0JQVGF3c3lER1VINHBBcUxNN0pQR1NCbTBteU1qeGxnNExHNUhPSVk2cTBUYVQ4YXhyVk12MTBNbmlvQXg0S2Vvc0JWOVFXc1ZTX2cweWk4amFCNFI5Yjlv?oc=5",
-        "domain": "tulanehullabaloo.com",
-        "publisher": "The Tulane Hullabaloo",
-        "publisher_url": "https://tulanehullabaloo.com",
+        "title": "U.S., Iran Threaten Escalation as Diplomacy Stalls",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQmlmT3lPQzFLQllCZ1hQZ3Z5Wkl3ek1XeHdDVkJlcWJZZXI1eUNBdm1zMERMN3VCOGZoUTdNSXpBUVEyZWhJY00wc1liT3ZJNTJ6bTlwY183M0tJMzU0WHNiT2QxNTJLaXpBZ0hhUjkzMWtzM1hNUEtRZ3ZHQVZDeEY2dHlZV0dELTI4UWFIcUpERXM?oc=5",
+        "domain": "www.armscontrol.org",
+        "publisher": "Arms Control Association",
+        "publisher_url": "https://www.armscontrol.org",
         "language": "",
-        "seendate": "20261102T042701Z",
+        "seendate": "20261102T185126Z",
         "source": "GoogleNews"
       },
       {
-        "title": "A Cold War blueprint for today’s nuclear dangers",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZlZ6S1I0N1BVZXhFcklJT3BXM0s4UVVHcDE2cGdnZlpUWWVmTjFhUVZXUlFfSHE0QnpLR0RnWndDenFwNFNjZkNsOU10RnFjV1cxTnZDUkhoZFVvQnpBZE0tdHEweVF6QmQzSFg2M0g4NWoycVhiazFfSUVGbDBoM3pBbXd3SFQtNnNma1dn?oc=5",
-        "domain": "www.japantimes.co.jp",
-        "publisher": "The Japan Times",
-        "publisher_url": "https://www.japantimes.co.jp",
+        "title": "Israel denies pressing Trump for Iran strikes amid diplomatic push",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1VWHczajJIMVhpSllaSzdVZWhKWGFsb3JSOUJ5Q05fQnp6UFpZMlBXSUhNTjZ1ekhCbGpvTTRjRjcyZFIxRG9qVEs3Vk15Q25Lb2c?oc=5",
+        "domain": "www.iranintl.com",
+        "publisher": "Iran International",
+        "publisher_url": "https://www.iranintl.com",
         "language": "",
-        "seendate": "20261102T034601Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Illinois nuclear plants receive federal funding to bolster the grid",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORjFiaER5LUw5TUlBWHZQa0tSejNaWlpkRzQ4SHVlQl84WXJOU045Z3YzenZHN2V6cnN3QVRJdEd1NDlheUVNLVZmOVdWakR4Q2NDNDFZX3g0b0lvWVR6MUlWZHJDTkktT1RMVUx0bEFDTUhBY3BmS0ZVM1lXNkRPTUt2TUdnRzhQRW1wS05wT184YmVnbUVtTHFqTWU1SEVlNzZ4YtIBqgFBVV95cUxOb2tjaU56QjNVSkhxaUxKQWpLckxQTUFocFdiNm4zalhNVzZ3SXQ5bzFWZU43MzNuOE5DaDBYQ09Xd3VjSy1mSER5bkRsM0FRV2hRN1dRcDVCczdXZHptcE5pNEc0QU9kOENTdFNZV0RBaU1OcWx4U09oOXRqbVdmLUwyem5KRVVBZU9TYU5zX1ZDWkFJMU5INjVwNUtKb0JjZ2U1bTYwMVB6Zw?oc=5",
-        "domain": "fox2now.com",
-        "publisher": "FOX 2",
-        "publisher_url": "https://fox2now.com",
-        "language": "",
-        "seendate": "20261101T203234Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Why are US, Russia and China racing to put nuclear reactors on the moon?",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeTcyMXJ0dXBMRXJwTlE4amM0V1pmQ0xTZTZndjYydVBnRTA1ekVseHVCUTdlcUt6b1kwSFp3amZxLXdtdzNQS1hDNzFKZExXcWF5ZkZ4amZQX2hkdDdlVkxaOUlPbk5vRzNyWFhQaW1hMUVGaHJ1Y1hVMm1VMHVwN2JaRTZpTk9QalpnVDB4aV8zcjFFTzlBOVkwUGVja01FaUsxd1c2djFQZVZpUWluaHJB0gG3AUFVX3lxTE9Va1B1NFE5MEtjZzZGc1FoaUw1NjNTSm1mZExvMGZVdVVVYVdEM1gxRDh3UG5OaFFuTlIyOTZISkZrYXJXY2ZZMllsVnVMRWlWQTNRakdmY0cteW1yd2JCaG95anRtWVBKdFN2TU01dmhRZzZvNl9ZQmd6SlFfX3V4T1pteEFBYm16dEdjakFhSlppR2NJYTR2YnY2YTU2LXBoUGtHU050QzRvVklzTHMwSWV4RnN0SQ?oc=5",
-        "domain": "www.aljazeera.com",
-        "publisher": "Al Jazeera",
-        "publisher_url": "https://www.aljazeera.com",
-        "language": "",
-        "seendate": "20261031T055004Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Ukraine's air raid alert system hacked, Air Force says as false nuclear, chemical warnings sound",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZ1QwY3NsY3diOW5FY2JCQXE0dGVHbG1lRDMxTzFXWS1yNi1FeDRoQ19OYml6RVYtbk9kb2J0Qm56S2xCLUc4bVdaWFJscDB6MHhqX2FtbS16SEtqeHYteDQxa2RCSW9tLUVRS295ZzVPM0NNNGVwR2FmZTJhbzRPc0wzbkgySXJiNW1sVWU4TVBsVFpvc3R5dDRPQ01iRDFINEc0VUtYTDgweWhpdjJ1M1I1MjV0S01wZnp3Q1Z2Zw?oc=5",
-        "domain": "kyivindependent.com",
-        "publisher": "The Kyiv Independent",
-        "publisher_url": "https://kyivindependent.com",
-        "language": "",
-        "seendate": "20261101T232146Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1URnRWSXh1UnA2ckptNEdJd2VGVVU4N2FKYUxjanpWWVpsRDRUVWNpYXFtV3JFSWdlLUdwUVdWVXgzd09UTjRuQ2ljcnIySF9lWjhEbVFpSks1MHM?oc=5",
-        "domain": "www.bbc.com",
-        "publisher": "BBC",
-        "publisher_url": "https://www.bbc.com",
-        "language": "",
-        "seendate": "20261102T011827Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Update 373 – IAEA Director General Statement on Situation in Ukraine",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc1dSTUFDMkV4SXZORUQwSUVQRWJ3dlgzOE9rbEZpWlZudFBENU83QzRZRG80blZXQUhNM2owZ0dwTXFLTXExc2QxX0tReXBoOV9ieWUyV1pwNDRENmNTYlBtV0stbVJFd2hoR21XWTltTzBsUEdTQ2JRdlBPWWVXQzJUWGVhSzJTRTMzeUcyMWlOR1lDNUlQZUFkdlJZY2hiUVhIei1RS1pZNmJHRTRzTUVn?oc=5",
-        "domain": "www.iaea.org",
-        "publisher": "International Atomic Energy Agency",
-        "publisher_url": "https://www.iaea.org",
-        "language": "",
-        "seendate": "20261030T165016Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Fake nuclear attack alerts hit millions of Ukrainians and Russians on the same day",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRDZONncxYS1RaFRWOGtZaXE1YjJRVVdmbTlESnZOTThHdFRkcXFqQmdkeldZcElseTZTMlNoeldFVmpYWkU1eHA0NnRpV1dmVWZvSFlFQ19ieUVLR1J5QldXYzhmTWpyZlU4ektncFFOWHd5Z1RadzhOc21SaHVzNmtpNGJmWENWVXItaFJtQVJDOUVnNWxj?oc=5",
-        "domain": "www.businessinsider.com",
-        "publisher": "Business Insider",
-        "publisher_url": "https://www.businessinsider.com",
-        "language": "",
-        "seendate": "20261102T052500Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Joe Burrow’s nuclear game vs. Titans hasn’t been replicated in 75 years",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeUxCZXFmS2hneUlNZHo3amZUd0dMUXM2SkRZajF1T3hvWVI2emU2WWg5UnFTV3E5dWE2NkhYNGthZ2ZjcHhHSHBNZElRV2ZpdkQ4cGptR2JfUEdwS3RTbk1MNEZmS2VnWlh3M2tnWE5TeXdkUTZQY1hQZ3hhQXc3OQ?oc=5",
-        "domain": "sports.yahoo.com",
-        "publisher": "Yahoo Sports",
-        "publisher_url": "https://sports.yahoo.com",
-        "language": "",
-        "seendate": "20261102T041300Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Tucker Carlson claims Trump admin could soon launch nuclear strike on Iran with Netanyahu ‘pushing hard’ | Hindustan Times",
-        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPemh5S2I2R1RCN0hqTnc3OTkzQUp1aWVkRlZQLWM4aTBSRG9JM3J3R1lQcGJObDNHX1BRRkpydHdoU0JVX2tJRjdKN2lYelZTUmRwbFh4NWMtZUpBTk9oclMzYU5ZOXpfSGF3Mmw5emdqd1VMWm5lSFlPQTVmdWRyS1pvZ3p2S2Y3WEZ6SXRHQXhTcTB0RXRtN3FLSkFMMGZmSzNjdklDZWtVTG9GX0xMOF8wR3BkbmM3bXNqZm1yb1FGbW9XRnRyQ0tMaWJ5ZFBhM1dPSVBJcXBLVVkwODB1aERibl8yMUNrOWdnMlZ4UDktMmUwcV9vWEhPQnpHOUVsbENz0gGIAkFVX3lxTFA2Ry1FWmNVRUhmYnpiQmloZW1Ya0ltYUJRSjNvRWpuM253TFJXSFkwVkdFZnE3M3BuTUJMclNlUFlXNFdFSEpER0ozZXc0eG5UZzNQZk9oWjZqQzR6ZUF6ZjQxOEVXbjJmMDltTnFqYnFrd2JHd0lkWXI4amtSOEROYjdPdnkxZGRaM1h0UjMwX0pXUFhDeVNjdF80UFNocUFsR3VEcWhqODV0LXNFdUZ0dWxKZFRJUlV3cnNKYkZQTXN1VEFKeXNYQkVvVnZnbGVqN285MjJQTHNOUU85bDRKb3d3NjlsaWNSWTN6ZzktU2xyQzBLY2ZodDFjb1hsY0FJVUVMMlZhdw?oc=5",
-        "domain": "www.hindustantimes.com",
-        "publisher": "Hindustan Times",
-        "publisher_url": "https://www.hindustantimes.com",
-        "language": "",
-        "seendate": "20261102T052613Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Germany's long search for a nuclear waste dump",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBaQnFkM0ZEQ1pBT2twZkt0ekV4SWczU1lfVkZSTDlfcERhTUJvU2pHU1JnUUhUOXBfMk5CX3k0YldXZnZIdjdPZnFKM0RyUjFQU2g0Z21Sak42dWwxTng3c0RXRXFIWU9MODdMMmVWb0MxZHVWM0Zzb21OckFHQdIBfkFVX3lxTE5USUg5RUdQMUNLLW1GR3hGb3NRRFVzRVM1Y09FbnNpY2NwLWlMUVhBd0ZmVjBfR1kxdHk4U2VjVlhxNDJxSkY3b1lMVTJyV0JFbnJCUEN0LWlHeHNRdno5X0U5SVRKU0VXWndILVRCTy13NGkwbHE5TVBUVjV0QQ?oc=5",
-        "domain": "www.dw.com",
-        "publisher": "DW.com",
-        "publisher_url": "https://www.dw.com",
-        "language": "",
-        "seendate": "20261101T144019Z",
+        "seendate": "20261102T183950Z",
         "source": "GoogleNews"
       },
       {
@@ -199,13 +219,33 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Iran lawmakers call for withdrawal from NPT: Will we have war or peace?",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQT1JxSV94cm1pZi0zZDZ5XzVYczB1aDcyQWhfSnpjcWlpV0FjeU54dVJGV1BYalFncXNBVmt3dFVwS2lVenFmdHB2TkpzVXNsdl93OHg5T01xWFJhZndQMWs1d1VqMDhKSW9DM2tZbUpyNGl0VFV2TU5Id3NqZWM2SXhkeXhINmtEcHdPWFdfbWFrQUMwUWlLQXZKUFFfY21ZM21fU1NQUFI5VDNtMFpCcNIBtgFBVV95cUxNVDM0QklRd0M2TkdmMWdnbGZORFc3bm9BZVRNYWdWU1NSV053eTRYR3NsMlk1TmxBeU5ROUZjRWhlYmR3WnNMemZwRENSSnVuaWFOTXoyRWc3dE85RXFudFRKemRGcF9VTllfLWdfZGFtekItVW5pS25fclpLU0ZYenMwSzg2YjhHaVk3RUdaYnpEa3lJa2FLY2U5RmNvX0JTRnBfWjFORWxpaGRkR2hCTS0zcUNQQQ?oc=5",
-        "domain": "www.aljazeera.com",
-        "publisher": "Al Jazeera",
-        "publisher_url": "https://www.aljazeera.com",
+        "title": "U.S., China Expand Uranium Enrichment",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOHkyMldwS3A0djJBaEdJREJFaXQtc01LYVg0YThWWVZvdnBfQ0NsSFgxVlAwdTZVRFhxRlNvQWpBdE45X1Roc0JfRWVZQ005aDdjUE9YZjhsdkc3Y2xpcFBPNU5IWEd2SjVVNWt5VG13ZVNWQnN6Sk9VazRncUwtZzE3T1p6UQ?oc=5",
+        "domain": "www.armscontrol.org",
+        "publisher": "Arms Control Association",
+        "publisher_url": "https://www.armscontrol.org",
         "language": "",
-        "seendate": "20261031T122538Z",
+        "seendate": "20261102T185127Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Antares, Last Energy, and Radiant hit DOE authorization milestones",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQT1F5Mm5iLTJsSDZGUmpHbkhrRGZBWlB3ZDYwcmdTV2lHdGRNbGxwaVpsaDN3ZmNGRXpKZzcxaWNVeG1MRzAydVE1RmhIU1FLS1dKYV95RmR0bW5IaWo5amlvQ1dyRUFSZFV3b2YtTVFXTjhSNUZ3ZGVjYWp4Q3RRLW1keWFDY3ItOHF3Z3NxVHliM0pDdjUwSTZkWWxUNjN0RGZlMEJR?oc=5",
+        "domain": "www.ans.org",
+        "publisher": "American Nuclear Society",
+        "publisher_url": "https://www.ans.org",
+        "language": "",
+        "seendate": "20261102T212552Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Advanced nuclear energy could be Oklahoma’s next great industry",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaG0tUS1KTjh5dXpKRjFhaUNKTkRhT1NyN3YwdnVJR25ZSWdJWHcyaG9TQlNLQTREWnJqb01KTVBMc2pyTWlCOVZRWmpRd1MzcUtId3NzUlFnM25Ia09UcGZ5MDdlZWFWdDFqMkhlWFN2cHp4SkhlMGFaMHJRRkJlcDVBcUVaVU5UMVBOeVBPZV9Va0tHUlVkYkd0WlNpN0U?oc=5",
+        "domain": "ocpathink.org",
+        "publisher": "Oklahoma Council of Public Affairs",
+        "publisher_url": "https://ocpathink.org",
+        "language": "",
+        "seendate": "20261102T195307Z",
         "source": "GoogleNews"
       },
       {
@@ -219,318 +259,338 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Russia in talks with four African states on large nuclear power plants, Rosatom says",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSG5EemNweEFzbnpkVWp5b3pIaWNNSExXclRsandFN2xfZDhoWDliczBQWWpqaWpERWpLZnpsMzBNdUlYZHpXbEpxcjhsSHdNVUtKQkwxQVNXLXZ6YVk0cXQtcUdUMFZkUU4zY3FhNERWQWg2MHZWdngxT3ZIRHV5TVdiR0tyMVRvNGdxWGtvY2c3cHBxZXRvWnhuS3Bxd09ydnpTVkpZYnMtMHd5Y1pRT1FUNlNQczJhTVRpaUxuZjNLM1Mw?oc=5",
-        "domain": "www.reuters.com",
-        "publisher": "Reuters",
-        "publisher_url": "https://www.reuters.com",
-        "language": "",
-        "seendate": "20261030T145544Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "U.S. Labs Look to New Materials to Close China's Nuclear Lead",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYmRpR25GTmhRVFA4WHhzdWxnWWFQbUswZlpHVTF0LUU3alJGZmhyQ1hsbEtFa0RLaW1FWTRybHM5OG9ra2hrNmxFLWxFWTFhd3NCdUFUV3FKc2k1V1dOdHVGQUd3ZkRVNkdTWldkb3JTQ2szRkFSWXVLYXpmUFNlTFhualQ0UVJ0OXNteXhzQ0ZSbnJIY28tV1ljVUdmMmpfVzRDZ0hRV1FIUdIBrwFBVV95cUxQZUFUNXhSYmNaNW12YzhXV2pjVmVhYjBLYVl3UmlKRUN5S2NPU2REcW1zY2ZuQ2xFczNKSkZtVHBRYjdta1BFQWIzRDNfN0NyT3BQMkpyUTIzZ0U1SkttVjA4ellhN1ZmMzJoZU1rRXFsQjR3X1UtbUlWcmNEc3hBbXhVWUpSNEdfZVFpVFd1WUM4RXl1cWF5UnNFQWN4OFRxOUFHdFVFQ2p6SXBjdjFN?oc=5",
-        "domain": "oilprice.com",
-        "publisher": "Crude Oil Prices Today | OilPrice.com",
-        "publisher_url": "https://oilprice.com",
-        "language": "",
-        "seendate": "20261101T180000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "N. Korea slams South Korea-US nuclear drills, vows to accelerate nuclear buildup",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mcHpYZTNDeTdDODNFRG1uSHUxREhLYURqZE9xdm5rOThINkZyVGxVSHQ2dGFTbUVkUW9ZUDNVaWdVSFZUcG8zczdKZ3RYdjRjdkxWZ1dncw?oc=5",
-        "domain": "www.koreaherald.com",
-        "publisher": "The Korea Herald",
-        "publisher_url": "https://www.koreaherald.com",
-        "language": "",
-        "seendate": "20261102T055405Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Emergency Alert Apps In Ukraine And Russia Hit By False Nuclear Warnings",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMm5pWThfck02OFl5UV9IbmlpMUNDZGtnQ3Rha2JmMjZXSUtwZ0hZa1FHenJmdEllbTRIa2ZMcXltQ2lNU1BtaHVjQlN4d1JZSXRtbmFOamR6UXZQa3gzeXQ3UU9ubEUtQkJlVFV1RlcyTE0zeENJeHVoVDlzUkxnbkozRl9NUTJzV1Zzb1AxWkkxZ1pEeWQtdGNyNTk1NWVIcFZOczF6bDR2S1ZETXROTzNMQ0xBU1BEaFdnbUw2aHBnSDdzUXUyNnNBWW1Xd2dqX3pSYmZYbWE?oc=5",
-        "domain": "www.i24news.tv",
-        "publisher": "i24NEWS",
-        "publisher_url": "https://www.i24news.tv",
-        "language": "",
-        "seendate": "20261102T045400Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Iran's Rezaei says Tehran considering ending nuclear weapon ban, no decision yet",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsZUF3ajRlbTgwb1Zqc0U0TF92VWxraHpYSHVmOEpzc1lteXJWaGJ4N2oxeVJNZzkwOVExXy0xbXVITWdZLVVyRHJiVENTeWM1ZjRUMVBsa3RoTTBXekg0QUh1a0hCWm41X0E?oc=5",
-        "domain": "www.jpost.com",
-        "publisher": "The Jerusalem Post",
-        "publisher_url": "https://www.jpost.com",
-        "language": "",
-        "seendate": "20261031T194426Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Tucker Carlson claims Trump weighing nuclear strike on Iran’s Pickaxe Mountain",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdmo4UUZFQ0xjWWR6RWZGampDejY0OU9LMGJIVmtGcGtPR09WZ2Zwa2cxeTd2LS1Tc2R5N0lreFZ2Tkt3dVBybFg4Q0l1QV9iQUVGdEFGa3l4NFVfM2dWcjRMa1NQTjhWOGdFNTZXM09qXzYzWmg0clVUS2xEZzNhNmdoMTh2YUprTFFXMGYyVGRLV2tyUDZHSW1mVTRIb1ltWEFBaTZUeWRwT1hMQWtSa0lxVnhCalFh?oc=5",
-        "domain": "investinglive.com",
-        "publisher": "investingLive",
-        "publisher_url": "https://investinglive.com",
-        "language": "",
-        "seendate": "20261102T032534Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "South Korea launches emergency measures to keep $17.5B Czech nuclear project on track",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTE5IaGJVRHVNck5LYUhxYTF5dElrUHBVTzhfaU5tNmJUQVdlRC1iX2NZN3RuMDc4R1FNd2Q1U09aMHRoeHpjVmRQSFVYTWJKb00tc3ZBcV9PczQ1Qy1mVS1MQVYtcDJ4WTgxSGllSXhrVVdyNllkS1J6ZlEwSF9zOWpBX1FTNTlZc2JydFhLLWJUUS1WQmNSakVPcGdRZHk2QzFYUWZvWXhNVlNQZWJ3Y0RySnVIZ3pCb2IySkJQYm56WFVWdm5tTg?oc=5",
-        "domain": "www.aa.com.tr",
-        "publisher": "Anadolu Ajansı",
-        "publisher_url": "https://www.aa.com.tr",
-        "language": "",
-        "seendate": "20261102T061151Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "The trouble with small nuclear reactors",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNDN1UUVIdWJmaVNxXzJtVWJlMDVZZmR6Wi1mVXExWmI1RWFWcWtRSVFWd0lycGRVM0FkcVpuZDVfb2tDaF9wNm1xQ1VWLUtQNTVHM3JPb045bjkzS3c4WXBOQUJCZ1oxb0xCSnpVREFzZWtrb0ptMGROREEtVFh2dzc3SXU?oc=5",
-        "domain": "www.ft.com",
-        "publisher": "Financial Times",
-        "publisher_url": "https://www.ft.com",
-        "language": "",
-        "seendate": "20261030T050042Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "US-Iran talks progress, but nuclear disputes remain",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54MUJVbFdKcmNYdklnVmVickZlbVNVRlFTR3puT3FVV1k4ODRhVTRfT3U5NVpmLWhrZjhXUWdsZVdQeGI4OG55ekZQSjJTT1F1VGw0d0pmMGNZTE1fWVdGbkczQ2tCLURxckE?oc=5",
-        "domain": "www.jpost.com",
-        "publisher": "The Jerusalem Post",
-        "publisher_url": "https://www.jpost.com",
-        "language": "",
-        "seendate": "20261101T180535Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "NextEra Energy Heads These 3 Nuclear Stocks To Watch",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUkFpcW5OZGZXc2ZDdEt3RnduV1dxcXhTNkp5SFVNSmxXWkJvNUpJbkRoMGxZVjFiTXdXSWU3aGo5RW9ScTJWa2NselNIR19kOEd2aEJ2eENELWEweTRSajdmbGk5TUFaOVRWR2dzdFJSNXJGT1RtNFlkMzlwSHJhZHJ6alNWMFh6elZacEFSUGk?oc=5",
-        "domain": "finance.yahoo.com",
-        "publisher": "Yahoo Finance",
-        "publisher_url": "https://finance.yahoo.com",
-        "language": "",
-        "seendate": "20261101T121151Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Tehran’s Interim Friday Prayer Leader Calls for Change in Iran’s Nuclear Doctrine",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOR09XaDFpNHQtVnkwb0VubmpvMDdoNlk5QnZUNEFkZkZTSEstUDNLVkQzWWpMZndJbi1VcHhNUEcxTE1mY1MxdUdWTmdpR05CSFI3TEg3cXI5V3ZjVEN6Rkhmc2pqZE5CcXhPMDA3SjhmcGRwWG9oWWZ3M2R0VnZnTjNfMFRqVzJnZjJMSm45NnVGdC1WekRPUmhPUE9GOGJEZllqNGctdTdLSHdzVmdRTkpjcHhUc0k?oc=5",
-        "domain": "iranwire.com",
-        "publisher": "IranWire",
-        "publisher_url": "https://iranwire.com",
-        "language": "",
-        "seendate": "20261030T162054Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Nuclear Power in Iran",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNTFabWFTM05rSHpfdzBuY2xEb19rZFNrQWJJLUNvbElVTFc0UUYtcndrdzh5NTBxZmU2Zm5lejFrZ2RzbzdTZnNXdXJROWVuRllLTTNPZ2hJd3JpOEhZTU1TNU9JX0V3U1NpWEZCbmFiVThpUnJnMUdLYjJNdFNIaGdLdmQ2cnBQ?oc=5",
-        "domain": "world-nuclear.org",
-        "publisher": "World Nuclear Association",
-        "publisher_url": "https://world-nuclear.org",
-        "language": "",
-        "seendate": "20261023T070000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Nuclear reactors under construction rise to 79 globally on AI demand",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ2JVTTFfUUJUbzN1Q0s0dG9LV3pZMjdJbGpQRUJJdW1sVTlPOWcwN0dMTldCRzJhQWdYNmZzeHhmbWRVRXdodFRUWHJNTV82SHhyaXM5eVFKV255WjJNaDlTRXBFQnpEN2dWOTE2YlRmeU0wSllXWTVfZnJ4NjQ2ZHVsbU1WcE13aGx3VXBkSFk4OFp5S0dWdjBQU3Z6OURpT1FlT05rSzFETnhX?oc=5",
-        "domain": "asia.nikkei.com",
-        "publisher": "Nikkei Asia",
-        "publisher_url": "https://asia.nikkei.com",
-        "language": "",
-        "seendate": "20261101T162000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Tucker Carlson Says Netanyahu Pressures Trump Toward Nuclear Strike on Iran’s Pickaxe Mountain",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZ2prc2tOay1UemRhNFRGTGFlelduX2tnaS13SVVMTHZOUXpQM05lUkZ0b3pMMkJtbHREYzNRWjg0emFDQ0tlUHk4OU14RVZIWnltUGE1Q2NhdTV4MXQxUTlFeTNqa0k0NWR5U0habllqMGpHbEUxbnhyUUtSZEhjU0xRdUc4bXl4cElhMnlOVHJwclZWSklYZGlCS0hzNkthRFlZeFNVTVZ3eHF6dVFYRUtyUV9BS2NBRnZMTHBkaTcxX0FmTENEQWRtZEFwSjUya1ZjNDdDczNtUWVoTDVFRmVQMXdyaUgwaVE?oc=5",
-        "domain": "newscord.org",
-        "publisher": "NewsCord",
-        "publisher_url": "https://newscord.org",
-        "language": "",
-        "seendate": "20261102T052218Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "North Korea Uses US-South Korea Nuclear Drill to Justify Faster Nuclear Expansion",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQb1otNzhqSjN5Xy1yRGk0X3UzSG12Rjd2QzN2cmU5b3RrdjNrWkN4NHdYb21BTjhlYzlOY1k5Z1JUbTFMRTEyT3Qza0tJY0hVUHlud2hVZjFReGczaW9leml5bERnU1hvNGo4RzhleDNybmFtNHYwYVpHTDRmOW9Ob2pvTlgwOU9Pdkd6RGN1dk5OVnl5d1F3Z0FZWlRhbGdaRXVnZ2FGVlhRQU5NLTdvQnNNUTVZUlN4Ym53Zg?oc=5",
-        "domain": "moderndiplomacy.eu",
-        "publisher": "Modern Diplomacy",
-        "publisher_url": "https://moderndiplomacy.eu",
-        "language": "",
-        "seendate": "20261102T043741Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Global Nuclear Construction Hits Highest Level Since Chernobyl",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9MaHVsOWlQRno5c3ZDN0ZIZktxTnl3Qk5oNGcwQ1NiakQ5STd6b3hpYVVtNUNTdDdMUUZsZWk2NVhxd0VFd1FEOW1MTXl1YXQ1THo2UWN6ZG9UTjJDNXNQTVhxUnRiYUdxSUhDeTNLdkpnVmRP?oc=5",
-        "domain": "www.businesskorea.co.kr",
-        "publisher": "Businesskorea",
-        "publisher_url": "https://www.businesskorea.co.kr",
-        "language": "",
-        "seendate": "20261102T024407Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Thanking Reps Hayes, Larson and DeLauro for Co-Sponsoring Legislation to Prevent Nuclear War",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeDkzbWZFcUExWjlkRU4tb1NLcFlIMmYxMFdyZ203aWRXdGFEYjlSdmV1cEd2MjRfaTlKU1VYM2ptdmhNM0c1Qk1mMkpwbTJYLVRwNVEwRnpScTk3RnRpVGQweklqY09hYndjY1h0TDBpRnVCQzVSQi05UDJRZzhSUGhSbHViTHhwVHRfZg?oc=5",
-        "domain": "newbritainprogressive.com",
-        "publisher": "https://newbritainprogressive.com/",
-        "publisher_url": "https://newbritainprogressive.com",
-        "language": "",
-        "seendate": "20261101T193547Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Trump’s engagement with Kim falls flat as North Korea’s nuclear arsenal grows",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOX09vU011MGc4anRkQ3Z4eDlWc0d2Y3l6ZUl4bm5rcGVvT194cWgxTFU0MjlHYUhPNTVwSllNd1JzVVJuY1hxYm5XTFJVaGRpckt6Ym1FY3c1ZXR1U2JhLVZ0MS1kWmRNQjlDek4xekNmOWM4bzRDazM0ZjF0Z2FtUm9sS1ZsVzJBTzR4bnNfbkxRcDZBUzdwbG1wVjRfaEFEZENYZERaOWhxUU1qbVA4VkRZM2t4Z1drREk1enoxS1hRcnNFSklxQlp2THl0UQ?oc=5",
-        "domain": "www.washingtonpost.com",
-        "publisher": "The Washington Post",
-        "publisher_url": "https://www.washingtonpost.com",
-        "language": "",
-        "seendate": "20261031T002402Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Daewoo E&C seeks fresh talks with KHNP over Czech nuclear deal",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1aQzBSWjlGc1ZrS0NQa29sSU8yVER1MXVCU0cwYmEwN01yZUh2NkY0ZWhfbjZ3WTVheUtLQTVrblhndVI2UENEVFhkRDBfN0hKUHJMQ1pZZw?oc=5",
-        "domain": "www.koreaherald.com",
-        "publisher": "The Korea Herald",
-        "publisher_url": "https://www.koreaherald.com",
-        "language": "",
-        "seendate": "20261102T053529Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "ROK pushes development of nuclear-powered submarines to boost deterrence",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSXp6LTZLeXZEa3poeFRtRDQ3ekNyTjgtNG1wRmY2UWZteVJvREV5REozeFhGdUZyYWl3b29oS2tjd21ZQTVDRTV1ai1aSnlhYnlYYTJ2NzJBVy1Vb0xpV3hmWTU1UVp1LUdkdjR4NnNqSEVES3NZakhHd1JtLUt3b0NVWXZMZFYtMkU3Y0t1aGJfV0FYSW1sTm40dFZWazdxeWFheEtiS3c1d082?oc=5",
-        "domain": "ipdefenseforum.com",
-        "publisher": "Indo-Pacific Defense FORUM",
-        "publisher_url": "https://ipdefenseforum.com",
-        "language": "",
-        "seendate": "20261101T140002Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Sandia gets $3.38M for advanced nuclear fuel analysis",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMm9OcnR1Q0dMNEhvV1VPTlRYV0g0MHZma04yb1JaY1p3OU51c0RjcFRXY19NNExKbG1UYWFQRUNpV0lKNjV6SmUtLVZPLWtMeFhHUjU2MkQwMzB5bm5jZlUwQWZqR2FETU5ybVIxY29QZVZOQldlamUwSHdfamZORE1KYU5NMUNHTERfam13?oc=5",
-        "domain": "www.exchangemonitor.com",
-        "publisher": "ExchangeMonitor",
-        "publisher_url": "https://www.exchangemonitor.com",
-        "language": "",
-        "seendate": "20261101T175402Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "US, Israeli targets, timelines, priorities for a potential third Iran war",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hNEl0U1dTYjV6dVU0c0RrTUtpeUpFYTZkeklLTEk4SDdERXFzZERKOE5RN1ktQXVYa3VlWk92UFlzUFRPSEtnTE93VHc2R1cydmU1TDNXcFdZNFNqZDVaR1VETFJDNGVEclE?oc=5",
-        "domain": "www.jpost.com",
-        "publisher": "The Jerusalem Post",
-        "publisher_url": "https://www.jpost.com",
-        "language": "",
-        "seendate": "20261101T204043Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Hyundai E&C signs 5-year deal with US nuclear developer FANCO on next-generation SMR",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1GQTI5UjhuTnRHdG9ZVzV2NGpRelItZ3pfWXRPTTdnbTd5SU9GWkE2U1l3VVVaRjVnaE5sX2N6WFg1TkUzOWdIV2d3QjZBZUE3WUszbC1zeFVURXdLZGZsMGlHU25yd25qSkl4dXRYT0I?oc=5",
-        "domain": "www.kedglobal.com",
-        "publisher": "KED Global",
-        "publisher_url": "https://www.kedglobal.com",
-        "language": "",
-        "seendate": "20261102T055056Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Seoul moves to rescue Czech nuclear project",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYXpqa2hoSzF3WHNxQXlycmZ4bmVMdUc1MHNsbDFkcVZOdElYWlNGam9FdlEwdDM4MnA1ZDhrSVZPTVhwWlcxeXNja1BjTjV2VlVkeUJPUE1KcXNkbWY5ZC1CMlhRbGZUaWVpUWxQeExPdnByLWVVaGxHYkdsNUp5NmRUaXVwVG9PXzhHTzlhMFNkN3cxb3NyTA?oc=5",
-        "domain": "www.koreajoongangdaily.com",
-        "publisher": "Korea JoongAng Daily",
-        "publisher_url": "https://www.koreajoongangdaily.com",
-        "language": "",
-        "seendate": "20261101T234357Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Tucker Carlson claims Netanyahu pushing Trump toward nuclear strike on Iran",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbkdGMTEwUm40SWplVEUtdnkteWFnRDdvM0xzd2ZHbjRlUHpRUkNHQjFza2RnUHREelhoR3lFWVhYWmcwYTFXNlBXdXVfQ3lrWUlKbnh2NUh0RTFBZFY5eEJDMWdteVY5UmU2QVdkUEhyYkU4Q1Z1WVNZWGpyV1Y3N3o4aFdQMlhCbk9aS05XcnVaUTE0U2VOYU9YZDE4eTJIeW8telJqdjQydGxaMnloRkFLZDBwZWF4d1E?oc=5",
-        "domain": "www.turkiyetoday.com",
-        "publisher": "Türkiye Today",
-        "publisher_url": "https://www.turkiyetoday.com",
-        "language": "",
-        "seendate": "20261102T062011Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Iran rejects nuclear talks despite ongoing mediation with US",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBNcjl1eHpDNUFjMms1Mkc2QjdrR0dwOThZREowdmZLWjBOVklTRTFneEFleUJyQ3ZiUFRrekR5MmNFTTl5eVA0b19QOWZwX0NZOGc?oc=5",
-        "domain": "www.iranintl.com",
-        "publisher": "Iran International",
-        "publisher_url": "https://www.iranintl.com",
-        "language": "",
-        "seendate": "20261101T141541Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Texas A&M gets $5.4M to turn nuclear waste into fuel",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBWml3SEVEZ1pHMkNIVm9lQ0RKb2xoT21VOXFBcjFNODBiLTVMQlp3SWJnakZTQWQwcVFfcVVBT0EyeklXWmNiMVlXZUd1STlhbUNFZWkxelZxSXM0STRfN1NCTVJFSFVFNWfSAW9BVV95cUxNUzRfUHhPbnMxMzR1dG5XYUF0dzd0TTZmd2N6SjMwZkgwaXJiQ19mZGljb19SN1ozMnA2NjYxUldYLVhTMlA3dkdpa2g3d2N6bE42dGJTS01hMDlJaHB5dUNzUWdWWWdHc1JkY0dqVGs?oc=5",
-        "domain": "cw39.com",
-        "publisher": "CW39 Houston",
-        "publisher_url": "https://cw39.com",
-        "language": "",
-        "seendate": "20261101T200000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Algeria launches new cleanup of former French nuclear test site",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSndreHJJWVkzTXExRGVjdGdvOXNlTzJlOVRMelYxRmdQbGJiaGE3OElkRnZSWGZoYlFHWFlVNEgxWllDZ0R2NG5iQVFwZzE5RmEtZFYyRHJXNFZsTHZFRFBLaDNLbmEwS2ZqTHpTcFgwMERXS0FaWERBWERTNHVUb3M4eEhIRjZScURPVmhqamdxRGFTd2FvZ0hCd1F2NUV1TmRuWFJXSTEyVnV3?oc=5",
-        "domain": "www.aa.com.tr",
-        "publisher": "Anadolu Ajansı",
-        "publisher_url": "https://www.aa.com.tr",
-        "language": "",
-        "seendate": "20261102T020725Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Israel admits bombing suspected Syrian nuclear reactor in 2007",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9HdHJBNm81TlFmVjl2R05PTjktMVo1bXBnUjFtNEZOazFJaDlFaVIteV9QdEhTRVByQ1lxTlAtUExENDNBWlRwM2Q5UVpmZXA5dW03Vm1kNktsZW1D?oc=5",
-        "domain": "www.reuters.com",
-        "publisher": "Reuters",
-        "publisher_url": "https://www.reuters.com",
-        "language": "",
-        "seendate": "20261101T214350Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Nuclear Stocks Have Crashed 35% to 88% From Their Highs. Here's What $1,000 in Each of These 5 Could Be Worth by 2030.",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQ3dyR0k4aFlGaWV3WWYzZVlwVmhnaXRIZFBtUlBsanJMaXQtQWZqX3AtekJ3Njd6Nk0wS1BSbU0xMGZzanlyZHBrMnJqUEFWYUFVYU9PRmpaREVHU0JKdU5XRFgtNXNoX1QyZDBkd3BLS0lxdTFvT2pOUjV3NWFoMkYyNU8xczhDLUNHVXMxb0drbjhEcmotdA?oc=5",
-        "domain": "www.fool.com",
-        "publisher": "The Motley Fool",
-        "publisher_url": "https://www.fool.com",
-        "language": "",
-        "seendate": "20261101T104500Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "'Nuclear war rehearsal': North Korea vows to strengthen deterrent after US-South Korea drills",
-        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQQXZ1VV9oYUFRVlFCcWZvZzNfOWY1ZEhUMjVyS1h0NWFtZGRPOWdRbmo3MGtnSjRicGlSbkJxNWlyUllQRHB1X2YwanFGNnBtNU1veVpwc1VtQ2FPUXQ1QU1FbVJfRjduWFZFakg5RlI0Ny1EUUhBcjdWMVFVTjVMRk8yYzYwUWpiZERYak5vd2x2NnJlaVJ0aW1yVFpRbGUtS25tYnVhVlNTNmQ5WFZGcW1od3pNRTFlX1pnWk9BTjNqLTJnZ1dyR3BNY1BCZl96MnQyTHVhclBxeUJXZVZJY1BqRVgyUFk4Ql8xdFdJZFllTWM3NmhPdlR3M0EzR016eWfSAYcCQVVfeXFMTXh0dVBpRVEzWnMyeXpheHRXdVlsdWlBNHVxMlNKdXZxQkc0Tm14c3l0T1JsbUo4OVBfYTlpOC1Pd3F5VjY4c0wyVFZBWmkwcFFCLW9ZUUtRV09BUzBJR18zcWpOU09HMXpCcHVmbzNLb2ZLb0VQczVYOGVURGkzRmpHa0EyV2dOTHczcmJfcFdVa1ZubDVvUzBMU2t4Q2R5akZkdlNUMERZWnNZQkxIdmd3NlF3VXo0eXIzUHpTT2pQT2thdEJxM0NuNmYwUjk5UFoxNW40dHpPdTJGUV9lX09RdGMzQnl2d3hzMFpWck9sUU9JZ3hEOVRDYm44bGJIbDZOaHRhTm8?oc=5",
+        "title": "Nukes, Netanyahu, and November: Tucker Carlson raises nuclear war alarm for Nth time",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZXA2ZFlXUXBDeUhyVzAzRlZiZ1owWVRCYmNwZVFKMVI2dWc3NWoxQXBYS2NfbHl3eklObVpDbGJpOVNRYm4tb1JJa2dtaGFnbldldUxnRkVQbzdOVHlIRmpnSFNfQjV1N3YyYzIxdjdOMnNWSVFoTWVYMDNsRVRQdm9GMVZBWmdzVS1WZDVIVGZfeS1Qc3NSY3R6M0hTRS1QVkhiS1JmelVobnhHLS1EYVowczhSYUhabVhDeDBwMGF5amVOSTgzcjlJczJmVWV5NUVIcmJoamtaUmFRUFp4eko5RzNZbDTSAewBQVVfeXFMUEsxSnZ4OGp6UlF5TkFaVDNaVzdSMEozQ3ZmSmJYcENRQjUtYXRYVFpocmVLejdTVzNhTHY1V0h5dVdPakRYV0R6cDFabnAtenZjVlZMbmJ0dnBweGc1VWxHcXVmT1BXeXdlLVF2Tml3RU01ancwc3lkU1duaUMzZXpqbjZzOEFpbWJSazB5UDFmajd0M1RsRGRBSTRybG9ackM2QVNBd3I3aXBNRlB2TGtrQlRVOHY4ajVPcGRxYkJpaV9RNHdtVHhjdkFNOXFGcVpKOUJhbV84MXhFSExqSzFiS3NoeUg3dGwwM04?oc=5",
         "domain": "timesofindia.indiatimes.com",
         "publisher": "The Times of India",
         "publisher_url": "https://timesofindia.indiatimes.com",
         "language": "",
-        "seendate": "20261102T041200Z",
+        "seendate": "20261102T162300Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Rubio Says Trump Wants 'Peace' With Iran, but Tucker Carlson Claims a Nuclear Strike Could Be Days Away",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbFlXOWhQWWVadXFaVmlYaFRmMGZXZEV6Ymo5UGhvUUszU0Foc3dkOHhET0c4RjRMdnBuSmdZdGEyU3ZzaktpUC1OWGlreXB6bkU0Q0Y0dkJKeVdMMVBneEhpUWVTVWZTQ2lGeUM5UUtzNV9oMlFHZk9JdjNjSS1LVF9VeFJ3aGo0enhvdTM3b0hMckJ2a1h4bFlIYnNaMmFzcmV5cUlLTXg?oc=5",
+        "domain": "www.military.com",
+        "publisher": "Military.com",
+        "publisher_url": "https://www.military.com",
+        "language": "",
+        "seendate": "20261102T174743Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Pittsburgh-area Westinghouse joins nuclear energy push",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNjByVzlJWDJoZUlGRWp2RHFKMm1yWmFETTJHU0VKR2lLZVhzdmxBOHVBQXJLM3h0TnJEY09SOWdVTzZ0VWhVVTMwZDZGWVhwT250dXk2MkhPWVZUb0N6UGR5QkV2UVMzUDh2VFNaQnZCVWlfcFBUSEoweU9JcXprbDNrMFVjOV9lX3BsVXN3?oc=5",
+        "domain": "www.axios.com",
+        "publisher": "Axios",
+        "publisher_url": "https://www.axios.com",
+        "language": "",
+        "seendate": "20261102T114649Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Tucker Carlson says Trump could launch nuclear strike on Iran within days under pressure from Netanyahu",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNM3Z0V2ZncWh0Q3N1NWdtWWw4M0dPZHBGb042MEVzMWRzTTNIUGxsY3M1Q0Ntb0tiRUNQTWhRbjN4UXlnNkRvTjhDaDVDYTZGYWZtNjI1alFKdmRvUzJqM1B4MkNqY1lxRUJJWHQ2VFZXakE1UjhFSzNSSjNaZXpGaWZxd0JMWjZ2Ml9lbGtnRW8zbFZzSXpsa2Y4bmhKREJaU3Jnb2FfckozRndJbHlYV1ZxZWtWMTlOSHU0dw?oc=5",
+        "domain": "www.independent.co.uk",
+        "publisher": "The Independent",
+        "publisher_url": "https://www.independent.co.uk",
+        "language": "",
+        "seendate": "20261102T162500Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Fake nuclear attack alerts hit millions of Ukrainians and Russians on the same day",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRDZONncxYS1RaFRWOGtZaXE1YjJRVVdmbTlESnZOTThHdFRkcXFqQmdkeldZcElseTZTMlNoeldFVmpYWkU1eHA0NnRpV1dmVWZvSFlFQ19ieUVLR1J5QldXYzhmTWpyZlU4ektncFFOWHd5Z1RadzhOc21SaHVzNmtpNGJmWENWVXItaFJtQVJDOUVnNWxj?oc=5",
+        "domain": "www.businessinsider.com",
+        "publisher": "Business Insider",
+        "publisher_url": "https://www.businessinsider.com",
+        "language": "",
+        "seendate": "20261102T052500Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Centrus sends first new centrifuge built at Oak Ridge to Piketon plant",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeGR0dnpQYS0wcFdNMkxVWE1VSUhxR3duUmExZTRtNzdLaE1qN00wdFFZa3lQcXJ3cm1ub19RSEJnUlB5VWZkWmpRUmN1aHhhdF8xcTNKdTZnYUdZeWlMNzBsZzdjanZmY2dORFRwMmVoaUhJTW9VZU1ZalQwYkRrUXE3OWpFWHpwa29DMjRJZDFrMktrcV82dktOZ1ZITkwzOUFiRFdQSmhBaC0xVWc?oc=5",
+        "domain": "www.ans.org",
+        "publisher": "American Nuclear Society",
+        "publisher_url": "https://www.ans.org",
+        "language": "",
+        "seendate": "20261102T182059Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Beyond Electricity: Multipurpose Nuclear Power",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWlRybWQ3ZXhlLVFxTk5FS0h2UXJsWERSZUlCcjlaYXBGMnl1SFlVVUl1bzQ2QkhOVEFYU3RFczFTeDFEOU9ETDNrNFp5djR1ejM2Q0ZaZW02RS1RR1lSalRhMGJQUGdIVE4yb0ZjYjV2OE1rUnZIYVE0Yk1pQ1o0Z1JfU2pVdzFjRExld1lVbWlPbDh4ZGc?oc=5",
+        "domain": "etfdb.com",
+        "publisher": "ETF Database",
+        "publisher_url": "https://etfdb.com",
+        "language": "",
+        "seendate": "20261102T153806Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Department of Energy announces $5 billion investment in nuclear modernization in Illinois",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZXlRd3hMZjBLZHpUYkdiUFVCZlp2aEV1Mlh4SlJneWtBRzZtei05bGlVN2ZobzUzOHpMSG8yYVBpZU1UTnRkQ3J1MHN4RVpRU0paVDNCYU0tU3FGNDFRYWJzekFBOWVFTmpKbWVHa25hN1dUaVVKMl84ZHlPU2dWUFZ2ekNBQjc5eEZXTW9xbmNYWXpLVG5iSHBPQkprRW1sVlBTYTVsemtoME9CV3dNMGRYTnLSAcgBQVVfeXFMTlhwT3JMUTlRNW9Wc3A0aWU1dHlRWWhtZEhadFJuVl8yMjg3RU1XekZKTHRRT1BHY003VW5TQzRBdnNOTExGOElkVHhVbTAxWno2N21YakYyeVU3Q0FOOTRzSUt2QmVOZXJzZHlmbWFjTTZmZkl2OXZzSUFMY0ZCUkMtZDVhTGNranBYcVhHbnlXRGs3MFpPWDJCX2RCX1FHVFhhQ1hkZUJ5dGhKRnpNaXluaHY1SnctbUlGSGpnV3NXeFVZQ1RuNjk?oc=5",
+        "domain": "www.wandtv.com",
+        "publisher": "WAND",
+        "publisher_url": "https://www.wandtv.com",
+        "language": "",
+        "seendate": "20261102T172100Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Iran reconsiders its own ban on nuclear weapons",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSUFsT05ORkIzejNZcTJHenR6SDJTV210MFNFM2x0cXRodjNyOWljZktLdnBwNmhrUnFRTVVrdEp6NVRCekxja01IWGc1MlZQUThzY1NKcXRqdFJpRW0tdmNGNlRhWjNtRDgzMHYtVUt5MmlwaXR1cFA5NW90ZFptUGw4RUtmSDdkN0dMUC1IU0pZVUpKTzkxb1VoVlVRTnc?oc=5",
+        "domain": "www.telegraph.co.uk",
+        "publisher": "The Telegraph",
+        "publisher_url": "https://www.telegraph.co.uk",
+        "language": "",
+        "seendate": "20261102T164900Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Would the U.S. use nuclear weapons against Iran?",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSUptNVZDalZ2Tkd1UkU0Tk1tLXN0RnVaOENmd19qOUd5MHB4TFliTm1NTGNfN29GRzFod1phUmtRYlRNS01zYktuMWd2VW45NXNWd0FWWTFoWS11OTR1U2h5eW5GV0lZNWIxUHlldnRYZTVxX2VWd3p0NWp4czJEeWlLOWFzZw?oc=5",
+        "domain": "www.fdd.org",
+        "publisher": "Foundation for Defense of Democracies",
+        "publisher_url": "https://www.fdd.org",
+        "language": "",
+        "seendate": "20261102T213730Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Netanyahu pushes for new strikes on Iran, officials tell AP, and other Mideast news",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNXJ0RGVaUDJtb3ktRXNHZG40Slp3eTVjblNKRWwyOXdHR1MwaUthTzR2ZEZ0UFM5MmVzOHFwa3JoSlBDNjJmdW9NU2NLYVpOV3VKRk5iUXpCYnhNUU9XS2FVY2NrSHRBdnY0cDhWNzJucDQ5YlRQNGJZTnJkNC1kVmRJZ2MtdkIxV01Cb0U3dFVtZw?oc=5",
+        "domain": "apnews.com",
+        "publisher": "AP News",
+        "publisher_url": "https://apnews.com",
+        "language": "",
+        "seendate": "20261102T200800Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Hackers hit Ukraine and Russia's emergency apps, send fake nuclear alerts",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYjdWbExXZ1JiYUVET2JwdTc2VVZ0T3J0czdJbUNyLWhLTzI3cW1zOWkxZF9mU3ZnVWtDYXR5SjVwZTlDZ0tFdXE5bkdIUjBwZEZRbmRDWGY4WkNvVkFqSFRJeXdBMzBPS0VJSmlzRkRTS1lCekRwOWRWZ3dSUXNyOVJMRk1Ga3lKZHV2bnctMFhVNTJDVFQ3UlBSWGl5QV95b3pMR2lGd05TRXdiRDdlUHFITkxmZw?oc=5",
+        "domain": "www.reuters.com",
+        "publisher": "Reuters",
+        "publisher_url": "https://www.reuters.com",
+        "language": "",
+        "seendate": "20261101T213600Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Nuclear Aircraft Carrier ex-USS Enterprise Departs for Dismantling",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObFA1V3JVbWU0OXZjN1BrVUlzLUNJSy1vbS1YZlEtRlVQc3NQbVlualF2X0MyYzczMS0wUkxWSFF3R3UydkRlS1J3Q19hOFRidTNodFlMekptYWJJVkZ5OWcyajRPMWtYRFM4bHZNNEhXOEJYRDFhMVdnSkUxdnVLak1hWTBDbExNYlV4NWJ2bFFFek1HRTB0RGFoUjVLdk5CM2x0WFlOaGg?oc=5",
+        "domain": "maritime-executive.com",
+        "publisher": "The Maritime Executive",
+        "publisher_url": "https://maritime-executive.com",
+        "language": "",
+        "seendate": "20261102T195102Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Ukraine's air raid alert system hacked, Russian system targeted hours later",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZ1QwY3NsY3diOW5FY2JCQXE0dGVHbG1lRDMxTzFXWS1yNi1FeDRoQ19OYml6RVYtbk9kb2J0Qm56S2xCLUc4bVdaWFJscDB6MHhqX2FtbS16SEtqeHYteDQxa2RCSW9tLUVRS295ZzVPM0NNNGVwR2FmZTJhbzRPc0wzbkgySXJiNW1sVWU4TVBsVFpvc3R5dDRPQ01iRDFINEc0VUtYTDgweWhpdjJ1M1I1MjV0S01wZnp3Q1Z2Zw?oc=5",
+        "domain": "kyivindependent.com",
+        "publisher": "The Kyiv Independent",
+        "publisher_url": "https://kyivindependent.com",
+        "language": "",
+        "seendate": "20261102T154827Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Tucker Carlson predicts Trump administration may nuke Iran within days",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSDlZVEFNd29nTzNNTkcyazZkRjZDMm1lX3ZRQ2Jrb1BFSWVDUFRRNndkZG4wRmo3UllkVEtLWXYzNlVtNXR0alBlOFVGRjdzejFFVHNJSkRzUFAyRzlnMEVRTXJIUkJhaF9YVE91LU5fYTNNRW5vTU1NQjh2RkdLcVZ1RmVnMjhMZVJSRHNxUDBHRkVGOFY3U3BQVnlKRmFRdzFnVkcyNDhpSlRIa0pFVHZFTnNTWlJLOGE1LXFLbDg1Z05kVi0wTkF2N0JjNVVNN25uNlR0SmJvcUtiUW84?oc=5",
+        "domain": "katu.com",
+        "publisher": "KATU",
+        "publisher_url": "https://katu.com",
+        "language": "",
+        "seendate": "20261102T180953Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "US Navy’s Oldest Nuclear-Powered Aircraft Carrier Began Final Journey",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORXMyMExLZkg1ZzZaLTdiTG5NcTFfSTBhRW9RT1lXT1BvT20yNzd5d2dhTlpsYTE2SFBYc3FmTnpqbjBaMndNRGdNR0RKQUV1MEZXYW0xbUtqd19BcTlKRTVSWk5pT3k3aUZDUW9lcnl0RkRoSGxjcmNlYXhoM0F2WkJPWEV6SmpzYTJ2Ri1sdDRaQmw4MW1GSzhXXzh3V1liNWU2VWtXTjZrVGpmcGQ1SnFPS2tsaWlIdmM2MQ?oc=5",
+        "domain": "www.forbes.com",
+        "publisher": "Forbes",
+        "publisher_url": "https://www.forbes.com",
+        "language": "",
+        "seendate": "20261102T191424Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Fluor subsidiary nabs $2.4B Navy nuclear contract",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMnJvYXR3bG9odVZuUGROQ0pmb20tOE9pSWktZHBSN0FRZHZtNjhmSjdKanZFUW1meWFnUHVVczd0RlpFbzR5elhwN2t5U1RjbV8xVHlGd1h6dHJZM1RCR1BweTZVUFd0eUFIS1JqekxiTkhlZ09pU3JrTHg3SEoxeGVHSGVoN1R3Z0pRX0JHc0NZRUhTNE1HaQ?oc=5",
+        "domain": "www.constructiondive.com",
+        "publisher": "Construction Dive",
+        "publisher_url": "https://www.constructiondive.com",
+        "language": "",
+        "seendate": "20261102T182730Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Foreign Ministry Warns Iranian Nuclear Policy Could Change",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUUxTSWgwNWw1QWtEVjYxTk5pQTFYSW5ZYzV4YkhiUHJxZFk3eTU1WEo0R2puX3R6UEhRc1pQc0ZUUWU0VmZLZjU3aXI3NGZYYkZ1ZTRVb05JekVqeWRNRFdWYkxpY2lyc2tPR202cENVUjd5YmN6ei11X1RSMFVseEUtak5CRnVZS3FjRjhLMC1mNzBTdURpQXlzMA?oc=5",
+        "domain": "iranwire.com",
+        "publisher": "IranWire",
+        "publisher_url": "https://iranwire.com",
+        "language": "",
+        "seendate": "20261102T134059Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Russians told 'nuclear attack underway' after hackers hijack government app",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOalZSZnIxcVZOVWI5T1d1cVhCWEFsQlp4RDRyYXpzcDhvRWdmaHlpX1BUV3ZqUGpsRjlFR0ZCbjVMejg2TnRQUHo3cU5lVGNiQWdUaTEzVFlJdnpSNTRDREJHb2p3dFNITXF1RnZickNBa01NUzI0SlJvNWNkOFRoaV96VjJlaHFhNGIwMXdYYVBvNmpPeXZnZnNjTlFaWnhobmU0bmJ3a3pSUDlTSXJXOXdB0gG3AUFVX3lxTFB4VE9xSTdkSzFtYmlvSEZNc0gyX0FObDBncUdoSlNSaWdUeURwMWZFSnNwQVhtSVBuLVB5VFdrZUx1dGxiZ1JiUXF2b0pvenBzMjVzXy1aY3F4SW5hbV9sWnhNaGctOVJCTmw1RlJ3MHZxUnpCZ21iZE0wb0R6Qm1MTlpuT2ZFMXhNUXhldjdCV3pyaVlZWU5sY0w2MmRNaF9Vc3pkMS1EajhoYTRTU2d2LVhKNURBTQ?oc=5",
+        "domain": "www.upi.com",
+        "publisher": "upi",
+        "publisher_url": "https://www.upi.com",
+        "language": "",
+        "seendate": "20261102T115527Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "UW-Madison breaks ground on new radioisotope cyclotron facility",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVjZpMEZfa09JQXd4V3BCUHRDS1Z3ZDJEc20wWGw1b29FNXZVcXpFQ1lvUzI1RC1tdnZRWllsV0gtanZKb3lRYXgwNmllbGhxVHdNMGtmblFJVnJLMUJnSmcteW9SYXFIczhmNkFEWldRQ2JVZ1MwdzktNDRsS0JUVk44eC1FWl81NkZmWGF5SlprSncxaXFISF9Sc2h3dEtacHcw?oc=5",
+        "domain": "www.ans.org",
+        "publisher": "American Nuclear Society",
+        "publisher_url": "https://www.ans.org",
+        "language": "",
+        "seendate": "20261102T163542Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Centrus ships first centrifuge for Piketon plant expansion",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNd2J0aFRqYWgwY2lKTXRZWnZuQ01rRk1IeVM2ZjlmWE15dThWQmZ4VTZYdzJMb0hSSjNrYzUwVEtLUlFpdGRxMlRPV2gzZVRWZFRmX1RvR05FYXVWdDdqWjBjNzlfcFlyWnNNQ01oakNvTTJjX3hpZWw3V2FOekIybkV2LW9VTTlpMzRqa3VVRVV3SklBS2JIUng5MzlISGZTTG1HQQ?oc=5",
+        "domain": "www.world-nuclear-news.org",
+        "publisher": "World Nuclear News",
+        "publisher_url": "https://www.world-nuclear-news.org",
+        "language": "",
+        "seendate": "20261030T173050Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Constellation Secures $5B Conditional Loan from DOE to Scale Up Nuclear Fleet Across 3 States via Uprates",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPQ09aeG1nSERaVHpkNmVWbXJ2TUJaVEl1YXpVX29uV196SkVjZ1NqbU9WOFRYNzRDbHphQmtvYnNCTTlwaS1GcXpNaDdpOGhlZTNyR25qT2hCV2E2RmNvMFB2bnNtNEJYUm9nUlBWUWxmbHpPS1k1Y2MyZnU1OGdMWm4tdE9wRW02bU9zY0pMYzI2WkUzRkRZMXRRRXBIdmpfRlJwZFBkTWFOUjhKNU8wN2ctdGdZSGZOZTZpcy02bkNka1p6VUM4a29PMVg3cThWYnVfX0JsYUtUWEFlSlBLNWl1VUtVVXB0NGdEM1Z2ZEJfdw?oc=5",
+        "domain": "www.energytech.com",
+        "publisher": "EnergyTech",
+        "publisher_url": "https://www.energytech.com",
+        "language": "",
+        "seendate": "20261102T191620Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Trump may attack Iran with nuclear weapons within days, Tucker Carlson warns",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQUmN6VjlKWUpFMVFXMjluNTdJOGh1QlIzcGxmR2NEQURBUEVtVjRMRF9kc0ZXR3IxZExxaFRnVXhPdXRRazhWLVRJcXJfdkZPN3UtZXZpVFNDakM3OVZsUnpvLTFQZ3VKQl9iek43MzVMYzRtUURUc3Y4UDVOT3NzZWpPVzE1Y0NyQS1KUlJvcHJRM1lOa0Zod3FidXVWdlRsNUNFUjgxYjFMNGl6cXFwaWtHLTkyRWp0RTlYbjBHdFA0T1B4ZW1vZU1acTZJeEMxU21xUFJfcFdzdU5EYzJ2ZmtBUlhrRFVKSkJfSFBfZWxLUGhk0gH6AUFVX3lxTE16eDQ5UHRIRXNiSHZ2Q0ZRaDZVQ2hpYTNxbll2cTNBXzdXSU1xNTU1TTktZEwxaWZpcFJHSlVVTEJwNHRtSFhaaWhDU3dyVzZ5NjQzYnJSczczRXBMRWk2SGlJcUF0dWJJN3ppOE15dzc4UzJHbTB1MGtGcmdvc1RJSktnWmZybXBXSXVpR0VlNWpoYVFhOHl3Z1pON1dsdnZ3MHJzd2RQa2o3UDFRTmgxc3hWT195RklWUll3VENnaU9aSjhGSkcxd25mekVhMjh5a0JsQUx3aVVacTdCdTl1Y0JGVU11ekNfTU1RQWUyM2taWkN4MHJ2Q1E?oc=5",
+        "domain": "www.firstpost.com",
+        "publisher": "Firstpost",
+        "publisher_url": "https://www.firstpost.com",
+        "language": "",
+        "seendate": "20261102T051702Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Netanyahu pushing Donald Trump for nuclear strike on Iran? US commentator makes big claim",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNMVZhcGxWam4zYmRvMEhnNFBYbVd5S2NLTU4tMGFjYnEzRFlvZHh0Ym5jcXAwcExabFBsVUg1MUxyTVI5VU9WRExNZkFnZTI2dExPSnhEdm9IN2I3TTNxc0xHQWctZl9kRmNCUHJWcGh1eVlELVpGSnlVTFVmSDVtOHJuSTU4VjFCUEJEbmh2eENyY2ZTWnYzcVlPNFlhbkJJd3l3M2k0UUR1cTE1QXZYbi1PaGdndW50WDdONDVnWDJXWDVRcGxLSks5blBWa2NXeGl1bl9McDh3Rk5mdGs3QWN0c2w4Q0RVMVNQS3V3cEzSAfYBQVVfeXFMTXFkOERUYzFxSm1neERBblNZLUtjZjd6eWxReWFhY2VQU2RxRE1BeWk3bGtVTzFjbHpRaEFkRElnMlZRbzUyNUNaZmFvdmFiNTk4Y2h4N2Frd3VGMmhWV281RFZXZDBEMlcwYU9kQUFXSVFmUkdzRjdkZUtydzZ5YjdOcEZUY0VuS3N4MFZ6ZWllX2c5NkFGTm9oQkdWY054bFA4eEFzVjZsYktLNFMxWFdGQi1nTmZyQUJMT0tXcmVQVzAyNHZ6RVk2blBfblo3RWM3RVlUQnR1bElqRkxCenlhR3BIUVdDalJVdGJlNXFwMWF1MUNn?oc=5",
+        "domain": "timesofindia.indiatimes.com",
+        "publisher": "The Times of India",
+        "publisher_url": "https://timesofindia.indiatimes.com",
+        "language": "",
+        "seendate": "20261102T041100Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "News | Nuclear startup chooses Los Angeles and New Orleans for debut",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZmVhbjJvQU12RWNDZ1BpSks4aXF4aDRmRHkwbUN3cEJrYWpKZHVRaEkzMzROb1otZlVMVXpETXRTajhydDRaNHU3T0kzcmtXZU9rUk9kVk1zM3FuaUZKYi1oT3J6T0RQakNxVHJ3eXNRb3BoYVdFWW9YVWtYbE94bldMYmJEenpnM3owUktFdHVNbm9ocVNkYkNFTVVPd2dsQ2NMYU9n?oc=5",
+        "domain": "www.costar.com",
+        "publisher": "CoStar",
+        "publisher_url": "https://www.costar.com",
+        "language": "",
+        "seendate": "20261102T213708Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "A US nuclear strike on Iran? The greatest threat could be to Ukraine",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeV9tbFhocURqeVkxQzRFa1J6OFZOeXgzSlJMT0R2UW9BVUJOeDJIYmR3akVBN2gxMkV1dl8xbzBTcnNwdTV1QnRGbS1HYnh0YzM4bTVEeGhyT1gwRE1YdGFWZ2VjLXRhdkpubE9XZnBMb1BsVEp6eXIzTkZMcE9qamJlN2hIbURuRTVQWjRfMGJjQ21LVDUtRVlwTm9NWFNFaDNV?oc=5",
+        "domain": "defence24.com",
+        "publisher": "Defence24.com",
+        "publisher_url": "https://defence24.com",
+        "language": "",
+        "seendate": "20261102T101809Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Iran’s Ruling Factions Clash Over Nuclear Weapons and Military Failures as Armed Attacks Challenge Security Control",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOakx3RjBjM0RuY3d3TWdsbUU5Wk1IUG9sOV9mX0hGMmMtYVJBYVMxcEp6NzNrYUpzdWdqWHB3akNyQ3pyamdRajlhTUlqeXBmZmFFSjlnaXdvLWVET0tJbDhncFZLNGtnUHNBMTl4UFljbklNVVpaR1J6UWhCRXEtcWZldWJKdDVyMEVxNW4tdm1MZTdjeDJtVzl6bkFfV2VUUmhteS1mR3RKWXA4clozc0ZIenNuc2hoUXlOdjBqaHBCNHpqeVRDcERUbWJOMXpVY25BU2RYQ1NSMldneE9qQnZ0LXlTZWVITWhadE9RNjdfdGo1?oc=5",
+        "domain": "www.ncr-iran.org",
+        "publisher": "National Council of Resistance of Iran - NCRI",
+        "publisher_url": "https://www.ncr-iran.org",
+        "language": "",
+        "seendate": "20261102T184545Z",
         "source": "GoogleNews"
       }
     ]
   },
   "events": [
+    {
+      "title": "Nuclear-Weapon States Consult as Trump Talks Denuclearization",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNTlXQkZ0aVdsV0d3MEpfOVdDZzVxRGlkczZDMDJBVWpQU1ZOZkFyMWN2SkxFQXVBenZ1WjRwNVgwUlBJLXJLTnVZeTJzREJYNjdiQVJBc053NWphZTZOSk4xTWwyWjBiTjNlUXoweXRSYVpuVDd4UUNINUZjdkc5QV8zZkxsWFV6eGR6M3JuQXlYUDUwUThtMkJQVVh0T2VocHRlU0pB?oc=5",
+      "domain": "www.armscontrol.org",
+      "publisher": "Arms Control Association",
+      "publisher_url": "https://www.armscontrol.org",
+      "language": "",
+      "seendate": "20261102T185123Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Fake alerts warn of nuclear danger as Ukraine and Russia report emergency app hacks",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQ1QzbGU5dXREb2Y1VkpSSmU5TEhnNm5TSmFOdWRkMkh4Qk1uVDZtZUp6SUs4RTVDUndVemptd2hWRXNZdGc0ZDdDaFp5ajVvWEw3dzVsb3RXbWhFa2tBSUZ4YXNvWmpFT1hLeGxKaHIwc1NyemhaeTlvWjdfVGxPRmFDaUJPQ0NBUFNiWS1kUkN2bjZUdUt6amlPbkQ1VkdjNDJsWDVkNkJkcGJWVnpfUmlWb0FzN1k?oc=5",
+      "domain": "www.nbcnews.com",
+      "publisher": "NBC News",
+      "publisher_url": "https://www.nbcnews.com",
+      "language": "",
+      "seendate": "20261102T125652Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Hackers send fake nuclear threat alert to Ukraine emergency app",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNmlEUnlFc3VFcEdqSjREVzdJOFJWbjhBd3hwQ0FkVXlLVU9kNmlqSXpQRlVtZVlDeUZKcHIzODB1LWFLeDhXVmRXdVk0N1VhLWw5YXpnWHQ5LXZMMllFWUFRc1NCNDZ5Yk91Nkg1UnlZX1BseTdtT0NQeVNyRHlEamNLQlZ2amU0SkRrOGNtRDJLckpMa1dWZzlmdnBVbjU5Q1lFZ2tHejUwblFKQXViOXVOUmJuQQ?oc=5",
+      "domain": "www.theguardian.com",
+      "publisher": "The Guardian",
+      "publisher_url": "https://www.theguardian.com",
+      "language": "",
+      "seendate": "20261102T165000Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Idaho National Laboratory receives ARPA-E award to advance next-generation nuclear fuel",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWTFoYTRzNEZYSGIxaG5ycTNlU2Q5YlB0RHgtU085LXVmR1U3WEVYMGFTR2J6WUpWZHRwZTFuRmUyZkhBcVdlVGFpMlRiaktpTnBLYzZ0N3BNWXZuTXg3c0g4b0Z2MGVtNEIzS1lvTVgxYUl3Sk50MmstRjZ3RjdvZzQ4eXZXb2xxRmtVdUZXdnFFYWdOeTIxbDFmTjQtV1BFRWNFd0pRZTB3bEJNbFEwQ1VoV2hqZFRy?oc=5",
+      "domain": "inl.gov",
+      "publisher": "Idaho National Laboratory (.gov)",
+      "publisher_url": "https://inl.gov",
+      "language": "",
+      "seendate": "20261102T200345Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Fake warnings of nuclear attack posted on hacked Russian and Ukrainian emergency apps",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPS3VKNzBYUk8yYXJEZF9MX01wVEtHZFljV0ZDdnEyR1lKUlFRMnBmbjVrdkg5Y2FpTE4xdmpmVHJfakpOZ1lLaTRvdXVvZEVLZzc3amxIQ21SNVUzVXNqakdrdTQ2SjNwcDMxYlhKXzVPTWFlcTkzZkRoNUthMnNGeV9DazF0ODE5Qnc?oc=5",
+      "domain": "www.cnn.com",
+      "publisher": "CNN",
+      "publisher_url": "https://www.cnn.com",
+      "language": "",
+      "seendate": "20261102T105720Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Fake nuclear warnings issued after Ukrainian and Russian air alert apps hacked",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1URnRWSXh1UnA2ckptNEdJd2VGVVU4N2FKYUxjanpWWVpsRDRUVWNpYXFtV3JFSWdlLUdwUVdWVXgzd09UTjRuQ2ljcnIySF9lWjhEbVFpSks1MHM?oc=5",
+      "domain": "www.bbc.com",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.com",
+      "language": "",
+      "seendate": "20261102T143501Z",
+      "source": "GoogleNews"
+    },
     {
       "title": "Iran’s nuclear bomb debate gains ground on official platforms",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ncU5lU042bEhlZ2RxWkFMeFl3TFdqeHoyU045dTlPQ3EzTHpBRU1lOHBWblNBdGtFbEpQbEFZS3hRUmlfVzl5V2hxZm1VZEpyZWc?oc=5",
@@ -539,6 +599,56 @@
       "publisher_url": "https://www.iranintl.com",
       "language": "",
       "seendate": "20261102T004000Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "San Onofre’s nuclear waste is stored on the beach: Will another community agree to take it?",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBmMEU0X0h1SGxoV3o1NWt6M2kyalBXUGZwN1lWN19mR0Mtc2J6bTZ3NnN0Rmo5MG5pVnNsR3AxQl9zaTB3YlN3NzlBZHNKMnJsMWZLRE5OZXE1ZWkzellxTXNVOVBRcVVGZHkyQk94V2FsbmZKZjUwZg?oc=5",
+      "domain": "calmatters.org",
+      "publisher": "CalMatters",
+      "publisher_url": "https://calmatters.org",
+      "language": "",
+      "seendate": "20261102T130000Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Nuclear radiation in Russia, Ukraine? No, just hacked warning alerts",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZTN5bktCQ0lvY3ZfalRyZW52YnAxU2M0Z0Q5WkE2dTBKa2JtYUcxbnlCWXVtRGRxYjIxYURwYU1YVjZYaHljdFp1VnpxalV2eVFscHU2RFVYRXlnZ2xTZDdNVEhHR29UenlkZHlsWTNsX1lyc2NvNFV3UENwTWU2VzV5ZzJEQ2JtRjM5dW5CRkd5RUlrUFg3c0FFS2hUaEY3R1JfTDJnTWZmd9IBrwFBVV95cUxQRGFFdjNwOFRkcnBsMnhWbW1qV055TXJmblVzcnFuRXpiNkRMS085V1FaejFFVG5WVThpTzI2TnI5cTIwSFFXUC1tWkVXRDlFOHA0NjlGRGd0cWZqNVpFaGZCZVN6akVqS1NPcGN6MEg4QUxKRUdDWDRLNGVqNmpMY2N1a05lOXN2X1V3eDZrMXF3WHBURWFEZzV3cDN4TkFJc2ZQYW0yV2toRmY5dTI4?oc=5",
+      "domain": "www.aljazeera.com",
+      "publisher": "Al Jazeera",
+      "publisher_url": "https://www.aljazeera.com",
+      "language": "",
+      "seendate": "20261102T094611Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Ukraine and Russia's emergency alert apps both hacked, residents warned of fake nuclear, chemical strikes",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMFVBYnZvb3ZDNlg5V3o4TUlJaXVHVFRmT1VPWmkweTJ5aTRtdURObGtqZjdtUTJtTlpVR3RiUjQ2MmtTMzNTOUtYYUR6Z1ZxbWE1MExwZG4za244THlzVkQ5SzhzTHpfaXFRTllvbmYzMUExOHZVM25HZ1hqdEd5czlMaVY4NmpEdXFqZC01aEZ1dFlKZW14SmxxSnl1STQ?oc=5",
+      "domain": "www.cbsnews.com",
+      "publisher": "CBS News",
+      "publisher_url": "https://www.cbsnews.com",
+      "language": "",
+      "seendate": "20261102T172600Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Trump could launch nuclear strike on Iran within days, commentator claims",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUjZ2Ql9aYWZVd2RGOXgwS3FCUVJNbnhpdW9Fa2p2alNGRVhQTEFEVnVvRDJZOEs3dHdDbGFoNVRiWGppVW9UVGV0c3A2Qi0waElZcVZObWNtWFhBUW1rcHJFLWFqREhaTlZQZFl3MklDRnRLYU1JdXpza2UwRTk3b3lVUG1QZTZIb2kzZzNtV3ZKTUtabXNBelpFaUxZbGlGVHlTSi1vRzBpQUdTd2lj?oc=5",
+      "domain": "aa.com.tr",
+      "publisher": "Anadolu Ajansı",
+      "publisher_url": "https://aa.com.tr",
+      "language": "",
+      "seendate": "20261102T080147Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "The History of Nuclear Power in Space",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5xdXdsX2xfOGVGUmlqX2pxQTY1ckp2R3lDdVA0Rmo5dFI1VWtrVmpEb0NOb2VmaUdiUzFRZ3ZsWGx2TjkwZ2hrN0s0WlI4Tmw3cHN1UERTT0YyOVFKN0h1X01OR0R1ZXMzR0ZSZmtVMA?oc=5",
+      "domain": "www.energy.gov",
+      "publisher": "Department of Energy (.gov)",
+      "publisher_url": "https://www.energy.gov",
+      "language": "",
+      "seendate": "20261029T200000Z",
       "source": "GoogleNews"
     },
     {
@@ -552,133 +662,23 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Netanyahu pushing Donald Trump for nuclear strike on Iran? US commentator makes big claim",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNMVZhcGxWam4zYmRvMEhnNFBYbVd5S2NLTU4tMGFjYnEzRFlvZHh0Ym5jcXAwcExabFBsVUg1MUxyTVI5VU9WRExNZkFnZTI2dExPSnhEdm9IN2I3TTNxc0xHQWctZl9kRmNCUHJWcGh1eVlELVpGSnlVTFVmSDVtOHJuSTU4VjFCUEJEbmh2eENyY2ZTWnYzcVlPNFlhbkJJd3l3M2k0UUR1cTE1QXZYbi1PaGdndW50WDdONDVnWDJXWDVRcGxLSks5blBWa2NXeGl1bl9McDh3Rk5mdGs3QWN0c2w4Q0RVMVNQS3V3cEzSAfYBQVVfeXFMTXFkOERUYzFxSm1neERBblNZLUtjZjd6eWxReWFhY2VQU2RxRE1BeWk3bGtVTzFjbHpRaEFkRElnMlZRbzUyNUNaZmFvdmFiNTk4Y2h4N2Frd3VGMmhWV281RFZXZDBEMlcwYU9kQUFXSVFmUkdzRjdkZUtydzZ5YjdOcEZUY0VuS3N4MFZ6ZWllX2c5NkFGTm9oQkdWY054bFA4eEFzVjZsYktLNFMxWFdGQi1nTmZyQUJMT0tXcmVQVzAyNHZ6RVk2blBfblo3RWM3RVlUQnR1bElqRkxCenlhR3BIUVdDalJVdGJlNXFwMWF1MUNn?oc=5",
-      "domain": "timesofindia.indiatimes.com",
-      "publisher": "The Times of India",
-      "publisher_url": "https://timesofindia.indiatimes.com",
+      "title": "China has likely resumed making weapon-grade uranium at Emeishan",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSC1NbnNfaUJxSTJpOXZPbGd6SFNDb05hbExzRWYyejRoRVh3QUVKODl3b2tfcmdDcEtSVkpZdklmN1BwdmZYdUVjM1lQQWFjVkUyTkpTR0F1QU1FSTFISlZGQkRKRlJmY0FtWi1mTm5IUmpLZkNpTmJuOHdnS2V3Q1BfekR4VWVZYm1hTWkwSk10S2U0bkdGYm9RRTB0Zw?oc=5",
+      "domain": "thebulletin.org",
+      "publisher": "Bulletin of the Atomic Scientists",
+      "publisher_url": "https://thebulletin.org",
       "language": "",
-      "seendate": "20261102T041100Z",
+      "seendate": "20261102T110538Z",
       "source": "GoogleNews"
     },
     {
-      "title": "Trump may attack Iran with nuclear weapons within days, Tucker Carlson warns",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQUmN6VjlKWUpFMVFXMjluNTdJOGh1QlIzcGxmR2NEQURBUEVtVjRMRF9kc0ZXR3IxZExxaFRnVXhPdXRRazhWLVRJcXJfdkZPN3UtZXZpVFNDakM3OVZsUnpvLTFQZ3VKQl9iek43MzVMYzRtUURUc3Y4UDVOT3NzZWpPVzE1Y0NyQS1KUlJvcHJRM1lOa0Zod3FidXVWdlRsNUNFUjgxYjFMNGl6cXFwaWtHLTkyRWp0RTlYbjBHdFA0T1B4ZW1vZU1acTZJeEMxU21xUFJfcFdzdU5EYzJ2ZmtBUlhrRFVKSkJfSFBfZWxLUGhk0gH6AUFVX3lxTE16eDQ5UHRIRXNiSHZ2Q0ZRaDZVQ2hpYTNxbll2cTNBXzdXSU1xNTU1TTktZEwxaWZpcFJHSlVVTEJwNHRtSFhaaWhDU3dyVzZ5NjQzYnJSczczRXBMRWk2SGlJcUF0dWJJN3ppOE15dzc4UzJHbTB1MGtGcmdvc1RJSktnWmZybXBXSXVpR0VlNWpoYVFhOHl3Z1pON1dsdnZ3MHJzd2RQa2o3UDFRTmgxc3hWT195RklWUll3VENnaU9aSjhGSkcxd25mekVhMjh5a0JsQUx3aVVacTdCdTl1Y0JGVU11ekNfTU1RQWUyM2taWkN4MHJ2Q1E?oc=5",
-      "domain": "www.firstpost.com",
-      "publisher": "Firstpost",
-      "publisher_url": "https://www.firstpost.com",
+      "title": "Fake nuclear warnings in Ukraine as Moscow, Kyiv report separate cyberattacks on emergency apps",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQllmMnQ0eTliZGFCbFFOWHFVaHkwT09icWRRaXhMamIyUllPNTgyZG83OFpnSUJJZFRKcmJtMFVqRGlEWGdPLWRJTGNkY3dENmdHTUdWNkxGLW15MFhVS3FUOWtwb3p5TzlKZkpJTnZzOFpJQ2o1X0p4ZXNHTXNfbWRJT0RxQdIBiwFBVV95cUxNUTlQeS1Hc1dRZmFBdzlLSjNNUHFMbFNlRmoxc0NQQUY1SXNFdjFURXM0eFBYMDQtMGR6TFloRUJNZzRnUUNOc2lhQ0ZuelZibEtlaVQ2b3Exb3kzSWJ0VTJjLUl6VmoxZ3lnak10VDJWRldTb0RhemU2clJDbTdhUFFUb2VRNWFFT2Rj?oc=5",
+      "domain": "www.cnbc.com",
+      "publisher": "CNBC",
+      "publisher_url": "https://www.cnbc.com",
       "language": "",
-      "seendate": "20261102T051702Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Trump says US could strike Iran's remaining nuclear sites in '10 minutes'",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPclNtN1RfbEt4ajNpQzBGNnJxVkRmN3pQcHBnRHFPRlNrc3R0OFYzQS11RUNicmszR01JWEE4RFA4S3N1cEFObTRCY2xDNTJZcXR5Wms4UDk2ZTdFdjBwUUdYWjNkbm1zd2VTYndqOHdfbVNxSjdTaHdmZmoyQ1BjQXppY2g4MFV3bnpUNTlJT3VidWhwdDBBRWxVUDlFbjB3YmNkWnkxSnh3b2c4OHVxY2ZB?oc=5",
-      "domain": "www.aa.com.tr",
-      "publisher": "Anadolu Ajansı",
-      "publisher_url": "https://www.aa.com.tr",
-      "language": "",
-      "seendate": "20261101T083414Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Nuclear energy company Applied Atomics establishes headquarters in New Orleans",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORUxHaEJsWFRRajVXT1BlbkNHQU9QSTliQW1BdWNaeEl2Tnptb3ZjU1dSTy16NjhkTERqS2thMnRCREFIVGpqOU91Z0J4am5aVlRCdlZDMjFFS19oTFJyNzJ2d0JQVGF3c3lER1VINHBBcUxNN0pQR1NCbTBteU1qeGxnNExHNUhPSVk2cTBUYVQ4YXhyVk12MTBNbmlvQXg0S2Vvc0JWOVFXc1ZTX2cweWk4amFCNFI5Yjlv?oc=5",
-      "domain": "tulanehullabaloo.com",
-      "publisher": "The Tulane Hullabaloo",
-      "publisher_url": "https://tulanehullabaloo.com",
-      "language": "",
-      "seendate": "20261102T042701Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "A Cold War blueprint for today’s nuclear dangers",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZlZ6S1I0N1BVZXhFcklJT3BXM0s4UVVHcDE2cGdnZlpUWWVmTjFhUVZXUlFfSHE0QnpLR0RnWndDenFwNFNjZkNsOU10RnFjV1cxTnZDUkhoZFVvQnpBZE0tdHEweVF6QmQzSFg2M0g4NWoycVhiazFfSUVGbDBoM3pBbXd3SFQtNnNma1dn?oc=5",
-      "domain": "www.japantimes.co.jp",
-      "publisher": "The Japan Times",
-      "publisher_url": "https://www.japantimes.co.jp",
-      "language": "",
-      "seendate": "20261102T034601Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Illinois nuclear plants receive federal funding to bolster the grid",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORjFiaER5LUw5TUlBWHZQa0tSejNaWlpkRzQ4SHVlQl84WXJOU045Z3YzenZHN2V6cnN3QVRJdEd1NDlheUVNLVZmOVdWakR4Q2NDNDFZX3g0b0lvWVR6MUlWZHJDTkktT1RMVUx0bEFDTUhBY3BmS0ZVM1lXNkRPTUt2TUdnRzhQRW1wS05wT184YmVnbUVtTHFqTWU1SEVlNzZ4YtIBqgFBVV95cUxOb2tjaU56QjNVSkhxaUxKQWpLckxQTUFocFdiNm4zalhNVzZ3SXQ5bzFWZU43MzNuOE5DaDBYQ09Xd3VjSy1mSER5bkRsM0FRV2hRN1dRcDVCczdXZHptcE5pNEc0QU9kOENTdFNZV0RBaU1OcWx4U09oOXRqbVdmLUwyem5KRVVBZU9TYU5zX1ZDWkFJMU5INjVwNUtKb0JjZ2U1bTYwMVB6Zw?oc=5",
-      "domain": "fox2now.com",
-      "publisher": "FOX 2",
-      "publisher_url": "https://fox2now.com",
-      "language": "",
-      "seendate": "20261101T203234Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Why are US, Russia and China racing to put nuclear reactors on the moon?",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeTcyMXJ0dXBMRXJwTlE4amM0V1pmQ0xTZTZndjYydVBnRTA1ekVseHVCUTdlcUt6b1kwSFp3amZxLXdtdzNQS1hDNzFKZExXcWF5ZkZ4amZQX2hkdDdlVkxaOUlPbk5vRzNyWFhQaW1hMUVGaHJ1Y1hVMm1VMHVwN2JaRTZpTk9QalpnVDB4aV8zcjFFTzlBOVkwUGVja01FaUsxd1c2djFQZVZpUWluaHJB0gG3AUFVX3lxTE9Va1B1NFE5MEtjZzZGc1FoaUw1NjNTSm1mZExvMGZVdVVVYVdEM1gxRDh3UG5OaFFuTlIyOTZISkZrYXJXY2ZZMllsVnVMRWlWQTNRakdmY0cteW1yd2JCaG95anRtWVBKdFN2TU01dmhRZzZvNl9ZQmd6SlFfX3V4T1pteEFBYm16dEdjakFhSlppR2NJYTR2YnY2YTU2LXBoUGtHU050QzRvVklzTHMwSWV4RnN0SQ?oc=5",
-      "domain": "www.aljazeera.com",
-      "publisher": "Al Jazeera",
-      "publisher_url": "https://www.aljazeera.com",
-      "language": "",
-      "seendate": "20261031T055004Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Ukraine's air raid alert system hacked, Air Force says as false nuclear, chemical warnings sound",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZ1QwY3NsY3diOW5FY2JCQXE0dGVHbG1lRDMxTzFXWS1yNi1FeDRoQ19OYml6RVYtbk9kb2J0Qm56S2xCLUc4bVdaWFJscDB6MHhqX2FtbS16SEtqeHYteDQxa2RCSW9tLUVRS295ZzVPM0NNNGVwR2FmZTJhbzRPc0wzbkgySXJiNW1sVWU4TVBsVFpvc3R5dDRPQ01iRDFINEc0VUtYTDgweWhpdjJ1M1I1MjV0S01wZnp3Q1Z2Zw?oc=5",
-      "domain": "kyivindependent.com",
-      "publisher": "The Kyiv Independent",
-      "publisher_url": "https://kyivindependent.com",
-      "language": "",
-      "seendate": "20261101T232146Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1URnRWSXh1UnA2ckptNEdJd2VGVVU4N2FKYUxjanpWWVpsRDRUVWNpYXFtV3JFSWdlLUdwUVdWVXgzd09UTjRuQ2ljcnIySF9lWjhEbVFpSks1MHM?oc=5",
-      "domain": "www.bbc.com",
-      "publisher": "BBC",
-      "publisher_url": "https://www.bbc.com",
-      "language": "",
-      "seendate": "20261102T011827Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Update 373 – IAEA Director General Statement on Situation in Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc1dSTUFDMkV4SXZORUQwSUVQRWJ3dlgzOE9rbEZpWlZudFBENU83QzRZRG80blZXQUhNM2owZ0dwTXFLTXExc2QxX0tReXBoOV9ieWUyV1pwNDRENmNTYlBtV0stbVJFd2hoR21XWTltTzBsUEdTQ2JRdlBPWWVXQzJUWGVhSzJTRTMzeUcyMWlOR1lDNUlQZUFkdlJZY2hiUVhIei1RS1pZNmJHRTRzTUVn?oc=5",
-      "domain": "www.iaea.org",
-      "publisher": "International Atomic Energy Agency",
-      "publisher_url": "https://www.iaea.org",
-      "language": "",
-      "seendate": "20261030T165016Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Fake nuclear attack alerts hit millions of Ukrainians and Russians on the same day",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRDZONncxYS1RaFRWOGtZaXE1YjJRVVdmbTlESnZOTThHdFRkcXFqQmdkeldZcElseTZTMlNoeldFVmpYWkU1eHA0NnRpV1dmVWZvSFlFQ19ieUVLR1J5QldXYzhmTWpyZlU4ektncFFOWHd5Z1RadzhOc21SaHVzNmtpNGJmWENWVXItaFJtQVJDOUVnNWxj?oc=5",
-      "domain": "www.businessinsider.com",
-      "publisher": "Business Insider",
-      "publisher_url": "https://www.businessinsider.com",
-      "language": "",
-      "seendate": "20261102T052500Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Joe Burrow’s nuclear game vs. Titans hasn’t been replicated in 75 years",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeUxCZXFmS2hneUlNZHo3amZUd0dMUXM2SkRZajF1T3hvWVI2emU2WWg5UnFTV3E5dWE2NkhYNGthZ2ZjcHhHSHBNZElRV2ZpdkQ4cGptR2JfUEdwS3RTbk1MNEZmS2VnWlh3M2tnWE5TeXdkUTZQY1hQZ3hhQXc3OQ?oc=5",
-      "domain": "sports.yahoo.com",
-      "publisher": "Yahoo Sports",
-      "publisher_url": "https://sports.yahoo.com",
-      "language": "",
-      "seendate": "20261102T041300Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Tucker Carlson claims Trump admin could soon launch nuclear strike on Iran with Netanyahu ‘pushing hard’ | Hindustan Times",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPemh5S2I2R1RCN0hqTnc3OTkzQUp1aWVkRlZQLWM4aTBSRG9JM3J3R1lQcGJObDNHX1BRRkpydHdoU0JVX2tJRjdKN2lYelZTUmRwbFh4NWMtZUpBTk9oclMzYU5ZOXpfSGF3Mmw5emdqd1VMWm5lSFlPQTVmdWRyS1pvZ3p2S2Y3WEZ6SXRHQXhTcTB0RXRtN3FLSkFMMGZmSzNjdklDZWtVTG9GX0xMOF8wR3BkbmM3bXNqZm1yb1FGbW9XRnRyQ0tMaWJ5ZFBhM1dPSVBJcXBLVVkwODB1aERibl8yMUNrOWdnMlZ4UDktMmUwcV9vWEhPQnpHOUVsbENz0gGIAkFVX3lxTFA2Ry1FWmNVRUhmYnpiQmloZW1Ya0ltYUJRSjNvRWpuM253TFJXSFkwVkdFZnE3M3BuTUJMclNlUFlXNFdFSEpER0ozZXc0eG5UZzNQZk9oWjZqQzR6ZUF6ZjQxOEVXbjJmMDltTnFqYnFrd2JHd0lkWXI4amtSOEROYjdPdnkxZGRaM1h0UjMwX0pXUFhDeVNjdF80UFNocUFsR3VEcWhqODV0LXNFdUZ0dWxKZFRJUlV3cnNKYkZQTXN1VEFKeXNYQkVvVnZnbGVqN285MjJQTHNOUU85bDRKb3d3NjlsaWNSWTN6ZzktU2xyQzBLY2ZodDFjb1hsY0FJVUVMMlZhdw?oc=5",
-      "domain": "www.hindustantimes.com",
-      "publisher": "Hindustan Times",
-      "publisher_url": "https://www.hindustantimes.com",
-      "language": "",
-      "seendate": "20261102T052613Z",
+      "seendate": "20261102T111805Z",
       "source": "GoogleNews"
     }
   ],
