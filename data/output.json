@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "nuclear-proliferation-watch",
-    "generated": "2026-11-07T06:34:10.016580+00:00",
+    "generated": "2026-11-07T13:31:06.434486+00:00",
     "mode": "live",
     "sources": [
       "news_articles"
@@ -23,29 +23,69 @@
     },
     {
       "label": "Distinct news domains",
-      "value": "45"
+      "value": "43"
     }
   ],
   "live_data": {
     "news_articles": [
       {
+        "title": "Iran sent nuclear proposal to the US via Qatar, senior Iranian official tells Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSlJZVlphdWhPcDNGc1E5eDVNdDdMQkJNTXVDS0RYSVRqaC1tblFqQy1FekRQdldnV0FsMU5RdnVHNEI3UEZWMC1MY1l5cnRtcjBlcDlpUXdvX0hXbV91S1UxajV1TEx1VmJ2SzNLNElXSjc3YkdmYWw4VGNXZEl5NXR4RFNjRXBxeEZMLWpBT1Z5X2JRc3NEdkdMZDljQ0dkZXZRbzc3U1NmNkhnaFN5QzNhVmRzSmhsM0Q5VzU3Mm11OWZBa3M1V1lvaw?oc=5",
+        "domain": "www.reuters.com",
+        "publisher": "Reuters",
+        "publisher_url": "https://www.reuters.com",
+        "language": "",
+        "seendate": "20261105T194800Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Will Trump strike nuclear sites again as Iran engages ‘cognitive warfare’?",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORWd2ZHNRRjNUZE56eU5kdTU3cl9ja2dwemEtRWYyaG9GcEVBU2RBS3N5a3g1dFY4blY4a1d0eEtQa0VwdTFtNGVZRGhkWW9fZURoZFlnS0dZUXBndnJMME5EUjloYmthMDlOcnltMUNVblF2eHRXNU53RWdLNEZuRWtZYzF3M0d6QlllRjBMMnJaUU5SdVJ0YVVWUXM3V0hKeVg0YXV4ONIBrAFBVV95cUxPSXZRVmV6bnNJWlA5Zm5mcHZNMEdFNjBGbXdGYWJsYnllQUxFM0pQZ2N6OTdpYUZ5NUFtSHhjaG15YTF3VVg4TFM2MTFZVE1nOGN1dngxOFZfOExmajNUMXFJYVRwR3VISFRiMWFBVWlHOE9pSjJtdkJZTHlHMGFFN0xkOVVRRVotTjgzOVBFVGhBbGxETTRVN2JXNHV2OXRYVjlSQ3ROdFRTeFFF?oc=5",
+        "domain": "www.aljazeera.com",
+        "publisher": "Al Jazeera",
+        "publisher_url": "https://www.aljazeera.com",
+        "language": "",
+        "seendate": "20261107T085156Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Strait of Hormuz could reopen as part of Qatari plan for Iran nuclear inspections",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMFNrLUQ1dG9iaVNVYWYzRjRlbmNnVEFHR29rcWh5NnFpaEx5UWs1RjNTbWZoc3oxd2RQWUdBaXFaNzJENjlUWVdNOHNsQzlWOFVYdDZHVTFvQmpGWEpSSlZFLXRVTUxWX2lQaHl6VjJMVDViVEM2NXF4cnZJcUo1aWJHc3MtdTZFdFRhLTF5cXBTallDMFVZY1dlMkd5RFU?oc=5",
+        "domain": "www.theguardian.com",
+        "publisher": "The Guardian",
+        "publisher_url": "https://www.theguardian.com",
+        "language": "",
+        "seendate": "20261107T070200Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "US offers reward of up to $20 million, possible relocation for information on Iran nuclear program",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5TeUNiSDFDMjdhOHNsX0RPeTdBNVZZcU43eG80SXFaWXdJY1YzTXlDZjdBdjV3MHNQZG12WFo5OGhGOU1kWGdjWjY0b0tuYmhHV05LWENZdWc1NHdyV1B0ZklTaHo1RWFUZ3c?oc=5",
+        "domain": "www.jpost.com",
+        "publisher": "The Jerusalem Post",
+        "publisher_url": "https://www.jpost.com",
+        "language": "",
+        "seendate": "20261107T095736Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "60 years of denial about Israel’s nuclear weapons program confronts a new reality",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA1ZmdPOVA5TFVsRkppNmNVcTdVREJUaWUxZTJFbGxiVF94NXZFVVdvNmp5ZzNGOFVCZlVaRWtCcC12MVRtVFltNXd2REVnbkstYVAzQTBuMGtRemZtY3NWbTYwc0hpaXZKcEVHWnkyOXVDM3lEdDJCeXVfbw?oc=5",
+        "domain": "www.cnn.com",
+        "publisher": "CNN",
+        "publisher_url": "https://www.cnn.com",
+        "language": "",
+        "seendate": "20261107T050115Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "US offers $20 million reward for information on Iran's nuclear program",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdUFQLWZDeGVRc1lUWldrSHVlNWM1LXF6M0gwTTJleDUzdXYwV19JUVQ1OWltQWZkLUIxREZJbnJZbTFWQ3NRMUtHZFBwQ2JWbnVsSUlyRVAzaGF4dTd5SzJKRWltVXB1YzRLQkNXeURxVDd3dkxBNXdCNUo2QW14WmlmQjZXNnhWLW5pOXRwQnBNQlYyWW1pemFR?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdUFQLWZDeGVRc1lUWldrSHVlNWM1LXF6M0gwTTJleDUzdXYwV19JUVQ1OWltQWZkLUIxREZJbnJZbTFWQ3NRMUtHZFBwQ2JWbnVsSUlyRVAzaGF4dTd5SzJKRWltVXB1YzRLQkNXeURxVDd3dkxBNXdCNUo2QW14WmlmQjZXNnhWLW5pOXRwQnBNQlYyWW1pemFR0gGfAUFVX3lxTE1jTkhWNWdRaExoU0Q5eXdQZ1RBMGxLSEpzZ1VtSndKU2xTNGM4OFZxLUF3eHNlb0VIWHFDODVUZDlPUzdIV0JKd0NTQ0l6SV91Sk5WLWlrSFI1QnRBSkdua2hGbUxteW9fYS04QUhIdG91U0ltME1DdmxYbnRHcko0YTMwb0tDdnZMRFNpa1o5ejYxSTdtMTNGYzV5WDMyRQ?oc=5",
         "domain": "www.foxnews.com",
         "publisher": "Fox News",
         "publisher_url": "https://www.foxnews.com",
         "language": "",
         "seendate": "20261107T020334Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Update 374 – IAEA Director General Statement on Situation in Ukraine",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdmpXUndtUVBBX3ZiN04wOGREb1pCaUNBbnAzMjVZc1NpY0h4YmFlVW8ydnFsUUtmdUJRZHF6bG9RdWs4YXZGVEFlZ2JzczA1YThWYThhckVFWEpibjJza3VXTllDYmVDZzdGbVBzQ2NuWTRaa2UzekNTVlIyWTFxRTFMLWNGNW51bUxpM212OHlnQVB1TURsbU1YaWt1WnZMaFdmUFFaZW9vbGhHN3BhdUxB?oc=5",
-        "domain": "www.iaea.org",
-        "publisher": "International Atomic Energy Agency",
-        "publisher_url": "https://www.iaea.org",
-        "language": "",
-        "seendate": "20261106T134654Z",
         "source": "GoogleNews"
       },
       {
@@ -56,6 +96,26 @@
         "publisher_url": "https://www.energy.gov",
         "language": "",
         "seendate": "20261105T140831Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Nuclear News 40 under 40 2026: Supporting deployment -- ANS / Nuclear Newswire",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNV0VnWUltYUdjTm1HemNvWmsyWUZUXzJxSWVFanVnZHYxOHdLdlVhVVh4Sm9NTFE4RC1CNGxGQVNUTDdSTG5Fa3lCenNRLTRpM0UyVkpiMFhuSnoxbGszNmdsbkpiakdjNHJ6azNQU1Fma3JrRVB6MHkwYjF2VzVBTnlvZFgzb0lRTjNBeWoyZWJ6TU1GLXdzeEZNUnJnUHVWWnZYNkhB?oc=5",
+        "domain": "www.ans.org",
+        "publisher": "American Nuclear Society",
+        "publisher_url": "https://www.ans.org",
+        "language": "",
+        "seendate": "20261107T072001Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Rewards for Justice seeking info on Iran's nuclear program",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUFpRVUo0dlFFWFNxV1BvUUNnbnhEbVFrTThwSV9abW8zTTlvZGlCMzRSMjY0WFlLSjJXWllDdXBsWldsZjVMNFltMWlMQWVnVGlzUkRqQkVZVmdCdE50OGFrRGtETlRqaldRZTJtX1BJNEEycWhsbG1tbUZSZFk3ZDIwU3NzQjR6V0ZCYkZodnJMOHRNQWRYN055R2FzR01xcEkyN1hmQjR4LUZEZVVjSTBfR1NaR1lnQlJsUU1GdEp3a0pvSzZvQ2RxNzliOEc1VktpZzZxN0taTXprX3Zz?oc=5",
+        "domain": "www.winknews.com",
+        "publisher": "WINK News",
+        "publisher_url": "https://www.winknews.com",
+        "language": "",
+        "seendate": "20261107T125650Z",
         "source": "GoogleNews"
       },
       {
@@ -79,23 +139,63 @@
         "source": "GoogleNews"
       },
       {
-        "title": "US Central Command announces $20M reward for info on Iranian nuclear program",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMGxqSHBYeTN4RC1aRTFyek9yTWxpd0xjZzBjeF9Mekp1UjNsdjJGeEVHRHZhamVxU0lmb05Ra1N6UjFZQVBRRUloZWRYMU1aNEZFY0hIXzU5Zk9yc0lOZGVSc1ZmZzE2S2VlTlYwcUloX0pDQnIzTkc2OGY1a3VYMmhrb0pGTlFRMHdJb3ZHVEY1b2ZjSXR3eDV4VHdoVWpsZnV5dEtrc2ZhWGwta05fa2dUeHBnNm5jam52TnJ3?oc=5",
-        "domain": "www.timesofisrael.com",
-        "publisher": "The Times of Israel",
-        "publisher_url": "https://www.timesofisrael.com",
+        "title": "US offers up to $20M reward for info on 'Iran’s nuclear program'",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbHNPcnl1RU1DVmVBZEVIU1NERndsU1NERmRxSmVkLUV5dE5Vdk5Vak1IVGdGQkEzUlNXa3YyYWVpYlpybTdCeG03Y1pTVjdxYlE0ZzZlMXo4dEFhSl9aVkphUmc5bVN0MTNvRnZXVWRjTGVQbEZydk9tdE1OXzF4ZFhmUUljUDNrU3o0NGdyMVUyZWlBS0xyc19mRGRiWm14Q0pKdTY4MWQ4a09LOG5LNmJVNE5LSHo3X3JaUGhKeG8xY3FU?oc=5",
+        "domain": "www.euronews.com",
+        "publisher": "Euronews.com",
+        "publisher_url": "https://www.euronews.com",
         "language": "",
-        "seendate": "20261107T005635Z",
+        "seendate": "20261107T113119Z",
         "source": "GoogleNews"
       },
       {
-        "title": "60 years of denial about Israel’s nuclear weapons program confronts a new reality",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA1ZmdPOVA5TFVsRkppNmNVcTdVREJUaWUxZTJFbGxiVF94NXZFVVdvNmp5ZzNGOFVCZlVaRWtCcC12MVRtVFltNXd2REVnbkstYVAzQTBuMGtRemZtY3NWbTYwc0hpaXZKcEVHWnkyOXVDM3lEdDJCeXVfbw?oc=5",
-        "domain": "www.cnn.com",
-        "publisher": "CNN",
-        "publisher_url": "https://www.cnn.com",
+        "title": "IAEA Mission Reviews the Russian Federation’s Regulatory Framework for Nuclear and Radiation Safety",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQTNTS084QnZnOU5McFYwVk54UjJ1ZUtzWC02bEtOVXVVQU8wLWVhMHRId3d6dnRURnFRMW4yZXI4WFBoMHB2VEttYWVDbk5OSHRScHlHR29fc3ZDOGcycUZtUmJ5Uk8yUnR5SkVhRndZNkUtcGxhYzFtdVdQVzg2NVRPTWRVa2h0eV93bE5CYmIzOEt5Q2lGdW5taVZOVGlxNG9rVHZLVGs4aGpIZnVwY2RuNTZHTGFBSlZ5VFFrU093RlRFMXNJOEFBMGtucVR6bk1Ba1VlVjBWYjA?oc=5",
+        "domain": "www.iaea.org",
+        "publisher": "International Atomic Energy Agency",
+        "publisher_url": "http://www.iaea.org",
         "language": "",
-        "seendate": "20261107T050115Z",
+        "seendate": "20261106T063058Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Washington Offers $20 Million Reward for Information on Iran's Nuclear Program",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNalZ4WGJucUZMd3dUNDRIUHN2SnBFdzViNFpCTWQzSzBGOW52QWNyMEdCSHFfekhLV0xvVS1HaFMwYVJOdnQ5TTY1SUxTYnVBNlNHRVJVekhsVXY5Y0hFOElrbGN3ZDFpV2ZPODl4ZkUtMkJTOEQ5cnFsN3cxdGFKNGpWQWdld2w3bmtBd1hyallmN0t3TUgzMFJHWjRxMGVyTDY2S2l2UGkyRkllX2hZ?oc=5",
+        "domain": "english.aawsat.com",
+        "publisher": "ASHARQ AL-AWSAT English",
+        "publisher_url": "https://english.aawsat.com",
+        "language": "",
+        "seendate": "20261107T105231Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "US Offers Up To $20 Million For Information On Iran’s Nuclear Program | LIVE BLOG",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSXJFdDdrM1A4ZERDS1NMZXFoQ0lYYVIxN0psSktNWTlTaW9jYV8xVTlPcEtvaDR0QjJjcHpZdXZiYVZnUk5RZjNHT2NmNXdsSktxNjUzenZaTFdhdGp4OVZtUzFmTFBkelJadkltenAyQmFkOWZIN3pxdWJEeDlLdlpqQmpfR2FlTUdBUU5Rd3Q4QXRPNGpXdWFTcjhzd3RXN0RJT3VDakdrMFRFLXhpbG9tWmRCWjFaUjJFeWRYMm1Ga0xJTEww?oc=5",
+        "domain": "www.i24news.tv",
+        "publisher": "i24NEWS",
+        "publisher_url": "https://www.i24news.tv",
+        "language": "",
+        "seendate": "20261107T082255Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Update 374 – IAEA Director General Statement on Situation in Ukraine",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdmpXUndtUVBBX3ZiN04wOGREb1pCaUNBbnAzMjVZc1NpY0h4YmFlVW8ydnFsUUtmdUJRZHF6bG9RdWs4YXZGVEFlZ2JzczA1YThWYThhckVFWEpibjJza3VXTllDYmVDZzdGbVBzQ2NuWTRaa2UzekNTVlIyWTFxRTFMLWNGNW51bUxpM212OHlnQVB1TURsbU1YaWt1WnZMaFdmUFFaZW9vbGhHN3BhdUxB?oc=5",
+        "domain": "www.iaea.org",
+        "publisher": "International Atomic Energy Agency",
+        "publisher_url": "https://www.iaea.org",
+        "language": "",
+        "seendate": "20261106T134654Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Trump highlights NASA nuclear-powered Mars spacecraft mission planned for 2028",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMjdPVVY2ZDdvQmhacEt5MWU1dVlWb2VaZi1lNkxvMGV6V1VSMXA0YTFqQWEwTjI0RXVuSkQ0dGRvMDJNV3FhUERUWDlqbHpCRmFDLUdvLVREUFd4UFJVRHNxallaTTBtWGJLamNhQ3lwUmhjZUF4SDdkZHo2S1VvNWdxNDlUcHI0c25Gd2UtV0RSRVFvYTdtXzdOdU1BdzNCdUFIdEJ1cF9ndknSAbABQVVfeXFMUEhjNG5UdWFRN2dYMnA5aXJNQjJUQmxiMHRISEg5cXNiRUhrTDhqZGxOeVNyaFJma0JiR2ljdWoyVUNHQVFycVRsaVZNempuVmNHaXZxam8yRHhXSUlFVlh6dXR4eks2S1Z1eDBNUEE2aUNlaWVrQ1BmX3BNTVgyMTVMTE90WE14SDMxczFsYk9KaklXSW5ibENpcGNqMC1qYl9qT0pXeHVxdkFJX0FZc04?oc=5",
+        "domain": "www.foxnews.com",
+        "publisher": "Fox News",
+        "publisher_url": "https://www.foxnews.com",
+        "language": "",
+        "seendate": "20261107T015419Z",
         "source": "GoogleNews"
       },
       {
@@ -109,13 +209,63 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Santa Barbara Nuclear Lab Cited for Major Security Failure",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWTBOaVpwRzNwN1daRkpZMmdLY293b3hVVjFudTlpRVBkX3VmVXFzdGJFVnVTem1MLUY1ZWdkNHNwc0E2NGktUWpURTlNOUFnWmt6Ry1VVW1jaU8ySlFOa0tpM2ZYMExQQ3RFY1pnMTg1bmxtaV8tdXNUY2c5ZlE5YnBhV3M3QjctQ1B0QnJiV1hYWTI4MWtuM0ZZbF9jQW8?oc=5",
-        "domain": "www.independent.com",
-        "publisher": "The Santa Barbara Independent",
-        "publisher_url": "https://www.independent.com",
+        "title": "Impact of Heatwaves on Nuclear Power Plants",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOblJYaXdOLUVCT2VWOGxKbklyQjItNnZjWEhOMW1STXRvb18yQ3E4ODVwcGlHcmVVY09UbjdUSWdvZEx0cXdmRC1LTnJNMnhNX1dRdkZoRm41Qy1TOWJ0VlVzeVdwdjQ0SE5UYlVlT21DMG1waWlYS0VGcmZjb1hJNS1fNXZWNlU?oc=5",
+        "domain": "www.iaea.org",
+        "publisher": "International Atomic Energy Agency",
+        "publisher_url": "https://www.iaea.org",
         "language": "",
-        "seendate": "20261106T192839Z",
+        "seendate": "20261105T120000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Iran is Reviewing ‘Concrete Proposals’ on Nuclear Program, Officials Say",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZXdqWVZaS0doMXFBRXRjYndqaGZUT0pBTVM1WlB0TlJNMHdTX1JlX0hOT1MyZUFrMTdMTThJczBJUUNyN3JTcllEZjlqN3E2b2VVRTFVbjRiaFJ3TW0ycFZsRlhVMjRaZkR5Rmw5VHp5YmVvdVI1TnNnb09aN0JpeTdubEptZWV1aGd3eDczYkxCdlBFV2tmdVQxUE95YmdOMFVDZXMzRVdDdW05OXc?oc=5",
+        "domain": "www.nytimes.com",
+        "publisher": "The New York Times",
+        "publisher_url": "https://www.nytimes.com",
+        "language": "",
+        "seendate": "20261105T163455Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "US Central Command announces $20M reward for info on Iranian nuclear program",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMGxqSHBYeTN4RC1aRTFyek9yTWxpd0xjZzBjeF9Mekp1UjNsdjJGeEVHRHZhamVxU0lmb05Ra1N6UjFZQVBRRUloZWRYMU1aNEZFY0hIXzU5Zk9yc0lOZGVSc1ZmZzE2S2VlTlYwcUloX0pDQnIzTkc2OGY1a3VYMmhrb0pGTlFRMHdJb3ZHVEY1b2ZjSXR3eDV4VHdoVWpsZnV5dEtrc2ZhWGwta05fa2dUeHBnNm5jam52TnJ3?oc=5",
+        "domain": "www.timesofisrael.com",
+        "publisher": "The Times of Israel",
+        "publisher_url": "https://www.timesofisrael.com",
+        "language": "",
+        "seendate": "20261107T005635Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "US offers up to $20M reward for information on Iran's nuclear program: CENTCOM",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWkk4ZnBVbW5JMGMxMklJbHBOeXN4RzZNYmJHaHAtUFRHQWpUaTlPdVZEZVhDdy04Tmp0MWZwbE9Dc2FUdGRPZkt1Zmo5R2VhVWpxTUpQeENaVkRTcjZTYWp6YmxDR3AtX2ZxYWgybFBHd2NtVTRhUTlkR0J4MzV0aklZNy1lb0pCcHNvVVpWbGd1X3ZfUXRXd1l0R0Z6MDZaY0Eyb1hmWF9Edk9fSU11Y2RCSkJNTDBV?oc=5",
+        "domain": "www.aa.com.tr",
+        "publisher": "Anadolu Ajansı",
+        "publisher_url": "https://www.aa.com.tr",
+        "language": "",
+        "seendate": "20261107T041236Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Top Gulf official offers glimmer of hope on Trump-Iran nuclear talks as threat of war hangs over region",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcy1RVE5LSS1FNGszc1pHN29NNER3M1kwcm9CcmZZNTltUFhTYTNURDE2M0pkbjN6Mnp1Uk5hZEV6U21EV0FCTVo5TU5TdmN3WFFuREphRUdQSlFwSjBacjFUYzVhY0g3c21xQ0dmVV93aUVZd2dhaGFSUWIyNm5hZ1BtbUppdWNLY2FiNTRObWRxQThqNmZBZFZOelJZT3RzZzNpclN5eDHSAa4BQVVfeXFMTm50MGZpS05TS3h2MGRCM0FxUnZ6UUpaMVlUclNQR0IxMk1UTk5RbjNjVV96TnRkUTZraDZIVlFSZjNQTWF5Wk1GQ3hwQ2ZWazhtU0pNQVpXTDg4TTNJcXNuU05jV0Y3Z2xHNl9teTRjd0lpTno0LWpZSjJIMy1XQ3NOZHE1UlRqYWxvYWZ5TVp1YnltamRfQVE5bkV3WElKMG5FcTVtRVZ4MVdUS3ZB?oc=5",
+        "domain": "www.foxnews.com",
+        "publisher": "Fox News",
+        "publisher_url": "https://www.foxnews.com",
+        "language": "",
+        "seendate": "20261107T090039Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Iran Is Handing Out Iodine Pills Near Pickaxe Mountain. Here’s What a Nuclear Strike There Would Actually Do.",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE56REhVVTRoZ1E3V3FSOHdjQWF1M1dsVzQ3OUNNUjRwUnJaNVhnRTVENTMxa2ZHZjZTV1AzS0s5bnJad0Z0em1wdTYxeEN5WXN3anBUZHhFTS0xYWl6VkllaWhpeFNpUDhiRkZwZ19GQ29sTVdzdG1UbzRBUnc?oc=5",
+        "domain": "www.popularmechanics.com",
+        "publisher": "Popular Mechanics",
+        "publisher_url": "https://www.popularmechanics.com",
+        "language": "",
+        "seendate": "20261107T003500Z",
         "source": "GoogleNews"
       },
       {
@@ -129,43 +279,43 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Rewards for Justice seeking info on Iran's nuclear program",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUFpRVUo0dlFFWFNxV1BvUUNnbnhEbVFrTThwSV9abW8zTTlvZGlCMzRSMjY0WFlLSjJXWllDdXBsWldsZjVMNFltMWlMQWVnVGlzUkRqQkVZVmdCdE50OGFrRGtETlRqaldRZTJtX1BJNEEycWhsbG1tbUZSZFk3ZDIwU3NzQjR6V0ZCYkZodnJMOHRNQWRYN055R2FzR01xcEkyN1hmQjR4LUZEZVVjSTBfR1NaR1lnQlJsUU1GdEp3a0pvSzZvQ2RxNzliOEc1VktpZzZxN0taTXprX3Zz?oc=5",
-        "domain": "www.winknews.com",
-        "publisher": "WINK News",
-        "publisher_url": "https://www.winknews.com",
+        "title": "Ukraine’s Nuclear Arsenal: Tu-160s, ICBMs and the Budapest Memorandum",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQa05pbERJeEJROGo0SlRGXzJoemkwektUR0dWalFLcFk5a29MUHMxY0NYX3Q3a2RzQzNyaWdTN29nT0Y4WC14dWpHSzFxTjBsemloWm1kYi1yY1ZraDFDb21SemdzZVlpdnNXaWVsSVAtYWNJbUJZdEU1MHU2c0NIZTF2TnFRV2JDMmFZNk5ORElvRWc4VnN1Z2JB?oc=5",
+        "domain": "migflug.com",
+        "publisher": "MiGFlug",
+        "publisher_url": "https://migflug.com",
         "language": "",
-        "seendate": "20261107T010000Z",
+        "seendate": "20261107T121537Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Centrus Advances U.S. Nuclear Fuel Production",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbGYxd19jcG1acGstdVR4VWxnMVpVRFhmZzFKYlRSZGNGVVFJOXpCS3Z0NS1maVVsV01URW4xR2RfVHM2TUNMZVk5cC04U2MzYWNEa2EwbWNsaFNpR3hqUVlIcVhjVHpxY1NUSDY0Nl9ZT3RkblZjRVlVUmpldmV4aGtrOFlSaWk5cGJtTzZmTFBWYnY4M2lYMkUzQUlsY2s?oc=5",
-        "domain": "www.environmentenergyleader.com",
-        "publisher": "Environmental Leader",
-        "publisher_url": "https://www.environmentenergyleader.com",
+        "title": "Oklo Stock Jumps on Promising Updates on Its Novel Nuclear Reactors",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBrRmJJWUcxdzBUQUVOYURmaFFJWVhNUTl2cnVhb0hEQlp0cE5sdXJkVkl3MzE5ekZyMXpnNDd5VW1WVWExLWZhRXp5cy1weUFZU0N3NGg5dDNSTWpqb0oxRmc4WEhVenBIR01zdW44XzNxWUE3OGc?oc=5",
+        "domain": "www.barrons.com",
+        "publisher": "Barron's",
+        "publisher_url": "https://www.barrons.com",
+        "language": "",
+        "seendate": "20261106T230700Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "America's Nuclear Revival Is Running Into a Fuel Supply Wall",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZmEwVTgwYUh3YXlHMzBqVTNZVFV6LW1uZHhqajJYTEJ3cUNhNVBqdE5vWHJfUDhCOXFWZ3VlbmlXTS1aamtkVDVfemZ3czhpTkVpZ3E5a25fcGR6RHYzZ3F4b2RFVC1ibmJtSk1TUzRLRkNSRGk0RkpLN2JHNlVrWEJLU0NXWHF5UzFjejFDYnY0WEpEd3hQQnVvNmxFZ0ZOT09Yd29DdXp2WXk3WWRoU2F6dUZjWjkxU2fSAb8BQVVfeXFMTUt5NDNrczNnRmlWeldFUWFFbnNfSS1ReC0zZDNlSmVpU0d3dnhkVExENjJUZEp3Y083RmVTa2M2TmpNVXBxaG1JcXhGR3gzY0dwb2ZzZXVjSlZmUnJ2dlE4VjhvQjR2YUNiQVRoNGNBTXMyUTE2cmN1QzlmV19sSzh1LUoyTGJVQlVhOVg1Y2ZBb0lRaW9SR0ZVekZ6UXlqMHlqVHRfSjFJYkJZQnVFaDZ1UzgyZ3VIOWNKU1REWjA?oc=5",
+        "domain": "oilprice.com",
+        "publisher": "Crude Oil Prices Today | OilPrice.com",
+        "publisher_url": "https://oilprice.com",
         "language": "",
         "seendate": "20261106T210000Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Iran sent nuclear proposal to the US via Qatar, senior Iranian official tells Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSlJZVlphdWhPcDNGc1E5eDVNdDdMQkJNTXVDS0RYSVRqaC1tblFqQy1FekRQdldnV0FsMU5RdnVHNEI3UEZWMC1MY1l5cnRtcjBlcDlpUXdvX0hXbV91S1UxajV1TEx1VmJ2SzNLNElXSjc3YkdmYWw4VGNXZEl5NXR4RFNjRXBxeEZMLWpBT1Z5X2JRc3NEdkdMZDljQ0dkZXZRbzc3U1NmNkhnaFN5QzNhVmRzSmhsM0Q5VzU3Mm11OWZBa3M1V1lvaw?oc=5",
-        "domain": "www.reuters.com",
-        "publisher": "Reuters",
-        "publisher_url": "https://www.reuters.com",
+        "title": "US puts $20M bounty on tips about Iran's nuclear sites and scientists",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdWVhYXQ1TUg0VDBRelRvc1R6TWh5WFJ6cGszRmMxMUJ5azNHekNuWHI4OXMyVUdMSG1STkpMMkFYa043MEJ5ZnpFbE9SM1VFR043UGkyZFpuSDRnNmdfQS02Sk1RZlRTR1g2WVdraktlNkd1YTJ6c1lQNldKa2FKTGVHdGZSS2dUaHdValM0b3pxZTlQbUxVRjFNTWZJcHUtV0RqekdNVDJ5SzJ6bm52Yg?oc=5",
+        "domain": "www.turkiyetoday.com",
+        "publisher": "Türkiye Today",
+        "publisher_url": "https://www.turkiyetoday.com",
         "language": "",
-        "seendate": "20261105T194800Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Iran is Reviewing ‘Concrete Proposals’ on Nuclear Program, Officials Say",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZXdqWVZaS0doMXFBRXRjYndqaGZUT0pBTVM1WlB0TlJNMHdTX1JlX0hOT1MyZUFrMTdMTThJczBJUUNyN3JTcllEZjlqN3E2b2VVRTFVbjRiaFJ3TW0ycFZsRlhVMjRaZkR5Rmw5VHp5YmVvdVI1TnNnb09aN0JpeTdubEptZWV1aGd3eDczYkxCdlBFV2tmdVQxUE95YmdOMFVDZXMzRVdDdW05OXc?oc=5",
-        "domain": "www.nytimes.com",
-        "publisher": "The New York Times",
-        "publisher_url": "https://www.nytimes.com",
-        "language": "",
-        "seendate": "20261105T163455Z",
+        "seendate": "20261107T063847Z",
         "source": "GoogleNews"
       },
       {
@@ -189,73 +339,23 @@
         "source": "GoogleNews"
       },
       {
-        "title": "America's Nuclear Revival Is Running Into a Fuel Supply Wall",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZmEwVTgwYUh3YXlHMzBqVTNZVFV6LW1uZHhqajJYTEJ3cUNhNVBqdE5vWHJfUDhCOXFWZ3VlbmlXTS1aamtkVDVfemZ3czhpTkVpZ3E5a25fcGR6RHYzZ3F4b2RFVC1ibmJtSk1TUzRLRkNSRGk0RkpLN2JHNlVrWEJLU0NXWHF5UzFjejFDYnY0WEpEd3hQQnVvNmxFZ0ZOT09Yd29DdXp2WXk3WWRoU2F6dUZjWjkxU2fSAb8BQVVfeXFMTUt5NDNrczNnRmlWeldFUWFFbnNfSS1ReC0zZDNlSmVpU0d3dnhkVExENjJUZEp3Y083RmVTa2M2TmpNVXBxaG1JcXhGR3gzY0dwb2ZzZXVjSlZmUnJ2dlE4VjhvQjR2YUNiQVRoNGNBTXMyUTE2cmN1QzlmV19sSzh1LUoyTGJVQlVhOVg1Y2ZBb0lRaW9SR0ZVekZ6UXlqMHlqVHRfSjFJYkJZQnVFaDZ1UzgyZ3VIOWNKU1REWjA?oc=5",
-        "domain": "oilprice.com",
-        "publisher": "Crude Oil Prices Today | OilPrice.com",
-        "publisher_url": "https://oilprice.com",
+        "title": "US Offers $20 Million Reward for Information on Iran’s Nuclear Program",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNU2VlV2Exek9JX2FNVDJCTDdId243R3ZMMXlULXI1TUlOaWJMT3NjblpmQ2U4TzYxUG5EdHdOUXpMMFJOWHZLbERfdlgxQW9ERUlTc2d4UkVQc2pZa3dRbXlEcXB0NTk2djI3cVE5c3VLZnBzd1BUbVQ5ZEZEalBaQlNCalJXWXlPelZpOEpuWHR1dUVOQmNJZg?oc=5",
+        "domain": "8am.media",
+        "publisher": "8AM Media",
+        "publisher_url": "https://8am.media",
         "language": "",
-        "seendate": "20261106T210000Z",
+        "seendate": "20261107T054909Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Trump highlights NASA nuclear-powered Mars spacecraft mission planned for 2028",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMjdPVVY2ZDdvQmhacEt5MWU1dVlWb2VaZi1lNkxvMGV6V1VSMXA0YTFqQWEwTjI0RXVuSkQ0dGRvMDJNV3FhUERUWDlqbHpCRmFDLUdvLVREUFd4UFJVRHNxallaTTBtWGJLamNhQ3lwUmhjZUF4SDdkZHo2S1VvNWdxNDlUcHI0c25Gd2UtV0RSRVFvYTdtXzdOdU1BdzNCdUFIdEJ1cF9ndknSAbABQVVfeXFMUEhjNG5UdWFRN2dYMnA5aXJNQjJUQmxiMHRISEg5cXNiRUhrTDhqZGxOeVNyaFJma0JiR2ljdWoyVUNHQVFycVRsaVZNempuVmNHaXZxam8yRHhXSUlFVlh6dXR4eks2S1Z1eDBNUEE2aUNlaWVrQ1BmX3BNTVgyMTVMTE90WE14SDMxczFsYk9KaklXSW5ibENpcGNqMC1qYl9qT0pXeHVxdkFJX0FZc04?oc=5",
-        "domain": "www.foxnews.com",
-        "publisher": "Fox News",
-        "publisher_url": "https://www.foxnews.com",
+        "title": "The United States is offering up to $20 million for information about Iran’s nuclear program",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTHUwRWJTRGFaVkY3clZnRXA1N25Zd0QyQl9ieGd0Vl80ME9SMWZJTkgyQ2E5S1RVejVELWRKYV9Qd1FTVU1xSlp3c0NKeVRVTWRDRG9VajM5dXp2bWhwaDhOMThRUGwycTVieFU0QzViTDFycURGTTVUaHhUWWtxWTJ6dnJ5MTRSeWxJVllGY0pWV1FPOXdWT0FFT3ItT2cwbVlzaWdRWlXSAacBQVVfeXFMTWFqc2tIZm40bjJuajZMVC1tMlU4b1pHSzFyVmstMEsyTTVuMTNhMEstNjA4Q2VLMGlnZk0waGk5UkZhM2N6MElyWl9vdXU0VDlfNHdoQ0owT2dYVDdMN3F2LWcwMW0tQnpaVzRmRE4xN2x3QklYOTNuV1dlZmxZakVmRFozQnBndzhOaW1DYzU1Z0dQbHhlU0lhRk5RWEJKb2U0VTZiMW8?oc=5",
+        "domain": "unn.ua",
+        "publisher": "Українські Національні Новини (УНН)",
+        "publisher_url": "https://unn.ua",
         "language": "",
-        "seendate": "20261107T015419Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "IAEA Mission Reviews the Russian Federation’s Regulatory Framework for Nuclear and Radiation Safety",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQTNTS084QnZnOU5McFYwVk54UjJ1ZUtzWC02bEtOVXVVQU8wLWVhMHRId3d6dnRURnFRMW4yZXI4WFBoMHB2VEttYWVDbk5OSHRScHlHR29fc3ZDOGcycUZtUmJ5Uk8yUnR5SkVhRndZNkUtcGxhYzFtdVdQVzg2NVRPTWRVa2h0eV93bE5CYmIzOEt5Q2lGdW5taVZOVGlxNG9rVHZLVGs4aGpIZnVwY2RuNTZHTGFBSlZ5VFFrU093RlRFMXNJOEFBMGtucVR6bk1Ba1VlVjBWYjA?oc=5",
-        "domain": "www.iaea.org",
-        "publisher": "International Atomic Energy Agency",
-        "publisher_url": "http://www.iaea.org",
-        "language": "",
-        "seendate": "20261106T063058Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Impact of Heatwaves on Nuclear Power Plants",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOblJYaXdOLUVCT2VWOGxKbklyQjItNnZjWEhOMW1STXRvb18yQ3E4ODVwcGlHcmVVY09UbjdUSWdvZEx0cXdmRC1LTnJNMnhNX1dRdkZoRm41Qy1TOWJ0VlVzeVdwdjQ0SE5UYlVlT21DMG1waWlYS0VGcmZjb1hJNS1fNXZWNlU?oc=5",
-        "domain": "www.iaea.org",
-        "publisher": "International Atomic Energy Agency",
-        "publisher_url": "https://www.iaea.org",
-        "language": "",
-        "seendate": "20261105T120000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Iran Is Handing Out Iodine Pills Near Pickaxe Mountain. Here’s What a Nuclear Strike There Would Actually Do.",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE56REhVVTRoZ1E3V3FSOHdjQWF1M1dsVzQ3OUNNUjRwUnJaNVhnRTVENTMxa2ZHZjZTV1AzS0s5bnJad0Z0em1wdTYxeEN5WXN3anBUZHhFTS0xYWl6VkllaWhpeFNpUDhiRkZwZ19GQ29sTVdzdG1UbzRBUnc?oc=5",
-        "domain": "www.popularmechanics.com",
-        "publisher": "Popular Mechanics",
-        "publisher_url": "https://www.popularmechanics.com",
-        "language": "",
-        "seendate": "20261107T003500Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Iranians prepare for fire, fury and nuclear fallout at Pickaxe Mountain",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYkJCT213ZXR2dmpvamhLYzZSVElIMEFhWHVzUG9GMXlzTTBrc2hOai0xUkZqUU9GbnRnSktqUWMxY3M4RXJjSDA4N0ZiMDduOU1RbG1paElXbWZmQkVEcHFXUVZYY21hVWpvM2dnWXdZbGtWRVhmQ3RMNzFLMGJneURIcmFsNWxqWl9DWnpleXpuSjF4RVJ1ZmpxM1o3djFMT0VDeldLTEhBbzNEbjYwZWpn?oc=5",
-        "domain": "www.thetimes.com",
-        "publisher": "The Times",
-        "publisher_url": "https://www.thetimes.com",
-        "language": "",
-        "seendate": "20261106T140517Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Oklo Stock Jumps on Promising Updates on Its Novel Nuclear Reactors",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBrRmJJWUcxdzBUQUVOYURmaFFJWVhNUTl2cnVhb0hEQlp0cE5sdXJkVkl3MzE5ekZyMXpnNDd5VW1WVWExLWZhRXp5cy1weUFZU0N3NGg5dDNSTWpqb0oxRmc4WEhVenBIR01zdW44XzNxWUE3OGc?oc=5",
-        "domain": "www.barrons.com",
-        "publisher": "Barron's",
-        "publisher_url": "https://www.barrons.com",
-        "language": "",
-        "seendate": "20261106T230700Z",
+        "seendate": "20261107T073234Z",
         "source": "GoogleNews"
       },
       {
@@ -269,93 +369,23 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Israel’s Nuclear Policy: Deliberate Ambiguity and American Support",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUzM2OUJWczhVeklHQWY2UzRIYnhEcERkeWY2TUNxbktiS05CQ3lmb1M2SGlpUWhZYlNfNkJqS204enVkM2Z2T1pCOE5ic2VEc0xjQ3J5bHRySThFaENQMUZoQk1WNDJaeGNlSjZKNmNlSlA1ekFMbzUyZnhNbFk4MEJLNzA3NXZCWklNYWZoT09YdEZZNmNpVExDYmctZGFYREE?oc=5",
-        "domain": "cddrl.fsi.stanford.edu",
-        "publisher": "Stanford University",
-        "publisher_url": "https://cddrl.fsi.stanford.edu",
+        "title": "$1.3 million grant helping prepare Roane State students for what’s next in nuclear",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE81dVZ1cExiWGVuMFBhWFotMW1ZZTFBRVl5aldWaGFiNHdjaXJnV29KMmtZcEJ4UEFGblVERVdlNHByd0xqMGU5cW0zTE1EWUxiSlRFR3FIRjVkbGtQT2pvWnJRdUh4R0p3UGFRYi1jQ1pPZ9IBd0FVX3lxTE9oYU1WMXlxbTNoOS1ZUWZkeGV3SXMySmdqeHluTGJNbVo5NmVvQld1RzhKTVB0YWJieFdyd3hpWENYb24tMTdMaF9RcGxkUHN4T3p1ZWg3X0lTTG1lVFJNWTFLRy1pODB2VU9aRmJTQndnQlVTanRv?oc=5",
+        "domain": "www.wate.com",
+        "publisher": "WATE 6 On Your Side",
+        "publisher_url": "https://www.wate.com",
         "language": "",
-        "seendate": "20261106T120000Z",
+        "seendate": "20261106T224437Z",
         "source": "GoogleNews"
       },
       {
-        "title": "US offers up to $20M reward for information on Iran's nuclear program: CENTCOM",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWkk4ZnBVbW5JMGMxMklJbHBOeXN4RzZNYmJHaHAtUFRHQWpUaTlPdVZEZVhDdy04Tmp0MWZwbE9Dc2FUdGRPZkt1Zmo5R2VhVWpxTUpQeENaVkRTcjZTYWp6YmxDR3AtX2ZxYWgybFBHd2NtVTRhUTlkR0J4MzV0aklZNy1lb0pCcHNvVVpWbGd1X3ZfUXRXd1l0R0Z6MDZaY0Eyb1hmWF9Edk9fSU11Y2RCSkJNTDBV?oc=5",
-        "domain": "www.aa.com.tr",
-        "publisher": "Anadolu Ajansı",
-        "publisher_url": "https://www.aa.com.tr",
-        "language": "",
-        "seendate": "20261107T041236Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "US Offers $20 Million Reward for Information on Iran’s Nuclear Program",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNU2VlV2Exek9JX2FNVDJCTDdId243R3ZMMXlULXI1TUlOaWJMT3NjblpmQ2U4TzYxUG5EdHdOUXpMMFJOWHZLbERfdlgxQW9ERUlTc2d4UkVQc2pZa3dRbXlEcXB0NTk2djI3cVE5c3VLZnBzd1BUbVQ5ZEZEalBaQlNCalJXWXlPelZpOEpuWHR1dUVOQmNJZg?oc=5",
-        "domain": "8am.media",
-        "publisher": "8AM Media",
-        "publisher_url": "https://8am.media",
-        "language": "",
-        "seendate": "20261107T054909Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Iranian officials distribute iodine pills anticipating American nuclear bombardment",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPb1lxM0dfMFNUTkFDYjEzcTRZcVZQQWNZYkt5QWtWamdDWS1vSzFIQWczZVZDbU01QXptd015S05Fako0dGYtM2JXWFRCRnNabUZLSWVoMWJld0p6TlAwLU5Rem5XZzJfVTIyRVd1VWtuOS14cjRiSHk1aGowUl9KaFRDbk9MNkdZUUpR?oc=5",
-        "domain": "www.israelhayom.com",
-        "publisher": "www.israelhayom.com",
-        "publisher_url": "https://www.israelhayom.com",
-        "language": "",
-        "seendate": "20261106T132759Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "US starts production of key material used in nuclear weapons, set to modernize stockpile",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMVFHZGhqeVVTYnRjME1EZXZWcDl6X052T2ExNDhlWFg0aXdaeHlMY0FwT3NBZmd5SlphTmlBMzZRME5DdDJKWi13eTN6OUN1SGJ3bnYtbnQwOGExaHJzY0ZmWmxJUEg5Sm5lcUJPQ3lpdmlhZjd3Nk9DSVF1Tms2WG1YQzJZLWpX?oc=5",
-        "domain": "interestingengineering.com",
-        "publisher": "Interesting Engineering",
-        "publisher_url": "https://interestingengineering.com",
-        "language": "",
-        "seendate": "20261106T234500Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "US will produce key material used in making nuclear weapons in East TN",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPdmR1S1JpdzI5dnMxMU41LWUzNWVfSHA5RzlaQTZka3VxX3FzZXAydGtnamN3Slk2d0VpNkxYU1V4S0p5TjVpY2Mya0FIZHlaUjlXZENGQklwN0FWb2sxWVM0QkpJUFBNbWV2MWR4QVdraVA2QUxTd3pabC1YLXNLdGlSTlNkMUJyTTNaM2pKOVJwVEpfang2Z0hlSTJkQ2Nzc1BXRmdPWFpwVkxUMWtLd1J0VkhTV0p3bDhuLURnbmlvNjEyRmxSc1VHZzFPUkxESWt2WTRKMGNVN2ZqRUp5SkdUQjg?oc=5",
-        "domain": "www.wbir.com",
-        "publisher": "WBIR",
-        "publisher_url": "https://www.wbir.com",
-        "language": "",
-        "seendate": "20261106T233700Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Matthew Jasica named to American Nuclear Society’s 40 Under 40 list",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTzRlUlhwOFZwaTYtY0JmVGp1UUl6N0xIOWxhYXZmbG56cEZKVWVOWFB6d0ZkS3NjM1R3ZlV3eHF2N3E0MjRCS0w0LXVaTkE4eWlGd2dxWTBJSkxuME5iOEcyeXhGbks1aDhYdVhjc0Q4MzNLQ0tHR0xpLWlpdkoxZm56aGlseGhLTDh3R0cxV1JyVmtRUzZCc3ZUYkN4X0lJQXFDekloZmtkbXRLMFNGNU9kOXFKRmV2dUREQS1pMNIBvwFBVV95cUxOTzRlUlhwOFZwaTYtY0JmVGp1UUl6N0xIOWxhYXZmbG56cEZKVWVOWFB6d0ZkS3NjM1R3ZlV3eHF2N3E0MjRCS0w0LXVaTkE4eWlGd2dxWTBJSkxuME5iOEcyeXhGbks1aDhYdVhjc0Q4MzNLQ0tHR0xpLWlpdkoxZm56aGlseGhLTDh3R0cxV1JyVmtRUzZCc3ZUYkN4X0lJQXFDekloZmtkbXRLMFNGNU9kOXFKRmV2dUREQS1pMA?oc=5",
-        "domain": "www.newswise.com",
-        "publisher": "Newswise",
-        "publisher_url": "https://www.newswise.com",
-        "language": "",
-        "seendate": "20261106T220000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Construction of Chinese HTGR begins",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPLWc3ZHRIclVoUXhsUlB2b05BUVdRMXl4UC1CbkUtckdHV0pkZXFLR2JFXzFudkxqOHByN1ZUdzY0UXZQS0F5aXMybWZHb21KQ1RQZjlvOE5keWtsT1ZWck5vWVdnMHNMRWI1QU52ZEduVnJGbDJPc3V1V2lIaUMzVTVRTjBlZw?oc=5",
-        "domain": "www.world-nuclear-news.org",
+        "title": "Reactor components completed for El Dabaa 1",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRjBPOFh0YklyQ3hCTUdSc1dOSHEzSUxJd2tjcXFKVTNaYWI2N3N3bGpaVEM0RDVMMXlHSk1qQng5SnVTdzhSODBTY3p1UzNHeWZnYnI1eVlCcVdpV2lscXE4QW00SHFHM05nb1JvRUxzaGs5RXcweVpkR1JaZkNsNWNBN2xtQjhNS0o4?oc=5",
+        "domain": "world-nuclear-news.org",
         "publisher": "World Nuclear News",
-        "publisher_url": "https://www.world-nuclear-news.org",
+        "publisher_url": "https://world-nuclear-news.org",
         "language": "",
-        "seendate": "20261106T134124Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Iran reportedly open to discussing its nuclear program with US",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRWZQN1BxOVNpZk4xcWEweTB1OTF3ZTNTODZkWjVvVGFJMUpXN3A0V0hVMVBHazJzSFVTUEZWbWFUWEZ5RUQxWUxEUHRyc2xZWExPSVBzalJMbXZmSVFIZXZiSlN4ajZrV3htTml1QTM3VnVzWXE4aVlpeEh1U2V2OF9GN1VnSU53SFJMMUlvVUdDdEY0VFJZVHB0RXM3MHZubW1jN2VfVzNsVzRE?oc=5",
-        "domain": "www.timesofisrael.com",
-        "publisher": "The Times of Israel",
-        "publisher_url": "https://www.timesofisrael.com",
-        "language": "",
-        "seendate": "20261106T133134Z",
+        "seendate": "20261106T180201Z",
         "source": "GoogleNews"
       },
       {
@@ -369,13 +399,43 @@
         "source": "GoogleNews"
       },
       {
-        "title": "US offers $20 million reward for info on Iran's nuclear programme",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMm1YT0llck1GODczcVdKU0R4Rk9HazNaRU42UDBqeFRZUXV6aWpYZV92OElMdS1ZVldzOEFDV1puSEh5MnpkNGFTVkdOY0laUDZ2R2c3SUp4bm1BdklvdV9zbkd2Tlo4Z3Y0b3pYZFhqTDYwb2dEUlVSNTRoREQ4R2dqN1VWellteUx4R1AxQlRpMy10elZHUzh6dXJvTGxVQzJWRW1uQzExVEhtQWhrYw?oc=5",
+        "title": "Centcom offers $20m reward for information about Iran's nuclear programme",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOM2JCYnNqbk1UejE2aXZrdzltbjVzbTZYOG1vZWlWdnJUYzZ6V3E2a2RXZmJZckdibW1ZVDRqNDVWckRRT1BDU3B4U1BrV0ZEYWttdWMwZ016bThMdzRFTWhhMEZrNUxGVVhDcWg3RHItVVJ2dEF1cG81eFpDZmVHUHQ4b3JvcVFjdC1mQW13dk1XeEtGRHJUQ3JPWFFQSnpZV2hyeDEzYkdpdWt5NXg2MnlqbzUteTAxYTZySEc4enFyQQ?oc=5",
         "domain": "www.middleeasteye.net",
         "publisher": "Middle East Eye",
         "publisher_url": "https://www.middleeasteye.net",
         "language": "",
-        "seendate": "20261107T015400Z",
+        "seendate": "20261107T124300Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Matthew Jasica named to American Nuclear Society’s 40 Under 40 list",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTzRlUlhwOFZwaTYtY0JmVGp1UUl6N0xIOWxhYXZmbG56cEZKVWVOWFB6d0ZkS3NjM1R3ZlV3eHF2N3E0MjRCS0w0LXVaTkE4eWlGd2dxWTBJSkxuME5iOEcyeXhGbks1aDhYdVhjc0Q4MzNLQ0tHR0xpLWlpdkoxZm56aGlseGhLTDh3R0cxV1JyVmtRUzZCc3ZUYkN4X0lJQXFDekloZmtkbXRLMFNGNU9kOXFKRmV2dUREQS1pMNIBvwFBVV95cUxOTzRlUlhwOFZwaTYtY0JmVGp1UUl6N0xIOWxhYXZmbG56cEZKVWVOWFB6d0ZkS3NjM1R3ZlV3eHF2N3E0MjRCS0w0LXVaTkE4eWlGd2dxWTBJSkxuME5iOEcyeXhGbks1aDhYdVhjc0Q4MzNLQ0tHR0xpLWlpdkoxZm56aGlseGhLTDh3R0cxV1JyVmtRUzZCc3ZUYkN4X0lJQXFDekloZmtkbXRLMFNGNU9kOXFKRmV2dUREQS1pMA?oc=5",
+        "domain": "www.newswise.com",
+        "publisher": "Newswise",
+        "publisher_url": "https://www.newswise.com",
+        "language": "",
+        "seendate": "20261106T220000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "US starts production of key material used in nuclear weapons, set to modernize stockpile",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMVFHZGhqeVVTYnRjME1EZXZWcDl6X052T2ExNDhlWFg0aXdaeHlMY0FwT3NBZmd5SlphTmlBMzZRME5DdDJKWi13eTN6OUN1SGJ3bnYtbnQwOGExaHJzY0ZmWmxJUEg5Sm5lcUJPQ3lpdmlhZjd3Nk9DSVF1Tms2WG1YQzJZLWpX?oc=5",
+        "domain": "interestingengineering.com",
+        "publisher": "Interesting Engineering",
+        "publisher_url": "https://interestingengineering.com",
+        "language": "",
+        "seendate": "20261106T234500Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Copenhagen Atomics to build deconversion facility",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTWtYQ3R4M2M2M3JDU3RJVElXRXlaR2NLNS0zRnV0N010TTdqVDgzOU9rT0U1VENMZjJIY0RsbVo4VTlrQ0pka3Jhc2lqdXoxdGtlZFdkU0F3SG1iR2lJQml3TUF1QVgtU0NpTmZjeDFtcUNRb2syOExtS3M1NUkzUktlUmtObXNMbVYwZnRhWlJPdEE?oc=5",
+        "domain": "world-nuclear-news.org",
+        "publisher": "World Nuclear News",
+        "publisher_url": "https://world-nuclear-news.org",
+        "language": "",
+        "seendate": "20261105T163113Z",
         "source": "GoogleNews"
       },
       {
@@ -389,166 +449,146 @@
         "source": "GoogleNews"
       },
       {
-        "title": "U.S. and Iran edge closer to deal with nuclear issue back in play",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUVpkdlRpNGl5Q2FXUkxxZkdHdFlMMG92NE80aDlycE1FMmpTdXNxOUplWmhscTB3bFY1ZlZHenFWRFJtVkdvSzBwaXRVMmZqLTFEaVg5UndrLVBtQVBfbVRNdEFnVjZfRTZ5d0xKZDMtV1p1NVAwMVlfeTRCblpyTUVOWHJlSTZh?oc=5",
-        "domain": "www.japantimes.co.jp",
-        "publisher": "The Japan Times",
-        "publisher_url": "https://www.japantimes.co.jp",
+        "title": "US offers $20 million reward for info on Iran's nuclear programme",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMm1YT0llck1GODczcVdKU0R4Rk9HazNaRU42UDBqeFRZUXV6aWpYZV92OElMdS1ZVldzOEFDV1puSEh5MnpkNGFTVkdOY0laUDZ2R2c3SUp4bm1BdklvdV9zbkd2Tlo4Z3Y0b3pYZFhqTDYwb2dEUlVSNTRoREQ4R2dqN1VWellteUx4R1AxQlRpMy10elZHUzh6dXJvTGxVQzJWRW1uQzExVEhtQWhrYw?oc=5",
+        "domain": "www.middleeasteye.net",
+        "publisher": "Middle East Eye",
+        "publisher_url": "https://www.middleeasteye.net",
         "language": "",
-        "seendate": "20261106T233700Z",
+        "seendate": "20261107T015400Z",
         "source": "GoogleNews"
       },
       {
-        "title": "US and Iran near possible nuclear breakthrough as American military buildup continues",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GUlR2UnVWcm9HZ3MyU3F6cUphdi1DaURCdzduQXVSVmViemhEZkFVc253aEJ0TTh0SkNQdElaaS1langydEVTSldpdlQyVndJTldfWjJB?oc=5",
-        "domain": "www.ynetnews.com",
-        "publisher": "Ynetnews",
-        "publisher_url": "https://www.ynetnews.com",
+        "title": "Iranians prepare for fire, fury and nuclear fallout at Pickaxe Mountain",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYkJCT213ZXR2dmpvamhLYzZSVElIMEFhWHVzUG9GMXlzTTBrc2hOai0xUkZqUU9GbnRnSktqUWMxY3M4RXJjSDA4N0ZiMDduOU1RbG1paElXbWZmQkVEcHFXUVZYY21hVWpvM2dnWXdZbGtWRVhmQ3RMNzFLMGJneURIcmFsNWxqWl9DWnpleXpuSjF4RVJ1ZmpxM1o3djFMT0VDeldLTEhBbzNEbjYwZWpn?oc=5",
+        "domain": "www.thetimes.com",
+        "publisher": "The Times",
+        "publisher_url": "https://www.thetimes.com",
         "language": "",
-        "seendate": "20261106T162636Z",
+        "seendate": "20261106T140517Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Opinion | Trump’s Legacy-Defining Decision on Iran",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNX25DYzhuNl9MbFFzU29IWUJ6NS1CZjFvc3NYcmdlRlNVQmJNMTF2NFZydnRwcnVmTzRZSEZjSkh3QVFQclJUUkZ4QzBDeWZpUFRWUUZBaVJiSy1LLXVlWmhJaFprSFVoUFZQS2N2NmFwdG1oYW5vbzd4aGFPcEFfc0hHN01ieEt4WHhVQTRpWDJWV2VfRU9B?oc=5",
-        "domain": "www.wsj.com",
-        "publisher": "WSJ",
-        "publisher_url": "https://www.wsj.com",
+        "title": "Could Trump launch a nuclear strike on Iran's Pickaxe Mountain? What an attack could look like and why November 9 matters",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPLVl5U281S01fbmhSUUlSa0hHUm1jdkFtZFZVd1FyUkNHeld0SVoyMmJ3VW5vTS1rallCWEhibFJiWDVlWUZmWFplNGlVb0lXbC0tdkN1dTV6TGZIa0VFdS1Ub2RrVUhfWnIyM0s4Ulp3VGtXcG1qckpCY0lxS2tob3JfNmpkR2VqV25UMUtjLXR3bTRaM1c1MWttdUFRSE9QdHAzODNIV3JKNUJEcXVoZHFKWmg5Y3B0MjB5TlE4QVVJNzQ2dXNkWjAta0NZVHk1d0tWYjc2bW5qdmpHVm9oekxxcGRvNXNpSUtSTldocjV1d3ZnV1Bn0gGKAkFVX3lxTE9RSGtEVWE3MTJZNlRKMkN3eUtENXFFdV9OcTNhanBUczZibXNyaU9vOU0wdnRmMzB1NDZSZ3IwSzk0RFhOUE50N2l2ampmaExaMmRka25FYnNPVThXTVdKVlJhTk1zWUdKVGFBYzU3QUtiSGtQZmtDSGFXSlRRN2t2aXhGc3ptdmlNT21YWFo1dDBaUjFxNlZaeFlVRFhVZ3phbXhsRVNQdHIzRUxTRFUtT0ZveEZubEpBWFV2VDNqZzVlZ3EtaVVjNVpsQ2pCQUE1UEQxQ1lqcDhwQ3Z4XzZlaFFncU5TVERYZmIwamF5ajNIbjYzNEI1d2xTWTNobkVacFlVWGRCRERn?oc=5",
+        "domain": "gulfnews.com",
+        "publisher": "Gulf News",
+        "publisher_url": "https://gulfnews.com",
         "language": "",
-        "seendate": "20261106T111818Z",
+        "seendate": "20261107T114219Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Iran reportedly distributes iodine tablets near nuclear sites amid US strike fears",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNmcxQm5neUVyY21ha1ItT1FzYmhZNm1BMlJnRGpwRWlLU2M2cFlTRFZWSFlKQ3ROaVZWS0Fqc0xLS0NvT1llYloyWjVzSkJfREozYjFaa1c3ZTdPQkVQQlprSTJLRURmMWlJN2ltdTJYLXRwUVFvOElKYWExVU5zYWJ5Y200Z2xTTXJDSlNOQ3NrSi1IUEtYZjlsVFpZaFBLbS1YUTl0Q29PTTh0Z3duQ3JRc29meWFFRmJlSkJxZ0lRb2Jk?oc=5",
-        "domain": "www.turkiyetoday.com",
-        "publisher": "Türkiye Today",
-        "publisher_url": "https://www.turkiyetoday.com",
+        "title": "US offers $20 million reward for intelligence on Iran's nuclear programme",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYkpxSWVmM05jVTRMTjhPSU5LMjBQeUpITTRTMFZMWWJGOFJYUGxMWVBXaTE4Q2tZd3dtYkZqQ1J5N0VVdEJwZjhzVDYwaEQzWjdZeERVWjJjMkNSSnlKMzZBdUt0X1IxcEFhNXpuQVIzenlQUzg2a3hFZU1mUV82enN2LWlaY193cXo1anJUblNCd041OTgtRzQ2bWQ5ZGs?oc=5",
+        "domain": "middle-east-online.com",
+        "publisher": "Middle East Online",
+        "publisher_url": "https://middle-east-online.com",
         "language": "",
-        "seendate": "20261106T174924Z",
+        "seendate": "20261107T085150Z",
         "source": "GoogleNews"
       },
       {
-        "title": "$1.3 million grant helping prepare Roane State students for what’s next in nuclear",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE81dVZ1cExiWGVuMFBhWFotMW1ZZTFBRVl5aldWaGFiNHdjaXJnV29KMmtZcEJ4UEFGblVERVdlNHByd0xqMGU5cW0zTE1EWUxiSlRFR3FIRjVkbGtQT2pvWnJRdUh4R0p3UGFRYi1jQ1pPZ9IBd0FVX3lxTE9oYU1WMXlxbTNoOS1ZUWZkeGV3SXMySmdqeHluTGJNbVo5NmVvQld1RzhKTVB0YWJieFdyd3hpWENYb24tMTdMaF9RcGxkUHN4T3p1ZWg3X0lTTG1lVFJNWTFLRy1pODB2VU9aRmJTQndnQlVTanRv?oc=5",
-        "domain": "www.wate.com",
-        "publisher": "WATE 6 On Your Side",
-        "publisher_url": "https://www.wate.com",
-        "language": "",
-        "seendate": "20261106T224437Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Russia’s Nuclear Offerings to Africa Are Attractive. That’s Why the US Needs to Step Up ASAP",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNGFyRDI5OWdtV2ZacGlhaDZYTGtzN3ljQUFtOFFHWHBmcF81Rmo2amhHanplbU9Uemxabk12aTVBS2Eyel9mNWZhbU5NNmwxdnltaDBER0syd1RxLTlFci1vY3ZqOUs0MGxvZjBYOHFzM1pKNU1rUXFXY1FDdjlQVVhjWHJjMW5YMUpFZG5MNW5Xemx6bTJuaUlmeUo0X3NaUnl6TDNHUGU1OVpSclBkb0JoeVdxZWdzWmw5THNwcFQ0Qllm?oc=5",
-        "domain": "energyforgrowth.org",
-        "publisher": "Energy for Growth Hub",
-        "publisher_url": "https://energyforgrowth.org",
-        "language": "",
-        "seendate": "20261106T202004Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "These scientists are trying to reuse nuclear fuel to reduce waste",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSlpWNWtKdW1tbzRNWU1fZW1SYzVDVE16SlljY1EydnhORGVkUGIzSml6aWgtd0dOazFHalBQY0FYUWtPWlc0S1FTTWxDQkhHc1o1NHlzUXVKcExqSkxLZTVWdUhuSHl6b0Fqb2diOU5IcGJHa0VOcGkxNmkzaE9DeDhXeHQ3TV9LV2k2VFZ3NlU2OHA1bGF0Sg?oc=5",
-        "domain": "knpr.org",
-        "publisher": "NPR Las Vegas",
-        "publisher_url": "https://knpr.org",
-        "language": "",
-        "seendate": "20261106T201300Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "After six decades, Israel’s nuclear ambiguity faces growing pressure",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOblNBZVJFRi1YQVNxQ2Ywc0Rya25CU3Z5YjA1U3lVN096R0NfSTRUSHNmcFlURGs4TF9UdjNlSTdWOVlUMmtfOExOcmNTdzVaMVYxOWRPQjJNbTRaMEx2SVRNVlh2X1QzZFBnbktYZ0p6Wl9QenNydWpBWldUOHRpY0FB?oc=5",
-        "domain": "mezha.net",
-        "publisher": "Mezha.net",
-        "publisher_url": "https://mezha.net",
-        "language": "",
-        "seendate": "20261107T051202Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "State Dept. offers $20 million reward for information about Iran’s nuke program",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOM1RJVDlWYnBBWHE3d1NZc2J3UFJ0c2NDZHN5TFhJSXBmWHZSakw5MHNPT19FU2FQeExtNk5rLTh1RVJENHJZeDRNSi1kbktNempVZWFLMEVJNTFmR3lOLUozQ1U2elhvdFN2WllQeDNHQXRMWGxncE5RWDlHTHZ0THVfUW1JMGV3eks1QnFMWnFWRFFjaExSRmZZTzBaeExBSXAyWi1JMHN4Wjh4UjlUSWh0ak1CQQ?oc=5",
-        "domain": "nypost.com",
-        "publisher": "New York Post",
-        "publisher_url": "https://nypost.com",
-        "language": "",
-        "seendate": "20261107T051600Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Oklo Jumps 19% on Narrower-Than-Expected Loss as Nuclear Stocks Rebound; NuScale Power Surges 15%, Nano Nuclear Energy Jumps 9%",
-        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNdzZ6azZGc1E0a0wwUUp4ODk3SU9tc19zWEx1QzB5bmdxSExYNk5aRFNjM05SZjlWLVU4NkpYU0ZCalRZYWo3cjBtVWxnODBHUmJmZ1FmemRLdUVZSFc4LWNNQllWQzNZUXNkVFF0RThtNld0THBrVEdMOV9zMkxiaEdaRTQ2NGZKYm1jTktPZTNNN3NkZkFzX1ByZGZnWG1sY0xrUjBmUDVwZkZVZURLdUdGQjNEeTd3YnVHOFhRMXhrUzA5bmY0WW5zRWIyeE1FeE1Fb3M1MXBOS3BPaTNITFQyZEJENXZFMTJMWW9YZVI4RVlpazM5YnR3?oc=5",
-        "domain": "247wallst.com",
-        "publisher": "24/7 Wall St.",
-        "publisher_url": "https://247wallst.com",
-        "language": "",
-        "seendate": "20261106T160500Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Japanese Nuclear Operators Continue to Struggle in Restart Push",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zOGc3dG92dVVMYVgzcTlVSWlXb08xcXlfbUlTUklvWHZWR0h4LXoxSmVXY2ZheU1NQnhWNjFJMVZYSXJUdjIwZVp6SzRkUU84N1pJSnl1d1Z1Q2xzVmF1NlhyYWJZTk9Yei1UM2xrLTIwQQ?oc=5",
-        "domain": "www.energyintel.com",
-        "publisher": "Energy Intelligence",
-        "publisher_url": "https://www.energyintel.com",
-        "language": "",
-        "seendate": "20261107T062230Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "US offers up to $20 million for information on Iran’s nuclear program",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBZbVFZQnR4NXYyMDRpbl8tU3ZTTGM1eXpTMGVDN2lBd2pGaWc0akZuZkxXdldFcGdKOEE1LVhTUk5UTFdpRDJxNU8tN3BMeHZCV0d2T3B0bmZCUnU5ZlYxNEVnN0djUWItXy12c25XTzJzN0pobWdxeVg5OA?oc=5",
-        "domain": "mezha.net",
-        "publisher": "Mezha.net",
-        "publisher_url": "https://mezha.net",
-        "language": "",
-        "seendate": "20261107T022105Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "US offers up to $20 million for information on Iran’s nuclear program — NDTV World",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdUJ0RWM2M3hGdi01amwzanRvWGZ5UWpPaVA2WHQ2SDdUSW5fbXpKTzFVRGltUnBMM21zbXlmQjZhWEJqb3pESUFXa29qVlN0bUxnS25CcDJTSVJGQlRjWW8zSWVETy1PeHdIcS14SDU0cUxQdmNPUXBGdmswOWdMUzhkbFRBZjZjckVMLXl0ZDdram1zSkpteEFNejhpZWpCOE8ydDFlT19qZW9hcHg5N1A2WXZPZw?oc=5",
-        "domain": "ua.news",
-        "publisher": "UA.NEWS",
-        "publisher_url": "https://ua.news",
-        "language": "",
-        "seendate": "20261107T023519Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "US offers $20 million reward for information on Iran's nuclear programme",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNOWd3b0d4VlJnMnpTXzZTcW5tb3E4WVdrQkk0MDJGVDNwb2FSQXN0SmZoRi1LdWJnY3M0SW1aOHVfYmZzSGdQWmgxOG0tVzRvVTVveEVLTGIyU0x3LUlkWUt3RFZNOHE1ZjM3OTVEeFhTUjJJdTY5N09EeXY1LTNsdE9xYlRYM2llZG1aR1gxMXZSLWJYeGdWUFk2dnZILTFHRFBGRnpabUR0dGNJRXA5NEZWS2RET2xTdURkOXhNRTlPMTNfWi02NFY4WHhIOXVNRHNRTHlPNXDSAd4BQVVfeXFMT2NPOElka3RkT1R3QTJyNTJReUcwM192TFBKWlhqeDk3Ql9DSTVJN2ZaZEVmb0tnRFFQTVZhaHFmNm4xRGFzYlFjdWI2SGxFWFFneHBDZl91OFlTQ3FfN3pYcC1EZ2M4Y3B6c29UOUpaWTEwdUxpSWhOVURtWFdSeXg0Z1QwdHVJYXBXNVNYeHVGWWFablFKU1k5b3pnY2xOV2pnUHBfWm9uYTVubHJWV2t5Z1pDRDJzNE5tVS0welpUZDZpUkc3VklKQS1ENUF1UlgtdDNKQUxjcmVaUDlB?oc=5",
+        "title": "Israel's nuclear secret is now Washington's biggest headache. What changed after 60 years?",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPSi1nWEotRGFYZGRjYnpOTnJaWTBMaEd2d0hZWTNjQ1ZKRWo4a1pQOGZ0R2daNmZjNmJmbFk1WGV6TjZFTFAxUFplajktVWNpZ0hidm1RLXRWVjR6eUgyWW1BeXIyR180Yzc1THY2SzJCcVVfaHJZblJwRURhN0hwYm1aTVVBYVNWVVY2TGI5b2F2QWVfUEhaMEdoeWxFYUVSNHVTa0d6dUNKYUdiblI4YmdXLUlpWEtHVkJBcGVPOEJpSFgwWHhaRE55S0h0eXhXOVh3dGQ3dGczeXd2S1g1S2V2QzJWN0dnUXllYXd5VlY3c3lZNTZ2RGZ30gH_AUFVX3lxTE1SZl9PbjlmejJITnhSQi1aQVhzQ2lGaHczUHFBUmxlSnNtSzBkYWFXQXZiZ3BnWlBFWXd0S1J0bFFWaGRmLTg5V003ZWRBaklaaE5vMl9qUzd3RWMtc1FMVVdCX3BqR0h4M2JDS1dSQS1QRDB6aUpBUHhiU1lQMFk2djdHWEJva2ozX2NUTS1DS3VVckxNRTlQUk1uellyTVRYWUhjcjZ3V3kxemdFaVBhMFd5bkhJRFR3Z1FSYzRrTUZ0cEM3c2pUNGl3MDU4cGFLWFl1SmhBZEE4QzU0cVBqb1AyNTJmYlNPUlhpbmd1Tm81Q2ppQkxBancwcDN1Yw?oc=5",
         "domain": "timesofindia.indiatimes.com",
         "publisher": "The Times of India",
         "publisher_url": "https://timesofindia.indiatimes.com",
         "language": "",
-        "seendate": "20261107T015700Z",
+        "seendate": "20261107T112700Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Quantum Tools Could Unlock Real-time Dynamics In High-energy Nuclear Physics",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAzREx0S1gzSWtRTlBTTkNqaWk0TDRYXzdKd3lGdlBoTHVtRjBYZFVzOEdSalFlOGZkS2JTdUpDWlR2TWNCQnZpYXhVelh4ZWl1S3RNYlQ5NGlSNGg5YmMzV0QxUnhZZklEV3pWeTNEWnRkdw?oc=5",
+        "domain": "quantumzeitgeist.com",
+        "publisher": "Quantum Zeitgeist",
+        "publisher_url": "https://quantumzeitgeist.com",
+        "language": "",
+        "seendate": "20261107T100102Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Russia attacks substations connecting Kyiv to nuclear power plants and infrastructure overnight – Zelenskyy",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0yV2k3UmV5T3pnTjVIbGRVVk5HTUc4Y09veWg4dW9IXzJNN3FmMUVkYks5TnB6ZEVIU2RMUE9BMVZUTTlERmU3U3dzbnAyTjhJNXRwbHYzcHliLUJtX0puQW9ZT0rSAXBBVV95cUxPQmNZaklEcDhvN0pqR0JkMUFodFlQSEJsQTJ0NjFJYXZQVTFKZEFQSXZNZDRNVWdXZFFuZDJfdXRFOWZjYWNOYy1RM2pVc2F1OEZMSjJWeEF1dHZmU1B0TF83Ykc1SmpEU3E1cW5UbTF5?oc=5",
+        "domain": "www.pravda.com.ua",
+        "publisher": "Українська правда",
+        "publisher_url": "https://www.pravda.com.ua",
+        "language": "",
+        "seendate": "20261107T085400Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "How Iran Is Preparing to Deal with Nuclear Fallout from a US Strike",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPb09uOWRuT05sZ0l0ekxWb0pWeElLZmJINjlXY2l1bDUzSHU1MDZNdlREOHVDUGlKQVg3QUtBaUhaMGhEeGJUZnIzczR6X1o1ZktaZzdIVXllUkdkRWNWYno0ZUYtYXJYSE9aUGx3YTFIal9URVhUbzBaLUhzcl9HRXRfdDQ?oc=5",
+        "domain": "www.newsweek.com",
+        "publisher": "Newsweek",
+        "publisher_url": "https://www.newsweek.com",
+        "language": "",
+        "seendate": "20261105T100000Z",
         "source": "GoogleNews"
       }
     ]
   },
   "events": [
     {
+      "title": "Iran sent nuclear proposal to the US via Qatar, senior Iranian official tells Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSlJZVlphdWhPcDNGc1E5eDVNdDdMQkJNTXVDS0RYSVRqaC1tblFqQy1FekRQdldnV0FsMU5RdnVHNEI3UEZWMC1MY1l5cnRtcjBlcDlpUXdvX0hXbV91S1UxajV1TEx1VmJ2SzNLNElXSjc3YkdmYWw4VGNXZEl5NXR4RFNjRXBxeEZMLWpBT1Z5X2JRc3NEdkdMZDljQ0dkZXZRbzc3U1NmNkhnaFN5QzNhVmRzSmhsM0Q5VzU3Mm11OWZBa3M1V1lvaw?oc=5",
+      "domain": "www.reuters.com",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "language": "",
+      "seendate": "20261105T194800Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Will Trump strike nuclear sites again as Iran engages ‘cognitive warfare’?",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORWd2ZHNRRjNUZE56eU5kdTU3cl9ja2dwemEtRWYyaG9GcEVBU2RBS3N5a3g1dFY4blY4a1d0eEtQa0VwdTFtNGVZRGhkWW9fZURoZFlnS0dZUXBndnJMME5EUjloYmthMDlOcnltMUNVblF2eHRXNU53RWdLNEZuRWtZYzF3M0d6QlllRjBMMnJaUU5SdVJ0YVVWUXM3V0hKeVg0YXV4ONIBrAFBVV95cUxPSXZRVmV6bnNJWlA5Zm5mcHZNMEdFNjBGbXdGYWJsYnllQUxFM0pQZ2N6OTdpYUZ5NUFtSHhjaG15YTF3VVg4TFM2MTFZVE1nOGN1dngxOFZfOExmajNUMXFJYVRwR3VISFRiMWFBVWlHOE9pSjJtdkJZTHlHMGFFN0xkOVVRRVotTjgzOVBFVGhBbGxETTRVN2JXNHV2OXRYVjlSQ3ROdFRTeFFF?oc=5",
+      "domain": "www.aljazeera.com",
+      "publisher": "Al Jazeera",
+      "publisher_url": "https://www.aljazeera.com",
+      "language": "",
+      "seendate": "20261107T085156Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Strait of Hormuz could reopen as part of Qatari plan for Iran nuclear inspections",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMFNrLUQ1dG9iaVNVYWYzRjRlbmNnVEFHR29rcWh5NnFpaEx5UWs1RjNTbWZoc3oxd2RQWUdBaXFaNzJENjlUWVdNOHNsQzlWOFVYdDZHVTFvQmpGWEpSSlZFLXRVTUxWX2lQaHl6VjJMVDViVEM2NXF4cnZJcUo1aWJHc3MtdTZFdFRhLTF5cXBTallDMFVZY1dlMkd5RFU?oc=5",
+      "domain": "www.theguardian.com",
+      "publisher": "The Guardian",
+      "publisher_url": "https://www.theguardian.com",
+      "language": "",
+      "seendate": "20261107T070200Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "US offers reward of up to $20 million, possible relocation for information on Iran nuclear program",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5TeUNiSDFDMjdhOHNsX0RPeTdBNVZZcU43eG80SXFaWXdJY1YzTXlDZjdBdjV3MHNQZG12WFo5OGhGOU1kWGdjWjY0b0tuYmhHV05LWENZdWc1NHdyV1B0ZklTaHo1RWFUZ3c?oc=5",
+      "domain": "www.jpost.com",
+      "publisher": "The Jerusalem Post",
+      "publisher_url": "https://www.jpost.com",
+      "language": "",
+      "seendate": "20261107T095736Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "60 years of denial about Israel’s nuclear weapons program confronts a new reality",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA1ZmdPOVA5TFVsRkppNmNVcTdVREJUaWUxZTJFbGxiVF94NXZFVVdvNmp5ZzNGOFVCZlVaRWtCcC12MVRtVFltNXd2REVnbkstYVAzQTBuMGtRemZtY3NWbTYwc0hpaXZKcEVHWnkyOXVDM3lEdDJCeXVfbw?oc=5",
+      "domain": "www.cnn.com",
+      "publisher": "CNN",
+      "publisher_url": "https://www.cnn.com",
+      "language": "",
+      "seendate": "20261107T050115Z",
+      "source": "GoogleNews"
+    },
+    {
       "title": "US offers $20 million reward for information on Iran's nuclear program",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdUFQLWZDeGVRc1lUWldrSHVlNWM1LXF6M0gwTTJleDUzdXYwV19JUVQ1OWltQWZkLUIxREZJbnJZbTFWQ3NRMUtHZFBwQ2JWbnVsSUlyRVAzaGF4dTd5SzJKRWltVXB1YzRLQkNXeURxVDd3dkxBNXdCNUo2QW14WmlmQjZXNnhWLW5pOXRwQnBNQlYyWW1pemFR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdUFQLWZDeGVRc1lUWldrSHVlNWM1LXF6M0gwTTJleDUzdXYwV19JUVQ1OWltQWZkLUIxREZJbnJZbTFWQ3NRMUtHZFBwQ2JWbnVsSUlyRVAzaGF4dTd5SzJKRWltVXB1YzRLQkNXeURxVDd3dkxBNXdCNUo2QW14WmlmQjZXNnhWLW5pOXRwQnBNQlYyWW1pemFR0gGfAUFVX3lxTE1jTkhWNWdRaExoU0Q5eXdQZ1RBMGxLSEpzZ1VtSndKU2xTNGM4OFZxLUF3eHNlb0VIWHFDODVUZDlPUzdIV0JKd0NTQ0l6SV91Sk5WLWlrSFI1QnRBSkdua2hGbUxteW9fYS04QUhIdG91U0ltME1DdmxYbnRHcko0YTMwb0tDdnZMRFNpa1o5ejYxSTdtMTNGYzV5WDMyRQ?oc=5",
       "domain": "www.foxnews.com",
       "publisher": "Fox News",
       "publisher_url": "https://www.foxnews.com",
       "language": "",
       "seendate": "20261107T020334Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Update 374 – IAEA Director General Statement on Situation in Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdmpXUndtUVBBX3ZiN04wOGREb1pCaUNBbnAzMjVZc1NpY0h4YmFlVW8ydnFsUUtmdUJRZHF6bG9RdWs4YXZGVEFlZ2JzczA1YThWYThhckVFWEpibjJza3VXTllDYmVDZzdGbVBzQ2NuWTRaa2UzekNTVlIyWTFxRTFMLWNGNW51bUxpM212OHlnQVB1TURsbU1YaWt1WnZMaFdmUFFaZW9vbGhHN3BhdUxB?oc=5",
-      "domain": "www.iaea.org",
-      "publisher": "International Atomic Energy Agency",
-      "publisher_url": "https://www.iaea.org",
-      "language": "",
-      "seendate": "20261106T134654Z",
       "source": "GoogleNews"
     },
     {
@@ -559,6 +599,26 @@
       "publisher_url": "https://www.energy.gov",
       "language": "",
       "seendate": "20261105T140831Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Nuclear News 40 under 40 2026: Supporting deployment -- ANS / Nuclear Newswire",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNV0VnWUltYUdjTm1HemNvWmsyWUZUXzJxSWVFanVnZHYxOHdLdlVhVVh4Sm9NTFE4RC1CNGxGQVNUTDdSTG5Fa3lCenNRLTRpM0UyVkpiMFhuSnoxbGszNmdsbkpiakdjNHJ6azNQU1Fma3JrRVB6MHkwYjF2VzVBTnlvZFgzb0lRTjNBeWoyZWJ6TU1GLXdzeEZNUnJnUHVWWnZYNkhB?oc=5",
+      "domain": "www.ans.org",
+      "publisher": "American Nuclear Society",
+      "publisher_url": "https://www.ans.org",
+      "language": "",
+      "seendate": "20261107T072001Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Rewards for Justice seeking info on Iran's nuclear program",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUFpRVUo0dlFFWFNxV1BvUUNnbnhEbVFrTThwSV9abW8zTTlvZGlCMzRSMjY0WFlLSjJXWllDdXBsWldsZjVMNFltMWlMQWVnVGlzUkRqQkVZVmdCdE50OGFrRGtETlRqaldRZTJtX1BJNEEycWhsbG1tbUZSZFk3ZDIwU3NzQjR6V0ZCYkZodnJMOHRNQWRYN055R2FzR01xcEkyN1hmQjR4LUZEZVVjSTBfR1NaR1lnQlJsUU1GdEp3a0pvSzZvQ2RxNzliOEc1VktpZzZxN0taTXprX3Zz?oc=5",
+      "domain": "www.winknews.com",
+      "publisher": "WINK News",
+      "publisher_url": "https://www.winknews.com",
+      "language": "",
+      "seendate": "20261107T125650Z",
       "source": "GoogleNews"
     },
     {
@@ -582,103 +642,43 @@
       "source": "GoogleNews"
     },
     {
-      "title": "US Central Command announces $20M reward for info on Iranian nuclear program",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMGxqSHBYeTN4RC1aRTFyek9yTWxpd0xjZzBjeF9Mekp1UjNsdjJGeEVHRHZhamVxU0lmb05Ra1N6UjFZQVBRRUloZWRYMU1aNEZFY0hIXzU5Zk9yc0lOZGVSc1ZmZzE2S2VlTlYwcUloX0pDQnIzTkc2OGY1a3VYMmhrb0pGTlFRMHdJb3ZHVEY1b2ZjSXR3eDV4VHdoVWpsZnV5dEtrc2ZhWGwta05fa2dUeHBnNm5jam52TnJ3?oc=5",
-      "domain": "www.timesofisrael.com",
-      "publisher": "The Times of Israel",
-      "publisher_url": "https://www.timesofisrael.com",
+      "title": "US offers up to $20M reward for info on 'Iran’s nuclear program'",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbHNPcnl1RU1DVmVBZEVIU1NERndsU1NERmRxSmVkLUV5dE5Vdk5Vak1IVGdGQkEzUlNXa3YyYWVpYlpybTdCeG03Y1pTVjdxYlE0ZzZlMXo4dEFhSl9aVkphUmc5bVN0MTNvRnZXVWRjTGVQbEZydk9tdE1OXzF4ZFhmUUljUDNrU3o0NGdyMVUyZWlBS0xyc19mRGRiWm14Q0pKdTY4MWQ4a09LOG5LNmJVNE5LSHo3X3JaUGhKeG8xY3FU?oc=5",
+      "domain": "www.euronews.com",
+      "publisher": "Euronews.com",
+      "publisher_url": "https://www.euronews.com",
       "language": "",
-      "seendate": "20261107T005635Z",
+      "seendate": "20261107T113119Z",
       "source": "GoogleNews"
     },
     {
-      "title": "60 years of denial about Israel’s nuclear weapons program confronts a new reality",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA1ZmdPOVA5TFVsRkppNmNVcTdVREJUaWUxZTJFbGxiVF94NXZFVVdvNmp5ZzNGOFVCZlVaRWtCcC12MVRtVFltNXd2REVnbkstYVAzQTBuMGtRemZtY3NWbTYwc0hpaXZKcEVHWnkyOXVDM3lEdDJCeXVfbw?oc=5",
-      "domain": "www.cnn.com",
-      "publisher": "CNN",
-      "publisher_url": "https://www.cnn.com",
+      "title": "IAEA Mission Reviews the Russian Federation’s Regulatory Framework for Nuclear and Radiation Safety",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQTNTS084QnZnOU5McFYwVk54UjJ1ZUtzWC02bEtOVXVVQU8wLWVhMHRId3d6dnRURnFRMW4yZXI4WFBoMHB2VEttYWVDbk5OSHRScHlHR29fc3ZDOGcycUZtUmJ5Uk8yUnR5SkVhRndZNkUtcGxhYzFtdVdQVzg2NVRPTWRVa2h0eV93bE5CYmIzOEt5Q2lGdW5taVZOVGlxNG9rVHZLVGs4aGpIZnVwY2RuNTZHTGFBSlZ5VFFrU093RlRFMXNJOEFBMGtucVR6bk1Ba1VlVjBWYjA?oc=5",
+      "domain": "www.iaea.org",
+      "publisher": "International Atomic Energy Agency",
+      "publisher_url": "http://www.iaea.org",
       "language": "",
-      "seendate": "20261107T050115Z",
+      "seendate": "20261106T063058Z",
       "source": "GoogleNews"
     },
     {
-      "title": "IAEA launches network to monitor isotopes in lakes",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSGJqcVNJSUxZNkdqamJCWE9zYUtNMEdFY05nR0J4ZU9GUWFLcDhJWUtiY01pckoyTExIZ25peDdFdlFxbWtLTlk0ZmRONkltWHA3aVh6YUFjcUQtNThGS1hoRjlsM1o5NGxEcVpjdDB4MW5wNEI0b19OUlIzR3hqc3hNUU0xZFNnRlNRSVpza2llVjg?oc=5",
-      "domain": "www.ans.org",
-      "publisher": "American Nuclear Society",
-      "publisher_url": "https://www.ans.org",
+      "title": "Washington Offers $20 Million Reward for Information on Iran's Nuclear Program",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNalZ4WGJucUZMd3dUNDRIUHN2SnBFdzViNFpCTWQzSzBGOW52QWNyMEdCSHFfekhLV0xvVS1HaFMwYVJOdnQ5TTY1SUxTYnVBNlNHRVJVekhsVXY5Y0hFOElrbGN3ZDFpV2ZPODl4ZkUtMkJTOEQ5cnFsN3cxdGFKNGpWQWdld2w3bmtBd1hyallmN0t3TUgzMFJHWjRxMGVyTDY2S2l2UGkyRkllX2hZ?oc=5",
+      "domain": "english.aawsat.com",
+      "publisher": "ASHARQ AL-AWSAT English",
+      "publisher_url": "https://english.aawsat.com",
       "language": "",
-      "seendate": "20261106T223157Z",
+      "seendate": "20261107T105231Z",
       "source": "GoogleNews"
     },
     {
-      "title": "Santa Barbara Nuclear Lab Cited for Major Security Failure",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWTBOaVpwRzNwN1daRkpZMmdLY293b3hVVjFudTlpRVBkX3VmVXFzdGJFVnVTem1MLUY1ZWdkNHNwc0E2NGktUWpURTlNOUFnWmt6Ry1VVW1jaU8ySlFOa0tpM2ZYMExQQ3RFY1pnMTg1bmxtaV8tdXNUY2c5ZlE5YnBhV3M3QjctQ1B0QnJiV1hYWTI4MWtuM0ZZbF9jQW8?oc=5",
-      "domain": "www.independent.com",
-      "publisher": "The Santa Barbara Independent",
-      "publisher_url": "https://www.independent.com",
+      "title": "US Offers Up To $20 Million For Information On Iran’s Nuclear Program | LIVE BLOG",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSXJFdDdrM1A4ZERDS1NMZXFoQ0lYYVIxN0psSktNWTlTaW9jYV8xVTlPcEtvaDR0QjJjcHpZdXZiYVZnUk5RZjNHT2NmNXdsSktxNjUzenZaTFdhdGp4OVZtUzFmTFBkelJadkltenAyQmFkOWZIN3pxdWJEeDlLdlpqQmpfR2FlTUdBUU5Rd3Q4QXRPNGpXdWFTcjhzd3RXN0RJT3VDakdrMFRFLXhpbG9tWmRCWjFaUjJFeWRYMm1Ga0xJTEww?oc=5",
+      "domain": "www.i24news.tv",
+      "publisher": "i24NEWS",
+      "publisher_url": "https://www.i24news.tv",
       "language": "",
-      "seendate": "20261106T192839Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "US military carries out new targeted strikes on Iran as Tehran's leaders weigh mediator's proposals",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONzhSRFZOUUdVTUxvUEhJUkpCcGZrSnNyX0pSc081QmlIUXY1NmZHZUFiU1lDYWFDdFJncWtkdVRxQWRjSGV2Z3FXVEItNmRNMG4zN0VfWjVXWm9xdjJkZ1VLSVc4NTZzUkZ0bDV1V0VWVC1mamVrQlB6VHhPUEJ0eGhDMWdBOFZrZU5qRno5RFJyZ1FuWExPVXFjNmFCSmRMX1VnZWp3?oc=5",
-      "domain": "apnews.com",
-      "publisher": "AP News",
-      "publisher_url": "https://apnews.com",
-      "language": "",
-      "seendate": "20261107T021100Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Rewards for Justice seeking info on Iran's nuclear program",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUFpRVUo0dlFFWFNxV1BvUUNnbnhEbVFrTThwSV9abW8zTTlvZGlCMzRSMjY0WFlLSjJXWllDdXBsWldsZjVMNFltMWlMQWVnVGlzUkRqQkVZVmdCdE50OGFrRGtETlRqaldRZTJtX1BJNEEycWhsbG1tbUZSZFk3ZDIwU3NzQjR6V0ZCYkZodnJMOHRNQWRYN055R2FzR01xcEkyN1hmQjR4LUZEZVVjSTBfR1NaR1lnQlJsUU1GdEp3a0pvSzZvQ2RxNzliOEc1VktpZzZxN0taTXprX3Zz?oc=5",
-      "domain": "www.winknews.com",
-      "publisher": "WINK News",
-      "publisher_url": "https://www.winknews.com",
-      "language": "",
-      "seendate": "20261107T010000Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Centrus Advances U.S. Nuclear Fuel Production",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbGYxd19jcG1acGstdVR4VWxnMVpVRFhmZzFKYlRSZGNGVVFJOXpCS3Z0NS1maVVsV01URW4xR2RfVHM2TUNMZVk5cC04U2MzYWNEa2EwbWNsaFNpR3hqUVlIcVhjVHpxY1NUSDY0Nl9ZT3RkblZjRVlVUmpldmV4aGtrOFlSaWk5cGJtTzZmTFBWYnY4M2lYMkUzQUlsY2s?oc=5",
-      "domain": "www.environmentenergyleader.com",
-      "publisher": "Environmental Leader",
-      "publisher_url": "https://www.environmentenergyleader.com",
-      "language": "",
-      "seendate": "20261106T210000Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Iran sent nuclear proposal to the US via Qatar, senior Iranian official tells Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSlJZVlphdWhPcDNGc1E5eDVNdDdMQkJNTXVDS0RYSVRqaC1tblFqQy1FekRQdldnV0FsMU5RdnVHNEI3UEZWMC1MY1l5cnRtcjBlcDlpUXdvX0hXbV91S1UxajV1TEx1VmJ2SzNLNElXSjc3YkdmYWw4VGNXZEl5NXR4RFNjRXBxeEZMLWpBT1Z5X2JRc3NEdkdMZDljQ0dkZXZRbzc3U1NmNkhnaFN5QzNhVmRzSmhsM0Q5VzU3Mm11OWZBa3M1V1lvaw?oc=5",
-      "domain": "www.reuters.com",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "language": "",
-      "seendate": "20261105T194800Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Iran is Reviewing ‘Concrete Proposals’ on Nuclear Program, Officials Say",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZXdqWVZaS0doMXFBRXRjYndqaGZUT0pBTVM1WlB0TlJNMHdTX1JlX0hOT1MyZUFrMTdMTThJczBJUUNyN3JTcllEZjlqN3E2b2VVRTFVbjRiaFJ3TW0ycFZsRlhVMjRaZkR5Rmw5VHp5YmVvdVI1TnNnb09aN0JpeTdubEptZWV1aGd3eDczYkxCdlBFV2tmdVQxUE95YmdOMFVDZXMzRVdDdW05OXc?oc=5",
-      "domain": "www.nytimes.com",
-      "publisher": "The New York Times",
-      "publisher_url": "https://www.nytimes.com",
-      "language": "",
-      "seendate": "20261105T163455Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "US offers $29m reward for details on Iran's nuclear program",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTXFTNW44QUEyU1RVVFpJMFJwRFUwR1NBYVFLNDV3ZzBicWdPVHh5VnRsY2t6NlJWSHB1cUNlTjh0a3FTcUhETktldmdZZTIxT3BGR2JvUnZ5akFjTVE2cTdqRy0tWlNsdU12eEgzUEFVUUE3UmlrMmpPLS0wQno2MERHcWVLNWJRRjY3bUpER2phcWtKWXM4ZzlERS1ZeDVOQkgzbzV0UFZvMXV3TlhqUg?oc=5",
-      "domain": "www.abc.net.au",
-      "publisher": "ABC News & Headlines – Australian Broadcasting Corporation",
-      "publisher_url": "https://www.abc.net.au",
-      "language": "",
-      "seendate": "20261107T032757Z",
+      "seendate": "20261107T082255Z",
       "source": "GoogleNews"
     }
   ],
