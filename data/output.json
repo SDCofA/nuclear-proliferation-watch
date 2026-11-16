@@ -1,12 +1,14 @@
 {
   "meta": {
     "project": "nuclear-proliferation-watch",
-    "generated": "2026-11-16T07:14:46.294047+00:00",
-    "mode": "live",
+    "generated": "2026-11-16T22:29:53.709945+00:00",
+    "mode": "partial",
     "sources": [
       "news_articles"
     ],
-    "source_notes": [],
+    "source_notes": [
+      "News fetch failed; showing a retained sample less than 24 hours old."
+    ],
     "version": "2.0.0",
     "methodology": {
       "scope": "topical news sample",
