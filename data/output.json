@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "nuclear-proliferation-watch",
-    "generated": "2026-11-17T08:27:43.179818+00:00",
+    "generated": "2026-11-17T21:18:44.437004+00:00",
     "mode": "live",
     "sources": [
       "news_articles"
@@ -23,29 +23,19 @@
     },
     {
       "label": "Distinct news domains",
-      "value": "41"
+      "value": "43"
     }
   ],
   "live_data": {
     "news_articles": [
       {
-        "title": "Nuclear Watchdog Increasingly Concerned About Iranian Enrichment Plant",
-        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPUjc3VjdYMFZoRlVzZUNjS0drUkJiajl4OHJTRkl1a3hfWHJReHhrbE1fcC13UmYyZ3NubEtSMWdieXZ1OG5XQk4yOTNGb1A3S01CVTVlXzlzc0ptc3ZwN2tBZUpfNGRaQ3BDM28zX19GVlRBZHlBOG1KWV9rSC02Q1NxTWdQUzhwZjRiZjRGczduVFM3cTB3ZEx0ZGhPWlZXWDNpMDBEWDlhZHJpa0VycWxvZEc5ZzhRM3JIZWFMNXRjdkdBS1N5R1dkaWplb2tkcHhkQ1NoSExnX1ZDQWlBbjh6ejcyM0NSSkpaOGlxTmF2STk4d2kzQ2FwXzZ0djRSLV8tZ0JB?oc=5",
-        "domain": "www.haaretz.com",
-        "publisher": "Haaretz",
-        "publisher_url": "https://www.haaretz.com",
+        "title": "IAEA says it cannot confirm nuclear material at Iran's Isfahan plant",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdWg5anBjU0ZuZ2d3X1BCaDc3RXJTdTRYMUwxZTVQVFM0eS1RYnBBNzZCcmk5SXF6Sm1qR3JINEk1OUpLX0ZEemVVMkdHdHNvS1BSbzNUaHNCVG41ZXJnTFg0OWg4cjRNc3R2WVRVQ3pKRENDV3hkOFktTHZFWkx4LXppRQ?oc=5",
+        "domain": "qz.com",
+        "publisher": "qz.com",
+        "publisher_url": "https://qz.com",
         "language": "",
-        "seendate": "20261113T221200Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Iran extends blackout of nuclear work with US war deadlocked",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcFJUSUJUTU9xYWMwQV9JdUh5TzZRdFhDWUlfaXc5c08zZXZpdmVEaUN2QnRPWkItbHVveWpqUDVhWFUxSm15NGRxbFdZR1RQRTZ2M01xeE1CWm5heDR5WnAxd3NKSnRnSWZzUWFKaElLQmJPdWlUc1hsQlZVNFBWR3FnN3JqcEZlUXZIY1Yza0tEMnp6U0phdHFDMWxINUhPWG5pOWxCaklyVlNKTnRraFB1V3MyQQ?oc=5",
-        "domain": "www.unionleader.com",
-        "publisher": "New Hampshire Union Leader",
-        "publisher_url": "https://www.unionleader.com",
-        "language": "",
-        "seendate": "20261113T233909Z",
+        "seendate": "20261113T080000Z",
         "source": "GoogleNews"
       },
       {
@@ -56,6 +46,26 @@
         "publisher_url": "https://www.aljazeera.com",
         "language": "",
         "seendate": "20261113T120157Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "UN nuclear watchdog IAEA raises alarm over uninspected Iranian uranium enrichment plant at Isfahan",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9faWUyUWhpWFhnYXhDRTAxdVRkMkdQQjVicFl0TWoyZFdxTmRrLXRkSmhUWncyb1lVYXFYcXNWdmlxT29HT2tQOXl3VTdkWldEeWEweHdTMG01U3dZX1VHNlRmakxpdGRzRUE?oc=5",
+        "domain": "www.jpost.com",
+        "publisher": "The Jerusalem Post",
+        "publisher_url": "https://www.jpost.com",
+        "language": "",
+        "seendate": "20261113T094845Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "IAEA Has Not Accessed Isfahan Plant Nor Verified Iran's Enriched Uranium",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQy1waXZ0N3lzQ1J1X3h3UjMzaERyOTk3VWJFSEtKcGY4VGd5emtZM3RMeTUzSjR2VVpUclZ3T091YWdKM2x2X2ZSQTdkSVFzQ01SbXR4M09keC1GT05OSzJyZGFpemVpWnBTWlpxZlN2Ri12Y0tuRC1ONjlHdmFhWWJ1WUctTXBOM3otUGFKZ1B6VW1kdmVKUEg3WjlsUQ?oc=5",
+        "domain": "energynews.pro",
+        "publisher": "energynews.pro",
+        "publisher_url": "https://energynews.pro",
+        "language": "",
+        "seendate": "20261116T081933Z",
         "source": "GoogleNews"
       },
       {
@@ -89,16 +99,6 @@
         "source": "GoogleNews"
       },
       {
-        "title": "UN nuclear watchdog IAEA raises alarm over uninspected Iranian uranium enrichment plant at Isfahan",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9faWUyUWhpWFhnYXhDRTAxdVRkMkdQQjVicFl0TWoyZFdxTmRrLXRkSmhUWncyb1lVYXFYcXNWdmlxT29HT2tQOXl3VTdkWldEeWEweHdTMG01U3dZX1VHNlRmakxpdGRzRUE?oc=5",
-        "domain": "www.jpost.com",
-        "publisher": "The Jerusalem Post",
-        "publisher_url": "https://www.jpost.com",
-        "language": "",
-        "seendate": "20261113T094845Z",
-        "source": "GoogleNews"
-      },
-      {
         "title": "UN watchdog 'increasingly concerned' over uninspected Iran nuclear site",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNbk8wdlZUeWZ0cDBxYml0V0hlV24ySnprM1IzbFI2X1ZNWGR1cmNDaWRObjRYVW5TVmM5cG4tUmkxbW1vNkROU01fbXZhTTh2THZ0dzhjRGJOLXc?oc=5",
         "domain": "www.bbc.com",
@@ -106,6 +106,66 @@
         "publisher_url": "https://www.bbc.com",
         "language": "",
         "seendate": "20261113T122828Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "IAEA increasingly concerned about Iranian enrichment plant, its report says",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcEw4cVpnMkIxMTVtZEJlQmN3OHlsLUxxZnQxMWlfV3VfWTBYeHA2VEpBVWxpZk9TejdSaDgzazdlQUlMZy00aEhmZS1GYnhpVmU1bzdQTWM2VUJqd2dOWWowa1VQSWppQVdYSi1PVm0zX2J1b1hFU1QwaGs5N3lDZkJ3bEY5OG9Tai15M3VoRXVycFVBWjYwWjQ5dUhDcEJ4SWFHSXZxNDg5b2k2OG1DUVBoTHBDWE84dmVfZXc4WQ?oc=5",
+        "domain": "www.reuters.com",
+        "publisher": "Reuters",
+        "publisher_url": "https://www.reuters.com",
+        "language": "",
+        "seendate": "20261113T124728Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Senate docs reveal new B94 nuclear bomb. But what is it?",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORFNURGpYVEk2REloSTFWeVlEV1NWZ3M0VGtLTVRHZ21kM2dkWmNIZmMxRG5ySDhIb3YxUDN6Z2REN2ltYVpzWjd2MldQRU05aDJtbmM4T1N1TUNabnBVeTJyMVZ6UWJNWHFHRG5NMkdDR0ZFQjhsSGFBaV8wajJhaHpNYTBKOFR6MXY2eXUxNy1OYkZiX3c?oc=5",
+        "domain": "breakingdefense.com",
+        "publisher": "Breaking Defense",
+        "publisher_url": "https://breakingdefense.com",
+        "language": "",
+        "seendate": "20261117T140454Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "IAEA Reviews Progress of Zambia’s Infrastructure Development for Nuclear Power",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSENtRFVqLVBQLUp2NEF3Sm81ekE1eUlxTHNRVmFPdUdMb2k4X3FfMmVJd2R3cGduUkp5SHNicVVBbUVMN0ZiRm1yNGxCOUoxT3NsdTdtYzU4bEFvdjJNOGFjcW5iLVFyeEx4YmJ0enRxaEdoclBYQ2oxM0NISnFLQ0p3T2loMU9PZFJRdFhnVWxIZkhmRUd0d1UwZW81ZzItZ0ZJWG03bE8zdEZIVnBCU3ZxR0RFNUR5Q0ttVDV0OA?oc=5",
+        "domain": "www.iaea.org",
+        "publisher": "International Atomic Energy Agency",
+        "publisher_url": "http://www.iaea.org",
+        "language": "",
+        "seendate": "20261117T155446Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "ICYMI: House Passes Castor Bill to Strengthen Nuclear Energy Transparency and Oversight",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1hY3RhTFlTbG84WU9tLTZud1l0dGxzVnE2TWJDUmxaR0hWNjR5MUVQREFVQWYxa0ZMZUpiUllBOHBONGpwWjh4enE1SkE5ZVV3bzJqNzFvUjZtZTFuZmh5ZjBoUVY4N09xZTRkNWRfUjBSSGU2ZVE?oc=5",
+        "domain": "castor.house.gov",
+        "publisher": "U.S. Representative Kathy Castor (.gov)",
+        "publisher_url": "https://castor.house.gov",
+        "language": "",
+        "seendate": "20261117T150111Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Opinion | Congress must stop Trump from giving this non-democracy a nuclear bomb",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZDk4ckVUX1V1VmR6Y1lFR21mUzZWSzhpRkU0eE1Ec0tYUXNhdFlwRmwxRHMzbzktY0hVaGJJaTRjNmN5eDhRdkwwMTdGZDdHclZZcVRsam50MEE1TXRjczUyUE1TVWR5WGFMRU5JZXZaaXVJUGVTMUpEVllhdDdJSF9ienhiNTVpVTRDejR6QmdIMTlqTWk5SGFZRE1sZ0hTMnJLMw?oc=5",
+        "domain": "www.washingtonpost.com",
+        "publisher": "The Washington Post",
+        "publisher_url": "https://www.washingtonpost.com",
+        "language": "",
+        "seendate": "20261117T191500Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "China and Nuclear Arms Control: Why a Trump-Xi Breakthrough at APEC Is Unlikely",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMnRSNjU4RTlBWG90NE5RNF9IYldNNGkza1Y5Q09HbU11ZmxrVzZIZTlNekZKVDhSSHUtT2tQWDhWV1FhVF9OUnR0bFRFUTF6ak56bjRra1RHV19TUGd5YklpWVZCTF9CTlNZd29ES1VQRzVxYWVTZUpiWktQWk41aXlQcW1mazcwem1IU0xycmRaSzRuQnlwWWJXbUJUaDVEckhSTVRiLTFlZTA?oc=5",
+        "domain": "www.cfr.org",
+        "publisher": "Council on Foreign Relations",
+        "publisher_url": "https://www.cfr.org",
+        "language": "",
+        "seendate": "20261117T130000Z",
         "source": "GoogleNews"
       },
       {
@@ -119,363 +179,103 @@
         "source": "GoogleNews"
       },
       {
-        "title": "NRC extends Project Ike review timetable",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPR1p3R0ZQT3NoaDlkRGN4YXg1QlpRT1FpMDVkYXlqUjJvUG5LQTN3QjJCX2s4YWszQWFMcFBYVmJUazhad0VJVzdQNF83MzVOd2xQTTkybzZ1bmhiSGRsRHJZcXZaM3FzMXBKOFhqM1ctYW1LVDlGMm15a3lHMVUtMGVoTW5BbVE?oc=5",
-        "domain": "world-nuclear-news.org",
+        "title": "Trump seeks nuclear cuts at summit with Putin and Xi, but prospects are low",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQk5VV1FyUjBaQnR6aUdNVmNhTVBFUi1ScUZuWmhMMFctNFpPTzliMkZ2bUhBTVVZX1ZvUjVIN290M2dNRVFVeGtuVG81SHhydk5kMW5EMldZeHoxR0Y2VW90U1hpSUFfcHIxV1lZeE5xV0J1dENTSVhUZHBHaG5INDV1SXRPSVJUOGRYdHRGbjk5T1ktMTBBNjJ4bGpEYU1Yc2hGX1M1anM1WWRwZWxMdk95Q3lETnA5dERvYkJsaV9xLWRMZk84WFpKWWlaclk?oc=5",
+        "domain": "www.defensenews.com",
+        "publisher": "Defense News",
+        "publisher_url": "https://www.defensenews.com",
+        "language": "",
+        "seendate": "20261117T161034Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "What’s the best way to analyze nuclear materials? The answer may be X-rays",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRnNLaGhpOUltTXhoTHNOaFd1U1BJdjI5emdPNEdfSDNDUzl2cTE2RXBvdDBXZEVEdHo1ZzBmU2lOWW1qajQ4TURzT3pDMElLX3htMzBkSnF2S0FKREtOVG1fZ0JxMTdSVVo1NW44Qjhyd3BrS1lxa3hhVWlWOTlhcS13bi13cllsNTBKWWtIRlgta3NzcVRRWHVjZUtBa0Nx?oc=5",
+        "domain": "www.anl.gov",
+        "publisher": "Argonne National Laboratory (.gov)",
+        "publisher_url": "https://www.anl.gov",
+        "language": "",
+        "seendate": "20261117T120000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Bangladesh's Rooppur 1 supplies country's first nuclear energy",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMzVYdXA4Snl3Ui1fa2F4NG9PM0pNbU5FczhXSDVKSm5jb1pwR2VGeE01Y3pFWEZ1aXFvV3VVbXlXTVZXU2dPZEpNTnJ6eVU4TnpRYnJmUFFndmtJZUpiM09mNlpQajRZWGZqdm04RGlING5JMDFGVzZkb2U5dzk5MUlqejJQWFY0UnZZWlI3dy01bWV3RU1FU2VYamN0NFNjeTNFTTVkQzJ2cllUSmtkd3Fn?oc=5",
+        "domain": "www.world-nuclear-news.org",
         "publisher": "World Nuclear News",
-        "publisher_url": "https://world-nuclear-news.org",
+        "publisher_url": "https://www.world-nuclear-news.org",
         "language": "",
-        "seendate": "20261117T054410Z",
+        "seendate": "20261117T134857Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Update 375 – IAEA Director General Statement on Situation in Ukraine",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNS2tzZ1dPVS1HZUdJTUxzdzhtOF9pSmc3a3Jia3BxNzdjYzhGTGh5d1YyMTlmYUt5UDZtWFE2eVZKYnVyNnJTZmlocUhvdks2eVlUUzJQRU9CZjJjZUN4VjhWWVlYX1BJaDhBMk9RbnF5cFFsWEVaNUx5ay1UdUhiMEJqZkh6MzFSR2FleTJQZ2ZkNXk1NTk1ZkFhakFvZjZUbTlxZEVLbVM0T1RfaWloZQ?oc=5",
-        "domain": "www.iaea.org",
-        "publisher": "International Atomic Energy Agency",
-        "publisher_url": "http://www.iaea.org",
+        "title": "What Trump, Putin, and Xi want from their meeting in Shenzhen",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOHZmaVRKMnBvRV9KYTdoNjYzQXY0cXhUMm16aTBCSGpkMVg3NEh4N0cyOFZvNzJsM3FnUUNObXNNTGc4Rl9oOFVuWDNRZ081VHEwTHFHNkxDamdSZkNFbDBSdmM2MzQ1T3ZETXd5X2FscHVDV181YjRKb0hyZ094MjNBYjc5cDRSY0NONktZOTNrNjhyOGJfTDI3UGJQOWxaVlM2NVVB?oc=5",
+        "domain": "www.atlanticcouncil.org",
+        "publisher": "Atlantic Council",
+        "publisher_url": "https://www.atlanticcouncil.org",
         "language": "",
-        "seendate": "20261114T083010Z",
+        "seendate": "20261117T173745Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Trump's Asia reset: Deals in Manila and Shenzhen, then a rare nuclear summit with Xi and Putin",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSlI2cmNPcXZmNVR0Z3dPOFVZbkM2OWdRZVBlc1dVSkdYSjRKdHVDNXo2UU9GaW5WclZZYTl2THJ4N1Z1aE5OblNTcEFRM0Qwd2I5Wlgyd1lMNHJ6RWRjcDJ4bjhIS0xYUEhOVmV6aWJrZWVreUNUc1FEVm12ZldfaTRBVExYRS1mcTZHUVRraGJFQkRYaWZFUXpDa2pIcy1ySGJLN0U2QnhOR3pSNENEY0pUUUJFa05PUG8tSlNVMHlGMDBIMTNKTdIBzgFBVV95cUxNVTJ5VUt1Um1pcXV5T3dpWjhOMGZFRnotbF9jZ19GZEZqV2tBcFFRN2xnS25EYTJnZkxvN2JuSG8tVUpWbDczMWRKMXQ1Qy0zaVVidm9iYUZvbG5YQ1g2eV8ydUxFdVdlRDZQczdxOXUydDdQTXFud1FLQTZIUkRBNG10VFZSUXZhVldDR2x3LVpfbWo4RG40WWlQNEVrbmkySlVyNHZ5VVoxdGEzUGNwY05lNlAtT1Bydjhzb3B2eEhPVGdTaVo3WGVHcjVxQQ?oc=5",
-        "domain": "www.pbs.org",
-        "publisher": "PBS",
-        "publisher_url": "https://www.pbs.org",
+        "title": "What’s the best way to analyze nuclear materials? The answer may be X-rays | Newswise",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNczBjQkxhbWtVWUVJeXBUSU94aDUxUm1Rc1VEUm81NjE0c0ZyZVlIZC1mdUdReURSUDM3cERkNWpKXzNOQVJidlpJUXh6dklVOXd6eGFkeWFLRkVfVjNWNVlIaEJabVIzQVBsRzFycFdTUFZyZDhmOXZoX3VkSHhZY2FidWlYVlE3Rng4cndCNERDbmxmTTBROV84NFNybVRkXzd6dWctZ0lLb3fSAasBQVVfeXFMTXMwY0JMYW1rVVlFSXlwVElPeGg1MVJtUXNVRFJvNTYxNHNGcmVZSGQtZnVHUXlEUlAzN3BEZDVqSl8zTkFSYnZaSVF4enZJVTl3enhhZHlhS0ZFX1YzVjVZSGhCWm1SM0FQbEcxcnBXU1BWcmQ4Zjl2aF91ZEh4WWNhYnVpWFZRN0Z4OHJ3QjREQ25sZk0wUTlfODRTcm1UZF83enVnLWdJS293?oc=5",
+        "domain": "www.newswise.com",
+        "publisher": "Newswise",
+        "publisher_url": "https://www.newswise.com",
         "language": "",
-        "seendate": "20261116T143811Z",
+        "seendate": "20261117T202500Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Before the Warning Becomes a Crisis: AI and Nuclear Decision-Making",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZWJhaXNNUnJwXzdVNkFtaVoxek9iV2p2ME5QLWtHOF9XaTl3NnFWT2dlU2hoMmpLemI1ZE9zbTVFMWhKRFFiay1RaDVreHNkVUlHVUtKdHc4V0o5Y1dJellSTGo1ZGs3dGZ3TU01ajhDNXk3SklTSm5CbkFlb2lIdHJQeVpvZFZrU05tQmdNN2VWTUFJM2FiY3NZdWw5dw?oc=5",
-        "domain": "armscontrolcenter.org",
-        "publisher": "Center for Arms Control and Non-Proliferation",
-        "publisher_url": "https://armscontrolcenter.org",
+        "title": "Keeping Watch Over America’s Nuclear Mission",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPX0pYY1hOOXlaOHE1UEdBZ0d2NWpoQnFkYWZFSDVmNmNEUi1zR0h0YjY3M2NRNmo2WnNJY0FYQXRZdmF2Ql9kTkp2aGYyd0lrZW11TVF0d2VpVnJzWUgtWXc1clNzZXNxSUR1Qk5JMEFVYmFva1kxOXcwTUtwOFI1ZHQ0OTJ2V0otdVNiTTJQVlpPLUxwZnVvQlBNSEN2VUJmMWh0MFB5RjVHcUhmM2JEOUxOQmtPX3FqbF96RklVWjFZZmRIc0F2Tk80YkM0WHN1cE40cDB3?oc=5",
+        "domain": "www.moaa.org",
+        "publisher": "MOAA",
+        "publisher_url": "https://www.moaa.org",
         "language": "",
-        "seendate": "20261116T190609Z",
+        "seendate": "20261117T173920Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Trump heads to Asia for historic nuclear talks with China and Russia",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZDNWZllXUTJqMFh2QnAxQnhpaHNZWlctUUhReGlzVnNKem4zcGpOd2puNTJ3YmJuSUo2dWRIMGc1ODctMDJYd3oweTlqMVc3RjY3THlZN2sxdnFTX2c4cW5ZZVdYMko0V1hWaDNvS1hmUWJmNmFFQzF1clQwQWhkTmpYT0hTVm52NzN5UDd1WFo?oc=5",
-        "domain": "www.france24.com",
-        "publisher": "France 24",
-        "publisher_url": "https://www.france24.com",
+        "title": "Nuclear Thriller Puts Spotlight on French Presidential Campaign",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPam1kcWw1ODNiWi0wQlZpUzYzQ2lRT2twRkVsWk1sd0ZReXNQZThXU0d1b3M2cEt0U2pIMmhWbGpMbHBqTmhsVUhFbzFPYTR0aUJ3c1ozWVc1VFNCd2djYk80c05VQm9uVENyTzBBQlJLQkoxR05KZTgzT0h5Vk80RTlCVkFIdGRIenBhT3c3OFI0Z3RTcmE0WWdNTlFCeXJob3QxR0JpelRMZ1R4aWhVRXBiRWM?oc=5",
+        "domain": "www.bloomberg.com",
+        "publisher": "Bloomberg.com",
+        "publisher_url": "https://www.bloomberg.com",
         "language": "",
-        "seendate": "20261117T030759Z",
+        "seendate": "20261117T181058Z",
         "source": "GoogleNews"
       },
       {
-        "title": "New York picks 10 finalists for upstate new nuclear project -- ANS / Nuclear Newswire",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQb1VLaUJNeVVFd0VGdFdPRWgxaHV1SmlfWGtsVENWTm1KcGthenRwT1Z1eHlvMXlNQkxCM0txbS1MTTBHZDhiUXJQN2NDSnNGWGZTSEtmZDNiZ0FRTWplbU5Xek9BdE94UnZScllzNGp1Qko1anRtVDZqUE1iVXgwYVZCdjhJaFY0cFQ1ZTZBMVBQd3RaUGRjTWIzSjUwOVk?oc=5",
-        "domain": "www.ans.org",
-        "publisher": "American Nuclear Society",
-        "publisher_url": "https://www.ans.org",
-        "language": "",
-        "seendate": "20261116T185603Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "The Power To Do Nuclear Workforce Transformation",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZnV4V1FReDZTa0RyRUZkN2N1MnNSVXRGM2lqeDQyV3psSGJ2SjdKNFdPYjhPUWJEbkpLUWtnZjNVOHZzclNsdFZMZUlBVEJORUNRX0RXdVRpXzBiWi04YkwzaXBrZzlSVG40eWNLXy1WcGZENUc1SzhxcDAtUGVxYm9xeVZEaTV4NEIyOGJ4SURsWGRGU3h5UVJB?oc=5",
-        "domain": "news.utoledo.edu",
-        "publisher": "UToledo News",
-        "publisher_url": "https://news.utoledo.edu",
-        "language": "",
-        "seendate": "20261117T080304Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Southeast Asia’s bet on small nuclear reactors fuels big energy security risks",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbkV3ekJ1MTdLS3pub2dIRkdpRTQ2VHViU2ctbmxjZGhHRFozdGI4V0JwV1lvaGJKZGtaM0NEUFJZZWpkNEd2OWFWNGdVRWtDLWxFVzdZMm91bEFMVGtwRzNjc3IwMmplVkhKc2ozdjhvZTZMUXJqblNxUkhQQlNfTU9rZmgzc0dHUW5wakl5YlhsTTlIbThkbXBvS18tMzJ2M05XbU1mVDNrSklIa3I0djVjTjJnMXlZanBSeFN3?oc=5",
-        "domain": "greencentralbanking.com",
-        "publisher": "Green Central Banking",
-        "publisher_url": "https://greencentralbanking.com",
-        "language": "",
-        "seendate": "20261117T070413Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Detecting nuclear weapons in space",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAwcTNRbDhVQllQanIxdC1kbTBqekd1cHVvS1F5akk5NkVtUnNDTHlDMDhJWl9ZNmZqZVlzVDJjUko1eFhpR0J4TmZzd0NBaFFGSXp0Zkp0X0VKSXRhVmNF?oc=5",
-        "domain": "www.nature.com",
-        "publisher": "Nature",
-        "publisher_url": "https://www.nature.com",
-        "language": "",
-        "seendate": "20261116T171723Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Existing Nuclear Fleet Upgrades Drive Investment Momentum",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVk9hX2pIdDJpNmkxSmRlLXRlOTVXX01sM1g3OW03bXQzTzY4LUtGS3RjVDlyRjQ0a3pNUjM4VHhGakpzNzNpTHludndRdmNGTW9rWnF4ZlVfR3hjVDEtc1BLN2lOZTNySTFtSVlLcVVlT2tSQVVLZ0I2ZTRSUldzeldDd1NtYk5VcGRETkh2eEF6ZWY5Z1hlUjVB?oc=5",
-        "domain": "etfdb.com",
-        "publisher": "ETF Database",
-        "publisher_url": "https://etfdb.com",
-        "language": "",
-        "seendate": "20261116T212029Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Next-generation nuclear reactors are coming to Texas",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMTNITnVGeG5aOWhyNi1PQ1F2WlpZVVJaSFNwLTNHNm52QlZtUzNSUFVtR1BNeW1sekFlMFB1MXhSbC1OLXV0NURDenJMZElORThPc1RKU2thLWdxVU1RUFBKcFRPdWxpTlJTMnkxd3RJcklRWXd1ejhvdk5lanJacnA5UkVMVDlBM3NmcmdqU2hTWmtKYTVySldTaHk?oc=5",
-        "domain": "www.planetizen.com",
-        "publisher": "Planetizen",
-        "publisher_url": "https://www.planetizen.com",
-        "language": "",
-        "seendate": "20261116T170000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Why is China resisting a nuclear treaty with the US and Russia?",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdU03WnlQT016UUM4SERtRV92OXdJcDlhYXY5cU5JRmhpQlN4WnZuYjFzTWhuMGRnVVdvQXFwUlVyRDdOaVNIQzJseWtQanRZSjhpT0E0TUJzOVFxazZNZHVxajVzZEduY1J6Zkh2ZkE2azBQZ3Zza3NXamhTUzRCaDYwYkN6SDdXSnVWVFMzQVA4MDYwb19FbXNySkRwNGtaY3pDQ9IBqgFBVV95cUxQbE9aSExVa3JSY1hKS2tDbkl3eHd5TDlZeGhsaDJfQUJRZU1wM0JGaWphWDZ1Zk9vZXkyN2VOT0tIVDlmenpkc2pRWFV4RGVnZXZrR2FrTmdjeGNJQkw5MXYwUjFLRWdJRkNxSXh0YW81SE1CM1hXT2lKNW9YZnhwSDhHWXdKN1FST0c4MEEtNUk2M3ZQTW1uVnZOcG1vSktBR1B4cHNMT05mUQ?oc=5",
-        "domain": "www.aljazeera.com",
-        "publisher": "Al Jazeera",
-        "publisher_url": "https://www.aljazeera.com",
-        "language": "",
-        "seendate": "20261116T080058Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Fear, fantasy, and used nuclear fuel",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcF9HWnB6WDdhODRIcDl1TS1QU21tOXBZM1FReGJ2Y3NDU2V2aUhOTHVTdXlpSzMxUmxEYkRyckV2Sl96RXFiOW1QMDRuaHNRdFFfUmpBLVpuc3lDcGtKMFlpRkNjREs0SXpjRFU1ZDFUYUFkdm9xa3pxTlM3Z05BWlI0UDZDd01DR1NqUDRVOGdLcmZK0gGaAUFVX3lxTFA3YVJlUXNmZlpQYnJqODBPRXB3RUlJamJCT2xWaFIwOGxNbU1jcmp1R3h2OVF1NkRINnRWeEptWlZydzIyQW1wNGFOVkczZTg5d0diWHJyWVpPellNNlhPNDlIUG50SkF4d2lzSG1WT2Z5YXE4dHBjV3FGZ3dkakhVeUpkZ25DVWxoWl84U0o2SmhTcDYwal9oNVE?oc=5",
-        "domain": "thehill.com",
-        "publisher": "The Hill",
-        "publisher_url": "https://thehill.com",
-        "language": "",
-        "seendate": "20261116T173000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Big Nuclear isn’t worried about the Democrats stopping data centers",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTG4zZ1JTUWZJUFdnQWtaLUpLaXNERWw4NmtCSVduNldNUGc5cjNCaGNhZ1N0WTRFeVJmNDFsaVJmRFZUUkUxSFgzVGs2UFlLV2xBU19MLW5BeVhYaFFCaHZ4SEMtelRaeVNmQnlDMndOaFdvMF84Mk9PSXJEb09uZHc5LW9lblRVWjR2aVE0LWN4ZGZubW82QTRBbWI3eDFXcjdB?oc=5",
-        "domain": "www.theverge.com",
-        "publisher": "The Verge",
-        "publisher_url": "https://www.theverge.com",
-        "language": "",
-        "seendate": "20261116T202937Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Air defenses activated in Iran's Isfahan, home of uranium-enrichment plant",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQay00cGVfdjctSEM2bGFhN0tRLXFVM1pSQ1pTbWF6UXFIZkQ5YThIZHU2X0J0Q2ROT25kZHVGT1pGLTNPLXRGbjFBT18taTZoZlJUZ2Z0cmx4TDRuczBLdkkzeUdmdjNUVUE?oc=5",
-        "domain": "www.jpost.com",
-        "publisher": "The Jerusalem Post",
-        "publisher_url": "https://www.jpost.com",
-        "language": "",
-        "seendate": "20261116T204349Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "B94: A New US Nuclear Bomb Designation Appears in a Senate Bill",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSjdYUnlGMlVvek5RNDZHdnBWRGthczlRVHhoWlZZSllGRHVxR1FfUFV5ZGxNQkEtRUp2aFZjUnh0WHI1MXZxbXdkZV9BLUUtTFJCanhwZ3hEelNQcWNaQmtLUE1mM1p3c1o4V2RSYk5lT0pfc0FRb0RNNklRQUZXOXJpM05nZVdkSy1uMDc5cVdxSTVXVmQ4bGwwV29XUQ?oc=5",
-        "domain": "migflug.com",
-        "publisher": "MiGFlug",
-        "publisher_url": "https://migflug.com",
-        "language": "",
-        "seendate": "20261116T152030Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Akkuyu 1 fuel loading 'could start next month'",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVzJjdjFLNEVNSTlHVW5VY2FDZUszNGZCNzk2MVd6MEpsaXcwcHdiZzRKeUdwZGdCNllIWkc4cmc3cmo3eHFWMVloWjJ4SDZrdV9RZnVOZERsMDdRRlJIMmtvcUFndVQyeUozOXR0Y3ZqZnhxbmJoeS1yMHN5WHoxNXRvN3VPaFpxRWVXNg?oc=5",
-        "domain": "world-nuclear-news.org",
-        "publisher": "World Nuclear News",
-        "publisher_url": "https://world-nuclear-news.org",
-        "language": "",
-        "seendate": "20261117T054207Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Newcleo, Curio team up for recycled nuclear fuel supply",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNa3NYYlZ3OUZGNF9fNnlVWHgxNlpLWGgtM0xCVUg0YlhKVjdlZkd6dnJaM0xxQ0hzVmF4WktKellPRm1BcmhfS1NMZDNkR19vSnZqQTBscnU3SzQ2ckZydFRBbU5tandGU3JxUGVxUG41UkllTnp6NEtjZ01mSkp2NXVUMU9LQWNtUUg2cXY2WVpidk92WVVMTk1n?oc=5",
-        "domain": "world-nuclear-news.org",
-        "publisher": "World Nuclear News",
-        "publisher_url": "https://world-nuclear-news.org",
-        "language": "",
-        "seendate": "20261116T161850Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Top 3 Canadian Nuclear Stocks With Earnings Growth Up To 37%",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUk9yb2JSQlo1eHlua2V6WmdacDdQUV9jYnc2VjFZOU9ZVkdZUjl0WU9RRXREelpLbkd0NFNweW10OTZoUFJhc051bUpjc1hiek9ad2ZmOTVxTm1wamhqOUI2ZHRoQlpUb2ZnSjctTVVOUUVwam1oUVM2OU1Zdkp2dVVMYWcweXV3Vk82TVp5TQ?oc=5",
-        "domain": "finance.yahoo.com",
-        "publisher": "Yahoo Finance",
-        "publisher_url": "https://finance.yahoo.com",
-        "language": "",
-        "seendate": "20261117T053928Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Mysterious New B94 Nuclear Bomb Designation Emerges, First In Decades",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOekx1OGtRUlZaZk9fMHp1LVFxMnpEeXpTa2hsTXJsM3JMZUwtUUtWVzh5N2p6ejVsRHMzLWFMYkZPb2FVVTRXcU13cDVuWlF0T2g3MDhZQ19uZUVOaGNYOTY3azJqMzhGVlFueHBWMk0tSG9nTnhkTFdEQnpYTHp0aVRNdDJ0SmZ4TG0tZzBJVnJxdFA3Z1U4aUJibGQ?oc=5",
-        "domain": "www.twz.com",
-        "publisher": "TWZ",
-        "publisher_url": "https://www.twz.com",
-        "language": "",
-        "seendate": "20261116T144207Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Work programme being planned for next year, as Paks II audit continues",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQR3BzWWpydHJlYnFXaXg3bXdIbXVVcXZwOHF1cDFLYVp3dk1EaDg0TGl0YzZGUjdiWWNjaDF2MGFpeFJYMm9xaFRjU0FNV3A0cUFCSWw3N0k1N3NYd3MtcnVpOGp1MUpzbmlUT3otd3BNeUpWY0EzSFY1MHcyVzh2a1hoU0RCVmw0M005bEdTU1U4dVc3Ukl1UkFfcWlNRGRBTnZGRkNyeTlBSkFvZnc?oc=5",
-        "domain": "world-nuclear-news.org",
-        "publisher": "World Nuclear News",
-        "publisher_url": "https://world-nuclear-news.org",
-        "language": "",
-        "seendate": "20261116T174728Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Bill Kaplan: Nuclear weapons must never be used again",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdXpfcDlqcEo4ajZhajZkdDdqdHNLLXV2XzlGcWtCbFNpaU45MUtEcW1La3JGRTN0MlNBd2IxZWh6eDV1azNETTJJM01vYllmS1owV05fYVVtX0IyZWdrOU1PR0xMeHpCcmptblEzdC1JajY3ejdId2ZhTVJEanJTSGJ2cUdSa3F1SmpOMUNqcw?oc=5",
-        "domain": "www.wispolitics.com",
-        "publisher": "WisPolitics",
-        "publisher_url": "https://www.wispolitics.com",
-        "language": "",
-        "seendate": "20261116T171247Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Nuclear bomb in space would disable 98 per cent of satellites within a week",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZ2NsUkhVOC1pM2tsV1RsNkJoOElxcGxWeEZLNzRmdnFVcW10RWlxcVk5QVZSRkZCcnNpaFM2NmU5U0pLOGpfQTNzV041RV9ycmpPY1dRWjYzT3ZDeUh1dHI4X19YMnNjcHllRVp0S3RvOXI3QnEyU3JUV3RZV0FWQmpqSWhhR1lMM3phYjJvNGZPclJBSjZoeDBwZGxSSWNza2NLQUR6NTA2SVZRdkp5N2NkdkZpTm1SOHVhRnZn?oc=5",
-        "domain": "www.newscientist.com",
-        "publisher": "New Scientist",
-        "publisher_url": "https://www.newscientist.com",
-        "language": "",
-        "seendate": "20261116T161701Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Single Nuclear Blast Could Disable 98% of Satellites, Study Warns",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN3pMLUt1b1Utc2xvZUV6U2hCLUVDM2taT0haWnZ2cG5qRGVhaExOSlIyREh1bnJRUlk1eWNKYk9HZHFZdTJtTXVVeXo1M09SSFFYM29hMm5KemVlelp6WEhKV19Sc0ZJN1BYYVJ4VERBQW5TcnZHd09yRGxVeXR6U0ZPaE96ek96?oc=5",
-        "domain": "www.chosun.com",
-        "publisher": "조선일보",
-        "publisher_url": "https://www.chosun.com",
-        "language": "",
-        "seendate": "20261117T074358Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Washington earmarks millions for potential new nuclear bomb design",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOc050OEpnUlFEMGd5VnlUUmRIRnZYTFQzR1RZWkIzcEliMzNLU04tSGtQQkdHOHdobzdIZkRReEpDbVpxQjdUalJIb0FtdnVjQ1FST1dnd1lOUVl0bmlSUGRNakdqUDN6QUtvdnNicTVKbmVsRWtvc2dLbnFndFNzZ1ppcDBfYnJIN3Bra1Z4QjNkdUdubUE?oc=5",
-        "domain": "tvpworld.com",
-        "publisher": "TVP World",
-        "publisher_url": "https://tvpworld.com",
-        "language": "",
-        "seendate": "20261117T081100Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Trump to Meet With Putin and Xi in China, With Nuclear Proliferation on the Agenda",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaWlZUDZrQV9aZ2RzMS04ZERzWXlNWHp4THBtR1pyZ3NBbjZkcm1PMF9PLUhuTzJzZzRZT2Nlb1p5NVJ3Ul9EaWVVTHQtb1Ytb1loSHRvYkU2ajBBZ3hPdW1YdTY1Smd5WDRRdWNFMl85cVBVRGJBbl9fRTAtZ0lBUFctdFZXVWlYdGdPb2paa3piNzRwbHVrQ2RR?oc=5",
-        "domain": "www.nytimes.com",
-        "publisher": "The New York Times",
-        "publisher_url": "https://www.nytimes.com",
-        "language": "",
-        "seendate": "20261114T015654Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Virginia Congressmen Envision Key AUKUS Role for State’s Shipbuilders",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWXlTNFlVQmduQlFkRnhWRjZ0cFdWcjJJd0RjOWVUVXN4NzA0VjJ3djVFZU5rcWFzT0VVejV2THpYVFJHRDYxNFRNRXN4aTJZYW96N3hoQXo2RFIzWWhjRDRzcWpncE45SE92S01fRjNBa2pKTVFCY1htWV9panNIZXo1WThhamxBUnhwTkVLMUIwZ1llWDQ4WnRscEZSZExvU1E5ckFyNkljdjRkUjVORHJRdk80WjNqWWVqQUJkUG1oTEs4cnIw?oc=5",
-        "domain": "www.nationaldefensemagazine.org",
-        "publisher": "National Defense Magazine",
-        "publisher_url": "https://www.nationaldefensemagazine.org",
-        "language": "",
-        "seendate": "20261117T042237Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Trump to hold nuclear talks with Xi and Putin, with Kim Jong-un possibly joining",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOT25TMTUyQVBkeGh6dlFlbWMtd0dfVWptNzFGRmxCcW9OaUE4Zi1YZTdkdlVLYVJycURJbVp3dGlPVVJCVjNQSk1lYXNiMUpEdDNMNkZBMmVSaVFWN05zZEVvOXZ2Zy1mcko3YmlmVmJnSnFqX0RMSUJLcDNNTlVOTnRyVUpTdllMSnhTanpWbjhCSGQ4YzBtbW9wVkxEVXVBdmFxeHZPVlYxZ1cxbnVuMFlYUk1xZmpQbFNkb1pubENsMElBMXllaGVqRQ?oc=5",
-        "domain": "www.thenationalnews.com",
-        "publisher": "The National",
-        "publisher_url": "https://www.thenationalnews.com",
-        "language": "",
-        "seendate": "20261117T062225Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Former nuclear power official charged with bribery",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVFo2NVk3UnhJUmxfaldiMUxzQXFvSm9kOTFyX1EtMHdIbUZBekYwa25HeV9xejlQWHQwZlV1WFJrTUQzQU5mT1VKWUtiUzJxQldZSmpYT19ISWstNFdNbkd0OEIzanNrc212VWdwQ2ExMTM4aEhRak5LcnByYmRqenV3?oc=5",
-        "domain": "global.chinadaily.com.cn",
-        "publisher": "China Daily Global Edition",
-        "publisher_url": "https://global.chinadaily.com.cn",
-        "language": "",
-        "seendate": "20261117T063232Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Iran blocks UN nuclear site visits until war ends",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOV3JPU05PMGRCZ2JuRUVlNHhSczFMVFItd1hRLWRMMFpsQURjZFNRT3A2Wk5FSUU2d08tSFQzdmlXOWZ4RVNfNEZ2SHJVWmNvWUtvNlBpMXo0SUlLSUY5SE9ubWpJX0RuUWlubGZCcTI1eHpRMkFJQmVTN3J5dGdkWlV4NkxUU1ExdllPR0Y4djBmeGVZRjJCb0JQM2gwYWg2?oc=5",
-        "domain": "www.france24.com",
-        "publisher": "France 24",
-        "publisher_url": "https://www.france24.com",
-        "language": "",
-        "seendate": "20261116T134655Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Model of 'alpha-beta decay' could solve a decades-old nuclear mystery",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmY2dnTThiRFFRUThCWUxBUDNOekhTcDhBOWVyQzRpRU1DRS1hcG5pdTZKZk1vM1dUaWphcXZfV1pGdnNJMjVtTjNxX3ZZemFhbmdNc1gtYTFsN0Y2c0x1T3c4TmVTOGlKdlpVYkZDVDJzb3pSSmc?oc=5",
+        "title": "How one nuclear blast could cripple nearly every satellite in low Earth orbit",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBsWC0wMXUtN0pDTkFpVUZrRDN3ZjlteEVmV2tHU0NhcnVhdWVGZTBIczZvZDVKZlZIUVcxR3EwZnh2YzFzMkdGMkR3MHIwN1JrNFhUTEVtTmdGWGVDMU1kSTZBcjA4aFE4aDhOdk5YR3kzTmFtbWUzS3NtM3k?oc=5",
         "domain": "phys.org",
         "publisher": "Phys.org",
         "publisher_url": "https://phys.org",
         "language": "",
-        "seendate": "20261116T164001Z",
+        "seendate": "20261117T194008Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Russia’s Energy Strikes Risk Triggering a Nuclear Accident in Ukraine",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYll1eVFkZGZaZTF3NFhNMjF3TnVmSHFONGR3SzJaVnJILUxVVmlTaVFXYktrRTZoVWQwTHAxSFo3Q3k1RndRTUFqLWYySF95M2YyQVU3RGhXdFJPOWExOVJNd0ZGeGY2aTlqenVOLXJSWGtScDItZVBaVzNSOG5kay1XQ1hhYmNLLVUzRV9rV19lWlNCU0J1dkFGdlpScy1hc2Vsb3NiZHNfdw?oc=5",
-        "domain": "united24media.com",
-        "publisher": "UNITED24 Media",
-        "publisher_url": "https://united24media.com",
+        "title": "Senate to Review Saudi Nuclear Deal Amid Weapons Proliferation Fears",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80V3p0VmotWlZLRmg0NDRETm4wZ2VSdEpIaGdkcVFxS3BiR1ZaSDdvX2l2N0FfRkFEMHpOYkN1NnFrczZaRm1vSThHSWlvRF9IcUpIZU9nWVBjOWdidHVEd1NuY1M5b0FQVDhpdlJwcHVFcGVu?oc=5",
+        "domain": "legis1.com",
+        "publisher": "Legis1",
+        "publisher_url": "https://legis1.com",
         "language": "",
-        "seendate": "20261116T164707Z",
+        "seendate": "20261117T164115Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Insights into Construction Delays at the Vogtle Nuclear Plant: Primary Sources of Delay Identified by the Independent Construction Monitor",
-        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNWjQ5ZFVqNklQMkE4NFV4U0dDV2kwTkVobk13VFp5Wlp0M0lwZG9qZm1GWmJmSWYtdVhud3NjcHZQc2t0NEJHdDFSTzRtRHdpYXR5YzFhTjd5NlIzcUhOcjVYSXM4c056TGRkTzZJUllhM3BsbWNuWnBGbWhyV1Y3b0pMblk4TXVGcHBkQlp1dUpKLTdaYkJQUWdWNlBQaU5LZFJMc2RJQXgxRDBtYTBlNWo3X0ZnZE5fY1Y5dnFjSVprQ1YzM1ZuWU1vc29fSzZVX014MmdSUmU0dGNHY1YySTJlN1puTEpTOUpiXzRZWEZVcU9BbHJQX2d4VE9EQkFGazQ5ZmtHX3ViZEd1aDZkcHI0SHNHa2lI?oc=5",
-        "domain": "www.energypolicy.columbia.edu",
-        "publisher": "CGEP",
-        "publisher_url": "https://www.energypolicy.columbia.edu",
+        "title": "Trump’s nuclear trilateral long-shot",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRk9aNWt0WnlUVmNVZm9PU1BQYjBrUGtxMHNUT0ZWWnhnMi1OZENlVk5mWS1XV2h5dXhVU3F2b1FuejJPTHhia1FXaF83U0hjMWw2MTFjY0N4ejZyTUNzelVaYmNNWDNFRk5Tb0p1ZHFCd2MxWF9DTWlIcFBZSURQckx4VEw1TXJVVnRNVThaU2VxdFJadnh2dmdZQ0Nod2tvUFZhVHR2WHpuQ1Y1anFQdW5aNWxTUWc?oc=5",
+        "domain": "www.politico.com",
+        "publisher": "Politico",
+        "publisher_url": "https://www.politico.com",
         "language": "",
-        "seendate": "20261116T063650Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Exclusive: US intel indicates Iran developing plans to potentially detonate a dirty bomb in Washington, sources say",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE03SEs1dzdtOVl4RVo4TjcxOHpLMmpKZlZ4cGFCQjQtMnV3OWhMSnhvemduUWxJSnlYYWstUk5PYURBSmxLQ2VDY3NyUG9fNXhDTlRwSDFEVFNCN29vWWtOaWRhTDlPYk04TThPOTREX2FVSzhZdEExSVVyQQ?oc=5",
-        "domain": "www.cnn.com",
-        "publisher": "CNN",
-        "publisher_url": "https://www.cnn.com",
-        "language": "",
-        "seendate": "20261116T225928Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Iran Urges IAEA to End Restrictions on Cooperation",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1GNFRFRklqT211a25WbDlyVUFhUmxzLURMT1BRS2NmcHhSYkxtTTNMaUxXR2xaeWc1TFZqSEh2enBpMFp2UGd1THI0V0pJVjJ4Y2ozaGxMNnRfZXhOaHpDUFg2bFdUSnFMWlZmaU1mMkJhek83dllzd0R3?oc=5",
-        "domain": "wanaen.com",
-        "publisher": "WANA News Agency",
-        "publisher_url": "https://wanaen.com",
-        "language": "",
-        "seendate": "20261117T062443Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "East Feliciana activists oppose proposed federal nuclear waste site",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcnhQVVg4VzNQNG00Mkd5R3d6WFM2RTE2ZVUzS3ZSOU5uc0k5X0hfVFd0c1dfVU5JNkZhQXFwWG9YOGI3bXZZZ2JUa1ZvQWk2VGozUGdjRmlDRkdRRkcwNVhoMTdXdEphWUFOTjhqRTFnRnl1YnZUMlhYM0V0TXBjRjJHeXhsVVphRTVOYVIzWGFESVZKODlOZC1B?oc=5",
-        "domain": "www.wbrz.com",
-        "publisher": "WBRZ",
-        "publisher_url": "https://www.wbrz.com",
-        "language": "",
-        "seendate": "20261117T001639Z",
+        "seendate": "20261117T211258Z",
         "source": "GoogleNews"
       },
       {
@@ -489,66 +289,256 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Iran’s UN Envoy Warns of Double Standards on Nuclear Issues",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaHVvekZ3OUJlbUFyUlBDcmlEMVlpdER3M2tVSEEtVUhiM2cteDVtcUdBWVZra0lxb3hHOEZBTzZBdHI2RFNnQTZCVF9sS2VYNFpBenNWNzFlcnlmUklFMTNFOVNiWXRJczEwQ0Z5U09kaGh5b2FTRHBNUUZHMVlRVktUYlU?oc=5",
-        "domain": "wanaen.com",
-        "publisher": "WANA News Agency",
-        "publisher_url": "https://wanaen.com",
+        "title": "Update 375 – IAEA Director General Statement on Situation in Ukraine",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNS2tzZ1dPVS1HZUdJTUxzdzhtOF9pSmc3a3Jia3BxNzdjYzhGTGh5d1YyMTlmYUt5UDZtWFE2eVZKYnVyNnJTZmlocUhvdks2eVlUUzJQRU9CZjJjZUN4VjhWWVlYX1BJaDhBMk9RbnF5cFFsWEVaNUx5ay1UdUhiMEJqZkh6MzFSR2FleTJQZ2ZkNXk1NTk1ZkFhakFvZjZUbTlxZEVLbVM0T1RfaWloZQ?oc=5",
+        "domain": "www.iaea.org",
+        "publisher": "International Atomic Energy Agency",
+        "publisher_url": "http://www.iaea.org",
         "language": "",
-        "seendate": "20261117T045447Z",
+        "seendate": "20261114T083010Z",
         "source": "GoogleNews"
       },
       {
-        "title": "State officials answer questions about proposed nuclear waste campus, residents push back",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOE1maVB2WE0ydHlDYmlwUnNWMHQzemhGM0N3dWpscWpxbUV6ajRpMXpmZEYzRy1mVnZSUU1FSEgwQmdoV1pwT3FRTHJmVHRuWHpnamZMN0R2b3d5UlhLUVozQzFVdFdvN1ZyLVJuVWl2Q0hVdDNPRVMyczQ4dEotNlVWUmtJTDB6QlZyZDRQUVE0d0p3SWpaZTU5R2RjMEpYS05FQzZmYXUzY1ZOQkdfUmJXX3czUQ?oc=5",
-        "domain": "www.wbrz.com",
-        "publisher": "WBRZ",
-        "publisher_url": "https://www.wbrz.com",
+        "title": "Urenco, Blykalla sign HALEU deal",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORC1reDBrdDJESXRFOTQzYlFVdlNfdlB5Um5QZ2xQYk1kdnhXZUJhT2NkZ0UtdkRpT3pUREFjcGQzTGJoMW91aU9wT2NSYmhESk45TGVPenRMTzBkTzNzS1FCOGtmU0VrcVo4TVdXREFadkhmYlEtVGdFS3F5eVJtdw?oc=5",
+        "domain": "www.world-nuclear-news.org",
+        "publisher": "World Nuclear News",
+        "publisher_url": "https://www.world-nuclear-news.org",
         "language": "",
-        "seendate": "20261117T043318Z",
+        "seendate": "20261117T161534Z",
         "source": "GoogleNews"
       },
       {
-        "title": "A sweetheart nuclear deal for utilities, an enormous risk for Ohioans, courtesy of Ohio’s GOP",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOR1pMVkNsOUpFX2hudy00VTV6cXRxSmhJNHd4ZXNoX0w2WmJGVVZtYjdTOEt4cnNNemRYSXlqUDZKRHZtbUIxZmo2b2hMVm4zX1NaRG1iXzRKLV83NmphTGpjV1YtWXNYTENMT21ZUUtLZDV6SnBDaFRQX1czZ3NXenFEa0l1MzdxM1lGWWtFNU1IS0lSS2I1SDFrRlcyYmJ0LU5sUE82cWRKZHFhRTE4THlpakQtaDJOd016elRkMXJmRFUxSUF2Vk1YdnA4cmvSAeMBQVVfeXFMUDJMM29qbEwxT0ZJT3g3N3hvcDdVNm42MV9Od285eWNEOXM1YVFDZmFJU05qblZsemZrREVYRmotbUpvN1VsTmxTRkdvUXVmY0RIZHU0V1BZUFNocno5cDRMSFh4RkxfU3lsWmFsYUVsMnR6eWNnSnM4blhqdEFRVXRhRUFleW5sYzhQLXZSSlY2bmVsQW5ZVmF4N1hWTDloODNCYlRsZUU5cTFnOU9UQnZ4NkRvNDIyMlJ4WUFvTTRNbFQ0M2gyMVQxNE1XN1Rkak1qT2FZWnhTS3VtQUZCZVRvYVk?oc=5",
-        "domain": "www.cleveland.com",
-        "publisher": "Cleveland.com",
-        "publisher_url": "https://www.cleveland.com",
+        "title": "Why is China resisting a nuclear treaty with the US and Russia?",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdU03WnlQT016UUM4SERtRV92OXdJcDlhYXY5cU5JRmhpQlN4WnZuYjFzTWhuMGRnVVdvQXFwUlVyRDdOaVNIQzJseWtQanRZSjhpT0E0TUJzOVFxazZNZHVxajVzZEduY1J6Zkh2ZkE2azBQZ3Zza3NXamhTUzRCaDYwYkN6SDdXSnVWVFMzQVA4MDYwb19FbXNySkRwNGtaY3pDQ9IBqgFBVV95cUxQbE9aSExVa3JSY1hKS2tDbkl3eHd5TDlZeGhsaDJfQUJRZU1wM0JGaWphWDZ1Zk9vZXkyN2VOT0tIVDlmenpkc2pRWFV4RGVnZXZrR2FrTmdjeGNJQkw5MXYwUjFLRWdJRkNxSXh0YW81SE1CM1hXT2lKNW9YZnhwSDhHWXdKN1FST0c4MEEtNUk2M3ZQTW1uVnZOcG1vSktBR1B4cHNMT05mUQ?oc=5",
+        "domain": "www.aljazeera.com",
+        "publisher": "Al Jazeera",
+        "publisher_url": "https://www.aljazeera.com",
         "language": "",
-        "seendate": "20261116T203900Z",
+        "seendate": "20261116T080058Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Dow nuclear project clears major hurdle at Texas polyethylene complex",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBYMEs5VjJQblZ1aF94RkxjMmI0S2k5WS1aTWZUNXgtTEppRVFQTmdTd0Mzc2o5QXFucmJVTjdHeGFJWFJWamhOeVJUYVRKMy1IY3JSSWV4LU9IbFAtNjh4Z3cwcFNJOEM0Vms1WkJ3WHZ5Q1l1ck51REtPVQ?oc=5",
-        "domain": "www.plasticsnews.com",
-        "publisher": "Plastics News",
-        "publisher_url": "https://www.plasticsnews.com",
+        "title": "Is Iran plotting a ‘dirty bomb’ attack in the US? What we know",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSFp4SnYzOXRsMUp6V1hFd2VxdkhrbXQ3MEJKdF9QYVVaMUVsZENOS0t1cjFzMnNROVR6WHdVX3UwOHNmMEVzNnhvLW9TXzBpZ3RtUS1FR3o0R19ueEZfYUw2eTd4Y0ZxZ2tIbVV3eUZiRWFncmYxdWZFWkdHYm9oN29PdTVvREtZUkxzX0dJOHJkNzkwVVp6N3g5VURCRC1vSFdR0gGoAUFVX3lxTE5FU3NQVk5OaDlLVkpUZEVyYUhrengybi1XR2tCanVTbW00OXR4NnVWelBJZERXV1d4YjBsdXVmaXNFekdZWDNpckY4dXFYc3F4ZW5OS1dWaGpEdmZOUnY5RmFqVzl6VUhyN3FfbjEtaVBMYWU4di1KZGJUSXJoVS0zTVZzOEtLSFhuWC1wT3ZMVmdEdUpvWUgtNHVDc2hzU1pheEotSW5NVg?oc=5",
+        "domain": "www.aljazeera.com",
+        "publisher": "Al Jazeera",
+        "publisher_url": "https://www.aljazeera.com",
         "language": "",
-        "seendate": "20261116T204800Z",
+        "seendate": "20261117T150921Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Rare Footage: B61 Nuclear Bomb Loaded Into a B-2 Spirit",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOGxWRjBYMnhkbTI0ajhFbzBYZjZXaDBPZlZEbUNESXc5TEhHeXllZjRtVG5nV2NTcnk2WmRkcDlCX1VndlNpSlRHdEpGZC1IbDd2dmktSV9KaWlSS0Rad3g0bEplODd0aGpxQldZRmhlTWZIQjdUMS1zYmpHQXE5LTBPNU1HNzZmNWZiSThhX3Z5WmhlU0xYTEZ3a3l6a09BNUFmMFFB?oc=5",
+        "domain": "migflug.com",
+        "publisher": "MiGFlug",
+        "publisher_url": "https://migflug.com",
+        "language": "",
+        "seendate": "20261117T193126Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Norway Backs Nuclear-Powered Offshore Vessel Project",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OOUs2Z3JBSE5BejFaMlJ1RFFWa2EtYlhKa2k1Y1A3dE90X205OTNQbDBWSnhqSnB3Nkd6ZjFWRFlnZ1B2cENaOXRINU43UnlubXRmVjJUVWh0c2loWWZrVHZWWkRCWDdaaVI0UVFkUXpueEZwS2JxbklOaEVhdzQ?oc=5",
+        "domain": "gcaptain.com",
+        "publisher": "gCaptain",
+        "publisher_url": "https://gcaptain.com",
+        "language": "",
+        "seendate": "20261117T162900Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Rockets. The nuclear age. More PhDs per capita than any state in America. New Mexico has always been a place of big ideas. Now we’re building an economy to match.",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNenZuRm1GOUlVd2ZvNl9Hdk5uNzY1SnR4X0dRQTBVX0FBSEpNREZMam9Wb0EyVUVQbXVWa1kzNnJnLU1fOUNyOW15dzFXdV9mcVVMd0M4WWFBNm9TajlPOF9nMjAyNnU5YlBKb0ZvclBWX25ySmhHaEF5REtPVTFWRXlVOU5MY2JtWmZjRWJtLUNkd1FyRzFrZm15Qm0xN1pRMVNoU1Flcw?oc=5",
+        "domain": "www.facebook.com",
+        "publisher": "Facebook",
+        "publisher_url": "https://www.facebook.com",
+        "language": "",
+        "seendate": "20261117T193330Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "The Nuclear Time Bomb Ticking Beneath Putin, Xi and Trump",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWUtCU3ItOWlFd1RmUFhwQmFYN2hQb0dQRlpTb2VaMmR5a1Vma3g1ZXczUjVCOEkyTXZGX18xWU1JMHZnREZTTnNLYXJIcFc1X2Q3Z2YtZ2x4dFVyOG1mUjl2TGQ0enUzMFB2cEpDUzJFUndad1JxWTBjZFg5RGlFbWFKZ2h5a0o0SEE?oc=5",
+        "domain": "www.newsweek.com",
+        "publisher": "Newsweek",
+        "publisher_url": "https://www.newsweek.com",
+        "language": "",
+        "seendate": "20261117T155600Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "The Power To Do Nuclear Workforce Transformation",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZnV4V1FReDZTa0RyRUZkN2N1MnNSVXRGM2lqeDQyV3psSGJ2SjdKNFdPYjhPUWJEbkpLUWtnZjNVOHZzclNsdFZMZUlBVEJORUNRX0RXdVRpXzBiWi04YkwzaXBrZzlSVG40eWNLXy1WcGZENUc1SzhxcDAtUGVxYm9xeVZEaTV4NEIyOGJ4SURsWGRGU3h5UVJB?oc=5",
+        "domain": "news.utoledo.edu",
+        "publisher": "UToledo News",
+        "publisher_url": "https://news.utoledo.edu",
+        "language": "",
+        "seendate": "20261117T080304Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Trump's Asia reset: Deals in Manila and Shenzhen, then a rare nuclear summit with Xi and Putin",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSlI2cmNPcXZmNVR0Z3dPOFVZbkM2OWdRZVBlc1dVSkdYSjRKdHVDNXo2UU9GaW5WclZZYTl2THJ4N1Z1aE5OblNTcEFRM0Qwd2I5Wlgyd1lMNHJ6RWRjcDJ4bjhIS0xYUEhOVmV6aWJrZWVreUNUc1FEVm12ZldfaTRBVExYRS1mcTZHUVRraGJFQkRYaWZFUXpDa2pIcy1ySGJLN0U2QnhOR3pSNENEY0pUUUJFa05PUG8tSlNVMHlGMDBIMTNKTdIBzgFBVV95cUxNVTJ5VUt1Um1pcXV5T3dpWjhOMGZFRnotbF9jZ19GZEZqV2tBcFFRN2xnS25EYTJnZkxvN2JuSG8tVUpWbDczMWRKMXQ1Qy0zaVVidm9iYUZvbG5YQ1g2eV8ydUxFdVdlRDZQczdxOXUydDdQTXFud1FLQTZIUkRBNG10VFZSUXZhVldDR2x3LVpfbWo4RG40WWlQNEVrbmkySlVyNHZ5VVoxdGEzUGNwY05lNlAtT1Bydjhzb3B2eEhPVGdTaVo3WGVHcjVxQQ?oc=5",
+        "domain": "www.pbs.org",
+        "publisher": "PBS",
+        "publisher_url": "https://www.pbs.org",
+        "language": "",
+        "seendate": "20261116T143811Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "NRC accepts Blue Energy’s partial gas-to-nuclear plant application for review",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdk5WaDNXSE5BWE01M2h0VUZTNWRERzNEZVRiQnJ0c3NhN3ZWd1A4OXVwS0FFeHh0YW15NGJxTGVVbWhZeldycnNnMDZpRXptRG5DMWh5MHRRQjJOVFhBNG05TFYwc2tyelR1aDlVVVgxVE1QUGpTdjVISG9DUkJhajcydnB1YjZpcXJoTy03QmVVNlhncUtpQWx2c3pIdDFGQ1ItRHo1TU9YSDJiZ3c?oc=5",
+        "domain": "www.exchangemonitor.com",
+        "publisher": "ExchangeMonitor",
+        "publisher_url": "https://www.exchangemonitor.com",
+        "language": "",
+        "seendate": "20261117T194152Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Russia Sends Nuclear-Capable Bombers to Vietnam for First Time in Years",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUGdZZXJncFdsbFltZVprVUNkdlA4ME8za3dtTlA2REQ3bTlsemtDc01nY3o1X2xpbWs0VWgzS3JQY3VlZDVlbFFaNkRVU005LXhZbUNKcXNRaDFCSzJOSjdweWg0d284TllhUjFjaG95RkE3NVR1NU5DLXN1WmdkUHFtdThKb0x1bEZOcjNZUnhhY05URUF2UDhOZkE3OFgyRmhyYWo4Q0k1WWxHOEE?oc=5",
+        "domain": "united24media.com",
+        "publisher": "UNITED24 Media",
+        "publisher_url": "https://united24media.com",
+        "language": "",
+        "seendate": "20261117T102945Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Blue Door Academy program to bring after-school enrichment to Brunswick County",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQb3RrN2lMaFlBSWhGZFgxRlYyMlFIVUFxOE51UnhjUkRYb0JadXkxdllnNDU5aTFFRzBoRGVEY2VVTVMxZlQxcngyb2FjLXlVM0lZTzJYMm5wNkRzMnJaekFhS3I4RndDN21MM2NTOC1sT2pXZVk1T1ZFNU5tZ1FXRXVuUXRHSnpkSTlNOTdKQm5rUGxtbHRYVnpZalpQb2JvSlE5WHp4b2PSAbwBQVVfeXFMT3RxelNoYm5mcmJRWExaczlqWjBpc19EdktqYjRIMS10RVIyRXV0aE9jbm9BV3c0V0FQS0lMa3R6TnJjb0xoQ05MRGdHWjBrdVFsMmVNWi03QW1qWUNic3BUdWp6elFRS0ZWNFFpaXBMbVBRcV9PMWVRSGptRUFHendLTmFKYmNQbEJVWnFTNzQxRWtxM1Z3NFpIT1k4M25BeW1Ld3RWOEk3RnMzSEV0SjdBcEpCZC1ocFFGdUo?oc=5",
+        "domain": "www.wect.com",
+        "publisher": "WECT",
+        "publisher_url": "https://www.wect.com",
+        "language": "",
+        "seendate": "20261117T180700Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "The Military Strategic Drivers Behind China’s Nuclear Expansion",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMDVOQ1ByX04tZ1VpZmZsVUc0bW1IaWo3bXBXSHdCVmUzUTZTbWNMMkNSYVZsTGR5RWk2UGllLUJYRVF3OVR6WTNHR09SUjd5Q1B3VFhZb2l2MUVMc3lFb19KM1UzaC1Bc1Q2TmdFSGFPaUpISHByUm9xLXo0UC1aZmRhVnoyYjNBXzcweDNZZ0t1TFU?oc=5",
+        "domain": "warontherocks.com",
+        "publisher": "War on the Rocks",
+        "publisher_url": "https://warontherocks.com",
+        "language": "",
+        "seendate": "20261117T083333Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Poland updates its nuclear power programme",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQSTBZUGo5NVVULWxLRFJrRmF0NjMyMkM1cDVEZGNrOGI5dWRZWUQ0U2gzZHRFVl9nMktEZjB1Y3U4cW1NbHplaUtIZmVUd194VUl1d0ctTmdXZF9xNDVXVFpHS21Bd0JSbUEtams5VTVram0tYlNRaXYtMU9nUi1wZzJwTExfMEtaS3NFNGRZM05EMFRlSmpJaUNwTkJvQU5sWm5paV9KeXdyUXlQUTZEYWNLTVFsRUJ3c09LN2prU2FsN3N4aXpJbDRwWVd5X05VU3pMSmJ0dm41QkhmY085bnpFTzBqcHpoYy1Md3pwN18?oc=5",
+        "domain": "www.dentons.com",
+        "publisher": "Dentons",
+        "publisher_url": "https://www.dentons.com",
+        "language": "",
+        "seendate": "20261117T114153Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Trump kicks off Asia trip that will see nuclear talks with Xi, Putin",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZDNWZllXUTJqMFh2QnAxQnhpaHNZWlctUUhReGlzVnNKem4zcGpOd2puNTJ3YmJuSUo2dWRIMGc1ODctMDJYd3oweTlqMVc3RjY3THlZN2sxdnFTX2c4cW5ZZVdYMko0V1hWaDNvS1hmUWJmNmFFQzF1clQwQWhkTmpYT0hTVm52NzN5UDd1WFo?oc=5",
+        "domain": "www.france24.com",
+        "publisher": "France 24",
+        "publisher_url": "https://www.france24.com",
+        "language": "",
+        "seendate": "20261117T030759Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Duke Energy and North Carolina regulators advance all-of-the-above plan to power the Carolinas’ growth while working to keep bills in check",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNX3NzMVlVZGRwQ1EtZVR1NHdoWTNVOENXd05nQlBmVTYtTFlPSDNQeGRCVkhuMm5kODJUOXl4Y1NhRHBSZ2NXRkctdG52eGZaVW1YTUJHcmR6MFJ3X240ZHh3LXhRS0tobFNjNjdyYVdfckJiVThWT0xTbG5mQzA3WGdvM3A3dEdWaHc3a1NyR0NMbkNBY0NXMnl6XzZQVHNfOXpVMnRXQldzLURlRkxXOTdXTHFRTXVKZVBUYjM0c1ZNanluMHluVFk5QUFzSnFYTWROLVhMZUtIMW9NdlJQZDhJZ01NbjZnOGNSMUlYTHoyeVJOTEZmYURlT1RfM04yeUozSFlpbw?oc=5",
+        "domain": "news.duke-energy.com",
+        "publisher": "Duke Energy | News Center",
+        "publisher_url": "https://news.duke-energy.com",
+        "language": "",
+        "seendate": "20261117T182912Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Chernobyl and Fukushima sharing decommissioning experience",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUGV3NzRMZjVvQ3NtSHoxZ1E5MlMtbFpEYjVGU0JHY19lMXlveTU0Z1ozcEt2N1Z0THJScWJ3dXZDQm81cWhPSGE1dXJhZHEwQXBkLVFPSjhDUXh3dTJjNTNKdXdGZFVsSUstLVBYVTNZSGZkVkRhREZ2VDZtMGJtbDZKejd3cWQ0WTExNXY4NUpobmZHcjVSOEtLU2sxeGtGZXl1Tg?oc=5",
+        "domain": "www.world-nuclear-news.org",
+        "publisher": "World Nuclear News",
+        "publisher_url": "https://www.world-nuclear-news.org",
+        "language": "",
+        "seendate": "20261117T150722Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "NYPA qualifies 10 firms for new nuclear power project",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcmE1bkdWYUV5aTYtajNPNXcxR1VHMk5ZUU5OaFQ1Q1dGSUdrQlJQdHZtN0pub1N5ZlpzaVBnSTdwWUJHZnk5aEpTTFlyNzRhdnZoS01YaW5IRXpSUEpqTE1PWlh2X0JDSnpyeFdsanhCWm94QUJzclFQWUZUZGg5MGdjNFVwcUI1ek1sZU1zWmNKaWg1STFreTROdFBrVFhMWHk0SVF0a2xSSzdEV0Fz?oc=5",
+        "domain": "www.lohud.com",
+        "publisher": "The Journal News | lohud.com",
+        "publisher_url": "https://www.lohud.com",
+        "language": "",
+        "seendate": "20261117T093700Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Why Trump Should Go Nuclear With North Korea’s Little Rocket Man",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPS19iYTVraXAwUl9JZ1dUY1gyV1RPM3NLd2Y1Rk5ONkRfUl90ZVpRUHlkMndxeC1EYnZRV1d3UEpZWWVWeHlIU1RXNWNvWWJiWjFJcy1welV4ckxvZjNtMTRTR1pqSUg2Y1Zhdk1uT1N2VEpYSW9rRGlldlZIclV3TjVLS0NNMGtLbnhyV052czNmMkJ5bXlN?oc=5",
+        "domain": "www.newsweek.com",
+        "publisher": "Newsweek",
+        "publisher_url": "https://www.newsweek.com",
+        "language": "",
+        "seendate": "20261117T112200Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Elk City Among Potential Sites for $50 Billion Nuclear Development Project",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSl81YXlHOExLVmhCVGJxeUY5anpNdzZCeGIyR3l6ZFJWcXBuR2lNbTYyQ3lyaDdBeXE5aVBwWnF0RmpJbmRheFpDSF83RzlZVDRDVjFqbzJPMzNQQ3h4WkVGZ3BUUFRlbjFlUnpSd1BSTFNubTh6ZHJpRmVlX1R2UGp0MmtBOVNoRHhsdkdLUzRnYUpva19yU3NPMExORzRxeHBMeVBtVGtOZw?oc=5",
+        "domain": "www.kecofm.com",
+        "publisher": "KECO 96.5FM",
+        "publisher_url": "https://www.kecofm.com",
+        "language": "",
+        "seendate": "20261117T200441Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "US nuclear waste could help fuel Newcleo’s next-generation reactor technology",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPek5rUzg2OU1DM2lQa3ZfdEFLVjJYQU1zVlk1ZklTakRDTTNPcG91Z0FLai1zdE1hUWdKQUpSQmtBNkV2X19hdHJ0dkJFcFBITEFOekpJT3FNN3VmY2h6Si02VEY1QWZmN19sdTBNZUNfWDlXTUgxdWRrTlJ0R3lBakYzdVdWODFNam5fcw?oc=5",
+        "domain": "finance.yahoo.com",
+        "publisher": "Yahoo Finance",
+        "publisher_url": "https://finance.yahoo.com",
+        "language": "",
+        "seendate": "20261117T174332Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "OPINION: Time to Suffocate the New Nuclear Arms Race",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPV1lOb0doR3VXT1ZaX2s3U2l6WmQzZWJDT0pfb3FsTDJQU1pKV0pBWWRUeEZubjFRRFE4WFFVb3FUR0xqTnFUZzZNcFB2aXR3Q1lSUWFMZTF2R1NWZWZUT05vcDhVTFM0Ym5YUjdsVWlUeG5wUG9zZllJYjJNdmZ4eGNR?oc=5",
+        "domain": "indepthnews.net",
+        "publisher": "IDN-InDepthNews",
+        "publisher_url": "https://indepthnews.net",
+        "language": "",
+        "seendate": "20261117T135304Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Southeast Asia’s bet on small nuclear reactors fuels big energy security risks",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbkV3ekJ1MTdLS3pub2dIRkdpRTQ2VHViU2ctbmxjZGhHRFozdGI4V0JwV1lvaGJKZGtaM0NEUFJZZWpkNEd2OWFWNGdVRWtDLWxFVzdZMm91bEFMVGtwRzNjc3IwMmplVkhKc2ozdjhvZTZMUXJqblNxUkhQQlNfTU9rZmgzc0dHUW5wakl5YlhsTTlIbThkbXBvS18tMzJ2M05XbU1mVDNrSklIa3I0djVjTjJnMXlZanBSeFN3?oc=5",
+        "domain": "greencentralbanking.com",
+        "publisher": "Green Central Banking",
+        "publisher_url": "https://greencentralbanking.com",
+        "language": "",
+        "seendate": "20261117T070413Z",
         "source": "GoogleNews"
       }
     ]
   },
   "events": [
     {
-      "title": "Nuclear Watchdog Increasingly Concerned About Iranian Enrichment Plant",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPUjc3VjdYMFZoRlVzZUNjS0drUkJiajl4OHJTRkl1a3hfWHJReHhrbE1fcC13UmYyZ3NubEtSMWdieXZ1OG5XQk4yOTNGb1A3S01CVTVlXzlzc0ptc3ZwN2tBZUpfNGRaQ3BDM28zX19GVlRBZHlBOG1KWV9rSC02Q1NxTWdQUzhwZjRiZjRGczduVFM3cTB3ZEx0ZGhPWlZXWDNpMDBEWDlhZHJpa0VycWxvZEc5ZzhRM3JIZWFMNXRjdkdBS1N5R1dkaWplb2tkcHhkQ1NoSExnX1ZDQWlBbjh6ejcyM0NSSkpaOGlxTmF2STk4d2kzQ2FwXzZ0djRSLV8tZ0JB?oc=5",
-      "domain": "www.haaretz.com",
-      "publisher": "Haaretz",
-      "publisher_url": "https://www.haaretz.com",
+      "title": "IAEA says it cannot confirm nuclear material at Iran's Isfahan plant",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdWg5anBjU0ZuZ2d3X1BCaDc3RXJTdTRYMUwxZTVQVFM0eS1RYnBBNzZCcmk5SXF6Sm1qR3JINEk1OUpLX0ZEemVVMkdHdHNvS1BSbzNUaHNCVG41ZXJnTFg0OWg4cjRNc3R2WVRVQ3pKRENDV3hkOFktTHZFWkx4LXppRQ?oc=5",
+      "domain": "qz.com",
+      "publisher": "qz.com",
+      "publisher_url": "https://qz.com",
       "language": "",
-      "seendate": "20261113T221200Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Iran extends blackout of nuclear work with US war deadlocked",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcFJUSUJUTU9xYWMwQV9JdUh5TzZRdFhDWUlfaXc5c08zZXZpdmVEaUN2QnRPWkItbHVveWpqUDVhWFUxSm15NGRxbFdZR1RQRTZ2M01xeE1CWm5heDR5WnAxd3NKSnRnSWZzUWFKaElLQmJPdWlUc1hsQlZVNFBWR3FnN3JqcEZlUXZIY1Yza0tEMnp6U0phdHFDMWxINUhPWG5pOWxCaklyVlNKTnRraFB1V3MyQQ?oc=5",
-      "domain": "www.unionleader.com",
-      "publisher": "New Hampshire Union Leader",
-      "publisher_url": "https://www.unionleader.com",
-      "language": "",
-      "seendate": "20261113T233909Z",
+      "seendate": "20261113T080000Z",
       "source": "GoogleNews"
     },
     {
@@ -559,6 +549,26 @@
       "publisher_url": "https://www.aljazeera.com",
       "language": "",
       "seendate": "20261113T120157Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "UN nuclear watchdog IAEA raises alarm over uninspected Iranian uranium enrichment plant at Isfahan",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9faWUyUWhpWFhnYXhDRTAxdVRkMkdQQjVicFl0TWoyZFdxTmRrLXRkSmhUWncyb1lVYXFYcXNWdmlxT29HT2tQOXl3VTdkWldEeWEweHdTMG01U3dZX1VHNlRmakxpdGRzRUE?oc=5",
+      "domain": "www.jpost.com",
+      "publisher": "The Jerusalem Post",
+      "publisher_url": "https://www.jpost.com",
+      "language": "",
+      "seendate": "20261113T094845Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "IAEA Has Not Accessed Isfahan Plant Nor Verified Iran's Enriched Uranium",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQy1waXZ0N3lzQ1J1X3h3UjMzaERyOTk3VWJFSEtKcGY4VGd5emtZM3RMeTUzSjR2VVpUclZ3T091YWdKM2x2X2ZSQTdkSVFzQ01SbXR4M09keC1GT05OSzJyZGFpemVpWnBTWlpxZlN2Ri12Y0tuRC1ONjlHdmFhWWJ1WUctTXBOM3otUGFKZ1B6VW1kdmVKUEg3WjlsUQ?oc=5",
+      "domain": "energynews.pro",
+      "publisher": "energynews.pro",
+      "publisher_url": "https://energynews.pro",
+      "language": "",
+      "seendate": "20261116T081933Z",
       "source": "GoogleNews"
     },
     {
@@ -592,16 +602,6 @@
       "source": "GoogleNews"
     },
     {
-      "title": "UN nuclear watchdog IAEA raises alarm over uninspected Iranian uranium enrichment plant at Isfahan",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9faWUyUWhpWFhnYXhDRTAxdVRkMkdQQjVicFl0TWoyZFdxTmRrLXRkSmhUWncyb1lVYXFYcXNWdmlxT29HT2tQOXl3VTdkWldEeWEweHdTMG01U3dZX1VHNlRmakxpdGRzRUE?oc=5",
-      "domain": "www.jpost.com",
-      "publisher": "The Jerusalem Post",
-      "publisher_url": "https://www.jpost.com",
-      "language": "",
-      "seendate": "20261113T094845Z",
-      "source": "GoogleNews"
-    },
-    {
       "title": "UN watchdog 'increasingly concerned' over uninspected Iran nuclear site",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNbk8wdlZUeWZ0cDBxYml0V0hlV24ySnprM1IzbFI2X1ZNWGR1cmNDaWRObjRYVW5TVmM5cG4tUmkxbW1vNkROU01fbXZhTTh2THZ0dzhjRGJOLXc?oc=5",
       "domain": "www.bbc.com",
@@ -612,6 +612,66 @@
       "source": "GoogleNews"
     },
     {
+      "title": "IAEA increasingly concerned about Iranian enrichment plant, its report says",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcEw4cVpnMkIxMTVtZEJlQmN3OHlsLUxxZnQxMWlfV3VfWTBYeHA2VEpBVWxpZk9TejdSaDgzazdlQUlMZy00aEhmZS1GYnhpVmU1bzdQTWM2VUJqd2dOWWowa1VQSWppQVdYSi1PVm0zX2J1b1hFU1QwaGs5N3lDZkJ3bEY5OG9Tai15M3VoRXVycFVBWjYwWjQ5dUhDcEJ4SWFHSXZxNDg5b2k2OG1DUVBoTHBDWE84dmVfZXc4WQ?oc=5",
+      "domain": "www.reuters.com",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "language": "",
+      "seendate": "20261113T124728Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Senate docs reveal new B94 nuclear bomb. But what is it?",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORFNURGpYVEk2REloSTFWeVlEV1NWZ3M0VGtLTVRHZ21kM2dkWmNIZmMxRG5ySDhIb3YxUDN6Z2REN2ltYVpzWjd2MldQRU05aDJtbmM4T1N1TUNabnBVeTJyMVZ6UWJNWHFHRG5NMkdDR0ZFQjhsSGFBaV8wajJhaHpNYTBKOFR6MXY2eXUxNy1OYkZiX3c?oc=5",
+      "domain": "breakingdefense.com",
+      "publisher": "Breaking Defense",
+      "publisher_url": "https://breakingdefense.com",
+      "language": "",
+      "seendate": "20261117T140454Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "IAEA Reviews Progress of Zambia’s Infrastructure Development for Nuclear Power",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSENtRFVqLVBQLUp2NEF3Sm81ekE1eUlxTHNRVmFPdUdMb2k4X3FfMmVJd2R3cGduUkp5SHNicVVBbUVMN0ZiRm1yNGxCOUoxT3NsdTdtYzU4bEFvdjJNOGFjcW5iLVFyeEx4YmJ0enRxaEdoclBYQ2oxM0NISnFLQ0p3T2loMU9PZFJRdFhnVWxIZkhmRUd0d1UwZW81ZzItZ0ZJWG03bE8zdEZIVnBCU3ZxR0RFNUR5Q0ttVDV0OA?oc=5",
+      "domain": "www.iaea.org",
+      "publisher": "International Atomic Energy Agency",
+      "publisher_url": "http://www.iaea.org",
+      "language": "",
+      "seendate": "20261117T155446Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "ICYMI: House Passes Castor Bill to Strengthen Nuclear Energy Transparency and Oversight",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1hY3RhTFlTbG84WU9tLTZud1l0dGxzVnE2TWJDUmxaR0hWNjR5MUVQREFVQWYxa0ZMZUpiUllBOHBONGpwWjh4enE1SkE5ZVV3bzJqNzFvUjZtZTFuZmh5ZjBoUVY4N09xZTRkNWRfUjBSSGU2ZVE?oc=5",
+      "domain": "castor.house.gov",
+      "publisher": "U.S. Representative Kathy Castor (.gov)",
+      "publisher_url": "https://castor.house.gov",
+      "language": "",
+      "seendate": "20261117T150111Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Opinion | Congress must stop Trump from giving this non-democracy a nuclear bomb",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZDk4ckVUX1V1VmR6Y1lFR21mUzZWSzhpRkU0eE1Ec0tYUXNhdFlwRmwxRHMzbzktY0hVaGJJaTRjNmN5eDhRdkwwMTdGZDdHclZZcVRsam50MEE1TXRjczUyUE1TVWR5WGFMRU5JZXZaaXVJUGVTMUpEVllhdDdJSF9ienhiNTVpVTRDejR6QmdIMTlqTWk5SGFZRE1sZ0hTMnJLMw?oc=5",
+      "domain": "www.washingtonpost.com",
+      "publisher": "The Washington Post",
+      "publisher_url": "https://www.washingtonpost.com",
+      "language": "",
+      "seendate": "20261117T191500Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "China and Nuclear Arms Control: Why a Trump-Xi Breakthrough at APEC Is Unlikely",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMnRSNjU4RTlBWG90NE5RNF9IYldNNGkza1Y5Q09HbU11ZmxrVzZIZTlNekZKVDhSSHUtT2tQWDhWV1FhVF9OUnR0bFRFUTF6ak56bjRra1RHV19TUGd5YklpWVZCTF9CTlNZd29ES1VQRzVxYWVTZUpiWktQWk41aXlQcW1mazcwem1IU0xycmRaSzRuQnlwWWJXbUJUaDVEckhSTVRiLTFlZTA?oc=5",
+      "domain": "www.cfr.org",
+      "publisher": "Council on Foreign Relations",
+      "publisher_url": "https://www.cfr.org",
+      "language": "",
+      "seendate": "20261117T130000Z",
+      "source": "GoogleNews"
+    },
+    {
       "title": "EXCLUSIVE: Risk of nuclear accident in Ukraine increasing this winter, atomic safety regulators say",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRjlIbUpKS3NfVi1Oai13Y213OWJ4S0FkU0RIa1hDU1o2ZHBBN05zUXRKQnFZUDlXZ1hhbUxGS2wwUUJIbEVRSmNsSXFRNk10dEhIS0NuWVFHSHBPRFNxUUluT0ZZRlByUVhGajRMcWUxQlBkazFwU0hvYUthYlZGRzdEQTdrNnl4cDJWeEIzZWtaYnc0UUFMTk03QldsOHZiZGNTRTlmRWNrcVpIWHg5UGMzcDRINkF4cG1ZTExsZktQSjlTNm91Vg?oc=5",
       "domain": "www.reuters.com",
@@ -619,66 +679,6 @@
       "publisher_url": "https://www.reuters.com",
       "language": "",
       "seendate": "20261116T140805Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "NRC extends Project Ike review timetable",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPR1p3R0ZQT3NoaDlkRGN4YXg1QlpRT1FpMDVkYXlqUjJvUG5LQTN3QjJCX2s4YWszQWFMcFBYVmJUazhad0VJVzdQNF83MzVOd2xQTTkybzZ1bmhiSGRsRHJZcXZaM3FzMXBKOFhqM1ctYW1LVDlGMm15a3lHMVUtMGVoTW5BbVE?oc=5",
-      "domain": "world-nuclear-news.org",
-      "publisher": "World Nuclear News",
-      "publisher_url": "https://world-nuclear-news.org",
-      "language": "",
-      "seendate": "20261117T054410Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Update 375 – IAEA Director General Statement on Situation in Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNS2tzZ1dPVS1HZUdJTUxzdzhtOF9pSmc3a3Jia3BxNzdjYzhGTGh5d1YyMTlmYUt5UDZtWFE2eVZKYnVyNnJTZmlocUhvdks2eVlUUzJQRU9CZjJjZUN4VjhWWVlYX1BJaDhBMk9RbnF5cFFsWEVaNUx5ay1UdUhiMEJqZkh6MzFSR2FleTJQZ2ZkNXk1NTk1ZkFhakFvZjZUbTlxZEVLbVM0T1RfaWloZQ?oc=5",
-      "domain": "www.iaea.org",
-      "publisher": "International Atomic Energy Agency",
-      "publisher_url": "http://www.iaea.org",
-      "language": "",
-      "seendate": "20261114T083010Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Trump's Asia reset: Deals in Manila and Shenzhen, then a rare nuclear summit with Xi and Putin",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSlI2cmNPcXZmNVR0Z3dPOFVZbkM2OWdRZVBlc1dVSkdYSjRKdHVDNXo2UU9GaW5WclZZYTl2THJ4N1Z1aE5OblNTcEFRM0Qwd2I5Wlgyd1lMNHJ6RWRjcDJ4bjhIS0xYUEhOVmV6aWJrZWVreUNUc1FEVm12ZldfaTRBVExYRS1mcTZHUVRraGJFQkRYaWZFUXpDa2pIcy1ySGJLN0U2QnhOR3pSNENEY0pUUUJFa05PUG8tSlNVMHlGMDBIMTNKTdIBzgFBVV95cUxNVTJ5VUt1Um1pcXV5T3dpWjhOMGZFRnotbF9jZ19GZEZqV2tBcFFRN2xnS25EYTJnZkxvN2JuSG8tVUpWbDczMWRKMXQ1Qy0zaVVidm9iYUZvbG5YQ1g2eV8ydUxFdVdlRDZQczdxOXUydDdQTXFud1FLQTZIUkRBNG10VFZSUXZhVldDR2x3LVpfbWo4RG40WWlQNEVrbmkySlVyNHZ5VVoxdGEzUGNwY05lNlAtT1Bydjhzb3B2eEhPVGdTaVo3WGVHcjVxQQ?oc=5",
-      "domain": "www.pbs.org",
-      "publisher": "PBS",
-      "publisher_url": "https://www.pbs.org",
-      "language": "",
-      "seendate": "20261116T143811Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Before the Warning Becomes a Crisis: AI and Nuclear Decision-Making",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZWJhaXNNUnJwXzdVNkFtaVoxek9iV2p2ME5QLWtHOF9XaTl3NnFWT2dlU2hoMmpLemI1ZE9zbTVFMWhKRFFiay1RaDVreHNkVUlHVUtKdHc4V0o5Y1dJellSTGo1ZGs3dGZ3TU01ajhDNXk3SklTSm5CbkFlb2lIdHJQeVpvZFZrU05tQmdNN2VWTUFJM2FiY3NZdWw5dw?oc=5",
-      "domain": "armscontrolcenter.org",
-      "publisher": "Center for Arms Control and Non-Proliferation",
-      "publisher_url": "https://armscontrolcenter.org",
-      "language": "",
-      "seendate": "20261116T190609Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Trump heads to Asia for historic nuclear talks with China and Russia",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZDNWZllXUTJqMFh2QnAxQnhpaHNZWlctUUhReGlzVnNKem4zcGpOd2puNTJ3YmJuSUo2dWRIMGc1ODctMDJYd3oweTlqMVc3RjY3THlZN2sxdnFTX2c4cW5ZZVdYMko0V1hWaDNvS1hmUWJmNmFFQzF1clQwQWhkTmpYT0hTVm52NzN5UDd1WFo?oc=5",
-      "domain": "www.france24.com",
-      "publisher": "France 24",
-      "publisher_url": "https://www.france24.com",
-      "language": "",
-      "seendate": "20261117T030759Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "New York picks 10 finalists for upstate new nuclear project -- ANS / Nuclear Newswire",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQb1VLaUJNeVVFd0VGdFdPRWgxaHV1SmlfWGtsVENWTm1KcGthenRwT1Z1eHlvMXlNQkxCM0txbS1MTTBHZDhiUXJQN2NDSnNGWGZTSEtmZDNiZ0FRTWplbU5Xek9BdE94UnZScllzNGp1Qko1anRtVDZqUE1iVXgwYVZCdjhJaFY0cFQ1ZTZBMVBQd3RaUGRjTWIzSjUwOVk?oc=5",
-      "domain": "www.ans.org",
-      "publisher": "American Nuclear Society",
-      "publisher_url": "https://www.ans.org",
-      "language": "",
-      "seendate": "20261116T185603Z",
       "source": "GoogleNews"
     }
   ],
