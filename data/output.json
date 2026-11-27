@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "nuclear-proliferation-watch",
-    "generated": "2026-11-27T09:03:13.479616+00:00",
+    "generated": "2026-11-27T21:37:26.030273+00:00",
     "mode": "live",
     "sources": [
       "news_articles"
@@ -23,11 +23,21 @@
     },
     {
       "label": "Distinct news domains",
-      "value": "34"
+      "value": "39"
     }
   ],
   "live_data": {
     "news_articles": [
+      {
+        "title": "IAEA expresses concern over Iranian underground uranium-enrichment plant",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTmNnWldjYVNZTG10SDdQaU5tdndhdXRIeUpOZUM0b3hFa3Y3djBtVHJpRndGZWJRa214TnFwLWp4MThHT2o5R0R4NHZBRDBENmVWV2ljZE1PdmZPcHhmMGhiXzMzVTR6TVJ1LTRETzNyX1NfbnRhUWs3QnR5M3pOTjdRS3VBQjdYckJINmJTMDVLam9kdWthRmpuOFpvQURVZzN6RlRjdDQ2WUJwN1FDbXJiUWQ4ZWZUWFJtdVNWMXVYVVRG?oc=5",
+        "domain": "www.thenationalnews.com",
+        "publisher": "The National",
+        "publisher_url": "https://www.thenationalnews.com",
+        "language": "",
+        "seendate": "20261113T080000Z",
+        "source": "GoogleNews"
+      },
       {
         "title": "North Korea is expanding its original uranium enrichment facility, UN nuclear watchdog says",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM0pQb29VWlZzMkpNU1VsWVZLRFpCa21XNnRtUVUxNUVBVS1vT0NNd0tjZzFCX011RWlWNGgxRlJoUHBmR1Z1c29tT0hrdmEwNXBRYTJZTmFIeFJNbUhVWkpRQldodUFzUDA1TE9MVFM5MEJ4RUtWTGtYOXpwajNqTUtaVDVrR3JTNWx6VlNjNW16ZHRLWnVB?oc=5",
@@ -35,7 +45,17 @@
         "publisher": "AP News",
         "publisher_url": "https://apnews.com",
         "language": "",
-        "seendate": "20261118T080000Z",
+        "seendate": "20261121T052434Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "IAEA raises alarm over Iran's nuclear program as tanker hits mine in Strait of Hormuz",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxSlQzUVdMdEFCRGtOaUtGUWpOX2I2N3RScExYdXF3dVcteUZTN1dnemd1UDA1dThCWE5Ib1RfQ2JQRU9kVVhkWnZBbWFKclRvUDU4QTd3?oc=5",
+        "domain": "www.ynetnews.com",
+        "publisher": "Ynetnews",
+        "publisher_url": "https://www.ynetnews.com",
+        "language": "",
+        "seendate": "20261113T080000Z",
         "source": "GoogleNews"
       },
       {
@@ -49,6 +69,16 @@
         "source": "GoogleNews"
       },
       {
+        "title": "IAEA SMR School in the Republic of Korea Highlights Pathways to Deployment",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMUJNNzN5Qko0eHFJNHcwSmZtRlAtamlzSklVOTdhakdYOHZucnRRVUtETVk5Z0toR2NJUGVnOVRaa1JxcVZpT3NQTXVyTWVjOW51bGU0bFN2SmtCWl84bElGUlFNSGdRZHRBSHVqbk9oYzJwSUlWR1B1YmVKN3BkR1dwc3NJMXNDUWtsaGtFS0k4Y2xzUzFnYVF4X3ZETUozcWxkd3FTYlVrQ2NKcnQ3bQ?oc=5",
+        "domain": "www.iaea.org",
+        "publisher": "International Atomic Energy Agency",
+        "publisher_url": "https://www.iaea.org",
+        "language": "",
+        "seendate": "20261127T140233Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOLUFTckJMcmM4c0l3Nm5hdjFjelhwNUdFM2p3a1pSVlFsR3ZhdWEzdlZnSi1scnFSd0YtWkxabXNBQzNqMjByT3psOVB6dEczWjkwenBpa0NxWndYX2tQWXJNWUp2SF9WT1pmUXR2dEl5cUJQYk5hRm5pRERCR0djcWttYWpRbGc?oc=5",
         "domain": "www.npr.org",
@@ -56,26 +86,6 @@
         "publisher_url": "https://www.npr.org",
         "language": "",
         "seendate": "20261126T133128Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "What would happen if Russia detonated a nuclear weapon in space?",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNFBGcTVEVlc4VEJ6MnI5TTlkaG5BY1N3S0p2cFVMRnVTdmtYMXU2dDdWRWdOUFVvWnBLamZYS1Y5ZHZ0YV9yRlEyOUxwdFI3dWpDSVhtbGFWRTczMWVUQTEyRmtLSFRRazFLQlViQjFkX2c2R2dZVm1hbG85eWhNVTd5NWkxZUFxM01OYWRRbk9DWWJwaHZ5TjJoRTY0MXpMbm5lVnVZdDFmM2tyYWxack9WeWUtaDhfMm94Z0JBNE0?oc=5",
-        "domain": "www.theguardian.com",
-        "publisher": "The Guardian",
-        "publisher_url": "https://www.theguardian.com",
-        "language": "",
-        "seendate": "20261126T190400Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Update 377 – IAEA Director General Statement on Situation in Ukraine",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMWx4WTZkVld2UnBHQ3FPVlFaSjJiTzVqRXM0RjJkOWxnYlM3dU9ucTFuQm5pa3FhaFRvM1hYSTNTSi10aU8tZXk0c0JBNHQ2TTFtQ2RubF9QZzczOGpTdDBWOWhxOFJSSkVwb0Z4VHcwR0hDbVA2M25sVTNqYmxsZkpqS2xhVlNHQUpxamRVeXNVQXVnQnJDaXNzZ0FDNmdkVnFzbE5COUVyOXVtZnV3Rw?oc=5",
-        "domain": "www.iaea.org",
-        "publisher": "International Atomic Energy Agency",
-        "publisher_url": "http://www.iaea.org",
-        "language": "",
-        "seendate": "20261126T160000Z",
         "source": "GoogleNews"
       },
       {
@@ -109,6 +119,26 @@
         "source": "GoogleNews"
       },
       {
+        "title": "Trump’s Saudi nuclear deal faces Senate test as Democrats challenge safeguards",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOX0xpbVlvMEQtVUhLelBYRmQ1QWw1RHNMcjlRekhIaHpFYmxsVy1MSWx5RzZVdkVrUUVxajBXak9LbkVBYmUzNmJvbXBxS205MmItLW1oaUtKakRmMVh5QTlBelpvUzJUak9vVjZkR2VOVjZ1QURRa1VyM0FXb3JGUEt1NWVzeVFzQ0VjNU05MWdERnpWZ1hoNVFfMVRvWlFFc2k1c0hZaTBwdDZ4bXRJdlJVSjFKa1plZFVv?oc=5",
+        "domain": "www.al-monitor.com",
+        "publisher": "Al-Monitor",
+        "publisher_url": "https://www.al-monitor.com",
+        "language": "",
+        "seendate": "20261127T140236Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "IAEA seeks fresh local ceasefire for Zaporizhzhia power line repairs",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMm0zODB5WE9aekJoNFp1NTJrczBaazhKamdtejBaWjhiX2IwWll6UGo3U1lMa0lINlFUWFcwbXdlazJFcVZJeTJ5cEl3Y1RqS2lVOHFpQzgxMWZqdDR3Z240di12dHJZdnl1VEZwVWtxNzlTMGhrYldLMU9kRlh3RHkxYWNsaExlLXVXLVdTRUNPYV9Mc0duUGlOY1RRckY5SHZ6b0xyc1BtYi1z?oc=5",
+        "domain": "world-nuclear-news.org",
+        "publisher": "World Nuclear News",
+        "publisher_url": "https://world-nuclear-news.org",
+        "language": "",
+        "seendate": "20261127T154140Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "North Korea's Kim calls for nuclear arsenal expansion, says status 'will never change'",
         "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcVVtOEFBaEl2N1ZROXozS0JYakFqTkVVdHlTVUhFcGk0OU1fSGMwUG5zNkRHeEl0QUUta2ktMWlPSVlpQUJGRENVUURNblFSdHlPNUttbTY4WmhUNGg4X19Yb2Z6Snl6UlJSNDFRZEpyWFE5Z3RjNkFmRlFfMnlHR21hNmLSAYoBQVVfeXFMUDBia2ExN3Z0S1ZkcFBycXZibmlNNktPaGxrMGtjcGlORkFUWFN1SFp1U2NSaW5WM3FWM2dkbHYxeEFGVUY5QlpvN1ZkdnN0QzBJSGplREVsNFpkWklkVllTQy05SDc0RWdWSkIwU3VxTWJpYl9PY2lDM01rTS1fcGw1Qm5BS3NINEhR?oc=5",
         "domain": "www.cnbc.com",
@@ -116,6 +146,16 @@
         "publisher_url": "https://www.cnbc.com",
         "language": "",
         "seendate": "20261126T051456Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Putin unveils new Russian nuclear-powered submarine with hypersonic weapons",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUEFxTF85S2lWaFRwVDdNdm01RDc4bjZHMUxZSC1LNnNReU1QSFV0WkMtbEIxUUQtc0Iwel9WRWhFc2xxVC1rVlJ0X0FaVl8ybTd4Z29rMEpIVzRfOXF5LW5CMmpOSGc0c0NOb2tDcWw4Vm5lc2l3d05QVmhtTnZuc05hbnBRS1ZUaWlBcjg3Z05jeFpBM0VSMTVsQzVXZ1BrbDVHbEoxd2ZaZWJqMm9hLUFpdXdBbmMw0gG-AUFVX3lxTE1Wa2J5VW5zb1pWQWFCOGMtYkV1Rzc0UVloOWhNM1NBVWp5aExXS3hCRHJsUl9iX2pCNFN6MGkzSTByMGloQUxrVnlOTUw4Nk41V3dmT1lDWXVzNG9vV2RwclV4V3VBQmVGcElOSVhXN0lRS0QxdmtZQ3Y0Tlg5UkRvM1RCYzA3Tk1Yd0xWTXBzcGppYTAxUWx4OGtoQi1xVGk2WEo0cE03X1BhM1loa0swamFQdFdIdk16NHZXR3c?oc=5",
+        "domain": "www.aljazeera.com",
+        "publisher": "Al Jazeera",
+        "publisher_url": "https://www.aljazeera.com",
+        "language": "",
+        "seendate": "20261127T204510Z",
         "source": "GoogleNews"
       },
       {
@@ -139,73 +179,63 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Russian Diplomat Warns Nuclear War ‘Inching Closer’ With NATO",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdGl3LTZRNnRWRkM1aWYxN3l5aEU0OGVidUxrWE9DcGJBakpXdmU1bGZZeElxR0J3YjBLS0Y1NTBDLXZCcmoxNkFma2NoekRwNExiajhYTFFPcUVhMmhIQ0lzdlZXQVp6ZWhhSVZCeUZYS1JIYWl6VXBmenRzZzZwbTdKN18?oc=5",
-        "domain": "www.newsweek.com",
-        "publisher": "Newsweek",
-        "publisher_url": "https://www.newsweek.com",
+        "title": "What would happen if Russia detonated a nuclear weapon in space?",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNFBGcTVEVlc4VEJ6MnI5TTlkaG5BY1N3S0p2cFVMRnVTdmtYMXU2dDdWRWdOUFVvWnBLamZYS1Y5ZHZ0YV9yRlEyOUxwdFI3dWpDSVhtbGFWRTczMWVUQTEyRmtLSFRRazFLQlViQjFkX2c2R2dZVm1hbG85eWhNVTd5NWkxZUFxM01OYWRRbk9DWWJwaHZ5TjJoRTY0MXpMbm5lVnVZdDFmM2tyYWxack9WeWUtaDhfMm94Z0JBNE0?oc=5",
+        "domain": "www.theguardian.com",
+        "publisher": "The Guardian",
+        "publisher_url": "https://www.theguardian.com",
         "language": "",
-        "seendate": "20261127T000000Z",
+        "seendate": "20261126T190400Z",
         "source": "GoogleNews"
       },
       {
-        "title": "New approach to very low radiation doses needed, says nuclear industry",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbERmazRmN1JkblJCZGdfQnV2OEVoVWQxMjlCaFNGLUo5c1ZLSGp0UU1zTVhMcGhPTXVFelVMQXNtRDQzZnAtTEphWnNDWlY5cTlZaDVIRDhfSERUQlhUZjdhMkY2REdmUnBjT3E4OFBLVmJzSHlrZDd0eDJiankzb1BKa2FrNGRWSzBBQnNzRmkxeWpYMUxleG54bHBZZ2NjNDdoRWFIM2JhbWdNTFhyTw?oc=5",
-        "domain": "www.world-nuclear-news.org",
-        "publisher": "World Nuclear News",
-        "publisher_url": "https://www.world-nuclear-news.org",
+        "title": "Flag-raising ceremony aboard nuclear-powered submarine Perm",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE85eXJSb2FnVS1JQ04xck90eThRSzBUSEQyakZvQlAxY1JCQldOMmdKbGllYy0yRGloZnJHNU1xV0Z6ZTlyVFh6SEVQSWlHSmZ4MFI3dFhZcjktNEEx?oc=5",
+        "domain": "en.kremlin.ru",
+        "publisher": "Президент России",
+        "publisher_url": "http://en.kremlin.ru",
         "language": "",
-        "seendate": "20261126T155902Z",
+        "seendate": "20261127T192239Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Jared Kushner praises Putin’s ‘restraint’ with nuclear weapons",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNlVwc0xFMkx5c0JNdFZtUXBJOGxsTzRqV0pYTG1NR1Vib0pza0UyODZUQ0c4bk9pdXdKcFA0US1wR3RFdHQwRXMwYVVfVmtVbWF4bUJ4VlRSVllzNHVYLVl4MlpHR2xqRkJybWcxcjhyaHNoY0JXeE9GUExlaGl4OUUwdkJjWm4xMGt6Sk1paTRFa0x4WURibUhUT0FYczQyWW15MXRZVGNCVXFVeTAw?oc=5",
-        "domain": "www.cnn.com",
-        "publisher": "CNN",
-        "publisher_url": "https://www.cnn.com",
+        "title": "Should Space Data Centers Run on Solar Panels, Nuclear Reactors, or Both?",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ1VvOU9tZGRlSjhMa2FSalRNRGY1NjlDR0U2OGx0WHQxOXBZNE9GUV8zUVhBWXkwMEh1MDRGQkc5OHlpQ3g1WDE0VkhKdFktajRUNEpEdW5ZZVN3TlA0Q08ycEhEX012LTEwZjB0ZlVmVHFlQm45MGZwNkxYdjM4aEJsM2xCQTBBbU56cExaM2x4cXRvZFVxcHZJNFkwM1VleUFnWVRvMmpLSk5WTEE?oc=5",
+        "domain": "www.universetoday.com",
+        "publisher": "Universe Today",
+        "publisher_url": "https://www.universetoday.com",
         "language": "",
-        "seendate": "20261126T133600Z",
+        "seendate": "20261127T124100Z",
         "source": "GoogleNews"
       },
       {
-        "title": "How a nuclear explosion in space could damage satellites long after the blast",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNjE1YU9KU3BmS09GWTgxc05SU2dXQjlvMVotSmEtUnlzQ2RCd2gtTUxxaG5jT0lCVFZWbk96SWVsUkxXRnQxVzdVUkwyZDNUUXV5SjJwNkpYOUphcE9qSXVUaFNvYTJBQXgzamoweDZZbE5CQVpZQl9LSGlBZWhMYXRLZGRhSVRxa0tv0gGLAUFVX3lxTE00VkpWMnpCUHI4UWIzSEpJdGxQWENvR3VCQmNVMlRzRWdfdnlTNHVubGtfaVo0c3Ayb0xjSFVrS2pOMy1QZjNyS05mdVdKVlV2VmlNRFBWZWhya1FoZlBDU3dkVmI3Z1pJMlc1eFlJYWxZUHVaNm4zSFNseUt5X1IyOV9kUkFJRzdYRUE?oc=5",
+        "title": "Kim Jong Un tours nuclear material sites, urges wider use of tactical nuclear weapons",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTVcybms3ZlNFYTBmNmVXRXJudUhPUjA2TnVDdk1vTkF6UjA3d0huV2RvUTFoQlNIM0VXbGRXTVNMRVRiNzkwcTZFLXk0WjZ6NjlaUEhPdWstU3JDU2x0ejNMMzlRYjg2Q21nMXhOZVFQM25WZzlWNUJCWU1zVHR6ZHNSNGdqVzNUT1Bab1lqc0U1VUVXV0djYWZva3luZVAxM214Mm9HQ3Vjbm9TdS1KM2wyQVhCVV9J0gG4AUFVX3lxTFBrQjJmODRhcWZMdXVhb1psemhrbjFXUkJJMXJEcW0zQTlvakpwbXJndkRCZEk3QmlOSkFHOEgtam1MUS1pSjh1SzhsZkJJVjM1dEdNMElxeEJfYkFBN0ItZ2F0UHlwVG05OTFJZnB3WTBHaDI3X3F6NXo1NXJYakFVdUJvNWxsaFdQbWhrRnhJeDlLb2UtS3R6b2QybVZpUlhWQTlzOFNaOEdCZW41LWkzOVl3ekFTXzA?oc=5",
         "domain": "www.dw.com",
         "publisher": "DW.com",
         "publisher_url": "https://www.dw.com",
         "language": "",
-        "seendate": "20261124T083815Z",
+        "seendate": "20261126T042036Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Is Russia about to launch a nuclear weapon into Earth’s orbit? A space law expert explains the threat",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTWtxTEFoSEJhcVdodkxUNHgxcnV3aFJ0ZlR4Zjdjb0pZeXZkemFUeXEwNVhtdEhKR3lVVjdKNV8zb19mSUk5dHZRMlZweW40UlBEOXNYZFJLZGFya1hfR2F4clp2Q1NZQ3hWS0tHSjFTallxOFZMbDJWUHlFQzlqQWZaNmVZSFJmek1hTVlNR0l3QXBuaHE2OGx1VGdTR1F2cXZoLWtfT3ZycFdUOFBfUWg3dmYtNGNybFIzSDBPWGJJV0FUc2w2bFptSllxNnM?oc=5",
-        "domain": "theconversation.com",
-        "publisher": "The Conversation",
-        "publisher_url": "https://theconversation.com",
+        "title": "Italy Taking Steps to Revive Use of Nuclear Power",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQ1RHODVxRG5RRU1OOElNTWxCbFBLcWdNdmZkU3Q0MWlzUjlWOVMxRWMwdmJkRU5YVEh1VFBjTlh2RmV5WGRwVUdiRkhlVlc1NU96dUxtbUJsd0hfTnIzMW5SUHlxR3VZbHBESnBUNmJjY0laZnlFRURidTVoREtvcg?oc=5",
+        "domain": "www.powermag.com",
+        "publisher": "POWER Magazine",
+        "publisher_url": "https://www.powermag.com",
         "language": "",
-        "seendate": "20261126T044800Z",
+        "seendate": "20261127T141643Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Iran vows to advance nuclear program as West presses for inspections",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbG5zMXN2bnc5VnFXZFNIZ2U0SnFlMmZPY0k0NmtGQzNxVF9Pa2Y0SXl1em03a2lTOERIMHdBVEtoeW1QazY4Rlg4T0VLekZvQ291ellubjVCMVVNQk1UTUJxNzhUQTB0MWRydDJtbld4NlI3ZVRfREF4ek0tTTY1cTFOYkVCMXI2ZFA4SHJJblh4RFBUMWVjNktUVUU1NWNHQkFQRkFB?oc=5",
-        "domain": "www.al-monitor.com",
-        "publisher": "Al-Monitor",
-        "publisher_url": "https://www.al-monitor.com",
+        "title": "IAEA AT COP31",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Zb0ZPM3dXTjNfaVBIZl9QV21PR05mcnVremR0SGh4WW1LcFVmRGRUTXFRQi1oZnFkNlEzbXdfSGxWWTlxUldwUThweWZpWDBSaEF0aC0yLWJVSUdzcFlMTWZTN0gwU1VMY28tQ1BVSnU?oc=5",
+        "domain": "www.iaea.org",
+        "publisher": "International Atomic Energy Agency",
+        "publisher_url": "https://www.iaea.org",
         "language": "",
-        "seendate": "20261126T153310Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Lance operations suspended after cybersecurity incident",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNT0hvU3dTcTVOUlBEMkI1MWQzMDgzNkQwTUNvWnJfWHZrY25OYlQ4bVc3ZnNQVzdwMlBvVnhyX2UtT2lIZ0tueTluM3o3UTB2Zk1sX0I4ZURISzU0UEdNWkZlbk9sOXhnNkJGZHNSb3JtaGJSYkxEcHF6RGpVWnMyNHFRWHdQejRfZHkxQVVaM0pkMFo1ZmpEalNHWGdUak1H?oc=5",
-        "domain": "www.world-nuclear-news.org",
-        "publisher": "World Nuclear News",
-        "publisher_url": "https://www.world-nuclear-news.org",
-        "language": "",
-        "seendate": "20261127T034952Z",
+        "seendate": "20261127T134633Z",
         "source": "GoogleNews"
       },
       {
@@ -219,13 +249,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Putin showed ‘restraint’ by not using nuclear weapons, Kushner says",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcmxHNG8yMUYwNjBTRjdFV3ROOWdqaWgzWDQwNER5YXVUSW9VYjIwM2lmMld0U045S1NodU53OE9rb085dzVYR2ZPYlZ5TGhScXFUajE3VVpJY2hpcWF3empNMTl2ZnNGbm9YX3FxalJCbHdjaEFXQUdfRkl1NkFkZy1Ca3I0aHdP?oc=5",
-        "domain": "www.cnn.com",
-        "publisher": "CNN",
-        "publisher_url": "https://www.cnn.com",
+        "title": "Update 377 – IAEA Director General Statement on Situation in Ukraine",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMWx4WTZkVld2UnBHQ3FPVlFaSjJiTzVqRXM0RjJkOWxnYlM3dU9ucTFuQm5pa3FhaFRvM1hYSTNTSi10aU8tZXk0c0JBNHQ2TTFtQ2RubF9QZzczOGpTdDBWOWhxOFJSSkVwb0Z4VHcwR0hDbVA2M25sVTNqYmxsZkpqS2xhVlNHQUpxamRVeXNVQXVnQnJDaXNzZ0FDNmdkVnFzbE5COUVyOXVtZnV3Rw?oc=5",
+        "domain": "www.iaea.org",
+        "publisher": "International Atomic Energy Agency",
+        "publisher_url": "http://www.iaea.org",
         "language": "",
-        "seendate": "20261126T113653Z",
+        "seendate": "20261126T160000Z",
         "source": "GoogleNews"
       },
       {
@@ -249,33 +279,83 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Russia may offer Brunei floating nuclear plants, Rosatom says",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcEtjWU1NMFI0aG95UkwxYlJGbE83UUQwdlI3V1VjblBRcDl0NjQzUXUwSlhzMXQ2VjhHSnNZVWZqelkyRFB3VWx6RWNLcGVoMG56eGRoVjA5TnAzQm5VYThxZG02MlloQUpUME54WW5OSEt2WlFHSHcwZUNJbTlCSEVnbTluVXFwaEM1dXJMU1BZRHAtUDllYm5GVTBES1hzRXVmNjduU3ZzbmxrcVJSNlZR?oc=5",
-        "domain": "www.reuters.com",
-        "publisher": "Reuters",
-        "publisher_url": "https://www.reuters.com",
+        "title": "Putin showed ‘restraint’ by not using nuclear weapons, Kushner says",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcmxHNG8yMUYwNjBTRjdFV3ROOWdqaWgzWDQwNER5YXVUSW9VYjIwM2lmMld0U045S1NodU53OE9rb085dzVYR2ZPYlZ5TGhScXFUajE3VVpJY2hpcWF3empNMTl2ZnNGbm9YX3FxalJCbHdjaEFXQUdfRkl1NkFkZy1Ca3I0aHdP?oc=5",
+        "domain": "www.cnn.com",
+        "publisher": "CNN",
+        "publisher_url": "https://www.cnn.com",
         "language": "",
-        "seendate": "20261125T194034Z",
+        "seendate": "20261126T113653Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Nuclear Progress Amidst Gloomy Political Outlook",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOFlYckpiVHY3QzV3alJYU0RyTWtvdUNNTUwtQ0dwa3o2eTIwQTB6dndGNXF6U21jc2dJcGVMWTVEUkU4WW1oaHJpT1Y2NGh5SGo1VmUxQUJMYUZlelNDclhtdi1oM0FFVnRRNEhuRDBnQ25MVFA2OXo2dmhKZkNRTUNPMkRqN1Zt?oc=5",
-        "domain": "www.ipsnews.net",
-        "publisher": "Inter Press Service",
-        "publisher_url": "https://www.ipsnews.net",
+        "title": "How the TPNW reinforces the nuclear disarmament and non-proliferation regime",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWDZtb3JxRmoydVQxbXVBbGY3el92XzlXTnlxLTVnUlR2VnZQd1FocXZMVmFtaGpmLVByMFc0d3dOZnp3UnNHTTlYOXd4ZlRjb1JtNmNoV0ZRU1lfY2x1dm9wVUdLN3l0dllkeUFIeVM0Y05qOGdoTHQxX241aEZtRjFJWmdJZjY2MmxHaElOU2swT0txSlY2Vk5QXy1ETmJ3bUhSV0pzS1VFX3BFY2p0Y05KenhZSGs5Z2RuWDRiN0ZEeUtm?oc=5",
+        "domain": "europeanleadershipnetwork.org",
+        "publisher": "European Leadership Network",
+        "publisher_url": "https://europeanleadershipnetwork.org",
         "language": "",
-        "seendate": "20261127T050111Z",
+        "seendate": "20261127T095017Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Geochemical characteristics and organic matter enrichment mechanisms of early Cambrian Black Shales in the Northern Lower Yangtze Region, Eastern China",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4ycmJHc0FpWkxOWHdJYmF2NkwtX3ZhN1VibTVrOGRudHZqU0dEVV9maFpwd09fM0tuX3ZoOXJWSEZFUlZicWZuQUFfSWFZTFNJR3ZRNXAxaElKMFJKbUZN?oc=5",
-        "domain": "www.nature.com",
-        "publisher": "Nature",
-        "publisher_url": "https://www.nature.com",
+        "title": "Russia Prioritizing Nuclear Weapons Infrastructure as NATO Tensions Spike",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMXBTOUhUWWZRUE9aX3dzT3RkTUMzMVpHa3E0bnFpOEZVVFUyaW9RejAyR3gza3d5NzZaZ091dFpIcVdrcmNsaHVCRXFmVnlENm9mVmlQTzJHS0pHQ25zdnNjdWJqbmN1MHIzTWxTbkhOekRvV2FvREljYVVVSkVITmtYM3RtWmYyVzdBMURFdG1JUl9aLXc?oc=5",
+        "domain": "www.newsweek.com",
+        "publisher": "Newsweek",
+        "publisher_url": "https://www.newsweek.com",
         "language": "",
-        "seendate": "20261127T004441Z",
+        "seendate": "20261127T182600Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Putin has 'shown restraint' by not using nuclear weapons in Ukraine, Kushner says",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOODR2ajBzRFlGcHF5aGRJcDFBcFIxaHhLZGJaQWFwdGgwakQzbHpfLXJrSnJyV09QZlpWellRRkpZUG1vaDB5M0NJZmFJdzAxbURUUkQ5MXcxUHhGbUQyMVNnakJXc0JvSnJDTWZ2VTRQWVNSUnRZdDVnV3ZaT0FEdEdkT1lEZ2R3dmdlaThDWDgyNWZFNGxzdWlLMVRVclJXS1RmOVIxR0IxcHBvODJzMllVXzRTaGctNmF4OXh5eDhkS2E3?oc=5",
+        "domain": "www.usatoday.com",
+        "publisher": "USA Today",
+        "publisher_url": "https://www.usatoday.com",
+        "language": "",
+        "seendate": "20261127T134500Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "How Nuclear Bomb Testing Led to the Discovery of a 100-Year-Old Fish",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaU5VcGt1WUd5b2xCZnN5MUJERXVjMW43NWh1dUVRZXlQck9hbFh3bFZUQ1A0b3JNcVRLc1pJcWZHUzR4cFB5UFNwRjQxOWcyV2ZHWHA5RnBSVXl0OTRvZDVTUFNkallvaHBQVlFncW5QU0ppRExJblRrcmJ1Mk9Nem1tRWhWSzlBNlljN3dmdC04dDNlbEVFS0pn?oc=5",
+        "domain": "nautil.us",
+        "publisher": "Nautilus | Science Connected",
+        "publisher_url": "https://nautil.us",
+        "language": "",
+        "seendate": "20261127T130119Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Is Russia about to launch a nuclear weapon into Earth’s orbit? A space law expert explains the threat",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTWtxTEFoSEJhcVdodkxUNHgxcnV3aFJ0ZlR4Zjdjb0pZeXZkemFUeXEwNVhtdEhKR3lVVjdKNV8zb19mSUk5dHZRMlZweW40UlBEOXNYZFJLZGFya1hfR2F4clp2Q1NZQ3hWS0tHSjFTallxOFZMbDJWUHlFQzlqQWZaNmVZSFJmek1hTVlNR0l3QXBuaHE2OGx1VGdTR1F2cXZoLWtfT3ZycFdUOFBfUWg3dmYtNGNybFIzSDBPWGJJV0FUc2w2bFptSllxNnM?oc=5",
+        "domain": "theconversation.com",
+        "publisher": "The Conversation",
+        "publisher_url": "https://theconversation.com",
+        "language": "",
+        "seendate": "20261126T044800Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Is Russia about to send a nuclear weapon into space? - video",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeThvbUxsYWdjZVVjd2pLc2pfdENOak80ank5ZkN4eEZLXzhoM2hGZ0NPRGZMUGtrRVg1aEx3NlFhNHdTdzc2N29vQlhFWGRXZlEydXhrOEdrakY5aHhXdkhzc0lSRDYxUGF0Y3hGVTBtcWd0U3JqNy1Ka0xqZDZxNS1XOTVRdXVhTUUzUUpweExGeHdTTHhIQVh3V3FuOXVxNEtKVFlpYzJBeWpCY3h4Rg?oc=5",
+        "domain": "www.theguardian.com",
+        "publisher": "The Guardian",
+        "publisher_url": "https://www.theguardian.com",
+        "language": "",
+        "seendate": "20261127T114100Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "SC colleges’ $2.2B in requests include defense, nuclear and cancer facilities",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTHhqR1JtN3l3cUM1bjNDX2VPSWNxS1NCNGEtZlJUUzc3S3lpTGVwOGVmakVWb3VBNnpLQnQwTFN3T1RpUWxvWFlWWXZGNXdXTHNEZmt6ZFRYQmV5TUVXazF0dTVmcUpHLWtLVkdhdzg1Ulo2bmtTRmJtMVM2dk5QdWNzbjdFaVZNMG1Ya1ZOX29ITUstWXdHZUp2NHZlekl0blo1NzRrZFVHV1lQSG1LRmhPUQ?oc=5",
+        "domain": "scdailygazette.com",
+        "publisher": "South Carolina Daily Gazette",
+        "publisher_url": "https://scdailygazette.com",
+        "language": "",
+        "seendate": "20261127T120442Z",
         "source": "GoogleNews"
       },
       {
@@ -299,43 +379,83 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Tianwan moves step closer to becoming world's biggest nuclear power plant",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPanFHZThjX1VXdGpsMUgyNWs1X3JPZjZmMXBua0ZzTmUtenFjOVh2NXVXY0dKRkdTWDFqZl9jd0ZHMU81b0dVdVBkVUh0VzROdHRqZDhiSER3cUk5VFBCem1YVng3eU5HWUZidld5amZ3aUIzaDNvZGVYbVVvTnFVME8wb3g1b1RjdkgzU2dEYXdIVXFOZ19uODVILWJwN3dPaE11UHlVUmdjYWNIaWdfUzlYWFA?oc=5",
+        "title": "Construction milestones reached at fourth Zhangzhou unit",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVWZabzhham5fNmF6RGdrVVRUYnQ2b0g4dGo1MF9aLUZkQjF3VUdvanRGbjZhb1hkYjlIbGVRMmg3ZE1TNGdrZ1JUQnZNdGVabGViQWVQUTBTTWJOUmNYTDh2V1pDdlNzdzg4QVVCQmVYQ284Mm5tU092bkM2RzhGRzlhQnRpbHBaU0ExVkdPcTNyREZWRDFPUi1UbW5jVHV6Vmc?oc=5",
         "domain": "www.world-nuclear-news.org",
         "publisher": "World Nuclear News",
         "publisher_url": "https://www.world-nuclear-news.org",
         "language": "",
-        "seendate": "20261126T165716Z",
+        "seendate": "20261127T161551Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Nuclear unicorns gallop to meet rising AI energy demand",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZkplTFMwTjFobHBrVjlFQ3gzMldjLXNGLXF1dGdKWlNEdFZzalUwRnViT3lVN0pSYTRHT0tmX0lSQ2lkRHFvLUFjTGJoQU5UVmNudzZoMjNIUmx2c1ZCSnhpVHRjcjNCcjloRzI0anRXaXIyTEw2NHp4Y3FIUm9VMENJMk5XZlNjVW84QWhSblI?oc=5",
-        "domain": "www.enlit.world",
-        "publisher": "Enlit World",
-        "publisher_url": "https://www.enlit.world",
+        "title": "EXPLAINER – What is at stake in Taiwan’s local elections and nuclear referendum?",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdFludjQ2bGxhZ2t1NWlQLVdTQXZDOXdZbDItTFo5QzF3VW1wcGRvb0xja2N0dGZfdl9feFd6LTRrOG40N1hhM2phRks5bXVYZkNoMmdsRU0tdGpibVViTTUtckZJcWtyUWh3UEdZVDdnbTBlcHY3b1I0RExLZWpnOEF1RWQ3T2Y5S3JVdGFWdkowWTN6bkFkOUVWcW00NGxrdF9TVDA4RG9hdF9TR3ctVXV6WFdMeVdfSkQwS2lOSmY?oc=5",
+        "domain": "www.aa.com.tr",
+        "publisher": "Anadolu Ajansı",
+        "publisher_url": "https://www.aa.com.tr",
         "language": "",
-        "seendate": "20261127T075845Z",
+        "seendate": "20261127T121534Z",
         "source": "GoogleNews"
       },
       {
-        "title": "IAEA Workshop Fosters Leadership for a Growing Nuclear Sector",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdkpKZ3JpN1RXUzVtNklNVjZaVUg0Z3R1cjNpWVBLUkNYN1Q3THJfeEZaaWFJV0FyWGx6X21yWlJaLWM5VXhxcmFkcG04NS0zek5XbkhXdUJEUW81RlY2NUw0ekhINWw2c1dKYTI3NXhId1RNczFNejRGZHpocFhoWFVZdG9jaUZveTRpbHRnTjZSdXR0d1J5SnNHUUpvcFk?oc=5",
-        "domain": "www.iaea.org",
-        "publisher": "International Atomic Energy Agency",
-        "publisher_url": "https://www.iaea.org",
+        "title": "Big decisions await on nuclear project: technology and location",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQRFZKb2I2c0tWNHNJaE95Wk80YnQ5eWFiUWFHd0NRZUtDN1VtTlVwb2xUR2tfa0hWWkVmbTZLclF4UGV1Z0Z1dXJYTFZTZUZWRXNkUUpDdWNzWTlSWEpQVy1OTzFmVW5MRXBhek1KYnhSYlg5QTd2MjZ5TlIyeXo0X1lDRlJoNUZSdlVRd2h2a0huOU9tU1dNUnlpOE0wcHZrOXcxUzJpeGk4YlJ4RTFBWUUzd25TaFdGN0hVRjc0U2lqYlBkSkt0SDhZVFRVZ3RybjNxWlJka2d2aC01U1R1c19SMVVnbzg?oc=5",
+        "domain": "www.thedailynewsonline.com",
+        "publisher": "TheDailyNewsOnline.com",
+        "publisher_url": "https://www.thedailynewsonline.com",
         "language": "",
-        "seendate": "20261126T083039Z",
+        "seendate": "20261127T190041Z",
         "source": "GoogleNews"
       },
       {
-        "title": "New Pentagon Strategy Embraces Potential Use of “Tactical” Nuclear Weapons",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcTdETEgxNW5NMng0cG80LVJjNnhpVzRhYU5JNTlwQ0YyRG5rd0ZpakFyaWgzMEtBbTl6dTZwemFwXzhpYTZJc0tGY0EycjlkcS0yNEJWaFBnNXFUd1JfTWloZ2wyR1E0X0FTSzBJNG5QeFdGTWZBQ3JpeHVYZ3N3em1mekRoVEFzNWwwODR6bGtVZWF3Qnp6WG81Q3RqQnhCcWZCUldn?oc=5",
-        "domain": "truthout.org",
-        "publisher": "Truthout",
-        "publisher_url": "https://truthout.org",
+        "title": "Russian Diplomat Warns Nuclear War ‘Inching Closer’ With NATO",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdGl3LTZRNnRWRkM1aWYxN3l5aEU0OGVidUxrWE9DcGJBakpXdmU1bGZZeElxR0J3YjBLS0Y1NTBDLXZCcmoxNkFma2NoekRwNExiajhYTFFPcUVhMmhIQ0lzdlZXQVp6ZWhhSVZCeUZYS1JIYWl6VXBmenRzZzZwbTdKN18?oc=5",
+        "domain": "www.newsweek.com",
+        "publisher": "Newsweek",
+        "publisher_url": "https://www.newsweek.com",
         "language": "",
-        "seendate": "20261125T164112Z",
+        "seendate": "20261127T000000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Decommissioning projects in Germany and Switzerland near completion",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQb2dCSEtpRnhGSjRkSzJFLUFRNXJkZ3lITmtMVEo3TDllVmExZE9ranh3ZjVpQTJ1MWFkV0laZ1ljZEJ1X2VIVGVzemxqVmY3MlU0SXJTTWZzUVdVWEwyVzRoQy1iS01aQ3paTlVIX3RxSXJRbmtaemM1ZlQzTGhCOVdjcFFoV1hKYzFGSW9EeHdtTVpRQ3V2VV9sS3lVWVZtUkhDbUN5WG1UdmhxWUdLMg?oc=5",
+        "domain": "www.world-nuclear-news.org",
+        "publisher": "World Nuclear News",
+        "publisher_url": "https://www.world-nuclear-news.org",
+        "language": "",
+        "seendate": "20261127T152739Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Spanish Elections Could Reshape Nuclear, Renewable Policy",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE44UVhTdlpHZmVONW1tR05nZUV3ckNobHdBaE5ZbWcwMG5odkJrN3J5Y1Z3dG81S1EyT2FIdDZOMklDUDBlaTBUQ01MY3I3bTZfMm5ySDVvVzJ6bzNaVGJVek51b044MlZDQ0VoLTNvSVlPUQ?oc=5",
+        "domain": "www.energyintel.com",
+        "publisher": "Energy Intelligence",
+        "publisher_url": "https://www.energyintel.com",
+        "language": "",
+        "seendate": "20261127T180912Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "80,000 Tons of Liberté",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBlcmlWVFY2UEdybXlBRVRFcFZaaDFLUkxqSmdzNGhGZVFHNkdta1dyZjJqaEJkNjhPUm9falVZTG1NQXNNVURpWXc1T1dBaElwa1RVQ3duelBpQ2pINFpKOUxWOFo?oc=5",
+        "domain": "news.usni.org",
+        "publisher": "USNI News",
+        "publisher_url": "https://news.usni.org",
+        "language": "",
+        "seendate": "20261127T152300Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Nuclear Bomb Fallout Reveals What May Be the Oldest Male Orca Ever Recorded",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQnQ0cW80RXJwRmQxOFJQSDRSeHBqQm5vbUk4V1Zjc3NFRl9sMUFtbVUtQUxtTmgyck14S29QdDlPXzNucWljaS1ESUhZWVlCUU5zNFNZWDVUcm9KX0pKNUV5bXhhNEFoWHJqcGRSQkczZ2pWN0kzYW5xbkhuaEVLWW5zRkVjeDF1S0dhTFRVb3l0YTNhTTNwRkV0VGFqM1dkVzRtZDV5UF9kdHN6T1B4TUJ3QXJtLWR4eHRLTmZrQ1lNQlVjb3c?oc=5",
+        "domain": "www.zmescience.com",
+        "publisher": "ZME Science",
+        "publisher_url": "https://www.zmescience.com",
+        "language": "",
+        "seendate": "20261127T175300Z",
         "source": "GoogleNews"
       },
       {
@@ -349,103 +469,53 @@
         "source": "GoogleNews"
       },
       {
-        "title": "As plans for a Carbon County data center and nuclear reactors advance, residents push to be heard",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNalpzOWE3YU5feUZ3Qk11djlrV09VMkdHamNaOU5mSHcwbS1TRDNFN0xGQnJQaktSdHhtclVYeGcxQkgydWJfTWJkbExOSzlmWnFPNW5Sc284WS1CNzcwbVZ2czVDdGRybWI4SEoyNG5wZFZEMU1sVE5XQTBaZl9xeEN4WjJib1Z6ZDdkLUZNT21tdl9YOW5rMkI2blBjYzNWd0JqYS1CWmowaVVqQ1lHYTNwRktfb3QwSmYtRkdTT295M0tJc3hhZV9BT3lLZw?oc=5",
-        "domain": "www.ksl.com",
-        "publisher": "KSL News",
-        "publisher_url": "https://www.ksl.com",
+        "title": "US readies Cold War-era nuclear plant to unlock 22.8 tons of advanced reactor fuel",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPN2ZxT3Z2YzNMVHJRZWdDQTVZUVB3LXFrSWVfdHk5MUtheFU0S1A1TG96ZFROVHB5cVBfR2tfQmVpTHlNZXBGVm5pYUpESzVPalcxSnhjZ0x2MDVmMHI4bFJlcXlCaEJZQkFjemhwTlRrREg1WnVjX0xPMmQ1OFVsc2pLTVlvZw?oc=5",
+        "domain": "interestingengineering.com",
+        "publisher": "Interesting Engineering",
+        "publisher_url": "https://interestingengineering.com",
         "language": "",
-        "seendate": "20261126T210900Z",
+        "seendate": "20261127T173700Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Twice-recycled fuel loaded into BN-800 fast neutron reactor",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUzNkT1V4Y1QzMXZmbjFjeEpZWG5vUWRZVmdCMFJvWUtKal9saW9YeTlXRlJYeVJCYTdfN1d6ZEhzUV9IOUhLVlgyaDFDVFFmNVdSdFFNdDdldmItRmhmeENrcGczSGpfNWl4aWNicDN6aHM1WkFwTUFCWDl6ektPSzJQWUhlX3psejh6bEc0VFY1UXV6am1aUmpqZ05GamZkZVRIbDVR?oc=5",
+        "title": "Lance operations suspended after cybersecurity incident",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNT0hvU3dTcTVOUlBEMkI1MWQzMDgzNkQwTUNvWnJfWHZrY25OYlQ4bVc3ZnNQVzdwMlBvVnhyX2UtT2lIZ0tueTluM3o3UTB2Zk1sX0I4ZURISzU0UEdNWkZlbk9sOXhnNkJGZHNSb3JtaGJSYkxEcHF6RGpVWnMyNHFRWHdQejRfZHkxQVVaM0pkMFo1ZmpEalNHWGdUak1H?oc=5",
         "domain": "www.world-nuclear-news.org",
         "publisher": "World Nuclear News",
         "publisher_url": "https://www.world-nuclear-news.org",
         "language": "",
-        "seendate": "20261126T154312Z",
+        "seendate": "20261127T034952Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Taiwan’s AI boom thrusts nuclear power back onto the ballot",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPX3EtZXZrYnNNRTlrUWtNem5tQnhhUUw3eHBSZE0yNDFsQzZJakdhTG9uZFQ0YWVvWWU1b1JBems3Sk5TWkxwMW0xdXF3UFZzRnQxSjlIYmxRN2hMY1JWS1RRMkNvUklxVHBZVjBqblFaSEw3M3E3YVJ0Q29lc2FINVBqT1l1NjNSV3lEcFgzd2JhQk9JdjlqRVBjRVViSHhZcG54M0pkSm5FS0RlR0l4RVFzcVMzTzFleFFSQkU4YzI1M25ad0lZX3NB?oc=5",
-        "domain": "www.scmp.com",
-        "publisher": "South China Morning Post",
-        "publisher_url": "https://www.scmp.com",
+        "title": "IAEA seeks 9th cease-fire for repairs at Zaporizhzhia nuclear plant",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWU9EbDg3eTdzaGc3elRqYXlfNi1BYU5qVXp0MFk0MU11UHY1c3lCT21CUGMxc3JhVG9reEdrVnZFWTRaNUo0NzYxV0x6SXpEODFLVlE3V1RUajFXR1R4cHNpOU1SQkFFQURYbDBsY011bmRTcTlSbGY1NllVWVpLREtBbjdteWZLeXZlV296LWJLN2o5dHZueFp2VXBEWnZyOXNhadIBqgFBVV95cUxNZWVsREJETUNHc1NDSGlaczRMajZCZHZMR0ZXdFZOVEpiYjBZMnprVTJUaFcxcFBJMzRvb1djb1BYZ21MUXo2djh6MEdZOTFNSHd6bUhtemFFYlA5S2h4Z1I0eE5aUHhLaFVaU0hERWg2dnF6WXZ1cm5uX1JnbVFlcW1lbVR0UWwtZ1lEM0Zrbmt6ZG0tS3UyTVdIOGtDMk44d3Z2S2djeFp4dw?oc=5",
+        "domain": "www.upi.com",
+        "publisher": "upi",
+        "publisher_url": "https://www.upi.com",
         "language": "",
-        "seendate": "20261127T025914Z",
+        "seendate": "20261127T080332Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Review: The Pernicious Fallout From the Early Atomic Testing Era",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4xR3RxVm9uV293YUxFejNrX1FEWHN6RFVQNzl5Tjl1UTEtLXlSaHFXWF93SjNVT3QyU3EtaTNGRzJCcjlfUVhCa25sYTR0S3NSMklJcVM4NGhWRmJ6Wi1PQnhn?oc=5",
-        "domain": "undark.org",
-        "publisher": "Undark Magazine",
-        "publisher_url": "https://undark.org",
+        "title": "Rosatom Delivers First Fuel Load For China’s Tianwan-8 Nuclear Plant",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQ2hndlRhSkl5M3VjcmpkVkpGNGVhdjZrUURiSzJPLVp6OG5DMkpQbHE0NnNQa0lvWHBPczhQM29tS0xZX1ZXV2plQUZNTFZ4RmFwelJVSXUydlI5eXpWNnhpWlJVa2ZwaVJvQU9TMHk1b2VLd0d4VDMyMGRXdExkd2MySWFmSjRlVjg3Y0FsRkc4RDg0NHF4eGxQVDlGVS1xU1VIVlNmRXVpZw?oc=5",
+        "domain": "www.nucnet.org",
+        "publisher": "NucNet",
+        "publisher_url": "https://www.nucnet.org",
         "language": "",
-        "seendate": "20261127T080536Z",
+        "seendate": "20261127T150114Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Nuclear-arms control is on hold until China catches up",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTmpSekMybnFNVjBFcVN2NWhGenhaRFZUNFhNaVBVSXpPZmRHNjZNUkxaLU94WXR4WlQ4ck1wVmF2OWZIQWp0NXJ2YmhGS1Y1YU9Jbm5YMlpTYUV3VFVEZjdMUi11bnpBVnFqQ29wQldIREF0aWJXSW9CWm1OTWlCVUNVZFlIa2F1Q1VDcjlWV2NIUFZEUWNuMnp1UzFydw?oc=5",
-        "domain": "www.economist.com",
-        "publisher": "The Economist",
-        "publisher_url": "https://www.economist.com",
+        "title": "Putin Visits Russia’s New Nuclear Submarine as Kremlin Says Russia Is “Surrounded by Enemies”",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWEtDT0J0bkdzNWJYTzRZamlZNVJjcWdfQ3hBQ0xoQ0k5VVlzYUk0YnJ1NHQ2Y3FDYUpDZnl2V3I1QlZzalcteVJEalQ3UlpGWWdfdVJpZTF2Q3h4Q3Nad0VjZnlodUZhbGw3OERfc1dTNlMzdFR1Qnhody1ZZEpudkxjci1RcUZZOGg4Z3NROWJmcl9NRHlfbG9sTzBlcWN4SVpjNERzUFM0UDNVSHlEMTZoVGJ5RDB2Q1B2VjB3U3BhSkVpcXEw?oc=5",
+        "domain": "united24media.com",
+        "publisher": "UNITED24 Media",
+        "publisher_url": "https://united24media.com",
         "language": "",
-        "seendate": "20261125T194817Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Firms fined after radioactive spill at nuclear site",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSU1KcjBoSWJHSndBQ3RwZG95TEY4S0xsakNuUXNlZ3lPb1VPX2FKcmRVSmFCbTh2bV9qemRmeWVFUFdWckVJeFhDVGx5elUtUjNoTndqWmlCbGRzSTNsUDZtbnB5UzNNNTRXcmNVVFhmUU1PcVppZVF3cGpqYUlldmNqTHhaaXNvRnNKM0l1aWVvckVvaUxZaW0yOGQ?oc=5",
-        "domain": "www.yahoo.com",
-        "publisher": "Yahoo",
-        "publisher_url": "https://www.yahoo.com",
-        "language": "",
-        "seendate": "20261127T061200Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Germany taking seriously reports Russia may be planning to launch nuclear weapons into space",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOUtWdVJPaUZZOXBmZ0VhUzJTaWNKQVNwUFhzMmVaRWY3MW9ITXVnbWpMd2h0cmdyTEtmaDloN2E1VmNQd056ZTMwSVFPazRtSWtLZ1NXa1NBMUkzQ3VwNjJUajFhZ3B3UXlGNnF3WWhNNUxHelhoZUkzWS1XZERMZ25lSDcxcHVYZHBUbmJlb0FHaGlNSFU1eXF3?oc=5",
-        "domain": "www.theguardian.com",
-        "publisher": "The Guardian",
-        "publisher_url": "https://www.theguardian.com",
-        "language": "",
-        "seendate": "20261124T023000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Nuclear New Hampshire: Bills around nuclear energy made waves in the State House, but concerns still loom",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNT2JGVHVzVkJrSllWZlk3TUpEbDhsZElub095SlBrN3Rabkw4bkN1b2w4TmJqMWthSnlsci1ocG9KdFA2aTFTTXRqVnF0ZTc4TGJ2TE1JRWtMQlBzaF9ENlJhbzQxVkhpT1owSDVJUXVYQng3UWdWbzJlQTU2RGJyYzVhcDdTZ1B3dVNZ?oc=5",
-        "domain": "www.concordmonitor.com",
-        "publisher": "Concord Monitor",
-        "publisher_url": "https://www.concordmonitor.com",
-        "language": "",
-        "seendate": "20261126T150000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "The world must choose between nuclear abolition and nuclear catastrophe",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUXdic2ZRSXh0TEtfSGExRmJoQmgyNmg0SWU3TGc4WUdsS1lrQ1VEVFI2cWh2eHh0R19wc3RlcnplTkpTSjZXLXI5MTlmRU9VVjFYTjZ4RS1UUElFclhscnNHM2E5Vk1Sc2x4eExuQV9mWDN4VGEwa0R4TFczUHNmeXBPVnFnUW9vdDA4bHhzUXA0S1BXeG5xUmszOFRSSkpfNUlpanBobzljOU9zWE4wdDNhYWJRd3dZ0gG-AUFVX3lxTFBCUzdTZjAzdEtRc01DSmtJaWRoUHVuSVJSMkxTaGRscW5fVEh1UDROTUlUTWdEQnN2ZVRjdDJCTm1PMXcwRmtTcXJqTVhGM2JZeWN3NnI5UTdfckJERXJtMy12SFNHYThjbkVxby1TRXJDcUpQOE4zTGRJSHVwdTkxaElwUGYwWXFIcERRLWhQaWo3cGFfVEdkamJTekQxczZIMGhQVkJZVFZqMDNZdFBWR2RqZzZWUnB6cW8yaWc?oc=5",
-        "domain": "www.aljazeera.com",
-        "publisher": "Al Jazeera",
-        "publisher_url": "https://www.aljazeera.com",
-        "language": "",
-        "seendate": "20261126T065616Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "On this day in space! Nov. 26, 2011: NASA's 2-ton nuclear-powered Curiosity rover launches to Mars",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWVVJUG5iR2JScFY1MHg5SVY4WFNHM09yMTFvSUU1bmlMWmg3b2Y3clUxdmNaOWplcDhSdjBCZ1ZuQlBfbVdiRVkwdTk3YnVDTk4xQUx2RnRsQzF0amkwMVNzMzVuX2x3aDYxeklsLVpENUtTZXRpa09LMW4xNUtRZ0tzUQ?oc=5",
-        "domain": "www.space.com",
-        "publisher": "Space",
-        "publisher_url": "https://www.space.com",
-        "language": "",
-        "seendate": "20261126T165548Z",
+        "seendate": "20261127T181457Z",
         "source": "GoogleNews"
       },
       {
@@ -457,80 +527,20 @@
         "language": "",
         "seendate": "20261118T161837Z",
         "source": "GoogleNews"
-      },
-      {
-        "title": "What Happened to Putin’s Six Nuclear Super Weapons?",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaU9CTVBIS3o2bWdiOHZmMWptMDF0OUNETVJ2MUNvMVZMbml6Y19pZTh1Y2thdGhMT0J6aEx5bHJOVnNLdTRmSV9vZWZjd1RhdUpLUUtiX2NYcWY4aE5zN1BVMThoa1l3dDZqT1RYQ3FKYmpaTkFsTDAyMXBBQUVpRHVHdXFvV1J2bmsw?oc=5",
-        "domain": "www.newsweek.com",
-        "publisher": "Newsweek",
-        "publisher_url": "https://www.newsweek.com",
-        "language": "",
-        "seendate": "20261125T195300Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Kim Jong Un tours nuclear material sites, urges wider use of tactical nuclear weapons",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTVcybms3ZlNFYTBmNmVXRXJudUhPUjA2TnVDdk1vTkF6UjA3d0huV2RvUTFoQlNIM0VXbGRXTVNMRVRiNzkwcTZFLXk0WjZ6NjlaUEhPdWstU3JDU2x0ejNMMzlRYjg2Q21nMXhOZVFQM25WZzlWNUJCWU1zVHR6ZHNSNGdqVzNUT1Bab1lqc0U1VUVXV0djYWZva3luZVAxM214Mm9HQ3Vjbm9TdS1KM2wyQVhCVV9J0gG4AUFVX3lxTFBrQjJmODRhcWZMdXVhb1psemhrbjFXUkJJMXJEcW0zQTlvakpwbXJndkRCZEk3QmlOSkFHOEgtam1MUS1pSjh1SzhsZkJJVjM1dEdNMElxeEJfYkFBN0ItZ2F0UHlwVG05OTFJZnB3WTBHaDI3X3F6NXo1NXJYakFVdUJvNWxsaFdQbWhrRnhJeDlLb2UtS3R6b2QybVZpUlhWQTlzOFNaOEdCZW41LWkzOVl3ekFTXzA?oc=5",
-        "domain": "www.dw.com",
-        "publisher": "DW.com",
-        "publisher_url": "https://www.dw.com",
-        "language": "",
-        "seendate": "20261126T042036Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Framatome enhances its capacity for reactor internals",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVmNYd25tSTNvTWRLS0dUQ1FGcXRlaHFiVDJzd1RvLWRMY0RaQlBORkJmTUhQSE5ycUdnWDFmUXRIcHlUcmtFb0trTTdsWS1zUnRwZHRBOUFTejAycUl4WThLOE5GcXM1SUE5XzVvOVBWNnRvZkdxZUI4cHNBOWZfUEhJRXktZFZ0eFpQbmRmejZOVUJvSl9qVGdaYXJGUQ?oc=5",
-        "domain": "www.world-nuclear-news.org",
-        "publisher": "World Nuclear News",
-        "publisher_url": "https://www.world-nuclear-news.org",
-        "language": "",
-        "seendate": "20261125T154035Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Governor Hochul Announces Completion of Comprehensive Advanced Nuclear Master Plan",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaTRkYVd0UWNkTkpHSzZ6RWpjNGx3blVCMUhGYlF2S18yQWQ0cG41ZFdVbUlqWDM4YklaazQwQmM1OFNiY3dla2daTW80NnVzV09pc0Z6cTRvcDZFWTU2MU1aOUR5dWxUX0JvNlp3TGJZMHFXaGtDQ2RPNEh0cWY3dzExaS1MWkdPU2c3RTJ4TE4tZEMtVEJhRGFEYXRRVUNmUnpqVkxURW9TRnJIQ21xZFlB?oc=5",
-        "domain": "www.governor.ny.gov",
-        "publisher": "Governor Kathy Hochul (.gov)",
-        "publisher_url": "https://www.governor.ny.gov",
-        "language": "",
-        "seendate": "20261118T080000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "One Year After Executive Orders, U.S. Nuclear Energy Renaissance Is in Full Swing",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRy1tYVk5SkpESWYySlFVbWpCMDd0djMxeHNLTUJDSGZDekxSNnpxdFJwWE5pQzcwdERZaER6cXRPeEpFZEhVWDhmZTQ5S29vOUxqOVZ0Vm1malRva3RkUjZKeXlITzF5bThDU2hKOTVnZUZpNU1NN2VWOW8wSVFPNTJjOVNkZF81MjBXckxuQXNHb2hiR1RjRmYzb01DVEhMU3ZKTDNQMC14Vlk?oc=5",
-        "domain": "www.energy.gov",
-        "publisher": "Department of Energy (.gov)",
-        "publisher_url": "https://www.energy.gov",
-        "language": "",
-        "seendate": "20261118T161837Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Experts Explore Storing Nuclear Waste At Pilgrim Plant",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQU1scWdSOTlmY3ZUNDVDQndzaVhGLURSZjdpRHZob1VnQ3c0a19OY1NXYjk5ajYxNmk0bXVHS0ZDUHFmbGdWRHNFNnRLWUdqQ3hSNlk3N3ZGczhwZG14WjZHdTNxYXpna1NTRFRTTTNUdlRrOFRJRzE4eXhfLXZFV2E2bDN1NVRHTE9NQnVRZVhSN01QOTMyMnRfWGp5SlpCN082VHV1THBBeGZpeU5hOG1WOTRKMHNSMWVEQWVENlBRdWhhb3FyWHpTWm9UR01YU1hYVkZEaHNrTXM?oc=5",
-        "domain": "www.capenews.net",
-        "publisher": "CapeNews.net",
-        "publisher_url": "https://www.capenews.net",
-        "language": "",
-        "seendate": "20261126T193000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Caldwell Zoo brings back enrichment tree for Wild Winter Wonderland",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNc2lmV05SZWZrWkVKMnF5X1hFS3RnU0FzdWxhMWxRazlWTWh0aEU5LVpjRi1ldEZhaVEzQ044eE42SnZJUGdST0NaWEFCT3NkakZCWkRIZTBVQk1RUlJDR3dWM18tY3ZpWTEyWmZpOHpyd0t2aWFxN3VuaFFPb2FFcnRlUkFkY0xZQ01oREs5Sk12SHFGekRNVFNHaDbSAbABQVVfeXFMUDJCV3dxazgweTNBbF9TRDF0TFl3cHcwZ0hCNDNLWEp5VHBsYnZjWjN3SGRzZkQ3cS0zMHFwMHJ4RHRibFBtOGhuaF9WUUplY2stYXFWWmFTMVFaUldDOEt3bGtJQXRTN2R0LVhIb1l3XzZRSHVxLVVsek9EY3lyb1U2UUpfdnhJTmxteXlrb3Y0clNvTG1ibl9BdkE0NmZ6S01MYXYzenNqUWJGRVM1enY?oc=5",
-        "domain": "www.kltv.com",
-        "publisher": "KLTV.com",
-        "publisher_url": "https://www.kltv.com",
-        "language": "",
-        "seendate": "20261126T194600Z",
-        "source": "GoogleNews"
       }
     ]
   },
   "events": [
+    {
+      "title": "IAEA expresses concern over Iranian underground uranium-enrichment plant",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTmNnWldjYVNZTG10SDdQaU5tdndhdXRIeUpOZUM0b3hFa3Y3djBtVHJpRndGZWJRa214TnFwLWp4MThHT2o5R0R4NHZBRDBENmVWV2ljZE1PdmZPcHhmMGhiXzMzVTR6TVJ1LTRETzNyX1NfbnRhUWs3QnR5M3pOTjdRS3VBQjdYckJINmJTMDVLam9kdWthRmpuOFpvQURVZzN6RlRjdDQ2WUJwN1FDbXJiUWQ4ZWZUWFJtdVNWMXVYVVRG?oc=5",
+      "domain": "www.thenationalnews.com",
+      "publisher": "The National",
+      "publisher_url": "https://www.thenationalnews.com",
+      "language": "",
+      "seendate": "20261113T080000Z",
+      "source": "GoogleNews"
+    },
     {
       "title": "North Korea is expanding its original uranium enrichment facility, UN nuclear watchdog says",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM0pQb29VWlZzMkpNU1VsWVZLRFpCa21XNnRtUVUxNUVBVS1vT0NNd0tjZzFCX011RWlWNGgxRlJoUHBmR1Z1c29tT0hrdmEwNXBRYTJZTmFIeFJNbUhVWkpRQldodUFzUDA1TE9MVFM5MEJ4RUtWTGtYOXpwajNqTUtaVDVrR3JTNWx6VlNjNW16ZHRLWnVB?oc=5",
@@ -538,7 +548,17 @@
       "publisher": "AP News",
       "publisher_url": "https://apnews.com",
       "language": "",
-      "seendate": "20261118T080000Z",
+      "seendate": "20261121T052434Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "IAEA raises alarm over Iran's nuclear program as tanker hits mine in Strait of Hormuz",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxSlQzUVdMdEFCRGtOaUtGUWpOX2I2N3RScExYdXF3dVcteUZTN1dnemd1UDA1dThCWE5Ib1RfQ2JQRU9kVVhkWnZBbWFKclRvUDU4QTd3?oc=5",
+      "domain": "www.ynetnews.com",
+      "publisher": "Ynetnews",
+      "publisher_url": "https://www.ynetnews.com",
+      "language": "",
+      "seendate": "20261113T080000Z",
       "source": "GoogleNews"
     },
     {
@@ -552,6 +572,16 @@
       "source": "GoogleNews"
     },
     {
+      "title": "IAEA SMR School in the Republic of Korea Highlights Pathways to Deployment",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMUJNNzN5Qko0eHFJNHcwSmZtRlAtamlzSklVOTdhakdYOHZucnRRVUtETVk5Z0toR2NJUGVnOVRaa1JxcVZpT3NQTXVyTWVjOW51bGU0bFN2SmtCWl84bElGUlFNSGdRZHRBSHVqbk9oYzJwSUlWR1B1YmVKN3BkR1dwc3NJMXNDUWtsaGtFS0k4Y2xzUzFnYVF4X3ZETUozcWxkd3FTYlVrQ2NKcnQ3bQ?oc=5",
+      "domain": "www.iaea.org",
+      "publisher": "International Atomic Energy Agency",
+      "publisher_url": "https://www.iaea.org",
+      "language": "",
+      "seendate": "20261127T140233Z",
+      "source": "GoogleNews"
+    },
+    {
       "title": "North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOLUFTckJMcmM4c0l3Nm5hdjFjelhwNUdFM2p3a1pSVlFsR3ZhdWEzdlZnSi1scnFSd0YtWkxabXNBQzNqMjByT3psOVB6dEczWjkwenBpa0NxWndYX2tQWXJNWUp2SF9WT1pmUXR2dEl5cUJQYk5hRm5pRERCR0djcWttYWpRbGc?oc=5",
       "domain": "www.npr.org",
@@ -559,26 +589,6 @@
       "publisher_url": "https://www.npr.org",
       "language": "",
       "seendate": "20261126T133128Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "What would happen if Russia detonated a nuclear weapon in space?",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNFBGcTVEVlc4VEJ6MnI5TTlkaG5BY1N3S0p2cFVMRnVTdmtYMXU2dDdWRWdOUFVvWnBLamZYS1Y5ZHZ0YV9yRlEyOUxwdFI3dWpDSVhtbGFWRTczMWVUQTEyRmtLSFRRazFLQlViQjFkX2c2R2dZVm1hbG85eWhNVTd5NWkxZUFxM01OYWRRbk9DWWJwaHZ5TjJoRTY0MXpMbm5lVnVZdDFmM2tyYWxack9WeWUtaDhfMm94Z0JBNE0?oc=5",
-      "domain": "www.theguardian.com",
-      "publisher": "The Guardian",
-      "publisher_url": "https://www.theguardian.com",
-      "language": "",
-      "seendate": "20261126T190400Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Update 377 – IAEA Director General Statement on Situation in Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMWx4WTZkVld2UnBHQ3FPVlFaSjJiTzVqRXM0RjJkOWxnYlM3dU9ucTFuQm5pa3FhaFRvM1hYSTNTSi10aU8tZXk0c0JBNHQ2TTFtQ2RubF9QZzczOGpTdDBWOWhxOFJSSkVwb0Z4VHcwR0hDbVA2M25sVTNqYmxsZkpqS2xhVlNHQUpxamRVeXNVQXVnQnJDaXNzZ0FDNmdkVnFzbE5COUVyOXVtZnV3Rw?oc=5",
-      "domain": "www.iaea.org",
-      "publisher": "International Atomic Energy Agency",
-      "publisher_url": "http://www.iaea.org",
-      "language": "",
-      "seendate": "20261126T160000Z",
       "source": "GoogleNews"
     },
     {
@@ -612,6 +622,26 @@
       "source": "GoogleNews"
     },
     {
+      "title": "Trump’s Saudi nuclear deal faces Senate test as Democrats challenge safeguards",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOX0xpbVlvMEQtVUhLelBYRmQ1QWw1RHNMcjlRekhIaHpFYmxsVy1MSWx5RzZVdkVrUUVxajBXak9LbkVBYmUzNmJvbXBxS205MmItLW1oaUtKakRmMVh5QTlBelpvUzJUak9vVjZkR2VOVjZ1QURRa1VyM0FXb3JGUEt1NWVzeVFzQ0VjNU05MWdERnpWZ1hoNVFfMVRvWlFFc2k1c0hZaTBwdDZ4bXRJdlJVSjFKa1plZFVv?oc=5",
+      "domain": "www.al-monitor.com",
+      "publisher": "Al-Monitor",
+      "publisher_url": "https://www.al-monitor.com",
+      "language": "",
+      "seendate": "20261127T140236Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "IAEA seeks fresh local ceasefire for Zaporizhzhia power line repairs",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMm0zODB5WE9aekJoNFp1NTJrczBaazhKamdtejBaWjhiX2IwWll6UGo3U1lMa0lINlFUWFcwbXdlazJFcVZJeTJ5cEl3Y1RqS2lVOHFpQzgxMWZqdDR3Z240di12dHJZdnl1VEZwVWtxNzlTMGhrYldLMU9kRlh3RHkxYWNsaExlLXVXLVdTRUNPYV9Mc0duUGlOY1RRckY5SHZ6b0xyc1BtYi1z?oc=5",
+      "domain": "world-nuclear-news.org",
+      "publisher": "World Nuclear News",
+      "publisher_url": "https://world-nuclear-news.org",
+      "language": "",
+      "seendate": "20261127T154140Z",
+      "source": "GoogleNews"
+    },
+    {
       "title": "North Korea's Kim calls for nuclear arsenal expansion, says status 'will never change'",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcVVtOEFBaEl2N1ZROXozS0JYakFqTkVVdHlTVUhFcGk0OU1fSGMwUG5zNkRHeEl0QUUta2ktMWlPSVlpQUJGRENVUURNblFSdHlPNUttbTY4WmhUNGg4X19Yb2Z6Snl6UlJSNDFRZEpyWFE5Z3RjNkFmRlFfMnlHR21hNmLSAYoBQVVfeXFMUDBia2ExN3Z0S1ZkcFBycXZibmlNNktPaGxrMGtjcGlORkFUWFN1SFp1U2NSaW5WM3FWM2dkbHYxeEFGVUY5QlpvN1ZkdnN0QzBJSGplREVsNFpkWklkVllTQy05SDc0RWdWSkIwU3VxTWJpYl9PY2lDM01rTS1fcGw1Qm5BS3NINEhR?oc=5",
       "domain": "www.cnbc.com",
@@ -619,6 +649,16 @@
       "publisher_url": "https://www.cnbc.com",
       "language": "",
       "seendate": "20261126T051456Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Putin unveils new Russian nuclear-powered submarine with hypersonic weapons",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUEFxTF85S2lWaFRwVDdNdm01RDc4bjZHMUxZSC1LNnNReU1QSFV0WkMtbEIxUUQtc0Iwel9WRWhFc2xxVC1rVlJ0X0FaVl8ybTd4Z29rMEpIVzRfOXF5LW5CMmpOSGc0c0NOb2tDcWw4Vm5lc2l3d05QVmhtTnZuc05hbnBRS1ZUaWlBcjg3Z05jeFpBM0VSMTVsQzVXZ1BrbDVHbEoxd2ZaZWJqMm9hLUFpdXdBbmMw0gG-AUFVX3lxTE1Wa2J5VW5zb1pWQWFCOGMtYkV1Rzc0UVloOWhNM1NBVWp5aExXS3hCRHJsUl9iX2pCNFN6MGkzSTByMGloQUxrVnlOTUw4Nk41V3dmT1lDWXVzNG9vV2RwclV4V3VBQmVGcElOSVhXN0lRS0QxdmtZQ3Y0Tlg5UkRvM1RCYzA3Tk1Yd0xWTXBzcGppYTAxUWx4OGtoQi1xVGk2WEo0cE03X1BhM1loa0swamFQdFdIdk16NHZXR3c?oc=5",
+      "domain": "www.aljazeera.com",
+      "publisher": "Al Jazeera",
+      "publisher_url": "https://www.aljazeera.com",
+      "language": "",
+      "seendate": "20261127T204510Z",
       "source": "GoogleNews"
     },
     {
@@ -639,46 +679,6 @@
       "publisher_url": "https://www.independent.com",
       "language": "",
       "seendate": "20261127T084306Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Russian Diplomat Warns Nuclear War ‘Inching Closer’ With NATO",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdGl3LTZRNnRWRkM1aWYxN3l5aEU0OGVidUxrWE9DcGJBakpXdmU1bGZZeElxR0J3YjBLS0Y1NTBDLXZCcmoxNkFma2NoekRwNExiajhYTFFPcUVhMmhIQ0lzdlZXQVp6ZWhhSVZCeUZYS1JIYWl6VXBmenRzZzZwbTdKN18?oc=5",
-      "domain": "www.newsweek.com",
-      "publisher": "Newsweek",
-      "publisher_url": "https://www.newsweek.com",
-      "language": "",
-      "seendate": "20261127T000000Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "New approach to very low radiation doses needed, says nuclear industry",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbERmazRmN1JkblJCZGdfQnV2OEVoVWQxMjlCaFNGLUo5c1ZLSGp0UU1zTVhMcGhPTXVFelVMQXNtRDQzZnAtTEphWnNDWlY5cTlZaDVIRDhfSERUQlhUZjdhMkY2REdmUnBjT3E4OFBLVmJzSHlrZDd0eDJiankzb1BKa2FrNGRWSzBBQnNzRmkxeWpYMUxleG54bHBZZ2NjNDdoRWFIM2JhbWdNTFhyTw?oc=5",
-      "domain": "www.world-nuclear-news.org",
-      "publisher": "World Nuclear News",
-      "publisher_url": "https://www.world-nuclear-news.org",
-      "language": "",
-      "seendate": "20261126T155902Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Jared Kushner praises Putin’s ‘restraint’ with nuclear weapons",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNlVwc0xFMkx5c0JNdFZtUXBJOGxsTzRqV0pYTG1NR1Vib0pza0UyODZUQ0c4bk9pdXdKcFA0US1wR3RFdHQwRXMwYVVfVmtVbWF4bUJ4VlRSVllzNHVYLVl4MlpHR2xqRkJybWcxcjhyaHNoY0JXeE9GUExlaGl4OUUwdkJjWm4xMGt6Sk1paTRFa0x4WURibUhUT0FYczQyWW15MXRZVGNCVXFVeTAw?oc=5",
-      "domain": "www.cnn.com",
-      "publisher": "CNN",
-      "publisher_url": "https://www.cnn.com",
-      "language": "",
-      "seendate": "20261126T133600Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "How a nuclear explosion in space could damage satellites long after the blast",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNjE1YU9KU3BmS09GWTgxc05SU2dXQjlvMVotSmEtUnlzQ2RCd2gtTUxxaG5jT0lCVFZWbk96SWVsUkxXRnQxVzdVUkwyZDNUUXV5SjJwNkpYOUphcE9qSXVUaFNvYTJBQXgzamoweDZZbE5CQVpZQl9LSGlBZWhMYXRLZGRhSVRxa0tv0gGLAUFVX3lxTE00VkpWMnpCUHI4UWIzSEpJdGxQWENvR3VCQmNVMlRzRWdfdnlTNHVubGtfaVo0c3Ayb0xjSFVrS2pOMy1QZjNyS05mdVdKVlV2VmlNRFBWZWhya1FoZlBDU3dkVmI3Z1pJMlc1eFlJYWxZUHVaNm4zSFNseUt5X1IyOV9kUkFJRzdYRUE?oc=5",
-      "domain": "www.dw.com",
-      "publisher": "DW.com",
-      "publisher_url": "https://www.dw.com",
-      "language": "",
-      "seendate": "20261124T083815Z",
       "source": "GoogleNews"
     }
   ],
